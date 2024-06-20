@@ -22,7 +22,7 @@ fetch('Excel/Question-Chapitre-II.json')
         question.textContent = quizData[index]['Proposition'];
         quizContainer.appendChild(question);
 
-        const trueButton = document.createElement('btn btn-success');
+        const trueButton = document.createElement('button');
         trueButton.className = "btn-success";
 
         trueButton.textContent = 'Vrai';
