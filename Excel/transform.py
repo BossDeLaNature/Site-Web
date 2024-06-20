@@ -16,12 +16,15 @@ df['Question'] = df['Question'].apply(unidecode)
 df['Proposition'] = df['Proposition'].apply(unidecode)
 
 # Convertir en JSON
-json_data = df.to_json(orient="records")
+json_data = df.to_json(orient="records",indent=4)
 
 parsed = loads(json_data)
+
+test = dumps(parsed, indent=4, separators=(',', ': '))
+test2 = loads(test)
 
 
 
 # Sauvegarder en fichier JSON
 with open('Question-Chapitre-II.json', 'w') as json_file:
-    json.dump(parsed, json_file)
+    json.dump(test2, json_file,indent=6)
