@@ -2,7 +2,7 @@ let quizData = []; // Tableau pour stocker les questions du quiz
 let currentQuestionIndex = 0; // Index de la question actuelle
 
 // Charger les données JSON
-fetch('Question-Chapitre-II.json')
+fetch('Excel/Question-Chapitre-II.json')
     .then(response => response.json())
     .then(data => {
         quizData = data;
