@@ -29,7 +29,7 @@ fetch('Excel/Question-Chapitre-II.json')
         trueButton.addEventListener('click', () => checkAnswer(true, quizData[index]['Reponse'], quizData[index]['Justification']));
         quizContainer.appendChild(trueButton);
 
-        const falseButton = document.createElement('btn btn-danger');
+        const falseButton = document.createElement('button');
 
         falseButton.textContent = 'Faux';
         falseButton.addEventListener('click', () => checkAnswer(false, quizData[index]['Reponse'], quizData[index]['Justification']));
