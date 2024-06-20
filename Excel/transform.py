@@ -6,6 +6,7 @@ Created on Thu Jun 20 12:06:47 2024
 """
 
 import pandas as pd
+from json import loads, dumps
 import json
 from unidecode import unidecode
 # Charger le fichier Excel
@@ -17,6 +18,10 @@ df['Proposition'] = df['Proposition'].apply(unidecode)
 # Convertir en JSON
 json_data = df.to_json(orient="records")
 
+parsed = loads(json_data)
+
+
+
 # Sauvegarder en fichier JSON
 with open('Question-Chapitre-II.json', 'w') as json_file:
-    json.dump(json_data, json_file)
+    json.dump(parsed, json_file)
