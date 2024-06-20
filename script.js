@@ -36,7 +36,7 @@ fetch('Excel/Question-Chapitre-II.json')
 
     // Fonction pour vérifier la réponse
     function checkAnswer(selectedAnswer, correctAnswer, justification) {
-        if (selectedAnswer === (correctAnswer.toLowerCase() === 'vrai')) {
+        if (selectedAnswer === correctAnswer) {
             alert(`Correct! Justification: ${justification}`);
         } else {
             alert(`Faux! Justification: ${justification}`);
