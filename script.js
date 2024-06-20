@@ -25,11 +25,9 @@ fetch('Excel/Question-Chapitre-II.json')
 
         const trueButton = document.getElementById('btn-vrai');
         trueButton.addEventListener('click', () => checkAnswer(true, quizData[index]['Reponse'], quizData[index]['Justification']));
-        quizContainer.appendChild(trueButton);
 
         const falseButton = document.getElementById('btn-faux');
         falseButton.addEventListener('click', () => checkAnswer(false, quizData[index]['Reponse'], quizData[index]['Justification']));
-        quizContainer.appendChild(falseButton);
     }
 
     // Fonction pour vérifier la réponse
