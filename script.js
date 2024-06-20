@@ -22,15 +22,14 @@ fetch('Excel/Question-Chapitre-II.json')
         question.textContent = quizData[index]['Proposition'];
         quizContainer.appendChild(question);
 
-        const trueButton = document.createElement('button');
-        trueButton.className = "btn btn-success";
+        const trueButton = document.createElement('btn btn-success');
+        trueButton.className = "btn-success";
 
         trueButton.textContent = 'Vrai';
         trueButton.addEventListener('click', () => checkAnswer(true, quizData[index]['Reponse'], quizData[index]['Justification']));
         quizContainer.appendChild(trueButton);
 
-        const falseButton = document.createElement('button');
-        trueButton.className = "btn btn-success";
+        const falseButton = document.createElement('btn btn-danger');
 
         falseButton.textContent = 'Faux';
         falseButton.addEventListener('click', () => checkAnswer(false, quizData[index]['Reponse'], quizData[index]['Justification']));
