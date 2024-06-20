@@ -1,6 +1,7 @@
 let quizData = []; // Tableau pour stocker les questions du quiz
 let currentQuestionIndex = 0; // Index de la question actuelle
-
+const TrueButton = document.getElementById('btn-vrai');
+const FalseButton = document.getElementById('btn-faux');
 // Charger les données JSON
 fetch('Excel/Question-Chapitre-II.json')
     .then(response => response.json())
@@ -23,11 +24,13 @@ fetch('Excel/Question-Chapitre-II.json')
         question.textContent = quizData[index]['Proposition'];
         quizContainer.appendChild(question);
 
-        const trueButton = document.getElementById('btn-vrai');
+        const trueButton = structuredClone(TrueButton);
         trueButton.addEventListener('click', () => checkAnswer(true, quizData[index]['Reponse'], quizData[index]['Justification']));
+        quizContainer.appendChild(trueButton);
 
-        const falseButton = document.getElementById('btn-faux');
+        const falseButton = structuredClone(FalseButton);
         falseButton.addEventListener('click', () => checkAnswer(false, quizData[index]['Reponse'], quizData[index]['Justification']));
+        quizContainer.appendChild(falseButton);
     }
 
     // Fonction pour vérifier la réponse
