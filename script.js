@@ -1,26 +1,8 @@
- // Tableau pour stocker les questions du quiz
+let quizData = []; // Tableau pour stocker les questions du quiz
 let currentQuestionIndex = 0; // Index de la question actuelle
-let quizData = [];
-const a = [
-  {
-    "name": "Molecule Man",
-    "age": 29,
-    "secretIdentity": "Dan Jukes",
-    "powers": ["Radiation resistance", "Turning tiny", "Radiation blast"]
-  },
-  {
-    "name": "Madame Uppercut",
-    "age": 39,
-    "secretIdentity": "Jane Wilson",
-    "powers": [
-      "Million tonne punch",
-      "Damage resistance",
-      "Superhuman reflexes"
-    ]
-  }
-]
 
-fetch('pute.json')
+// Charger les données JSON
+fetch('chemin/vers/votre_fichier.json')
     .then(response => response.json())
     .then(data => {
         quizData = data;
@@ -70,12 +52,9 @@ fetch('pute.json')
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
-
-
         if (currentQuestionIndex < quizData.length) {
-
             showQuestion(currentQuestionIndex);
         } else {
-            alert(quizData[1]['powers']);
+            alert('Quiz terminé!');
         }
     });
