@@ -1,56 +1,56 @@
 [
       {
             "Numero": 1,
-            "Question": "Proposition relative aux enzymes : ",
+            "Question": "Proposition relative aux enzymes",
             "Proposition": "Les ribozymes sont des ARN a activite catalytique.",
             "Reponse": true,
             "Justification": "Les ribozymes sont des molecules d'ARN capables de catalyser des reactions biochimiques, contrairement aux enzymes classiques qui sont des proteines."
       },
       {
             "Numero": 2,
-            "Question": "Proposition relative aux enzymes : ",
+            "Question": "Proposition relative aux enzymes",
             "Proposition": "Une reaction enzymatique est d'autant plus rapide que la valeur DGo est negative.",
             "Reponse": false,
             "Justification": "La vitesse d'une reaction enzymatique n'est pas directement determinee par la valeur de DGdeg (variation d'energie libre standard), mais plutot par l'energie d'activation de la reaction. Une enzyme accelere une reaction en abaissant cette energie d'activation, facilitant ainsi la transformation des substrats en produits. La valeur de DGdeg indique si une reaction est spontanee (DGdeg negatif) ou non (DGdeg positif), mais ne determine pas la vitesse de la reaction."
       },
       {
             "Numero": 3,
-            "Question": "Proposition relative aux enzymes : ",
+            "Question": "Proposition relative aux enzymes",
             "Proposition": "Le site actif d'une enzyme correspond a la region ou se fixe(nt) le(s) substrat(s).",
             "Reponse": true,
             "Justification": "Le site actif d'une enzyme est la region specifique ou les substrats se lient. C'est egalement l'endroit ou la reaction catalytique a lieu. Le site actif est forme par une configuration particuliere d'acides amines, qui cree une structure tridimensionnelle unique permettant l'interaction specifique avec les substrats."
       },
       {
             "Numero": 4,
-            "Question": "Proposition relative aux enzymes : ",
+            "Question": "Proposition relative aux enzymes",
             "Proposition": "Les coenzymes sont des petites molecules organiques de nature non proteique",
             "Reponse": true,
             "Justification": "Les coenzymes sont en effet des petites molecules organiques non proteiques qui assistent les enzymes dans les reactions biochimiques. Elles jouent souvent un role crucial en transferant des groupes chimiques entre les differentes molecules au cours des reactions enzymatiques. Des exemples de coenzymes incluent le NAD+ (nicotinamide adenine dinucleotide), la coenzyme A et le FAD (flavine adenine dinucleotide)."
       },
       {
             "Numero": 5,
-            "Question": "Proposition relative aux interactions cellulaires : ",
+            "Question": "Proposition relative aux interactions cellulaires",
             "Proposition": "Les recepteurs aux hormones peptidiques sont generalement membranaires.",
             "Reponse": true,
             "Justification": "Les recepteurs aux hormones peptidiques sont generalement situes sur la membrane cellulaire. Les hormones peptidiques sont des molecules hydrophiles, ce qui les empeche de traverser facilement la membrane plasmique. Par consequent, elles se lient a des recepteurs situes a la surface des cellules cibles, declenchant ainsi une cascade de signalisation intracellulaire."
       },
       {
             "Numero": 6,
-            "Question": "Proposition relative aux interactions cellulaires : ",
+            "Question": "Proposition relative aux interactions cellulaires",
             "Proposition": "Les recepteurs nucleaires sont des facteurs de transcription.",
             "Reponse": true,
             "Justification": "Les recepteurs nucleaires sont des facteurs de transcription. Ils sont generalement situes dans le cytoplasme ou le noyau de la cellule et, lorsqu'ils se lient a leurs ligands (comme les hormones steroides, les hormones thyroidiennes, et d'autres molecules lipophiles), ils se deplacent vers le noyau ou ils se lient a l'ADN et regulent l'expression des genes specifiques."
       },
       {
             "Numero": 7,
-            "Question": "Proposition relative aux interactions cellulaires : ",
+            "Question": "Proposition relative aux interactions cellulaires",
             "Proposition": "Les reponses nucleaires des hormones passent par des modifications de l'expression de genes specifiques.",
             "Reponse": true,
             "Justification": "Les reponses nucleaires des hormones impliquent des modifications de l'expression de genes specifiques. Lorsque des hormones comme les hormones steroides ou thyroidiennes se lient a leurs recepteurs nucleaires, ces complexes hormone-recepteur se lient a l'ADN et regulent la transcription de genes cibles. Cela entraine des changements dans la production de proteines specifiques, affectant ainsi divers processus cellulaires et physiologiques."
       },
       {
             "Numero": 8,
-            "Question": "Proposition relative aux interactions cellulaires : ",
+            "Question": "Proposition relative aux interactions cellulaires",
             "Proposition": "Les voies de transduction situees en aval des recepteurs membranaires aboutissent a  des reponses exclusivement cytoplasmiques.",
             "Reponse": false,
             "Justification": "Les voies de transduction situees en aval des recepteurs membranaires peuvent aboutir a des reponses a la fois cytoplasmiques et nucleaires. Lorsqu'un recepteur membranaire est active par un ligand, il peut declencher une cascade de signalisation intracellulaire qui peut modifier l'activite des proteines dans le cytoplasme (reponses cytoplasmiques) ou entrainer la modulation de l'expression des genes dans le noyau (reponses nucleaires). Par exemple, certaines voies de signalisation activent des facteurs de transcription qui se deplacent vers le noyau pour reguler l'expression des genes."
