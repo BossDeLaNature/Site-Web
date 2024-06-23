@@ -96,7 +96,7 @@ document.getElementById("dropdownMenuButton").addEventListener('click', () => {
   const menuContainer = document.getElementById('menu-container');
   menuContainer.innerHTML = '';
   Menuderoulant();
-
+ 
 }
 
     // Gérer le bouton "Next Question"
