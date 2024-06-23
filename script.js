@@ -13,15 +13,6 @@ fetch('Excel/Question-Chapitre-II.json')
       currentQuestionIndex = pas;
       showQuestion(pas);
     }
-    //Menu déroulant
-    for (let pas = 0; pas < quizData.length; pas++) {
-      const quizContainer = document.getElementById('menu-container');
-      const choixButton = document.createElement('button');
-      choixButton.className = 'btn btn-success'
-      choixButton.textContent = 'Question '.concat(quizData[pas]['Numero'].toString());
-      choixButton.addEventListener('click', () => Ajoutquestion(pas));
-      quizContainer.appendChild(choixButton);
-}
 
 
     // Fonction pour afficher une question
@@ -77,6 +68,16 @@ fetch('Excel/Question-Chapitre-II.json')
         }
     }
 
+
+    //Menu déroulant
+    for (let pas = 0; pas < quizData.length; pas++) {
+      const quizContainer = document.getElementById('menu-container');
+      const choixButton = document.createElement('button');
+      choixButton.className = 'btn btn-success'
+      choixButton.textContent = 'Question '.concat(quizData[pas]['Numero'].toString());
+      choixButton.addEventListener('click', () => Ajoutquestion(pas));
+      quizContainer.appendChild(choixButton);
+}
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
