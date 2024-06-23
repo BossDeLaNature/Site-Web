@@ -84,7 +84,7 @@ fetch('Excel/Question-Chapitre-II.json')
       }
     }
 
-    document.addEventListener("DOMContentLoaded", Menuderoulant())
+    window.addEventListener('load', Menuderoulant())
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
