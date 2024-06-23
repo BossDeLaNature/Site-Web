@@ -51,6 +51,9 @@ fetch('Excel/Question-Chapitre-II.json')
       modalContainer.innerHTML = '<img src="'.concat(imagesource,'" class="img-fluid" alt="Responsive image"/>');
       const reponseContainer = document.getElementById('reponse-container');
       reponseContainer.innerHTML = '';
+      const refContainer = document.getElementById(ref-container);
+      refContainer.innerHTML = quizData[currentQuestionIndex]['Reference'];
+
 
         if (selectedAnswer === correctAnswer) {
           var audio = new Audio('media/sound/Correct.mp3');
@@ -96,6 +99,9 @@ fetch('Excel/Question-Chapitre-II.json')
       modalContainer.innerHTML = ''; // Vider le contenu précédent
       const reponseContainer = document.getElementById('reponse-container');
       reponseContainer.innerHTML = '';
+      const refContainer = document.getElementById(ref-container);
+      refContainer.innerHTML = '';
+
         currentQuestionIndex++;
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
