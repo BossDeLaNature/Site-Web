@@ -97,7 +97,7 @@ fetch('Excel/Question-Chapitre-II.json')
       menuContainer.innerHTML = '';
       Menuderoulant();
 
-    };
+    });
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
