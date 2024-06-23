@@ -51,7 +51,7 @@ fetch('Excel/Question-Chapitre-II.json')
       modalContainer.innerHTML = '<img src="'.concat(imagesource,'" class="img-fluid" alt="Responsive image"/>');
       const reponseContainer = document.getElementById('reponse-container');
       reponseContainer.innerHTML = '';
-      const refContainer = document.getElementById(ref-container);
+      const refContainer = document.getElementById('ref-container');
       refContainer.innerHTML = quizData[currentQuestionIndex]['Reference'];
 
 
@@ -94,7 +94,7 @@ fetch('Excel/Question-Chapitre-II.json')
       modalContainer.innerHTML = ''; // Vider le contenu précédent
       const reponseContainer = document.getElementById('reponse-container');
       reponseContainer.innerHTML = '';
-      const refContainer = document.getElementById(ref-container);
+      const refContainer = document.getElementById('ref-container');
       refContainer.innerHTML = '';
 
         currentQuestionIndex++;
@@ -113,7 +113,12 @@ fetch('Excel/Question-Chapitre-II.json')
       modalContainer.innerHTML = ''; // Vider le contenu précédent
       const reponseContainer = document.getElementById('reponse-container');
       reponseContainer.innerHTML = '';
+      const refContainer = document.getElementById('ref-container');
+      refContainer.innerHTML = '';
+      if (currentQuestionIndex === 0){}
+      else {
         currentQuestionIndex--;
+      }
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
         } else {
