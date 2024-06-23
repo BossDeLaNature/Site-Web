@@ -92,7 +92,6 @@ fetch('Excel/Question-Chapitre-II.json')
       }
     }
 
-    window.addEventListener('load', Menuderoulant())
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
@@ -107,8 +106,8 @@ fetch('Excel/Question-Chapitre-II.json')
       const justifContainer = document.getElementById('justif-container');
       justifContainer.innerHTML = '';
 
-        currentQuestionIndex++;
-        if (currentQuestionIndex < quizData.length) {
+        if (currentQuestionIndex+1 < quizData.length) {
+          currentQuestionIndex++;
             showQuestion(currentQuestionIndex);
         } else {
             alert('Quiz terminé!');
@@ -131,4 +130,8 @@ fetch('Excel/Question-Chapitre-II.json')
       else {
         currentQuestionIndex--;
       }
+      if (currentQuestionIndex < quizData.length) {
+          showQuestion(currentQuestionIndex);
+      }
+
     });
