@@ -37,7 +37,7 @@ fetch('Excel/Question-Chapitre-II.json')
 
     // Fonction pour vérifier la réponse
     function checkAnswer(selectedAnswer, correctAnswer, justification) {
-      let numeroquestion = num.toString(quizData[currentQuestionIndex]['Numero']);
+      let numeroquestion = numeroquestion.toString(quizData[currentQuestionIndex]['Numero']);
       let imagesource = 'media/dias/'.concat(numeroquestion, '.png')
       const imageContainer = document.getElementById('image-container');
       imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="media/dias/1.png" class="w-100" alt="Responsive image"/> </button>';
