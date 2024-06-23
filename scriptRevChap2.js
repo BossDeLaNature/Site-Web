@@ -90,14 +90,14 @@ fetch('Excel/Question-Chapitre-II.json')
         choixButton.addEventListener('click', () => Ajoutquestion(pas));
         menuContainer.appendChild(choixButton);
       }
-    }
+    };
 
     document.getElementById("dropdownMenuButton").addEventListener('click', () => {
       const menuContainer = document.getElementById('menu-container');
       menuContainer.innerHTML = '';
       Menuderoulant();
 
-    }
+    };
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
