@@ -70,15 +70,19 @@ fetch('Excel/Question-Chapitre-II.json')
 
 
     //Menu déroulant
-    let choix = 0;
-    for (choix; choix < quizData.length; choix++) {
-      const quizContainer = document.getElementById('menu-container');
-      const choixButton = document.createElement('button');
-      choixButton.className = 'btn btn-success'
-      choixButton.textContent = 'Question '.concat(quizData[choix]['Numero'].toString());
-      choixButton.addEventListener('click', () => Ajoutquestion(choix));
-      quizContainer.appendChild(choixButton);
-}
+    function Menuderoulant(){
+      let diviseur = 0;
+      for (diviseur; diviseur < Math.floor(quizData.length-1/10)+1;diviseur++){
+        for (let pas = 0; pas < 10; pas++) {
+          const quizContainer = document.getElementById('menu-container');
+          const choixButton = document.createElement('button');
+          choixButton.className = 'btn btn-success'
+          choixButton.textContent = 'Question '.concat(quizData[pas]['Numero'].toString());
+          choixButton.addEventListener('click', () => Ajoutquestion(pas));
+          quizContainer.appendChild(choixButton);
+        }
+      }
+    }
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
