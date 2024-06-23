@@ -14,7 +14,7 @@ fetch('Excel/Question-Chapitre-II.json')
         const quizContainer = document.getElementById('quiz-container');
         quizContainer.innerHTML = ''; // Vider le contenu précédent
 
-        const questionNumber = document.createElement('h3');
+        const questionNumber = document.createElement('h5');
         questionNumber.textContent = `Question ${quizData[index]['Numero']} (${quizData[index]['Question']})`;
         quizContainer.appendChild(questionNumber);
 
@@ -43,10 +43,13 @@ fetch('Excel/Question-Chapitre-II.json')
       imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="'.concat(imagesource,'" class="w-100" alt="Responsive image"/> </button>');
       const modalContainer = document.getElementById('modal-container');
       modalContainer.innerHTML = '<img src="'.concat(imagesource,'" class="img-fluid" alt="Responsive image"/>');
+      const reponseContainer = document.getElementById('reponse-container');
+      reponseContainer.innerHTML = '';
+
         if (selectedAnswer === correctAnswer) {
-            alert(`Correct! Justification: ${justification}`);
+          reponseContainer.appendChild(`Correct :) Justification : ${justification}`)
         } else {
-            alert(`Faux! Justification: ${justification}`);
+            reponseContainer.appendChild(`Dommage :( Justification : ${justification}`);
         }
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
