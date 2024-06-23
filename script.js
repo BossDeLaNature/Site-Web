@@ -47,9 +47,10 @@ fetch('Excel/Question-Chapitre-II.json')
       reponseContainer.innerHTML = '';
 
         if (selectedAnswer === correctAnswer) {
-          reponseContainer.appendChild(`Correct :) Justification : ${justification}`)
+
+          reponseContainer.innerHTML = 'Correct :) Justification : '.concat(justification);
         } else {
-            reponseContainer.appendChild(`Dommage :( Justification : ${justification}`);
+          reponseContainer.innerHTML = 'Dommage :( Justification : '.concat(justification);
         }
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
