@@ -38,8 +38,9 @@ fetch('Excel/Question-Chapitre-II.json')
     // Fonction pour vérifier la réponse
     function checkAnswer(selectedAnswer, correctAnswer, justification) {
       const imageContainer = document.getElementById('image-container');
-      imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="media/dias/1.png" class="w-100" alt="Responsive image"/> </button>'; // Ajouter image 
-
+      var imagejavascript = document.createElement("img");
+      imagejavascript.src = "media/dias/1.png";
+      imageContainer.appendChild(imagejavascript);
         if (selectedAnswer === correctAnswer) {
             alert(`Correct! Justification: ${justification}`);
         } else {
@@ -55,6 +56,9 @@ fetch('Excel/Question-Chapitre-II.json')
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
+      const imageContainer = document.getElementById('image-container');
+      imageContainer.innerHTML = ''; // Vider le contenu précédent
+
         currentQuestionIndex++;
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
