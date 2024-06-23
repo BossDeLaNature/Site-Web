@@ -73,16 +73,20 @@ fetch('Excel/Question-Chapitre-II.json')
     function Menuderoulant(){
       let diviseur = 0;
       for (diviseur; diviseur < Math.floor(quizData.length-1/10)+1;diviseur++){
+        const ligne = document.createElement('row');
         for (let pas = 0; pas < 10; pas++) {
           const quizContainer = document.getElementById('menu-container');
           const choixButton = document.createElement('button');
           choixButton.className = 'btn btn-success'
           choixButton.textContent = 'Question '.concat(quizData[pas]['Numero'].toString());
           choixButton.addEventListener('click', () => Ajoutquestion(pas));
-          quizContainer.appendChild(choixButton);
+          ligne.appendChild(choixButton);
         }
+        quizContainer.appendChild(ligne);
       }
     }
+
+    document.addEventListener("DOMContentLoaded", Menuderoulant())
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
