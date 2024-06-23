@@ -47,9 +47,12 @@ fetch('Excel/Question-Chapitre-II.json')
       reponseContainer.innerHTML = '';
 
         if (selectedAnswer === correctAnswer) {
-
+          var audio = new Audio('media/sound/Correct.mp3');
+          audio.play();
           reponseContainer.innerHTML = 'Correct :) Justification : '.concat(justification);
         } else {
+          var audio = new Audio('media/sound/Wrong.mp3');
+          audio.play();
           reponseContainer.innerHTML = 'Dommage :( Justification : '.concat(justification);
         }
         if (currentQuestionIndex < quizData.length) {
