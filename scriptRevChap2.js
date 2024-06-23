@@ -131,9 +131,4 @@ fetch('Excel/Question-Chapitre-II.json')
       else {
         currentQuestionIndex--;
       }
-        if (currentQuestionIndex < quizData.length) {
-            showQuestion(currentQuestionIndex);
-        } else {
-            alert('Quiz terminé!');
-        }
     });
