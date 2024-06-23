@@ -37,12 +37,20 @@ fetch('Excel/Question-Chapitre-II.json')
 
     // Fonction pour vérifier la réponse
     function checkAnswer(selectedAnswer, correctAnswer, justification) {
+      const imageContainer = document.getElementById('imageContainer');
+      imageContainer.innerHTML = '<button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo">
+                    <img
+                      src="media/dias/1.png"
+                      class="w-100" alt="Responsive image"
+                    />
+                  ';
+
+
         if (selectedAnswer === correctAnswer) {
             alert(`Correct! Justification: ${justification}`);
         } else {
             alert(`Faux! Justification: ${justification}`);
         }
-        currentQuestionIndex++;
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
         } else {
@@ -53,6 +61,9 @@ fetch('Excel/Question-Chapitre-II.json')
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
+        currentQuestionIndex++;
+        effaceImage = document.getElementById('imageContainer');
+        effaceImage.innerHTML = '';
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
         } else {
