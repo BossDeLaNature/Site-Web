@@ -70,12 +70,13 @@ fetch('Excel/Question-Chapitre-II.json')
 
 
     //Menu déroulant
-    for (let pas = 0; pas < quizData.length; pas++) {
+    let choix = 0;
+    for (choix; choix < quizData.length; choix++) {
       const quizContainer = document.getElementById('menu-container');
       const choixButton = document.createElement('button');
       choixButton.className = 'btn btn-success'
-      choixButton.textContent = 'Question '.concat(quizData[pas]['Numero'].toString());
-      choixButton.addEventListener('click', () => Ajoutquestion(pas));
+      choixButton.textContent = 'Question '.concat(quizData[choix]['Numero'].toString());
+      choixButton.addEventListener('click', () => Ajoutquestion(choix));
       quizContainer.appendChild(choixButton);
 }
 
