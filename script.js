@@ -40,7 +40,7 @@ fetch('Excel/Question-Chapitre-II.json')
       let numeroquestion = num.toString(quizData[currentQuestionIndex]['Numero']);
       let imagesource = 'media/dias/'.concat(numeroquestion, '.png')
       const imageContainer = document.getElementById('image-container');
-      imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="'.concat(imagesource,'class="w-100" alt="Responsive image"/> </button>');
+      imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="media/dias/1.png" class="w-100" alt="Responsive image"/> </button>';
         if (selectedAnswer === correctAnswer) {
             alert(`Correct! Justification: ${justification}`);
         } else {
