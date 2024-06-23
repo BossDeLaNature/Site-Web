@@ -9,6 +9,21 @@ fetch('Excel/Question-Chapitre-II.json')
     })
     .catch(error => console.error('Erreur:', error));
 
+    function Ajoutquestion(pas) {
+      currentQuestionIndex = pas;
+      showQuestion(pas);
+    }
+    //Menu déroulant
+    for (let pas = 0; pas < quizData.length; pas++) {
+      const quizContainer = document.getElementById('menu-container');
+      const choixButton = document.createElement('button');
+      choixButton.className = 'btn btn-success'
+      choixButton.textContent = 'Question '.concat(quizData[pas]['Numero'].toString());
+      choixButton.addEventListener('click', () => Ajoutquestion(pas));
+      quizContainer.appendChild(choixButton);
+}
+
+
     // Fonction pour afficher une question
     function showQuestion(index) {
         const quizContainer = document.getElementById('quiz-container');
@@ -69,7 +84,25 @@ fetch('Excel/Question-Chapitre-II.json')
       imageContainer.innerHTML = ''; // Vider le contenu précédent
       const modalContainer = document.getElementById('modal-container');
       modalContainer.innerHTML = ''; // Vider le contenu précédent
+      const reponseContainer = document.getElementById('reponse-container');
+      reponseContainer.innerHTML = '';
         currentQuestionIndex++;
+        if (currentQuestionIndex < quizData.length) {
+            showQuestion(currentQuestionIndex);
+        } else {
+            alert('Quiz terminé!');
+        }
+    });
+
+    // Gérer le bouton "Previous Question"
+    document.getElementById('previous-question').addEventListener('click', () => {
+      const imageContainer = document.getElementById('image-container');
+      imageContainer.innerHTML = ''; // Vider le contenu précédent
+      const modalContainer = document.getElementById('modal-container');
+      modalContainer.innerHTML = ''; // Vider le contenu précédent
+      const reponseContainer = document.getElementById('reponse-container');
+      reponseContainer.innerHTML = '';
+        currentQuestionIndex--;
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
         } else {
