@@ -51,6 +51,8 @@ fetch('Excel/Question-Chapitre-II.json')
       modalContainer.innerHTML = '<img src="'.concat(imagesource,'" class="img-fluid" alt="Responsive image"/>');
       const reponseContainer = document.getElementById('reponse-container');
       reponseContainer.innerHTML = '';
+      const justifContainer = document.getElementById('justif-container');
+      justifContainer.innerHTML = '';
       const refContainer = document.getElementById('ref-container');
       refContainer.innerHTML = quizData[currentQuestionIndex]['Reference'];
 
@@ -58,11 +60,17 @@ fetch('Excel/Question-Chapitre-II.json')
         if (selectedAnswer === correctAnswer) {
           var audio = new Audio('media/sound/Correct.mp3');
           audio.play();
-          reponseContainer.innerHTML = 'Correct :) Justification : '.concat(justification);
+          const yihaa = document.createElement('h3');
+          yihaa.textContent = 'Correct :)';
+          reponseContainer.appendChild(yihaa);
+          justifContainer.innerHTML = justification;
         } else {
           var audio = new Audio('media/sound/Wrong.mp3');
           audio.play();
-          reponseContainer.innerHTML = 'Dommage :( Justification : '.concat(justification);
+          const yihaa = document.createElement('h3');
+          yihaa.textContent = 'Dommage :()';
+          reponseContainer.appendChild(yihaa);
+          justifContainer.innerHTML = justification;
         }
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
@@ -96,6 +104,8 @@ fetch('Excel/Question-Chapitre-II.json')
       reponseContainer.innerHTML = '';
       const refContainer = document.getElementById('ref-container');
       refContainer.innerHTML = '';
+      const justifContainer = document.getElementById('justif-container');
+      justifContainer.innerHTML = '';
 
         currentQuestionIndex++;
         if (currentQuestionIndex < quizData.length) {
@@ -115,6 +125,8 @@ fetch('Excel/Question-Chapitre-II.json')
       reponseContainer.innerHTML = '';
       const refContainer = document.getElementById('ref-container');
       refContainer.innerHTML = '';
+      const justifContainer = document.getElementById('justif-container');
+      justifContainer.innerHTML = '';
       if (currentQuestionIndex === 0){}
       else {
         currentQuestionIndex--;
