@@ -38,9 +38,7 @@ fetch('Excel/Question-Chapitre-II.json')
     // Fonction pour vérifier la réponse
     function checkAnswer(selectedAnswer, correctAnswer, justification) {
       const imageContainer = document.getElementById('image-container');
-      var imagejavascript = document.createElement("img");
-      imagejavascript.src = "media/dias/1.png";
-      imageContainer.appendChild(imagejavascript);
+      imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="media/dias/1.png" class="w-100" alt="Responsive image"/> </button>';
         if (selectedAnswer === correctAnswer) {
             alert(`Correct! Justification: ${justification}`);
         } else {
