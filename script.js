@@ -41,6 +41,8 @@ fetch('Excel/Question-Chapitre-II.json')
       let imagesource = 'media/dias/'.concat(numeroquestion, '.png')
       const imageContainer = document.getElementById('image-container');
       imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="'.concat(imagesource,'" class="w-100" alt="Responsive image"/> </button>');
+      const modalContainer = document.getElementById('modal-container');
+      modalContainer.innerHTML = '<img src="'.concat(imagesource,'" class="img-fluid" alt="Responsive image"/>');
         if (selectedAnswer === correctAnswer) {
             alert(`Correct! Justification: ${justification}`);
         } else {
@@ -58,7 +60,8 @@ fetch('Excel/Question-Chapitre-II.json')
     document.getElementById('next-question').addEventListener('click', () => {
       const imageContainer = document.getElementById('image-container');
       imageContainer.innerHTML = ''; // Vider le contenu précédent
-
+      const modalContainer = document.getElementById('modal-container');
+      modalContainer.innerHTML = ''; // Vider le contenu précédent
         currentQuestionIndex++;
         if (currentQuestionIndex < quizData.length) {
             showQuestion(currentQuestionIndex);
