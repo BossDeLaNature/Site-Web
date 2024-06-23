@@ -92,6 +92,9 @@ fetch('Excel/Question-Chapitre-II.json')
       }
     }
 
+window.onload =  Menuderoulant();
+document.onload = Menuderoulant();
+
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
       const imageContainer = document.getElementById('image-container');
