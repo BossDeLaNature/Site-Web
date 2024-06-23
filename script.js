@@ -88,6 +88,7 @@ fetch('Excel/Question-Chapitre-II.json')
         quizContainer.appendChild(ligne);
       }
       for (let pas = 0; pas <quizData.length%10 ; pas++) {
+        const ligne = document.createElement('row');
         const quizContainer = document.getElementById('menu-container');
         const choixButton = document.createElement('button');
         choixButton.className = 'btn btn-success'
