@@ -92,8 +92,12 @@ fetch('Excel/Question-Chapitre-II.json')
       }
     }
 
-window.onload =  Menuderoulant();
-document.onload = Menuderoulant();
+document.getElementById("dropdownMenuButton").addEventListener('click', () => {
+  const menuContainer = document.getElementById('menu-container');
+  menuContainer.innerHTML = '';
+  Menuderoulant();
+
+}
 
     // Gérer le bouton "Next Question"
     document.getElementById('next-question').addEventListener('click', () => {
