@@ -10,7 +10,7 @@ from json import loads, dumps
 import json
 from unidecode import unidecode
 # Charger le fichier Excel
-df = pd.read_excel('Question-Chapitre-II.xlsx')
+df = pd.read_excel('Secret.xlsx')
 df['Justification'] = df['Justification'].apply(unidecode)
 df['Question'] = df['Question'].apply(unidecode)
 df['Proposition'] = df['Proposition'].apply(unidecode)
@@ -26,5 +26,5 @@ test2 = loads(test)
 
 
 # Sauvegarder en fichier JSON
-with open('Question-Chapitre-II.json', 'w') as json_file:
+with open('Secret.json', 'w') as json_file:
     json.dump(test2, json_file,indent=6)
