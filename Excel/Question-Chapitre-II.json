@@ -21,7 +21,7 @@
             "Proposition": "Le site actif d'une enzyme correspond a la region ou se fixe(nt) le(s) substrat(s).",
             "Reponse": true,
             "Justification": "Le site actif d'une enzyme est la region specifique ou les substrats se lient. C'est egalement l'endroit ou la reaction catalytique a lieu. Le site actif est forme par une configuration particuliere d'acides amines, qui cree une structure tridimensionnelle unique permettant l'interaction specifique avec les substrats.",
-            "Reference": "Dia 456 du chapitre II"
+            "Reference": "Dia 447 du chapitre II"
       },
       {
             "Numero": 4,
@@ -29,7 +29,7 @@
             "Proposition": "Les coenzymes sont des petites molecules organiques de nature non proteique",
             "Reponse": true,
             "Justification": "Les coenzymes sont en effet des petites molecules organiques non proteiques qui assistent les enzymes dans les reactions biochimiques. Elles jouent souvent un role crucial en transferant des groupes chimiques entre les differentes molecules au cours des reactions enzymatiques. Des exemples de coenzymes incluent le NAD+ (nicotinamide adenine dinucleotide), la coenzyme A et le FAD (flavine adenine dinucleotide).",
-            "Reference": "Dia 456 du chapitre II"
+            "Reference": "Dia 455 du chapitre II"
       },
       {
             "Numero": 5,
@@ -37,7 +37,7 @@
             "Proposition": "Les recepteurs aux hormones peptidiques sont generalement membranaires.",
             "Reponse": true,
             "Justification": "Les recepteurs aux hormones peptidiques sont generalement situes sur la membrane cellulaire. Les hormones peptidiques sont des molecules hydrophiles, ce qui les empeche de traverser facilement la membrane plasmique. Par consequent, elles se lient a des recepteurs situes a la surface des cellules cibles, declenchant ainsi une cascade de signalisation intracellulaire.",
-            "Reference": "Dia 456 du chapitre II"
+            "Reference": "Dia 346 du chapitre II"
       },
       {
             "Numero": 6,
@@ -45,7 +45,7 @@
             "Proposition": "Les recepteurs nucleaires sont des facteurs de transcription.",
             "Reponse": true,
             "Justification": "Les recepteurs nucleaires sont des facteurs de transcription. Ils sont generalement situes dans le cytoplasme ou le noyau de la cellule et, lorsqu'ils se lient a leurs ligands (comme les hormones steroides, les hormones thyroidiennes, et d'autres molecules lipophiles), ils se deplacent vers le noyau ou ils se lient a l'ADN et regulent l'expression des genes specifiques.",
-            "Reference": "Dia 456 du chapitre II"
+            "Reference": "Dia 347 du chapitre II"
       },
       {
             "Numero": 7,
@@ -53,7 +53,7 @@
             "Proposition": "Les reponses nucleaires des hormones passent par des modifications de l'expression de genes specifiques.",
             "Reponse": true,
             "Justification": "Les reponses nucleaires des hormones impliquent des modifications de l'expression de genes specifiques. Lorsque des hormones comme les hormones steroides ou thyroidiennes se lient a leurs recepteurs nucleaires, ces complexes hormone-recepteur se lient a l'ADN et regulent la transcription de genes cibles. Cela entraine des changements dans la production de proteines specifiques, affectant ainsi divers processus cellulaires et physiologiques.",
-            "Reference": "Dia 456 du chapitre II"
+            "Reference": "Dia 347 du chapitre II"
       },
       {
             "Numero": 8,
@@ -61,6 +61,262 @@
             "Proposition": "Les voies de transduction situees en aval des recepteurs membranaires aboutissent a  des reponses exclusivement cytoplasmiques.",
             "Reponse": false,
             "Justification": "Les voies de transduction situees en aval des recepteurs membranaires peuvent aboutir a des reponses a la fois cytoplasmiques et nucleaires. Lorsqu'un recepteur membranaire est active par un ligand, il peut declencher une cascade de signalisation intracellulaire qui peut modifier l'activite des proteines dans le cytoplasme (reponses cytoplasmiques) ou entrainer la modulation de l'expression des genes dans le noyau (reponses nucleaires). Par exemple, certaines voies de signalisation activent des facteurs de transcription qui se deplacent vers le noyau pour reguler l'expression des genes.",
-            "Reference": "Dia 456 du chapitre II"
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 9,
+            "Question": "propositions concernant la respiration cellulaire aerobie",
+            "Proposition": "Le transport des electrons le long de la chaine de transport met en jeu des transporteurs de plus en plus electronegatifs jusqu'au dioxygene.",
+            "Reponse": true,
+            "Justification": "Le transport des electrons le long de la chaine de transport d'electrons dans la mitochondrie implique des transporteurs successifs qui deviennent de plus en plus electronegatifs. Les electrons sont transferes de molecules ayant un potentiel redox plus faible a celles ayant un potentiel redox plus eleve. Cette sequence de transfert culmine avec la reduction de l'oxygene moleculaire (O2) en eau (H2O), car l'oxygene est le dernier accepteur d'electrons et a une tres haute electronegativite.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 10,
+            "Question": "propositions concernant la respiration cellulaire aerobie",
+            "Proposition": "La glycolyse se deroule dans le cytosol et la mitochondrie.",
+            "Reponse": false,
+            "Justification": "La glycolyse se deroule exclusivement dans le cytosol de la cellule. C'est le processus par lequel une molecule de glucose est decomposee en deux molecules de pyruvate, produisant de l'ATP et du NADH. La mitochondrie est impliquee dans les etapes ulterieures du metabolisme, telles que le cycle de Krebs (ou cycle de l'acide citrique) et la chaine de transport des electrons, mais pas dans la glycolyse elle-meme.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 11,
+            "Question": "propositions concernant la respiration cellulaire aerobie",
+            "Proposition": "Dans la chaine de transport des electrons, le passage de H+ de la matrice vers l'espace intermembranaire est un transport actif.",
+            "Reponse": true,
+            "Justification": "Dans la chaine de transport des electrons, le passage des ions hydrogene (H+) de la matrice mitochondriale vers l'espace intermembranaire est un transport actif. Ce processus est alimente par l'energie liberee lors du transfert des electrons le long de la chaine de transport des electrons. Les complexes proteiques de la chaine de transport utilisent cette energie pour pomper les protons contre leur gradient de concentration, creant ainsi un gradient electrochimique de protons a travers la membrane interne de la mitochondrie.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 12,
+            "Question": "propositions concernant la respiration cellulaire aerobie",
+            "Proposition": "La chaine de transport des electrons comporte plusieurs voies d'entree pour les electrons.",
+            "Reponse": true,
+            "Justification": "La chaine de transport des electrons comporte plusieurs voies d'entree pour les electrons. Les deux principales sources d'electrons sont le NADH et le FADH2. Le NADH transfere ses electrons au complexe I (NADH deshydrogenase), tandis que le FADH2 transfere ses electrons au complexe II (succinate deshydrogenase). Ces electrons sont ensuite transferes a travers les complexes III et IV, aboutissant a la reduction de l'oxygene en eau.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 13,
+            "Question": "propositions concernant les mitochondries",
+            "Proposition": "Les mitochondries proviennent de la fission ou de la fusion de mitochondries preexistantes.",
+            "Reponse": true,
+            "Justification": "Les mitochondries proviennent de la fission ou de la fusion de mitochondries preexistantes. Ces processus dynamiques permettent aux mitochondries de se diviser (fission) pour se multiplier en reponse aux besoins energetiques de la cellule et de se fusionner (fusion) pour melanger leurs contenus, maintenir leur fonction et reparer les dommages. Ce cycle de fission et fusion est essentiel pour la sante et la fonction des mitochondries.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 14,
+            "Question": "propositions concernant les mitochondries",
+            "Proposition": "La plupart des proteines mitochondriales sont synthetisees dans le cytosol puis importees.",
+            "Reponse": true,
+            "Justification": "La plupart des proteines mitochondriales sont synthetisees dans le cytosol puis importees dans la mitochondrie. Bien que les mitochondries possedent leur propre ADN et leur propre machinerie de synthese proteique, cela ne code que pour une petite fraction des proteines mitochondriales. La majorite des proteines necessaires au fonctionnement mitochondrial sont codees par le genome nucleaire, traduites dans le cytosol, et ensuite importees dans la mitochondrie grace a des complexes de translocation situes dans les membranes mitochondriales.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 15,
+            "Question": "propositions concernant les mitochondries",
+            "Proposition": "Les anomalies du genome mitochondrial sont frequemment a l'origine de manifestations neurologiques et musculaires.",
+            "Reponse": true,
+            "Justification": "Les anomalies du genome mitochondrial sont frequemment a l'origine de manifestations neurologiques et musculaires. Les mitochondries jouent un role crucial dans la production d'energie cellulaire sous forme d'ATP, et les tissus avec de grandes exigences energetiques, comme le cerveau et les muscles, sont particulierement vulnerables aux dysfonctionnements mitochondriaux. Les mutations dans l'ADN mitochondrial peuvent entrainer des maladies mitochondriales, qui souvent se manifestent par des symptomes neurologiques (comme des troubles du mouvement, des crises d'epilepsie, et des troubles cognitifs) et musculaires (comme la faiblesse musculaire et la myopathie).",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 16,
+            "Question": "propositions concernant les mitochondries",
+            "Proposition": "Les mitochondries sont detruites par autophagie dans le compartiment lysosomial.",
+            "Reponse": true,
+            "Justification": "Les mitochondries peuvent etre detruites par autophagie, un processus qui implique leur degradation dans les lysosomes. Ce type specifique d'autophagie, appele mitophagie, permet a la cellule de se debarrasser des mitochondries endommagees ou dysfonctionnelles pour maintenir la qualite et la fonction du pool mitochondrial. Au cours de la mitophagie, les mitochondries ciblees sont enveloppees par une membrane d'autophagie, formant un autophagosome, qui fusionne ensuite avec un lysosome ou les enzymes lysosomales degradent le contenu mitochondrial.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 17,
+            "Question": "propositions concernant le cytosquelette des cellules animales",
+            "Proposition": "Les filaments intermediaires sont presents dans le cytosol et le nucleoplasme",
+            "Reponse": true,
+            "Justification": "Les filaments intermediaires sont presents a la fois dans le cytosol et le nucleoplasme. Dans le cytosol, ils contribuent a la structure et a la stabilite mecaniques des cellules, en formant un reseau qui aide a resister aux forces de deformation. Dans le nucleoplasme, un type specifique de filaments intermediaires, appeles lamines nucleaires, forme un reseau appele la lamina nucleaire qui soutient la membrane nucleaire interne et joue un role crucial dans la regulation de l'ADN et d'autres processus nucleaires.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 18,
+            "Question": "propositions concernant le cytosquelette des cellules animales",
+            "Proposition": "Le cytosquelette joue un role majeur dans le deplacement des organites et le mouvement des cellules dans leur environnement.",
+            "Reponse": true,
+            "Justification": "Le cytosquelette joue un role majeur dans le deplacement des organites et le mouvement des cellules dans leur environnement. Il est constitue de trois principaux types de filaments : les microfilaments (ou filaments d'actine), les microtubules et les filaments intermediaires.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 19,
+            "Question": "propositions concernant le cytosquelette des cellules animales",
+            "Proposition": "Le mouvement des cils est dependant de la kinesine.",
+            "Reponse": false,
+            "Justification": "Le mouvement des cils est dependant de la dyneine, pas de la kinesine. Les cils et les flagelles sont des structures cellulaires qui contiennent des microtubules organises en neuf doublets peripheriques et deux microtubules centraux (structure 9+2). La dyneine est une ATPase motrice qui se deplace le long des microtubules, permettant ainsi le mouvement des cils et des flagelles. Ce mouvement est essentiel pour la propulsion de certains types de cellules (comme les spermatozoides) ou pour le deplacement de fluides sur les surfaces epitheliales, comme dans les voies respiratoires ou les cils aident a eliminer les particules etrangeres.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 20,
+            "Question": "propositions concernant le cytosquelette des cellules animales",
+            "Proposition": "Centrioles et corpuscules basaux ont la meme structure.",
+            "Reponse": true,
+            "Justification": "Les centrioles et les corpuscules basaux ont une structure similaire. Les centrioles sont des structures constituees de neuf triplets de microtubules disposes en cercle, typiquement organises en un motif 9+0 ou 9+2. Les corpuscules basaux, quant a eux, sont des structures similaires retrouvees a la base des cils et des flagelles, egalement constituees de neuf triplets de microtubules disposes en cercle, formant souvent un motif 9+0 ou 9+2. Ces structures fournissent un cadre structural et sont impliquees dans la formation et la fonction des cils, des flagelles et des centrioles au sein des cellules eucaryotes.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 21,
+            "Question": "propositions concernant la division de cellules animales est fausse",
+            "Proposition": "Les 2 centrioles du centrosome sont repliques avant que la prophase ne soit engagee",
+            "Reponse": true,
+            "Justification": "Avant le debut de la prophase de la division cellulaire, les deux centrioles du centrosome subissent une replication. Ce processus se produit generalement pendant la phase S du cycle cellulaire, lorsque l'ADN est egalement replique en preparation de la division cellulaire. Chaque centrosome d'une cellule en division aura donc deux paires de centrioles apres la replication, contribuant a la formation du fuseau mitotique pendant la prophase et jouant un role crucial dans la segregation des chromosomes lors de la mitose.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 22,
+            "Question": "propositions concernant la division de cellules animales est fausse",
+            "Proposition": "Les 3 types de microtubules impliques dans l'appareil mitotique sont nuclees par les centrosomes dans lesquels ils sont ancres et stabilises par leur extremite (-).",
+            "Reponse": false,
+            "Justification": "Les microtubules impliques dans l'appareil mitotique sont effectivement nuclees par les centrosomes, mais ils ne sont pas stabilises par leur extremite (-). Au contraire, les microtubules du fuseau mitotique sont dynamiques et leurs extremites (-) et (+) alternent entre des phases de croissance et de retraction au cours de la division cellulaire. Les centrosomes, composes de paires de centrioles, agissent comme des centres d'organisation des microtubules (MTOC) et coordonnent la formation du fuseau mitotique lors de la division cellulaire.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 23,
+            "Question": "propositions concernant la division de cellules animales est fausse",
+            "Proposition": "Le raccourcissement des microtubules polaires permet la migration des chromosomes vers leur pole.",
+            "Reponse": true,
+            "Justification": "Le raccourcissement des microtubules polaires du fuseau mitotique permet effectivement la migration des chromosomes vers leur pole respectif pendant l'anaphase de la mitose. Les microtubules polaires s'etendent depuis chaque pole du fuseau mitotique vers le centre de la cellule. Lorsque les chromosomes alignes au centre de la cellule commencent a se separer vers les poles opposes pendant l'anaphase, les microtubules polaires se raccourcissent en tirant sur les chromosomes vers leurs poles respectifs. Ce processus contribue activement a la segregation correcte des chromosomes lors de la division cellulaire.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 24,
+            "Question": "propositions concernant la division de cellules animales est fausse",
+            "Proposition": "L'enveloppe nucleaire se reconstitue au cours de la telophase.",
+            "Reponse": true,
+            "Justification": "Pendant la telophase de la mitose, l'enveloppe nucleaire se reconstitue autour des chromosomes decondenses qui se trouvent aux poles opposes de la cellule. L'enveloppe nucleaire est une membrane double lipidique perforee par des pores nucleaires, et elle est demantelee lors du debut de la prophase pour permettre la segregation des chromosomes pendant la division cellulaire. A la fin de la telophase, la membrane nucleaire se reassemble autour des chromosomes et des nucleoles se reforment, marquant la fin de la division cellulaire et la restauration de la structure nucleaire fonctionnelle de la cellule fille.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 25,
+            "Question": "propositions concernant les transports membranaires",
+            "Proposition": "L'entree de glucose par le transporteur Na+/glucose dans les cellules epitheliales intestinales se fait contre le gradient de concentration de glucose.",
+            "Reponse": true,
+            "Justification": "L'entree de glucose dans les cellules epitheliales intestinales par le transporteur Na^+/glucose (SGLT1) se fait effectivement contre le gradient de concentration de glucose. Ce processus est un exemple de transport actif secondaire, ou l'energie pour transporter le glucose contre son gradient de concentration est fournie par le gradient de sodium (Na^+) etabli par la pompe sodium-potassium (Na^+/K^+ ATPase) presente dans la membrane basolaterale de la cellule epitheliale.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 26,
+            "Question": "propositions concernant les transports membranaires",
+            "Proposition": "L'osmose correspond a un flux net d'eau d'un milieu hypotonique vers un milieu hypertonique.",
+            "Reponse": true,
+            "Justification": "L'osmose est le mouvement net d'eau a travers une membrane semi-permeable d'un milieu ou la concentration en solutes (comme le sel ou le glucose) est plus faible (milieu hypotonique) vers un milieu ou la concentration en solutes est plus elevee (milieu hypertonique). Ce flux net d'eau se produit pour equilibrer les concentrations de solutes de part et d'autre de la membrane, en reponse aux differences de pression osmotique.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 27,
+            "Question": "propositions concernant les transports membranaires",
+            "Proposition": "Le transport de molecules par des transporteurs proteiques specifiques necessite toujours un apport d'energie.",
+            "Reponse": false,
+            "Justification": "Le transport de molecules par des transporteurs proteiques specifiques ne necessite pas toujours un apport d'energie. Il existe deux principaux types de transport a travers les transporteurs proteiques : le transport actif et le transport passif",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 28,
+            "Question": "propositions concernant les transports membranaires",
+            "Proposition": "Les canaux ioniques sont saturables",
+            "Reponse": true,
+            "Justification": "chatgpt a merde mais c vraiment saturable tkt",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 29,
+            "Question": "propositions concernant les membranes cellulaires",
+            "Proposition": "Les membranes cellulaires impliquees dans un processus metabolique actif ont un rapport de masse proteines/ lipides eleve.",
+            "Reponse": true,
+            "Justification": "Les membranes cellulaires impliquees dans un processus metabolique actif ont generalement un rapport de masse proteines/lipides eleve. Cela est du au fait que les proteines membranaires, telles que les transporteurs, les canaux ioniques, les enzymes et les recepteurs, sont essentielles pour faciliter et reguler les processus metaboliques. Par consequent, ces membranes sont enrichies en proteines par rapport aux lipides, afin de soutenir les fonctions specifiques et complexes necessaires a l'activite metabolique cellulaire.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 30,
+            "Question": "propositions concernant les membranes cellulaires",
+            "Proposition": "Un etat de turgescence caracterise les cellules vegetales car elles se trouvent le plus souvent en milieu hypotonique.",
+            "Reponse": true,
+            "Justification": "Un etat de turgescence caracterise les cellules vegetales lorsqu'elles se trouvent dans un milieu hypotonique. Dans un tel environnement, ou la concentration en solutes a l'exterieur de la cellule est plus faible que celle a l'interieur, l'eau entre dans la cellule par osmose. Cela cree une pression de turgescence contre la paroi cellulaire, qui maintient la cellule rigide et gonflee. Ce phenomene est crucial pour le soutien mecanique des plantes et pour maintenir leur forme et leur structure.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 31,
+            "Question": "propositions concernant les membranes cellulaires",
+            "Proposition": "Les cellules animales exploitent la distribution asymetrique des phospholipides entre les 2 feuillets de leur membrane plasmique pour differencier les cellules mortes des cellules vivantes.",
+            "Reponse": true,
+            "Justification": "Les cellules animales peuvent exploiter la distribution asymetrique des phospholipides entre les deux feuillets de leur membrane plasmique pour differencier les cellules mortes des cellules vivantes, en particulier lors de la reconnaissance des cellules apoptotiques (en apoptose). Normalement, les phospholipides comme la phosphatidylserine sont localises dans la face interne du feuillet lipidique de la membrane plasmique. Lorsqu'une cellule entre en apoptose, la phosphatidylserine est exposee a la surface externe de la membrane plasmique, signalant aux cellules voisines ou aux phagocytes (cellules immunitaires specialisees dans l'ingestion de cellules mortes) que la cellule est en train de mourir et doit etre eliminee. Cette inversion dans la distribution des phospholipides est donc utilisee comme un marqueur pour differencier les cellules vivantes des cellules en processus de mort cellulaire programmee (apoptose).",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 32,
+            "Question": "propositions concernant les membranes cellulaires",
+            "Proposition": "Les coudes formes par les doubles liaisons des acides gras insatures des phospholipides membranaires rigidifient les membranes.",
+            "Reponse": false,
+            "Justification": "Les coudes formes par les doubles liaisons des acides gras insatures des phospholipides membranaires en realite fluidifient plutot que de rigidifier les membranes. Les acides gras insatures, grace a leurs doubles liaisons, creent des coudes dans les chaines hydrocarbonees des phospholipides. Cela empeche les phospholipides de s'empiler de maniere compacte, ce qui diminue la viscosite de la membrane et la rend plus fluide. Ainsi, les acides gras insatures sont souvent associes a une augmentation de la fluidite membranaire, ce qui est benefique pour de nombreux processus biologiques comme la mobilite des proteines membranaires et le fonctionnement des canaux ioniques.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 33,
+            "Question": "propositions concernant la contraction musculaire",
+            "Proposition": "En l'absence d'ATP, la tete de la myosine reste fixee au filament d'actine.",
+            "Reponse": true,
+            "Justification": "En l'absence d'ATP, la tete de la myosine reste fixee au filament d'actine. L'interaction entre la myosine (presente dans les filaments epais des sarcomeres musculaires) et l'actine (presente dans les filaments minces) est regulee par l'ATP. Lorsque l'ATP est present et hydrolyse en ADP et phosphate inorganique (Pi), la myosine peut se lier a l'actine, former un pont transversal et effectuer un mouvement de type \"coup de rame\" qui genere la contraction musculaire. En l'absence d'ATP, la myosine reste attachee a l'actine dans une configuration non active, ce qui signifie qu'elle ne peut pas se detacher ni effectuer de mouvement contractile.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 34,
+            "Question": "propositions concernant la contraction musculaire",
+            "Proposition": "Lorsque la concentration en Ca++ intracellulaire est basse, le muscle est relache.",
+            "Reponse": true,
+            "Justification": "Lorsque la concentration en Ca^2+ (calcium) intracellulaire est basse, le muscle est relache. Le calcium joue un role crucial dans la contraction musculaire en regulant l'interaction entre l'actine et la myosine. En reponse a un signal nerveux, le calcium est libere des reservoirs intracellulaires (comme le reticulum sarcoplasmique dans les muscles stries) dans le cytosol de la cellule musculaire. Le calcium se lie alors a la troponine C dans les filaments minces, provoquant un changement conformationnel qui permet a la myosine de se lier a l'actine et d'initier la contraction musculaire.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 35,
+            "Question": "propositions concernant la contraction musculaire",
+            "Proposition": "Les tubules transverses sont constitues par des replis de la membrane du reticulum sarcoplasmique.",
+            "Reponse": false,
+            "Justification": "Les tubules transverses (ou tubules T) ne sont pas constitues par des replis de la membrane du reticulum sarcoplasmique (RS). En realite, les tubules transverses sont des invaginations de la membrane plasmique (sarcolemme) dans le cytoplasme des cellules musculaires striees (muscle squelettique et cardiaque). Ils penetrent profondement dans le sarcoplasme et sont en contact direct avec le reticulum sarcoplasmique (RS).",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 36,
+            "Question": "propositions concernant la contraction musculaire",
+            "Proposition": "Au repos, les molecules de tropomyosine bloquent les sites de fixation des molecules d'actine a la myosine.",
+            "Reponse": true,
+            "Justification": "Au repos, les molecules de tropomyosine bloquent effectivement les sites de fixation des molecules d'actine a la myosine dans les sarcomeres des muscles stries. La tropomyosine est une proteine qui s'enroule le long des filaments minces d'actine, recouvrant les sites actifs ou la myosine se lie normalement pour provoquer la contraction musculaire.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 37,
+            "Question": "propositions concernant la communication cellulaire",
+            "Proposition": "Les recepteurs couples aux proteines G (GPCR) lient une molecule de GTP lorsqu'ils sont actives par leur ligand.",
+            "Reponse": false,
+            "Justification": "Les recepteurs couples aux proteines G (GPCR) ne lient pas directement une molecule de GTP lorsqu'ils sont actives par leur ligand. Voici comment cela se passe :\n\n    Activation par le ligand : Lorsqu'un ligand se lie au recepteur GPCR a la surface cellulaire, cela provoque un changement conformationnel dans le recepteur.\n\n    Activation de la proteine G : Ce changement conformationnel permet au recepteur GPCR d'agir comme un guanine nucleotide exchange factor (GEF), activant ainsi une proteine G associee situee a proximite.\n\n    Echange GDP/GTP : La proteine G possede une activite GTPase intrinseque, ce qui signifie qu'elle peut hydrolyser le GTP en GDP. Lorsque le recepteur GPCR est active, il favorise l'echange du GDP lie a la proteine G par une molecule de GTP, formant ainsi une proteine G active (Ga-GTP).\n\n    Activation des voies de signalisation : La proteine Ga-GTP dissociee active ensuite differentes voies de signalisation cellulaires, affectant divers processus cellulaires comme la regulation de l'enzyme adenylate cyclase, la modulation des canaux ioniques, ou l'activation de cascades de kinase intracellulaires.\n\nAinsi, bien que les GPCR jouent un role crucial dans l'activation des proteines G en favorisant l'echange GDP/GTP, ils ne lient pas directement une molecule de GTP eux-memes lorsqu'ils sont actives par leur ligand.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 38,
+            "Question": "propositions concernant la communication cellulaire",
+            "Proposition": "L'activation de la phospholipase C induit une augmentation du Ca++ cytosolique",
+            "Reponse": true,
+            "Justification": "L'activation de la phospholipase C (PLC) peut induire une augmentation du Ca^2+ cytosolique dans les cellules. La PLC est une enzyme cle dans la signalisation cellulaire qui est activee par divers recepteurs, notamment les recepteurs couples aux proteines G (GPCR) et les recepteurs tyrosine kinase.\n\nVoici comment cela se produit :\n\n    Activation de la PLC : Lorsque la PLC est activee par un signal extracellulaire, elle hydrolyse le phosphatidylinositol 4,5-bisphosphate (PIP2) en deux seconds messagers : l'inositol 1,4,5-trisphosphate (IP3) et le diacylglycerol (DAG).\n\n    Augmentation du Ca^2+ cytosolique par l'IP3 : L'IP3 se lie a des recepteurs specifiques, appeles recepteurs IP3 (IP3R), presents sur le reticulum endoplasmique (RE). Cela provoque la liberation de Ca^2+ stocke a l'interieur du RE vers le cytosol.\n\n    Effets cellulaires : Le Ca^2+ libere dans le cytosol agit comme un second messager et peut activer divers processus cellulaires, tels que la contraction musculaire, la secretion de neurotransmetteurs, la regulation de l'expression genique, et d'autres reponses cellulaires importantes.\n\nAinsi, l'activation de la PLC conduit generalement a une augmentation temporaire du Ca^2+ cytosolique, jouant un role crucial dans la signalisation cellulaire et la regulation de nombreuses fonctions cellulaires.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 39,
+            "Question": "propositions concernant la communication cellulaire",
+            "Proposition": "CREB est un facteur de transcription qui est active lorsque la concentration d'AMPc est elevee.",
+            "Reponse": true,
+            "Justification": "CREB (cAMP response element-binding protein) est en effet un facteur de transcription active lorsque la concentration d'AMPc (adenosine monophosphate cyclique) est elevee dans la cellule. L'AMPc est un second messager important dans la signalisation cellulaire, notamment via les recepteurs couples aux proteines G (GPCR). Lorsqu'un ligand se lie a un GPCR activant l'adenylate cyclase, celle-ci convertit l'ATP en AMPc.\n\nL'AMPc active alors une kinase proteine dependante (PKA) en se liant a ses sous-unites regulatrices et en liberant ses sous-unites catalytiques. Ces sous-unites catalytiques de la PKA phosphorylent a leur tour CREB, le rendant capable de se lier a des sequences specifiques de l'ADN appelees \"elements de reponse cAMP\" (CRE). Une fois lie a ces elements CRE, CREB peut recruter des coactivateurs et initier la transcription de genes cibles qui regulent divers processus cellulaires, comme la croissance cellulaire, la differenciation, et la reponse aux stimuli extracellulaires.",
+            "Reference": "Dia 381 du chapitre II"
+      },
+      {
+            "Numero": 40,
+            "Question": "propositions concernant la communication cellulaire",
+            "Proposition": "Une cellule cible reconnait et repond biologiquement a une hormone grace a la presence de recepteurs specifiques.",
+            "Reponse": true,
+            "Justification": "Les cellules cibles repondent aux hormones grace a des recepteurs specifiques situes a leur surface ou a l'interieur de la cellule. Lorsque l'hormone se lie a son recepteur, cela declenche des reactions biochimiques a l'interieur de la cellule, appelees transduction du signal, qui regulent divers processus physiologiques.",
+            "Reference": "Dia 381 du chapitre II"
       }
 ]
