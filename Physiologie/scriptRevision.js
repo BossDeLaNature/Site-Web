@@ -1,7 +1,7 @@
 let quizData = []; // Tableau pour stocker les questions du quiz
 let currentQuestionIndex = 0; // Index de la question actuelle
 // Charger les données JSON
-fetch('Excel/Question-Chapitre-II.json')
+fetch('Excel/Secret.json')
     .then(response => response.json())
     .then(data => {
         quizData = data;
@@ -44,7 +44,7 @@ fetch('Excel/Question-Chapitre-II.json')
     // Fonction pour vérifier la réponse
     function checkAnswer(selectedAnswer, correctAnswer, justification) {
       let numeroquestion = quizData[currentQuestionIndex]['Numero'].toString();
-      let imagesource = 'media/dias/'.concat(numeroquestion, '.png')
+      let imagesource = 'media/dias/secret/'.concat(numeroquestion, '.png')
       const imageContainer = document.getElementById('image-container');
       imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="'.concat(imagesource,'" class="w-100" alt="Responsive image"/> </button>');
       const modalContainer = document.getElementById('modal-container');
