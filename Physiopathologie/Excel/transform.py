@@ -123,6 +123,3 @@ test2 = loads(test)
 # Sauvegarder en fichier JSON
 with open('digestif.json', 'w') as json_file:
     json.dump(test2, json_file,indent=6)
-
-
-
