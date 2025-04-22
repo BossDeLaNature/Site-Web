@@ -1,25 +1,25 @@
 [
       {
             "Numero": 1,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "13. Concernant l'activite electrique du coeur: ",
+            "Proposition": " Dans les derivations precordiales, l'augmentation progressive de l'onde R de V1 a V6 reflete l'augmentation progressive de l'epaisseur du myocarde sous l'electrode.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 2,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "13. Concernant l'activite electrique du coeur: ",
+            "Proposition": " Le noeud auriculo-ventriculaire est principalement innerve par le nerf vague droit.    ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 3,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "13. Concernant l'activite electrique du coeur: ",
+            "Proposition": " Lorsque la frequence cardiaque devient trop elevee, le debit cardiaque devient limite par la reduction de la diastole.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },

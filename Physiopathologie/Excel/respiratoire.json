@@ -2,840 +2,1872 @@
       {
             "Numero": 1,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque PaO2 devient < 70 mm Hg et surtout a partir de 40 mm Hg, une faible diminution de PaO2 engendre une desaturation rapide et importante de l'hemoglobine,  ",
+            "Reponse": true,
+            "Justification": "La pression alveolaire en O2 est toujours proche de la pression arteriel en O2",
             "Reference": "-"
       },
       {
             "Numero": 2,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La PO2 du sang veineux mele = 40 mm Hg et la PO2 du sang arteriel = 100 mm Hg.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 3,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La ventilation alveolaire est le volume d'air frais qui, chaque minute, atteint les alveoles; il s'agit donc du  volume disponible pour les echanges gazeux. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 4,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La production tissulaire de CO2 est de 15-20 mmoles par jour. ",
+            "Reponse": false,
+            "Justification": "C'est 15-20 moles par jour, il y a une erreur dans son cours parceque si on fait le calcul, sachant que on a 10-15mmoles/min et que y a 1440 minutes dans une journee, on retombe bien sur les 15-20 moles/jours.",
             "Reference": "-"
       },
       {
             "Numero": 5,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque la frequence respiratoire = 10 cycles/min et le volume courant = 500 ml, la ventilation pulmonaire totale est de 5 L/min.  ",
+            "Reponse": true,
+            "Justification": "10 cycles/min * 500ml = 5L/min",
             "Reference": "-"
       },
       {
             "Numero": 6,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La quantite d'O2 liee a l'hemoglobine (Hb) depend de la quantite d'Hb et de la PaO2.  ",
+            "Reponse": true,
+            "Justification": "/!\\ La saturation depend de la PaO2 mais ne depend pas de la concentration d'hemoglobine car c'est un rapport de la quantite d'hemoglobine lie a l'O2 sur la quantitee d'hemoglobine en tout. En gros c'est une indication pour savoir la fraction d'hemoglobine qui sera liee a l'O2 a tel pression partiel en O2 dans le sang. CEPENDANT, la quantite d'O2 liee a l'hemoglobine depend bien de la concentration en Hb et de la pression arteriel en O2 car on multiplie la fraction d'hemoglobine qui peut se liee a l'O2 a tel PaO2 (aka la saturation) par la quantite d'Hb (aka la concentration [Hb])",
             "Reference": "-"
       },
       {
             "Numero": 7,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Les chemorecepteurs centraux sont surtout sensibles aux variations de PaCO2, mais egalement de pH et de PaO2 (lorsque PaO2 devient < 60 mm Hg).  ",
+            "Reponse": false,
+            "Justification": "Ce sont les chemorecepteurs peripheriques qui sont a la fois sensible a la PO2, PCO2 et pH, les chemorecepteurs centraux ne sont pas sensible a la PO2",
             "Reference": "-"
       },
       {
             "Numero": 8,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La composition de l'air expire varie progressivement pour atteindre, en fin d'expiration, la composition de l'air alveolaire.  ",
+            "Reponse": true,
+            "Justification": "Puisque l'air expire contient l'air coincee dans l'espace mort et l'air dans les alveoles, au debut de l'expiration, l'air qui va sortir en premier sera l'air qui etait coince dans l'espace mort anatomique (c'est comme une pile de vetement ou le dernier qui rentre est le premier qui sort), du coup au debut de l'expiration, la composition de l'air sera sensiblement la meme que celle de l'air inspire, car puisqu'elle etait coincee dans l'espace alveolaire, elle ne pouvait pas changer. A la fin de l'expiration, c'est de l'air qui etait dans les alveoles qui va finir par sortir, et donc sa composition sera sensiblement la meme que celle de l'air alveolaire",
             "Reference": "-"
       },
       {
             "Numero": 9,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La consommation tissulaire en O2, au repos et chez l'un individu normal, est de 200 a 250 ml/min. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 10,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les poumons et la paroi thoracique sont assimiles a 2 ressorts, relies par la plevre et l'espace pleural, et qui agissent dans le meme sens.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 11,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le volume expiratoire maximal a la premiere seconde (VEMS) permet de calculer le rapport de Tiffeneau qui est superieur a 80% chez le sujet normal.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 12,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le coefficient de diffusion (D_L } represente la capacite de diffusion d'un gaz et est proportionnel a la surface de la barriere de diffusion.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 13,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La spirometrie ne permet pas la mesure du volume residuel, de la capacite residuelle fonctionnelle et de la capacite pulmonaire totale. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 14,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " L'expiration est toujours passive.  ",
+            "Reponse": false,
+            "Justification": "chokbar du mec qui a mit vrai a celle la",
             "Reference": "-"
       },
       {
             "Numero": 15,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le surfactant qui reduit la tension de surface diminue la compliance pulmonaire.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 16,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Dans un melange gazeux ne contenant pas de vapeur d'eau et qui exerce une pression de 800 mm Hg, le compose dont la concentration fractionnelle est de 30% exerce une pression partielle de 240 mm Hg. ",
+            "Reponse": true,
+            "Justification": "Pression partielle = Pression totale * fraction = 800mmHg * 30% = 240 mmHg",
             "Reference": "-"
       },
       {
             "Numero": 17,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La circulation pulmonaire est une circulation a bas debit, basse pression et basse resistance.  ",
+            "Reponse": false,
+            "Justification": "Pas a bas debit car recoit 100% du sang",
             "Reference": "-"
       },
       {
             "Numero": 18,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " A pression partielle egale, il y a 20 fois plus de CO2 dissout dans le plasma que d'O2.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 19,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Les voies aeriennes de conduction sont entierement cartilagineuses. ",
+            "Reponse": false,
+            "Justification": "pas entierement",
             "Reference": "-"
       },
       {
             "Numero": 20,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Les pneumocytes de type I produisent le surfactant. ",
+            "Reponse": false,
+            "Justification": "Non c'est le pneumocyte de type II (car le surfactant c'est un role de soutient donc c'est comme un joueur 2 alors que le pneumocyte de type I il fait tout le taf de la respiration)",
             "Reference": "-"
       },
       {
             "Numero": 21,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Si la solubilite plasmatique de l'O2, est de 0,0013 mM/mmHg, a 37degC, la concentration d''O2 dissout dans le  plasma est de 0,013 mM, lorsque PO2 = 100 mm Hg. ",
+            "Reponse": false,
+            "Justification": "0,0013 mM/mmHg * 100 mmHg = 0,13mM et non 0,013mM",
             "Reference": "-"
       },
       {
             "Numero": 22,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La diffusion alveolaire du CO est limitee par la perfusion. ",
+            "Reponse": false,
+            "Justification": "Il est limite par la diffusion et non la perfusion. En gros, le CO il a tellement d'affinite avec l'hemoglobine qu'il ne va jamais se retrouver solo dans le sang, et du coup la concentration plasmatique du CO sera toujours quasi nul, donc le gradient de concentration en CO entre l'espace alveolaire et capillaire sera toujours constant, et donc y aura que la diffusion qui sera le pb (et encore). Alors que dans un autre cas, le N2O ne se lie pas de ouf a l'hemoglobine, du coup lui il va bien rester solo dans le plasma, et il va bien prendre de la place dans le plasma. Donc le gradient entre l'espace alveolaire et capillaire sera bien bien reduit et pour remedier a ca, faudra bien faire cirucler le sang pour que le gradient revienne a son etat initial. On dira donc dans ce cas que le N2O est limite par la perfusion",
             "Reference": "-"
       },
       {
             "Numero": 23,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lorsque la barriere diffusion est alteree, la diffusion du CO2 peut etre reduite et entrainer une hypercapnie. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 24,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Chez le sujet normal, un exercice physique important realise en altitude aggrave l'hypoxemie.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 25,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La circulation pulmonaire est une circulation a haut debit et a basse resistance. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 26,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Chez le sujet normal, il existe un shunt anatomique peu important qui est lie a la circulation bronchique. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 27,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La circulation bronchique assure egalement la vascularisation des alveoles.  ",
+            "Reponse": false,
+            "Justification": "Faux elle s'arrete juste aux voies aeriennes et aux bronches, c'est la circulation alveolaire qui prend le relais",
             "Reference": "-"
       },
       {
             "Numero": 28,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "30. Ventilation  ",
+            "Proposition": " Lorsque la frequence respiratoire est de 10 cycles/min et le volume courant est de 500 ml, la ventilation alveolaire est de 5L/min.  ",
+            "Reponse": false,
+            "Justification": "Il ne faut pas confondre ventilation alveolaire et ventilation pulmonaire totale. Ici il faut donc soustraire l'espace mort anatomique (qui est de 150mL) et on a donc (500-150) * 10 = 3,5L/min",
             "Reference": "-"
       },
       {
             "Numero": 29,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "30. Ventilation  ",
+            "Proposition": " L'air alveolaire a une PCO2 de 40 mmHg et une PO2 de 104 mmHg  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 30,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "30. Ventilation  ",
+            "Proposition": " Lorsque la ventilation alveolaire double, la PAco2 diminue de moitie, considerant que la production de CO2 reste inchangee.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 31,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Le rapport de Tiffeneau est le rapport entre le volume expiratoire maximal a la premiere seconde (VEMS) la capacite vitale forcee (CVF). Il est de 50% chez le sujet normal.  ",
+            "Reponse": false,
+            "Justification": "C'est au dessus de 70%",
             "Reference": "-"
       },
       {
             "Numero": 32,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La compliance pulmonaire est plus grande lorsqu'elle est mesuree du VR vers la CPT (cad en inspiration), en raison du phenomene d'hysteresis lie au surfactant.  ",
+            "Reponse": false,
+            "Justification": "La compliance pulmonaire represente la capacite du poumon a pouvoir prendre un plus grand volume pour une certaine pression donnee. Ici, on voit que lorsqu'on passe du Volume Residuel (VR) a la Capacite Pulmonaire Totale, puisque l'on doit vaincre les forces lies au tension de surface, la compliance sera donc moins grande qu'a l'expiration",
             "Reference": "-"
       },
       {
             "Numero": 33,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La cage thoracique peut etre consideree comme un ressort etire qui tend a revenir a sa position d'equilibre. ",
+            "Reponse": false,
+            "Justification": "On compare la cage thoracique plutot a un ressort qui est comprime plutot que etire. En effet, au VR, le recul elastique de la cage thoracique vient se taper avec le recul elastique du poumon pour finir a l'equilibre, or puisque le poumon est considere comme un ressort etire, inversement la cage thoracique est considere comme un ressort comprime",
             "Reference": "-"
       },
       {
             "Numero": 34,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque la capacite pulmonaire totale = 6L et la capacite vitale = 4,5L, le volume residuel = 1,5L ",
+            "Reponse": true,
+            "Justification": "CPT = CV + VR, la CPT c'est tout le volume du poumon, la CV c'est tout le volume d'air que l'on peut mobiliser volontairement (soit le faire sortir soit entrer dans le poumon) et le VR c'est ce qui reste dans le poumon quand on est a l'expiration maximale",
             "Reference": "-"
       },
       {
             "Numero": 35,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors d'une respiration calme, l'inspiration est active et l'expiratoire est passive. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 36,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Au niveau de la CRF, il y a un equilibre entre le rappel elastique du poumon et le recul elastique de la cage  thoracique. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 37,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le surfactant est un composant de la barriere alveolo-capillaire. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 38,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La zone de conduction des voies aeriennes inferieures se situe entre la 1deg a la 16deg generation et est entierement cartilagineuse.  ",
+            "Reponse": false,
+            "Justification": "C'est cartilagineux jusqu'a la 10eme generation",
             "Reference": "-"
       },
       {
             "Numero": 39,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le systeme parasympathique induit une bronchoconstriction par effet M3 ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 40,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Le collapsus des alveoles est empeche par la pression intrapleurale positive. ",
+            "Reponse": false,
+            "Justification": "C'est le surfactant qui empeche le collapsus des alveoles avec la pression intrapleural NEGATIVE qui aide a tirer les parois des alveoles vers l'exterieur",
             "Reference": "-"
       },
       {
             "Numero": 41,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " L'hemoglobine transporte +98,5% de l'O2 vers les tissus, le restant de l'O2 etant transporte dans le sang, sous forme dissoute.  ",
+            "Reponse": true,
+            "Justification": "flm jtrouvais pas dans le cours",
             "Reference": "-"
       },
       {
             "Numero": 42,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Dans un melange gazeux, la pression exercee par chacun des gaz qui composent le melange depend de la  pression exercee par les autres gaz.  ",
+            "Reponse": false,
+            "Justification": "Non c'est juste la pression totale du melange gazeux qui est egal a la somme des pressions partielles des gaz",
             "Reference": "-"
       },
       {
             "Numero": 43,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque de l'air est introduit dans l'espace pleural gauche, le poumon gauche et la cage thoracique gauche se retractent.  ",
+            "Reponse": false,
+            "Justification": "Le poumon se retracte mais la cage thoracique s'etend",
             "Reference": "-"
       },
       {
             "Numero": 44,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le debit expiratoire de pointe (ou peak flow) est diminue en cas de pathologie obstructive et egalement en cas de pathologie restrictive.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 45,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Pres de 80% de la resistance des voies aeriennes inferieures est situe au niveau des voies aeriennes larges et moyennes de plus de 2 mm de diametre. ",
+            "Reponse": true,
+            "Justification": "Sachant que les voies inferieures representent 50% de la resistance des voies aeriennes (Raw) et que seulement 10% ont un diametre inferieur a 2mm, alors 10% / 50%  = 20%, donc il y a bien a peu pres 80% de la resistance des voies inferieurs qui est situee au niveau des voies larges et moyenne de plus de 2 mm de diametre",
             "Reference": "-"
       },
       {
             "Numero": 46,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " En cas d'emphyseme, la compliance pulmonaire augmente en raison d'une destruction des septa alveolaires qui contiennent des fibres elastiques.  ",
+            "Reponse": true,
+            "Justification": "Vu qu'il y a perte de l'effet de rappel elastique du poumon (par destruction de fibres elastiques), pour une meme pression, le poumon va prendre un plus grand volume et donc il aura une plus grande compliance pulmonaire",
             "Reference": "-"
       },
       {
             "Numero": 47,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors d'une pathologie restrictive, le rapport entre le volume maximal expire a la lere seconde et la capacite vitale forcee reste normal ou est meme legerement augmente. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 48,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " L'air ambiant contient 79% de N2, 21% d'O2 et 0,03% de CO2  ",
+            "Reponse": true,
+            "Justification": "mdrr tkt",
             "Reference": "-"
       },
       {
             "Numero": 49,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Selon la loi de Henry, la concentration d'un gaz dissout dans un liquide est inversement proportionnelle, a temperature constante, a sa solubilite et a sa pression partielle.  ",
+            "Reponse": false,
+            "Justification": "C'est juste proportionnelle",
             "Reference": "-"
       },
       {
             "Numero": 50,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le coefficient de diffusion d'un gaz s'exprime en ml/(min.mmHg) et est inversement proportionnel a  l'epaisseur de la barriere de diffusion. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 51,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Selon Laplace, les petites alveoles pulmonaires ou la pression est plus elevee se vident dans les plus grandes alveoles ou la pression est plus basse.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 52,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La circulation pulmonaire assure une vascularisation alveolaire tres importante (+ 500 a 1000 capillaires par alveole).  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 53,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Le systeme orthosympathique exerce un effet bronchoconstricteur par effet Beta-2 ",
+            "Reponse": false,
+            "Justification": "C'est un effet bronchodillateur (c'est l'inverse de la vascularisation)",
             "Reference": "-"
       },
       {
             "Numero": 54,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La liberation tissulaire de l'O2 lie a HbO2 est favorisee par la diminution du pH et l'augmentation de la PaCO2  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 55,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La quantite d'O2 dissoute dans le plasma augmente fortement lorsque la PaO2 depasse 100 mmHg  ",
+            "Reponse": false,
+            "Justification": "Elle augmente mais vu qu'elle suit toujours la loi d'Henry, il n'y aura pas plus d'O2 dissout dans le sang meme si la saturation est au maximum, les molecules d'O2 vont juste rester dans les alveoles si elles ne peuvent pas etre dissoutes ou liees a l'hemoglobine",
             "Reference": "-"
       },
       {
             "Numero": 56,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'effet Haldane est la liberation de CO2 lie a l'hemoglobine (Hb) lors de la liaison de l'O2 avec l'Hb au  niveau des capillaires pulmonaires. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 57,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lorsque la frequence respiratoire est de 10 cycles/min et le volume courant de 500 ml, la ventilation alveolaire est de 3,5L/min, sachant que le volume de l'espace mort anatomique est de 150 ml   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 58,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La PACO2 est proportionnelle a la production de CO2 et inversement proportionnelle a la ventilation  alveolaire.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 59,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La PAO2 est de 100 mmHg lorsque PIO2 = 150 mmHg, PACO2 = 36 mmHg et R = 0,8    ",
+            "Reponse": false,
+            "Justification": "150 - 36/0,8 = 105mmHg",
             "Reference": "-"
       },
       {
             "Numero": 60,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lors d'une pneumectomie droite avec un poumon gauche normal, la compliance pulmonaire diminue mais la compliance pulmonaire specifique reste inchangee.  ",
+            "Reponse": true,
+            "Justification": "Une pneumectomie est l'ablation d'un poumon. Lorsque l'on retire un poumon, a une pression donnee, vu que l'on aura plus qu'un poumon, la variation de volume sera diminuee de moitie, donc la compliance pulmonaire diminuera. Cependant, la compliance pulmonaire specifique, qui caracterise l'elasticite du poumon, restera la meme car le poumon restant est en bonne sante.",
             "Reference": "-"
       },
       {
             "Numero": 61,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le debit expiratoire n'est effort dependant qu'a haut volume pulmonaire. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 62,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " L'effet Haldane signifie que le contenu du sang en CO2 est independant de la saturation de l'hemoglobine en O2  ",
+            "Reponse": false,
+            "Justification": "Justement ca veut plutot dire que c'est dependant",
             "Reference": "-"
       },
       {
             "Numero": 63,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La quantite d'O2 liee a l'hemoglobine (Hb) qui s'exprime en ml O2/100 ml de sang est determinee par la relation suivante: O2 lie = (% sat. Hb) x (capacite maximale de l'Hb pour l'O2)  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 64,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Chez un adulte en bonne sante et au niveau de la mer, la PAO2 = 104 mmHg et la PvO2 = 40 mmHg. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 65,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Chez un sujet normal et au repos, l'equilibre de la pression partielle en O2 entre le capillaire alveolaire et l'air alveolaire est atteint apres +0,25 sec  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 66,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Au niveau pulmonaire, la diffusion du N2O est limitee par la perfusion.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 67,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque la barriere de diffusion est alteree, il est rare de voir se developper une hypoxemie lorsqu'un effort  modere est realise en altitude, ",
+            "Reponse": false,
+            "Justification": "Il n'est pas rare de voir une hypoxemie dans ce cas la",
             "Reference": "-"
       },
       {
             "Numero": 68,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Pour un meme volume de l'espace mort anatomique et pour une meme ventilation pulmonaire totale, la ventilation alveolaire peut cependant etre differente si le volume courant augmente ou diminue. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 69,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " L'equation des gaz alveolaires est la suivante: PA_O2 = PA_O2 - (Pl_CO2/R)  ",
+            "Reponse": false,
+            "Justification": "l'equation de con qu'ils ont mis dans le sujet mdrr",
             "Reference": "-"
       },
       {
             "Numero": 70,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'espace mort alveolaire correspond au volume d'air qui parvient aux alveoles non perfusees. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 71,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "2. Concernant la mecanique ventilatoire: ",
+            "Proposition": " Lorsque la valeur de la CRF est connue, la CPT peut etre calculee.   ",
+            "Reponse": false,
+            "Justification": "CPT = CRF + CV - VRE",
             "Reference": "-"
       },
       {
             "Numero": 72,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "2. Concernant la mecanique ventilatoire: ",
+            "Proposition": " Le volume residuel est le volume qui demeure dans les poumons apres une expiration normale,    ",
+            "Reponse": false,
+            "Justification": "C'est une expiration forcee, apres une expiration normal il reste le capacite residuel fonctionnel",
             "Reference": "-"
       },
       {
             "Numero": 73,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "2. Concernant la mecanique ventilatoire: ",
+            "Proposition": " Lors d'une pathologie obstructive comme l'emphyseme, le VR est augmente alors que le rapport de Tiffeneau est diminue.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 74,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "34. Concernant la diffusion: ",
+            "Proposition": " La capacite de diffusion pour le CO est diminuee lorsque la barriere alveolo-capillaire est epaissie ou detruite.   ",
+            "Reponse": true,
+            "Justification": "Si la barriere est epaissie ou endommagee, puisque le CO n'est limite que par la diffusion, il diffusera moins bien",
             "Reference": "-"
       },
       {
             "Numero": 75,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "34. Concernant la diffusion: ",
+            "Proposition": " Au niveau de la mer et dans les conditions normales, la PAO2 est de 150 mmHg    ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 76,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "34. Concernant la diffusion: ",
+            "Proposition": " Une hypoxemie peut resulter d'une alteration de la barriere alveolo-capillaire ou d'une diminution de la PIO2 liee a l'altitude.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 77,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "32. Concernant le transport des gaz: ",
+            "Proposition": " L'effet Haldane signifie que le contenu du sang en CO2 a une valeur donnee de PCO2. augmente lorsque la saturation en O2 de l'hemoglobine est plus basse,    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 78,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "32. Concernant le transport des gaz: ",
+            "Proposition": " Lorsque la saturation de l'hemoglobine devient inferieure a 90%, la PaO2 est deja fortement diminuee.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 79,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "32. Concernant le transport des gaz: ",
+            "Proposition": " Lors d'une anemie et lorsque la PaO2 reste identique, la saturation de l'hemoglobine diminue.    ",
+            "Reponse": false,
+            "Justification": "Lors d'une anemie, ce n'est pas la saturation le probleme (aka le taux d'Hb liee a l'O2) mais la quantitee d'Hb qui est insuffisante",
             "Reference": "-"
       },
       {
             "Numero": 80,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "30. Concernant la mecanique respiratoire: ",
+            "Proposition": " La spirometrie permet de mesurer 3 volumes et 2 capacites.    ",
+            "Reponse": true,
+            "Justification": "Avec la spirometrie, on peut mesurer tout ce qui est mobilisable (ce qui n'est pas en rouge)",
             "Reference": "-"
       },
       {
             "Numero": 81,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "30. Concernant la mecanique respiratoire: ",
+            "Proposition": " Lors d'un pneumothorax gauche, le poumon droit se retracte et la cage thoracique gauche se distend,.    ",
+            "Reponse": false,
+            "Justification": "Non c'est le poumon gauche qui se retracte",
             "Reference": "-"
       },
       {
             "Numero": 82,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "24. Concernant le systeme respiratoire: ",
+            "Proposition": " La capacite residuelle fonctionnelle est le volume qui demeure dans les poumons apres une expiration calme et qui correspond a la somme du volume de reserve expiratoire et du volume residuel.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 83,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "24. Concernant le systeme respiratoire: ",
+            "Proposition": " Lors d'une pathologie obstructive comme l'emphyseme, la capacite pulmonaire totale est augmentee...    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 84,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "24. Concernant le systeme respiratoire: ",
+            "Proposition": " Lors d'une pathologie restrictive, le rapport de Tiffeneau qui est le rapport entre le VEMS et la capacite vitale forcee est diminue.    ",
+            "Reponse": false,
+            "Justification": "Il augmente",
             "Reference": "-"
       },
       {
             "Numero": 85,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "23. Concernant le systeme respiratoire: ",
+            "Proposition": " La zone d'echange des voies aeriennes inferieures se situe de la 17e a la 23e generation dans la mesure ou il existe des alveoles a partir des bronchioles respiratoires.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 86,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "23. Concernant le systeme respiratoire: ",
+            "Proposition": " La communication entre veines bronchiques (sang oxygene) et veines pulmonaires (sang desoxygene)  explique le shunt anatomique du sujet normal.   ",
+            "Reponse": false,
+            "Justification": "Les veines bronchiques sont desoxygenes et pulmonaires sont oxygenes",
             "Reference": "-"
       },
       {
             "Numero": 87,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "23. Concernant le systeme respiratoire: ",
+            "Proposition": " En absence de surfactant, les petites alveoles gonfleraient et les grandes alveoles se collaberaient.    ",
+            "Reponse": false,
+            "Justification": "C'est l'inverse",
             "Reference": "-"
       },
       {
             "Numero": 88,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " selon Laplace, les grandes alveoles ou la pression est plus elevee se vident dans les plus petites alveoles ou la pression est plus basse,  ",
+            "Reponse": false,
+            "Justification": "Encore une fois c'est l'inverse",
             "Reference": "-"
       },
       {
             "Numero": 89,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " la diffusion tissulaire de l'O2 est +20 fois superieure a celle du CO2, compte tenu de sa plus grande solubilite.  ",
+            "Reponse": false,
+            "Justification": "C'est le CO2 qui est 20x plus soluble que l'O2",
             "Reference": "-"
       },
       {
             "Numero": 90,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " comme la pression partielle de la vapeur d'eau = 47 mmHg a 37degC, l'air humide exerce, a cette temperature, une pression de 713 mmHg au niveau de la mer.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 91,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "31. Concernant la mecanique ventilatoire: ",
+            "Proposition": " La compliance pulmonaire est plus faible a hauts volumes pulmonaires et est la plus haute au niveau du  volume residuel.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 92,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "31. Concernant la mecanique ventilatoire: ",
+            "Proposition": " Lors d'une pathologie restrictive, la CRF est diminuee en raison de l'augmentation du rappel elastique du poumon.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 93,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "28. Concernant le systeme respiratoire: ",
+            "Proposition": " La zone de conduction des voies aeriennes inferieures se situe de la 1degdeg a la 16deg generation, Cette zone est cartilagineuse jusqu'a la 10deg generation et non cartilagineuse ensuite.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 94,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "28. Concernant le systeme respiratoire: ",
+            "Proposition": " La vascularisation alveolaire est tres importante et il existe de 50 a 100 capillaires par alveole.    ",
+            "Reponse": false,
+            "Justification": "C'est 10 fois plus",
             "Reference": "-"
       },
       {
             "Numero": 95,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "28. Concernant le systeme respiratoire: ",
+            "Proposition": " Il n'y a pas d'innervation directe orthosympathique au niveau des muscles lisses bronchiques.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 96,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "22. Concernant la diffusion: ",
+            "Proposition": " Dans les conditions normales, le transfert de l'O2 a travers la barriere alveolo-capillaire est limite par la diffusion.   ",
+            "Reponse": false,
+            "Justification": "C'est limitee par la perfusion",
             "Reference": "-"
       },
       {
             "Numero": 97,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "22. Concernant la diffusion: ",
+            "Proposition": " En altitude, la pression partielle en O2 du sang veineux mele est diminuee chez le sujet normal.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 98,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "22. Concernant la diffusion: ",
+            "Proposition": " La capacite de diffusion pour le CO est diminuee lors d'une fibrose pulmonaire qui reduit la surface des echanges alveolo-capillaires.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 99,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "18. Concernant la ventilation pulmonaire: ",
+            "Proposition": " La ventilation alveolaire (V_A ) represente le volume d'air frais qui atteint les alveoles a chaque cycle respiratoire.   ",
+            "Reponse": false,
+            "Justification": "C'est pas a chaque cycle mais c'est par minutes",
             "Reference": "-"
       },
       {
             "Numero": 100,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "18. Concernant la ventilation pulmonaire: ",
+            "Proposition": " Lorsque V_A  = 5 L/min et PaCO2 = 30 mm Hg, la PaCO2 sera de 60 mmHg si V_A diminue de moitie,  considerant que la production de CO2 reste inchangee.   ",
+            "Reponse": true,
+            "Justification": "Si V_A diminue de moitie alors que VCO2 reste intacte, alors PaCO2 va doubler",
             "Reference": "-"
       },
       {
             "Numero": 101,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "18. Concernant la ventilation pulmonaire: ",
+            "Proposition": " L'espace mort anatomique est la somme de l'espace mort physiologique et de l'espace mort alveolaire.    ",
+            "Reponse": false,
+            "Justification": "Faux c'est l'espace mort physiologique qui est la somme des deux autres",
             "Reference": "-"
       },
       {
             "Numero": 102,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "7. Concernant le transport des gaz: ",
+            "Proposition": " L'effet Haldane permet de doubler la quantite de CO2 liberee au niveau des alveoles pulmonaires.   ",
+            "Reponse": true,
+            "Justification": "Si ca rend compte de la moitie, c'est que grace a ca on double la quantitee de CO2 liberee",
             "Reference": "-"
       },
       {
             "Numero": 103,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "7. Concernant le transport des gaz: ",
+            "Proposition": " Une anemie reduit la capacite de transport de l'O2 par litre de sang meme lorsque la PaO2 reste inchangee.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 104,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "7. Concernant le transport des gaz: ",
+            "Proposition": " Le deplacement vers la gauche de la courbe de dissociation de HbO2 favorise la liberation tissulaire d'O2    ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 105,
+            "Question": "Q8. Concernant la ventilation pulmonaire: ",
+            "Proposition": " Dans une situation donnee, la production tissulaire de CO2 est relativement constante et la PaCO2 est un bon indicateur de la ventilation alveolaire.   ",
+            "Reponse": true,
+            "Justification": "Vu qu'ils sont inversement proportionnel l'un de l'autre, c'est un bon indicateur",
+            "Reference": "-"
+      },
+      {
+            "Numero": 106,
+            "Question": "Q8. Concernant la ventilation pulmonaire: ",
+            "Proposition": " Lorsque la frequence respiratoire est de 12 cycles/min et le volume courant de 450 ml, la ventilation alveolaire  est de 3,4L/min, sachant que le volume de l'espace mort anatomique est de 150 ml   ",
+            "Reponse": false,
+            "Justification": "12*(450-150) = 3600 = 3,6L/min",
+            "Reference": "-"
+      },
+      {
+            "Numero": 107,
+            "Question": "Q8. Concernant la ventilation pulmonaire: ",
+            "Proposition": " Lorsque PIO2 = 150 mmHg et R = 0,8, la PaO2 est de 100 mmHg si la PaCO2 est de 40 mm Hg.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 108,
+            "Question": "Q6. Concernant la mecanique respiratoire:  ",
+            "Proposition": " Lors d'un emphyseme, la CRF est augmentee en raison d'une diminution du rappel elastique du poumon.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 109,
+            "Question": "Q6. Concernant la mecanique respiratoire:  ",
+            "Proposition": " Le rapport de Tiffeneau est normal ou legerement augmente en cas de pathologie restrictive.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 110,
+            "Question": "Q6. Concernant la mecanique respiratoire:  ",
+            "Proposition": " Le debit expiratoire devient effort dependant a bas volume pulmonaire.    ",
+            "Reponse": false,
+            "Justification": "C'est effort dependant qu'a haut volume pulmonaire, a bas volume pulmonaire, peu importe a quel point tu souffles, tu vas pas sortir plus rapidement de l'air",
+            "Reference": "-"
+      },
+      {
+            "Numero": 111,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " lorsque la PaO2 se situe entre 70 et 100 mm Hg, la saturation de l'hemoglobine reste superieure a 92% et la quantite d'O2 liee a l'hemoglobine reste importante.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 112,
+            "Question": "-",
+            "Proposition": " la production tissulaire d'un organisme adulte est de + 10 mmoles de CO2 par minute et au repos, ce qui correspond a 15-20 moles de CO2 produites par jour.  ",
+            "Reponse": true,
+            "Justification": "attention a l'erreur typographique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 113,
+            "Question": "-",
+            "Proposition": " le deplacement vers la droite de la courbe de dissociation de HbO2 favorise la liberation tissulaire d'O2.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 114,
+            "Question": "-",
+            "Proposition": " la capacite maximale de l'hemoglobine pour l'O2 augmente en cas d'anemie.  ",
+            "Reponse": false,
+            "Justification": "nan elle diminue",
+            "Reference": "-"
+      },
+      {
+            "Numero": 115,
+            "Question": "-",
+            "Proposition": " la capacite de diffusion (D_L) est mesuree en clinique grace a l'utilisation de CO dont la diffusion n'est limitee que par la barriere de diffusion.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 116,
+            "Question": "-",
+            "Proposition": " dans les conditions normales, la diffusion alveolaire de l'O2 est limitee par la perfusion tandis que la  diffusion alveolaire de CO2 est limitee par la barriere de diffusion.  ",
+            "Reponse": false,
+            "Justification": "Le CO2 est aussi limitee par la perfusion",
+            "Reference": "-"
+      },
+      {
+            "Numero": 117,
+            "Question": "-",
+            "Proposition": " lors d'une respiration rapide et superficielle, la ventilation alveolaire diminue, ce qui entraine obligatoirement une diminution de la ventilation pulmonaire totale,  ",
+            "Reponse": false,
+            "Justification": "Pas obligatoirement, imaginons le cas ou y a une respiration suffisament rapide mais trop superficielle pour que l'air entre dans les alveoles et ne reste que dans l'espace mort anatomique. Etant assez rapide, on pourrait imaginer un cas ou on arrive a compenser par la vitesse le faible volume inspire a chaque cycle, et donc la respiration pulmonaire totale pourrait rester la meme, cependant vu qu'aucun volume d'air n'arrive dans les alveoles, la respiration alveolaire serait extremement diminuee (nulle dans ce cas la)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 118,
+            "Question": "-",
+            "Proposition": " la ventilation pulmonaire totale est proportionnelle a la frequence respiratoire et au volume courant. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 119,
+            "Question": "-",
+            "Proposition": " les chemorecepteurs centraux ne sont pas influences par la diminution de PaO2.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 120,
+            "Question": "-",
+            "Proposition": " la contraction des m. intercostaux externes augmente uniquement le diametre antero-posterieur de la cage thoracique. ",
+            "Reponse": false,
+            "Justification": "la question de psychopathe mdrrrrrrr",
+            "Reference": "-"
+      },
+      {
+            "Numero": 121,
+            "Question": "-",
+            "Proposition": " la cage thoracique a tendance a se distendre et a augmenter son volume.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 122,
+            "Question": "-",
+            "Proposition": " lors d'un pneumothorax gauche, le poumon gauche se retracte et la cage thoracique se distend a droite.  ",
+            "Reponse": false,
+            "Justification": "La cage thoracique se distend a gauche, la partie droite reste normale",
+            "Reference": "-"
+      },
+      {
+            "Numero": 123,
+            "Question": "-",
+            "Proposition": " le surfactant est un agent tensio-actif qui augmente la tension de surface. ",
+            "Reponse": false,
+            "Justification": "Ca diminue",
+            "Reference": "-"
+      },
+      {
+            "Numero": 124,
+            "Question": "-",
+            "Proposition": " la spirometre mesure uniquement les volumes echangeables. ",
+            "Reponse": true,
+            "Justification": "Mobilisable = echangeable. Le spirometre ne peut mesurer que les variations de volume",
+            "Reference": "-"
+      },
+      {
+            "Numero": 125,
+            "Question": "-",
+            "Proposition": " la zone de conduction des voies aeriennes inferieures s'etend de la 1deg a la 16deg generation.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 126,
+            "Question": "Q16. Concernant la diffusion des gaz: ",
+            "Proposition": " La capacite de diffusion pour le CO reste preservee lors de l'emphyseme,   ",
+            "Reponse": false,
+            "Justification": "elle diminue",
+            "Reference": "-"
+      },
+      {
+            "Numero": 127,
+            "Question": "Q16. Concernant la diffusion des gaz: ",
+            "Proposition": " Dans les conditions normales, le transfert de l'O2 a travers la barriere alveolo-capillaire est limite par la perfusion et la diffusion.    ",
+            "Reponse": false,
+            "Justification": "Dans les conditions normales, uniquement pas la perfusion",
+            "Reference": "-"
+      },
+      {
+            "Numero": 128,
+            "Question": "Q16. Concernant la diffusion des gaz: ",
+            "Proposition": " En altitude, le gradient arterio-veineux en O2 peut etre fortement reduit, suite a l'hypoxemie et a la diminution de la pression partielle en O2 du sang veineux mele.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 129,
+            "Question": "Q12. Concernant la mecanique respiratoire: ",
+            "Proposition": " La force de retour elastique du poumon depend uniquement de la tension de surface liee a l'interface air-eau au niveau des alveoles.   ",
+            "Reponse": false,
+            "Justification": "pas uniquement",
+            "Reference": "-"
+      },
+      {
+            "Numero": 130,
+            "Question": "Q12. Concernant la mecanique respiratoire: ",
+            "Proposition": " La compliance pulmonaire est determinee lors d'une courbe d'inflation, en mesurant la variation de pression au  volume correspondant a la capacite residuelle fonctionnelle + 1L.   ",
+            "Reponse": false,
+            "Justification": "Pendant la deflation",
+            "Reference": "-"
+      },
+      {
+            "Numero": 131,
+            "Question": "Q12. Concernant la mecanique respiratoire: ",
+            "Proposition": " La resistance des voies aeriennes inferieures est independante du volume pulmonaire.    ",
+            "Reponse": false,
+            "Justification": "C'est dependant vu que inversement proportionnel",
+            "Reference": "-"
+      },
+      {
+            "Numero": 132,
+            "Question": "Q34. Concernant la mecanique respiratoire: ",
+            "Proposition": " Connaissant la valeur de la capacite pulmonaire totale et du volume residuel, il est possible de calculer la capacite vitale.    ",
+            "Reponse": true,
+            "Justification": "CV = CPT-VR",
+            "Reference": "-"
+      },
+      {
+            "Numero": 133,
+            "Question": "Q32. Concernant le transport des gaz:  ",
+            "Proposition": " Lorsque la saturation de l'hemoglobine est de 90%, la PaO2 reste encore proche de 100 mmHg.    ",
+            "Reponse": false,
+            "Justification": "On est autour de 60mmHg",
+            "Reference": "-"
+      },
+      {
+            "Numero": 134,
+            "Question": "Q32. Concernant le transport des gaz:  ",
+            "Proposition": " L'effet Haldane signifie que le contenu du sang en CO2 depend de la quantite d'hemoglobine.    ",
+            "Reponse": false,
+            "Justification": "ca depend de la PO2",
+            "Reference": "-"
+      },
+      {
+            "Numero": 135,
+            "Question": "Q32. Concernant le transport des gaz:  ",
+            "Proposition": " La liberation tissulaire de l'O2 lie a HbO2 est favorisee par l'augmentation du pH (effet Bohr).    ",
+            "Reponse": false,
+            "Justification": "C'est favorise par la diminution du pH",
+            "Reference": "-"
+      },
+      {
+            "Numero": 136,
+            "Question": "Q23. Concernant la diffusion des gaz:  ",
+            "Proposition": " Le transfert du CO a travers la barriere alveolo-capillaire est limite par la diffusion compte tenu de la tres haute affinite du CO pour l'hemoglobine.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 137,
+            "Question": "Q23. Concernant la diffusion des gaz:  ",
+            "Proposition": " L'exercice musculaire important en altitude peut entrainer une hypoxemie chez le sujet normal.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 138,
+            "Question": "Q23. Concernant la diffusion des gaz:  ",
+            "Proposition": " Le transfert du N20 a travers la barriere alveolo-capillaire est limite par les caracteristiques de la barriere alveolo-capillaire dans la mesure ou le N20 ne se lie pas a l'hemoglobine.     ",
+            "Reponse": false,
+            "Justification": "C'est limitee par la perfusion car le gradient s'annule tres vite",
+            "Reference": "-"
+      },
+      {
+            "Numero": 139,
+            "Question": "Q19. Concernant le systeme respiratoire: ",
+            "Proposition": " Le shunt anatomique est un melange de sang veineux desoxygene bronchique avec le sang oxygene alveolaire qui genere une petite difference alveolo-arterielle en O2 chez l'individu normal (< 15 mm Hg).   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 140,
+            "Question": "Q19. Concernant le systeme respiratoire: ",
+            "Proposition": " La zone de conduction des voies aeriennes inferieures devient non cartilagineuse a partir des bronchioles, c'est-  a-dire a partir de la 16eme generation.    ",
+            "Reponse": false,
+            "Justification": "a partir de la 10eme",
+            "Reference": "-"
+      },
+      {
+            "Numero": 141,
+            "Question": "Q19. Concernant le systeme respiratoire: ",
+            "Proposition": " Lorsque l'altitude augmente, la PaO2 diminue en raison de la diminution de la pression atmospherique et de la FiO2.    ",
+            "Reponse": false,
+            "Justification": "Uniquement a cause de la diminution de la pression atmospherique, la fraction reste la meme",
+            "Reference": "-"
+      },
+      {
+            "Numero": 142,
+            "Question": "Q1. Concernant la diffusion des gaz: ",
+            "Proposition": " La diffusion des gaz au niveau de la barriere alveolo-capillaire depend du coefficient de diffusion du gaz et de son gradient de pression partielle de part et d'autre de cette barriere.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 143,
+            "Question": "Q1. Concernant la diffusion des gaz: ",
+            "Proposition": " Le transfert du N20 a travers la barriere alveolo-capillaire est limite par la perfusion compte tenu de l'absence  de liaison du N2O avec l'hemoglobine.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 144,
+            "Question": "Q1. Concernant la diffusion des gaz: ",
+            "Proposition": " Le CO est utilise en clinique pour mesurer la capacite de diffusion du poumon.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 145,
+            "Question": "Q33. Concernant la ventilation pulmonaire: ",
+            "Proposition": " L'equation des gaz alveolaires permet de determiner la PAO2    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 146,
+            "Question": "Q33. Concernant la ventilation pulmonaire: ",
+            "Proposition": " Lorsque la frequence respiratoire est de 20 cycles/min et le volume courant de 400 ml, la ventilation alveolaire  est de 8L/min   ",
+            "Reponse": false,
+            "Justification": "Pas ventilation alveolaire mais ventilation pulmonaire totale",
+            "Reference": "-"
+      },
+      {
+            "Numero": 147,
+            "Question": "Q33. Concernant la ventilation pulmonaire: ",
+            "Proposition": " L'espace mort alveolaire est egalement appele espace mort physiologique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 148,
+            "Question": "Q29. Concernant la mecanique respiratoire: ",
+            "Proposition": " Lorsque de l'air est introduit dans l'espace pleural, le poumon homolateral se retracte et la cage thoracique homolaterale se distend.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 149,
+            "Question": "Q29. Concernant la mecanique respiratoire: ",
+            "Proposition": " Un patient dont la CVF = 4,6 L et le VEMS = 1,4 L a tres probablement une pathologie restrictive,    ",
+            "Reponse": false,
+            "Justification": "On calcule le rapport de Tiffenau : VEMS/CVF = 1,4/4,6 = 0,3< 0,7 (la valeur normale) donc il a probablement un syndrome obstructif et non restrictif",
+            "Reference": "-"
+      },
+      {
+            "Numero": 150,
+            "Question": "Q29. Concernant la mecanique respiratoire: ",
+            "Proposition": " Lorsque la capacite residuelle fonctionnelle = 3L, la capacite inspiratoire = 3,5L et le volume courant = 0,5L, le volume de reserve inspiratoire est egal a 3L    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 151,
+            "Question": "Q28. Concernant le systeme respiratoire: ",
+            "Proposition": " La compliance specifique depend du volume pulmonaire.    ",
+            "Reponse": false,
+            "Justification": "Ne depend du volume",
+            "Reference": "-"
+      },
+      {
+            "Numero": 152,
+            "Question": "Q27. Concernant le systeme respiratoire: ",
+            "Proposition": " La circulation bronchique qui fait communiquer les veines bronchiques et les veines pulmonaires est responsable d'un shunt anatomique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 153,
+            "Question": "Q27. Concernant le systeme respiratoire: ",
+            "Proposition": " Lors d'un exercice physique, l'augmentation du debit cardiaque entraine une augmentation du debit pulmonaire  et par consequent une elevation importante de la pression pulmonaire.   ",
+            "Reponse": false,
+            "Justification": "C'est une augmentation de la frequence et non de la pression pulmonaire",
+            "Reference": "-"
+      },
+      {
+            "Numero": 154,
+            "Question": "Q27. Concernant le systeme respiratoire: ",
+            "Proposition": " A 7000 m d'altitude et en considerant que la Patm est de 0,4 atm, la PlO2 est de 54 mmHg    ",
+            "Reponse": true,
+            "Justification": "Sachant qu'il y a 21% d'O2 dans l'air, alors FIO2 = 0,21, or la pression a 7000m vaut 0,4atm = 0,4*760mmHg = 304mmHg, et PH2o = 47mmHg donc PIO2 =(P-PH2O) * FIO2 = 54 mmHg ",
+            "Reference": "-"
+      },
+      {
+            "Numero": 155,
+            "Question": "Q20. Concernant le transport des gaz: ",
+            "Proposition": " L'effet Bohr signifie que, pour une PO2 et une PCO2 donnees, la saturation de l'hemoglobine en O2 diminue lorsque le pH diminue,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 156,
+            "Question": "Q20. Concernant le transport des gaz: ",
+            "Proposition": " Chez un sujet normal, la saturation de l'hemoglobine est de 90% au niveau du sang veineux mele.    ",
+            "Reponse": false,
+            "Justification": "Non elle est plus autour de 70-75%",
+            "Reference": "-"
+      },
+      {
+            "Numero": 157,
+            "Question": "Q20. Concernant le transport des gaz: ",
+            "Proposition": " Le \"chloride shift\" ou phenomene de Hamburger explique que l'hematocrite veineux est un peu inferieur a l'hematocrite arteriel.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 158,
+            "Question": "Q2. Concernant la ventilation pulmonaire: ",
+            "Proposition": " D'apres l'equation de la ventilation alveolaire, lorsque la PaCO2 double, cela signifie que la ventilation  alveolaire a egalement double, considerant que la production de CO2 reste inchangee.    ",
+            "Reponse": false,
+            "Justification": "c'est l'inverse, elle diminue de moitie",
+            "Reference": "-"
+      },
+      {
+            "Numero": 159,
+            "Question": "Q2. Concernant la ventilation pulmonaire: ",
+            "Proposition": " L'espace mort physiologique est d'environ 150 ml et correspond a la zone de conduction des voies aeriennes ou  il n'y a pas d'echanges gazeux.   ",
+            "Reponse": false,
+            "Justification": "c'est l'espace mort anatomique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 160,
+            "Question": "Q2. Concernant la ventilation pulmonaire: ",
+            "Proposition": " La ventilation alveolaire se calcule par la formule: VA = FR * VC ou FR est la frequence respiratoire et VC est le volume courant.     ",
+            "Reponse": false,
+            "Justification": "ne pas oublier l'espace mort",
+            "Reference": "-"
+      },
+      {
+            "Numero": 161,
+            "Question": "Q32. Concernant la ventilation pulmonaire: ",
+            "Proposition": " Pour un espace mort anatomique de 150 ml et une frequence respiratoire de 20 cycles/minute, la ventilation alveolaire est de 6L/min lorsque le volume courant est de 450 mil.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 162,
+            "Question": "Q32. Concernant la ventilation pulmonaire: ",
+            "Proposition": " En altitude, la diminution de la PAO2 s'explique par la diminution de la PIO2    ",
+            "Reponse": true,
+            "Justification": "par contre FIO2 reste la meme",
+            "Reference": "-"
+      },
+      {
+            "Numero": 163,
+            "Question": "Q32. Concernant la ventilation pulmonaire: ",
+            "Proposition": " Lors d'une embolie pulmonaire, l'espace mort physiologique augmente.    ",
+            "Reponse": true,
+            "Justification": "augmentation de l'espace mort alveolaire -> augmentation de l'espace mort  physiologique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 164,
+            "Question": "Q25. Concernant le systeme respiratoire: ",
+            "Proposition": " La vascularisation alveolaire est assuree par la circulation pulmonaire et par la circulation bronchique.    ",
+            "Reponse": false,
+            "Justification": "Uniquement par la circulation pulmonaire, la circulation bronchique vascularise les bronches",
+            "Reference": "-"
+      },
+      {
+            "Numero": 165,
+            "Question": "Q25. Concernant le systeme respiratoire: ",
+            "Proposition": " Dans un melange gazeux ne contenant pas de vapeur d'eau et qui exerce une pression de 600 mmHg, le compose dont la concentration fractionnelle est de 20% exerce une pression partielle de 120 mmHg.    ",
+            "Reponse": true,
+            "Justification": "0,2*600 = 120 mmHg",
+            "Reference": "-"
+      },
+      {
+            "Numero": 166,
+            "Question": "Q12. Concernant la mecanique respiratoire: ",
+            "Proposition": " Lors d'une respiration calme, l'expiration est passive.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 167,
+            "Question": "Q12. Concernant la mecanique respiratoire: ",
+            "Proposition": " Lorsque le volume de reserve expiratoire = 1,5L et le volume de reserve inspiratoire = 2,5L, la capacite vitale est de 4L     ",
+            "Reponse": false,
+            "Justification": "Il faut pas oublier le volume courant",
+            "Reference": "-"
+      },
+      {
+            "Numero": 168,
+            "Question": "Q12. Concernant la mecanique respiratoire: ",
+            "Proposition": " Chez un individu normal, a la CRF, le rappel du poumon l'emporte sur le recul de la cage thoracique.     ",
+            "Reponse": false,
+            "Justification": "C'est a l'equilibre",
+            "Reference": "-"
+      },
+      {
+            "Numero": 169,
+            "Question": "Q11. Concernant le transport des gaz: ",
+            "Proposition": " La difference entre la pression partielle en CO2 du sang arteriel et la pression partielle en CO2 du sang veineux mele est de l'ordre de 5 a 6 mmHg   ",
+            "Reponse": true,
+            "Justification": "Vu que la PaCO2 est pareille que la PACO2, alors le gradient initial entre le capillaire et les alveoles est equivalent au gradient entre le sang veineux mele (qui rentre) et le sang arteriel (qui sort)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 170,
+            "Question": "Q11. Concernant le transport des gaz: ",
+            "Proposition": " La quantite d'O2 liee a l'hemoglobine depend uniquement de la quantite d'hemoglobine.     ",
+            "Reponse": false,
+            "Justification": "ca depend  aussi de la PO2",
+            "Reference": "-"
+      },
+      {
+            "Numero": 171,
+            "Question": "Q33. Concernant la mecanique respiratoire: ",
+            "Proposition": " Lors d'une inspiration calme, la pression intra pleurale doit suffisamment diminuer pour vaincre le retour elastique du poumon et la resistance des voies aeriennes.   ",
+            "Reponse": true,
+            "Justification": "en respirant, on abaisse la pression intrapleural dans un premier temps (en augmentant le volume intrapleural car on ecarte le diaphragme du poumon) et cette pression intrapleural en diminuant va tirer sur le poumon en essayant de vaincre le rappel elastique et le",
+            "Reference": "-"
+      },
+      {
+            "Numero": 172,
+            "Question": "Q33. Concernant la mecanique respiratoire: ",
+            "Proposition": " Le rapport de Tiffeneau est normal lorsqu'il est egal a 80%    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 173,
+            "Question": "Q33. Concernant la mecanique respiratoire: ",
+            "Proposition": " 25 a 40% de la resistance des voies aeriennes se situent au niveau des voies aeriennes superieures et 60 a 75% se situent au niveau des voies aeriennes inferieures.    ",
+            "Reponse": true,
+            "Justification": "Je sais pas pk ils disent que c'est vrai",
+            "Reference": "-"
+      },
+      {
+            "Numero": 174,
+            "Question": "Q32. Concernant le transport des gaz:  ",
+            "Proposition": " Lors d'une anemie, la capacite maximale de l'hemoglobine pour l'O2 diminue.     ",
+            "Reponse": true,
+            "Justification": "Oui psk la capacite depend de la concentration",
+            "Reference": "-"
+      },
+      {
+            "Numero": 175,
+            "Question": "Q32. Concernant le transport des gaz:  ",
+            "Proposition": " Si on augmente suffisamment la FIO2 de l'air inspire, il est possible de dissoudre une quantite importante d'O2 dans le sang et d'ameliorer ainsi le transport d'O2 vers les tissus.    ",
+            "Reponse": false,
+            "Justification": "Nan psk la solubilite de l'O2 dans le sang est trop faible donc meme si on etait a 100% en fraction inspire, ca ne serait pas suffisant",
+            "Reference": "-"
+      },
+      {
+            "Numero": 176,
+            "Question": "Q32. Concernant le transport des gaz:  ",
+            "Proposition": " L'effet Haldane signifie que l'hemoglobine reduite dans les capillaires peripheriques tissulaires facilite le transport du CO2.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 177,
+            "Question": "Q11. Concernant la diffusion des gaz: ",
+            "Proposition": " La capacite de diffusion pour le CO est rarement diminuee lors de l'emphyseme.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 178,
+            "Question": "Q11. Concernant la diffusion des gaz: ",
+            "Proposition": " Au niveau de la mer, la PIO2 est de 150 mmHg et dans les conditions normales, la PAO2 est de 104 mmHg.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 179,
+            "Question": "Q11. Concernant la diffusion des gaz: ",
+            "Proposition": " L'altitude peut entrainer une hypoxemie severe alors que la barriere de diffusion reste pourtant preservee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 180,
+            "Question": "Q10. Concernant le systeme respiratoire: ",
+            "Proposition": " Le lobule secondaire est l'unite respiratoire anatomique, limite par des travees conjonctives et comprenant 2-5 bronchioles terminales.    ",
+            "Reponse": true,
+            "Justification": "Je trouve pas de justification dans le cours",
+            "Reference": "-"
+      },
+      {
+            "Numero": 181,
+            "Question": "Q9. Concernant la mecanique respiratoire: ",
+            "Proposition": " A la fin d'une expiration calme, l'inspiration debute au niveau de la CRF.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 182,
+            "Question": "Q9. Concernant la mecanique respiratoire: ",
+            "Proposition": " Le volume residuel est le volume qui demeure dans les poumons apres une expiration normale.    ",
+            "Reponse": false,
+            "Justification": "Apres une expiration forcee",
+            "Reference": "-"
+      },
+      {
+            "Numero": 183,
+            "Question": "Q9. Concernant la mecanique respiratoire: ",
+            "Proposition": " A la valeur de la CPT, la force de rappel elastique du poumon est la plus elevee.    ",
+            "Reponse": true,
+            "Justification": "Logique vu que CPT = max du volume et que le poumon c'est comme un elastique qui veut reprendre sa forme initiale",
+            "Reference": "-"
+      },
+      {
+            "Numero": 184,
+            "Question": "Q10. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Grace au phenomene de recrutement et de distension, les resistances vasculaires pulmonaires diminuent a l'effort.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 185,
+            "Question": "Q10. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'investigation des mecanismes d'une hypertension pulmonaire necessite une evaluation du debit cardiaque,  des resistances vasculaires pulmonaires et des pressions d'oreillette gauche.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 186,
+            "Question": "Q10. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La vasoconstriction pulmonaire hypoxique peut etre benefique en diminuant le shunt.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 187,
+            "Question": "Q3. Concernant l'exercice, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Au terme d'un effort important chez un sujet normal d'age moyen, les resultats de mesure suivants sont classiques: frequence cardiaque : 175/min; VE : 180 L/min et VO2 : 3000 ml/min    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 188,
+            "Question": "Q3. Concernant l'exercice, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le seuil ventilatoire est le moment ou la VCO2 augmente moins que la VO2    ",
+            "Reponse": false,
+            "Justification": "ca existe pas seuil ventilatoire dans son cours donc jpense elle parle du seuil anaerobie",
+            "Reference": "-"
+      },
+      {
+            "Numero": 189,
+            "Question": "Q3. Concernant l'exercice, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Au cours d'un effort progressif chez un sujet, la charge passe de 20 a 40 puis 80 watts et la VO2 de 250 a 500 puis 1000 ml/min. Ce resultat est coherent.    ",
+            "Reponse": true,
+            "Justification": "Coherent car c'est cense augmenter de maniere lineaire avant le seuil anaerobique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 190,
+            "Question": "Q35. Concernant la diffusion pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En physiopathologie, le trouble de la diffusion est le principal facteur responsable d'une AaPO2 elevee.   ",
+            "Reponse": false,
+            "Justification": "Pas que la diffusion, ca peut aussi etre a cause du shunt ou du rapport Q/VA",
+            "Reference": "-"
+      },
+      {
+            "Numero": 191,
+            "Question": "Q35. Concernant la diffusion pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La diffusion pulmonaire augmente a l'exercice car le facteur resistance a la diffusion dans le globule rouge et a la combinaison chimique dans le globule rouge diminue.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 192,
+            "Question": "Q35. Concernant la diffusion pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La diffusion du CO est principalement liee a la diffusion comme celle de tout gaz inerte.    ",
+            "Reponse": false,
+            "Justification": "Le gaz inerte vu qu'il interagit avec personne il va vite combler le gradient de pression -> sera limitee par la perfusion et non par la diffusion",
+            "Reference": "-"
+      },
+      {
+            "Numero": 193,
+            "Question": "Q24. Concernant l'air alveolaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La concentration fractionnaire de l'oxygene qui s'y trouve baisse quand l'altitude augmente.   ",
+            "Reponse": false,
+            "Justification": "Non FIO2 reste intacte, c'est juste la pression atmospherique qui diminue avec l'altitude",
+            "Reference": "-"
+      },
+      {
+            "Numero": 194,
+            "Question": "Q24. Concernant l'air alveolaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Pendant la respiration, la pression partielle en CO2 y est superieure a tout moment a celle mesuree a la bouche du sujet.   ",
+            "Reponse": false,
+            "Justification": "A la fin de l'expiration, l'air vicie sera au niveau de la bouche a la pression partiel du CO2 eleve tandis que dans les alveoles, qui a ete un peu nettoye, ca sera juste un peu inferieur",
+            "Reference": "-"
+      },
+      {
+            "Numero": 195,
+            "Question": "Q24. Concernant l'air alveolaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La pression partielle en O2 est inferieure a celle de l'air inspire car l'O2 y est capte et le CO2 rejete, De plus, l'air y est sature en vapeur d'eau.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 196,
+            "Question": "Q14. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La CPT resulte de l'equilibre entre le rappel elastique du poumon et la force des muscles inspiratoires.   ",
+            "Reponse": false,
+            "Justification": "faux c'est la CRF",
+            "Reference": "-"
+      },
+      {
+            "Numero": 197,
+            "Question": "Q14. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une CPT de 6300 ml, une CRF de 3400 ml, un VRE de 1400 ml, un volume courant de 500 ml, un VRI de 3000 ml, une CI de 3000 ml et un VR de 2000 mi sont des valeurs compatibles entre-elles.   ",
+            "Reponse": false,
+            "Justification": "CPT = CRF + VC + VRI et la ca fonctionne pas",
+            "Reference": "-"
+      },
+      {
+            "Numero": 198,
+            "Question": "Q14. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les volumes mobilisables sont mesures par plethysmographie corporelle.    ",
+            "Reponse": false,
+            "Justification": "Les volumes mobilisables sont mesure par spirometrie, ceux non mobilisables sont mesuree par plethysmographie",
+            "Reference": "-"
+      },
+      {
+            "Numero": 199,
+            "Question": "Q13. Concernant la cascade de l'oxygene, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hypoxemie liee a une hypoventilation alveolaire, un trouble de la diffusion, un shunt ou une alteration des rapports ventilation/perfusion est toujours associee a une elevation de la PaCO2 qui sera corrigee par l'activation des chemorecepteurs sauf dans le cas de l'hypoventilation alveolaire.     ",
+            "Reponse": true,
+            "Justification": "Honnetement celle la j'ai pas compris et je trouve pas dans le cours mais c'est Vrai askip",
+            "Reference": "-"
+      },
+      {
+            "Numero": 200,
+            "Question": "Q13. Concernant la cascade de l'oxygene, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une hypoventilation alveolaire va alterer la AaPO2    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 201,
+            "Question": "Q13. Concernant la cascade de l'oxygene, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Dans cette cascade, PA precede Pa qui precede Pc.    ",
+            "Reponse": false,
+            "Justification": "PA puis Pc puis Pa",
+            "Reference": "-"
+      },
+      {
+            "Numero": 202,
+            "Question": "Q12. Concernant l'airway closure (fermeture des voies aeriennes), caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Elle est plus importante a la base du poumon en position debout.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 203,
+            "Question": "Q12. Concernant l'airway closure (fermeture des voies aeriennes), caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Elle augmente avec l'age chez le sujet normal.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 204,
+            "Question": "Q12. Concernant l'airway closure (fermeture des voies aeriennes), caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Elle augmente la AaPO2    ",
+            "Reponse": true,
+            "Justification": "En diminuant la PaO2, on augmente la difference entre PAO2 et PaO2 et donc la AaO2",
+            "Reference": "-"
+      },
+      {
+            "Numero": 205,
+            "Question": "Q4. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La CRF diminue en position couchee.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 206,
+            "Question": "Q4. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " CI = CPT - VRE - VR    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 207,
+            "Question": "Q3. Concernant l'airway closure (fermeture des voies aeriennes), caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " Elle est un des facteurs responsables de la baisse de la PaO2 avec l'age.      ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 208,
+            "Question": "Q3. Concernant l'airway closure (fermeture des voies aeriennes), caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " Elle est affectee par la gravite.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 209,
+            "Question": "Q3. Concernant l'airway closure (fermeture des voies aeriennes), caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " Elle n'existe jamais a la CRF.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 210,
+            "Question": "Q39. Concernant la ventilation et les volumes, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un VEMS de 3000 ml et une CVF de 3000 ml sont physiologiquement impossibles.   ",
+            "Reponse": true,
+            "Justification": "Il ne faut pas oublier qu'a bas volume, l'expiration n'est pas effort dependant donc on ne peux pas vider son poumon plus rapidement qu'une seconde peut importe l'effort qu'on y met",
+            "Reference": "-"
+      },
+      {
+            "Numero": 211,
+            "Question": "Q39. Concernant la ventilation et les volumes, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Si un volume courant de 600 ml (espace mort de 150 mil} est double avec une frequence respiratoire constante, la PaCO2 passera de 40 a 17 mmHg.   ",
+            "Reponse": true,
+            "Justification": "1200-150 = 1050ml, VCO2 = 40mmHg * K * nbCycle*(600-150) = 40mmHg / K * nbCycle* 450, donc PACO2 = K * 40mmHg / K *  nbCycle * 450 / nbCycle*1050 = 40*450/1050 = 17,14mmHg",
+            "Reference": "-"
+      },
+      {
+            "Numero": 212,
+            "Question": "Q39. Concernant la ventilation et les volumes, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " CPT diminue et VEMS/CVF diminue : c'est la conjonction d'un trouble obstructif et d'un trouble restrictif.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 213,
+            "Question": "Q38. Concernant l'analyse de resultats d'examens des gaz du sang, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le contenu en O2 est une fonction pratiquement lineaire de la saturation en O2   ",
+            "Reponse": true,
+            "Justification": "emphasis sur le pratiquement",
+            "Reference": "-"
+      },
+      {
+            "Numero": 214,
+            "Question": "Q38. Concernant l'analyse de resultats d'examens des gaz du sang, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La PaO2 et le contenu en O2 sont diminues lors d'une intoxication au monoxyde de carbone.    ",
+            "Reponse": false,
+            "Justification": "La PaO2 reste normale",
+            "Reference": "-"
+      },
+      {
+            "Numero": 215,
+            "Question": "Q38. Concernant l'analyse de resultats d'examens des gaz du sang, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En administrant de l'O2 a concentration fractionnaire maximale chez un sujet normal, on ne doit pas etre etonne si la PaO2 depasse 500 mmHg.    ",
+            "Reponse": true,
+            "Justification": "sachant qu'a FIO2 normal on est a 21% pour 104mmHg, a 100% (qui est 5 fois plus concentre) on sera au dessus de 500mmHg",
+            "Reference": "-"
+      },
+      {
+            "Numero": 216,
+            "Question": "Q37. Concernant les muscles respiratoires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une transsection cervicale D1 est associee a une paralysie de tous les muscles inspiratoires primaires.    ",
+            "Reponse": false,
+            "Justification": "D1 = Th1, or le nerf phrenique sort de C3,C4 et C5 donc il reste intacte",
+            "Reference": "-"
+      },
+      {
+            "Numero": 217,
+            "Question": "Q37. Concernant les muscles respiratoires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le diaphragme a une action inspiratoire sur le gril costal inferieur.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 218,
+            "Question": "Q37. Concernant les muscles respiratoires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'augmentation de pression pleurale est responsable de l'ascension inspiratoire du diaphragme paralyse.    ",
+            "Reponse": false,
+            "Justification": "L'augmentation de la pression pleural va pousser le diaphragme vers le bas, cela aurait ete correct si on aurait parle de diminution de la pression pleural",
+            "Reference": "-"
+      },
+      {
+            "Numero": 219,
+            "Question": "Q37. Concernant la ventilation et les volumes, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un VEMS s'exprime en unite de volume par seconde.   ",
+            "Reponse": false,
+            "Justification": "C'est juste un volume puisqu'on sait deja que ca se passe en une seconde. Si on avait du faire une moyenne sur un laps de temps plus long, on aurait pu l'exprimer en volume par seconde",
+            "Reference": "-"
+      },
+      {
+            "Numero": 220,
+            "Question": "Q37. Concernant la ventilation et les volumes, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Si on maintient une ventilation minute constante en augmentant la frequence respiratoire, la PaCO2 augmentera.   ",
+            "Reponse": true,
+            "Justification": "Si l'on maintient la ventilation minute constante en augmentant la frequence respiratoire, cela veut dire que le volume courant diminue. Or si le volume courant diminue, alors que le volume mort ne change pas, ca veut dire que le volume d'air qui arrive a l'espace alveolaire diminue de ouf et donc la ventilation alveolaire aussi diminue (et la frequence respiratoire bien qu'elle augmente, n'arrive pas a compenser cette diminution). Du coup la ventilation alveolaire ayant diminue va faire monter la PaCO2 d'apres l'equation de la ventilation alveolaire",
+            "Reference": "-"
+      },
+      {
+            "Numero": 221,
+            "Question": "Q37. Concernant la ventilation et les volumes, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " VEMS/CVF qui diminue avec VEMS qui diminue de fou et CVF  qui diminue est signe un trouble ventilatoire obstructif ; il faudra evaluer la CPT pour confirmer/infirmer l'existence d'un trouble restrictif surajoute.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 222,
+            "Question": "Q32. Concernant la cascade de l'oxygene, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La AaPO2 n'est pas influencee par la ventilation alveolaire.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 223,
+            "Question": "Q19. Concernant l'analyse de resultats d'examens des gaz du sang, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le contenu en O2 est une fonction virtuellement lineaire de la saturation en O2.    ",
+            "Reponse": true,
+            "Justification": "ils sont insupportables a jouer sur les mots genre virtuellement cv dire quoi ptdr",
+            "Reference": "-"
+      },
+      {
+            "Numero": 224,
+            "Question": "Q19. Concernant l'analyse de resultats d'examens des gaz du sang, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Si la PaCO2 double, c'est que la ventilation alveolaire a ete divisee par deux.   ",
+            "Reponse": true,
+            "Justification": "qu'est ce que jt'aime l'equation de la ventilation alveolaire",
+            "Reference": "-"
+      },
+      {
+            "Numero": 225,
+            "Question": "Q19. Concernant l'analyse de resultats d'examens des gaz du sang, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le shunt est la seule situation ou administrer de l'O2 ne permettra pas de corriger l'hypoxemie au niveau espere.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 226,
+            "Question": "Q14. Concernant l'air alveolaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Il est idealement analyse sur tout l'air expire collecte dans un grand sac.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 227,
+            "Question": "Q14. Concernant l'air alveolaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Pendant la respiration calme, il est sature en vapeur d'eau   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 228,
+            "Question": "Q14. Concernant l'air alveolaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La pression partielle en O2 chute par rapport a celle de l'air inspire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 229,
+            "Question": "Q10. Concernant la diffusion pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En physiopathologie, elle est probablement le facteur le moins important d'une AaPO2 elevee.   ",
+            "Reponse": true,
+            "Justification": "probablement",
+            "Reference": "-"
+      },
+      {
+            "Numero": 230,
+            "Question": "Q10. Concernant la diffusion pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Elle a une composante membranaire et vasculaire.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 231,
+            "Question": "Q10. Concernant la diffusion pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La loi de Boyle permet sa mesure.    ",
+            "Reponse": false,
+            "Justification": "ca permet juste de savoir que PV = cste mais ca aide pas a calculer la capacite de diffusion",
+            "Reference": "-"
+      },
+      {
+            "Numero": 232,
+            "Question": "Q38. La respiration calme est liee principalement a l'action d'un groupe de muscles inspiratoires. Parmi les trois  propositions suivantes, caracteriser par Vrai ou Faux chacune des propositions.  ",
+            "Proposition": " Les muscles parasternaux en font partie.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 233,
+            "Question": "Q38. La respiration calme est liee principalement a l'action d'un groupe de muscles inspiratoires. Parmi les trois  propositions suivantes, caracteriser par Vrai ou Faux chacune des propositions.  ",
+            "Proposition": " Le diaphragme agit sur le gril costal et l'abdomen.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 234,
+            "Question": "Q38. La respiration calme est liee principalement a l'action d'un groupe de muscles inspiratoires. Parmi les trois  propositions suivantes, caracteriser par Vrai ou Faux chacune des propositions.  ",
+            "Proposition": " La paralysie de l'un d'eux amenera souvent a une respiration paradoxale.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       }
