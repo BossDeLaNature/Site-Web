@@ -4,13 +4,13 @@
             "Question": "Q36. Concernant l'hypophyse, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La somatostatine est egalement un neuromediateur hypothalamique qui exerce un effet inhibiteur sur les cellules thyreotropes et sur les cellules somatotropes de l'hypophyse anterieure.   ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "SST = somatostatine",
             "Reference": "-"
       },
       {
             "Numero": 2,
             "Question": "Q36. Concernant l'hypophyse, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": ".Tous les patients porteurs d'une hyperthyroidie primaire ont une TSH basse.   ",
+            "Proposition": "Tous les patients porteurs d'une hyperthyroidie primaire ont une TSH basse.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -20,7 +20,7 @@
             "Question": "Q36. Concernant l'hypophyse, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La compression de la tige pituitaire par une lesion invasive s'accompagne toujours d'une augmentation de la prolactine plasmatique.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "pas toujours mais parfois",
             "Reference": "-"
       },
       {
@@ -36,13 +36,13 @@
             "Question": "Q2. Concernant les surrenales, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Une corticotherapie au long cours peut induire une hyperpigmentation cutanee    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "Au cours d'une corticotherapie, il y a une diminution de l'ACTH, or l'hyperpigmentation cutanee est un signoe de l'augmentation d'ACTH",
             "Reference": "-"
       },
       {
             "Numero": 6,
             "Question": "Q2. Concernant les surrenales, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Lors d'une hyponatremie hypo-osmolaire avec Un/Uk > 1, s'il existe egalement une hyperkaliemie et si la renine est elevee, le diagnostic d'hypo-aldosteronisme primaire est possible.    ",
+            "Proposition": " Lors d'une hyponatremie hypo-osmolaire avec U_Na/U_K > 1, s'il existe egalement une hyperkaliemie et si la renine est elevee, le diagnostic d'hypo-aldosteronisme primaire est possible.    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -60,7 +60,7 @@
             "Question": "Q23. Concernant l'hypophyse, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La secretion d'ACTH par les cellules corticotropes de l'hypophyse anterieure est cyclique et pulsatile, etant maximale vers 18h.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "est maximale avant midi et minimal vers minuit",
             "Reference": "-"
       },
       {
@@ -68,15 +68,15 @@
             "Question": "Q23. Concernant l'hypophyse, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Lors d'une hyperthyroidie primaire avec TSH indetectable, il n'y a jamais de goitre.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "Pas jamais",
             "Reference": "-"
       },
       {
             "Numero": 10,
             "Question": "Q16. Concernant les surrenales, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Au niveau des cellules possedant le recepteur aux mineralocorticoides, le cortisol est active en cortisone par la 118-HS02 et peut ainsi exercer ses effets mineralocorticoides.   ",
+            "Proposition": " Au niveau des cellules possedant le recepteur aux mineralocorticoides, le cortisol est active en cortisone par la 11beta-HSD2 et peut ainsi exercer ses effets mineralocorticoides.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "est inactive",
             "Reference": "-"
       },
       {
@@ -84,7 +84,7 @@
             "Question": "Q16. Concernant les surrenales, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " L'hyperstimulation de l'axe corticotrope peut induire une hyperpigmentation cutanee via la liaison du cortisol au recepteur MC1 du melanocyte.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "C'est l'acth qui se lie au recepteur",
             "Reference": "-"
       },
       {
