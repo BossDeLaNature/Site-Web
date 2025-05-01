@@ -47,7 +47,9 @@ def correction_text(text):
     dico.append("b})")
     dico.append("a})")
     dico.append("Q9%6)")
+    dico.append("©)")
     text = text.replace("Vrai ou Faux", "999")
+    text = text.replace("(AA)", "227")
     text = text.replace("(Hb)", "888")
     text = text.replace("(Hb}", "888")
     text = text.replace("Hb)", "887")
@@ -69,17 +71,24 @@ def correction_text(text):
     text = text.replace("b) Faux","45678")
     text = text.replace("a}) Vrai", "12345")
     text = text.replace("b)) Faux","45678")
-    text = text.replace("a)} Vrai", "12345")
+    text = text.replace("a)) Vrai", "12345")
+    text = text.replace("b)) Faux","45678")
+    text = text.replace("a)) Vrai", "12345")
+    text = text.replace("b)) Faux","45678")
+    text = text.replace("a)) Vrai", "12345")
     text = text.replace("b)) Faux","45678")
     text = text.replace("b} Faux","45678")
     text = text.replace("\n"," ")
-    text = text.replace("Vrai", "")
-    text = text.replace("Faux","")
+    text = text.replace("Vrai", "12345")
+    text = text.replace("Faux","45678")
+    text = text.replace("plasma)", "334")
     for i in range(len(dico)):
         text = text.replace(dico[i], "\n")
     text = text.replace("999", "Vrai ou Faux")
     text = text.replace("888", "(Hb)")
     text = text.replace("887", "Hb)")
+    text = text.replace("227","(AA)")
+    text = text.replace("334", "plasma)")
     return text
 
 
@@ -125,7 +134,7 @@ Donnees = pd.DataFrame({'Question' : ["Paris"], \
                         columns = ["Question","Proposition","Reponse","Reference"])
 
 
-for i in range(18):
+for i in range(1):
     # Reading an image in default mode:
     inputImage = cv2.imread("pdf/out"+str(i)+".jpg")
     inputCopy = inputImage.copy()
@@ -239,7 +248,7 @@ for i in range(18):
 
 Donnees = Donnees.drop(0)
 
-Donnees.to_excel('test.xlsx', index=True)
+Donnees.to_excel('test_endocrino.xlsx', index=True)
 
         
         

@@ -2,840 +2,3144 @@
       {
             "Numero": 1,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Contrairement a la secretion salivaire, la tonicite du liquide pancreatique est independante du debit secretoire,  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 2,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion hydro-electrolytique (HE) canalaire represente + 75% de la secretion HE pancreatique.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 3,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le trypsinogene est le principal constituant de la secretion proteique acinaire pancreatique. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 4,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion gastrique est une secretion purement hydro-electrolytique, formee de HCI et de NaHCO2 et qui represente + 2L/j.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 5,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": ".Lorsque le debit de la secretion acide est stimule, la concentration de Hdeg augmente tandis que la concentration de Na'diminue.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 6,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors du vomissement, la sensation de haut le coeur precede les manifestations autonomes.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 7,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'accommodation de la region proximale de l'estomac est un reflexe mixte (vago-vagal et intrinseque). ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 8,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La vidange gastrique depend de la composition ou de la consistance des aliments. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 9,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La dyspepsie est un symptome qui peut se manifester par une sensation de repletion precoce et etre  favorisee par la vagotomie. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 10,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La salive primaire est un liquide isotonique, dont la composition ionique se rapproche de celle du plasma. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 11,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les medicaments a effet anti-cholinergiques peuvent etre responsables d'hypersialorrhee. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 12,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La stimulation orthosympathique induit une secretion de salive peu abondante et riche en mucus.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 13,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors de la deglutition, la phase oesophagienne est la plus courte. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 14,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le sphincter oesophagien superieur est un muscle lisse. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 15,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Il existe une faible absorption des nutriments au niveau de l'oesophage.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 16,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le systeme nerveux enterique est le systeme nerveux autonome intrinseque de l'appareil digestif. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 17,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La motilite du tube digestif assure la progression et la digestion des aliments ingeres. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 18,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La frequence du rythme electrique de base est identique au niveau des differents segments du tube digestif.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 19,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La vascularisation hepatique est mixte, assuree par la veine porte (1/3) et l'artere hepatique (2/3). ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 20,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le GIP (Gastrolntestinal Peptide) ralentit la vidange gastrique et evite une arrivee trop rapide du contenu gastrique dans le duodenum.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 21,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le reflexe peristaltique qui assure la propulsion des aliments au niveau de l'intestin grele est un reflexe de type long.   [] = 0  [1 LL  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 22,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La phase gastrique de la secretion acide est la plus importante sur le plan quantitatif et comprend deux composantes, mecanique et chimique.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 23,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors de la phase cephalique de la secretion pancreatique, la secretion est essentiellement acinaire et stimulee par l'acetylcholine (voie neurocrine).  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 24,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le reflexe conditionne est une stimulation de la secretion salivaire par une stimulation buccale. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 25,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Un ictere s'accompagne de selles decolorees lorsque les urobilinogenes fecaux augmentent.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 26,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La variabilite genetique des OATPSs (Organic Anion Transporting Polypeptide), situes au niveau de la membrane basolaterale de l'hepatocyte, peut expliquer les differences de pharmacocinetique entre les individus.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 27,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'hepcidine est un peptide de 25 aa, principalement synthetise par les hepatocytes, qui controle la sortie  tissulaire de fer et evite l'exces de fer plasmatique. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 28,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les cholangiocytes assurent 25% de la secretion biliaire. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 29,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les hepatocytes de la zone I ou periportale sont les mieux oxygenes et sont specialises dans les fonctions metaboliques du foie.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 30,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les cellules stellees sont activees au repos et deviennent quiescentes lors d'une agression hepatique.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 31,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le fer quitte l'enterocyte duodenal, sous forme de Fe\", en etant transporte par la ferroportine basolaterale. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 32,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'intolerance au lactose est un deficit en lactase, responsable de maldigestion et de malabsorption du  lactose.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 33,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La vitamine D (1,25-OH}D:) controle l'absorption paracellulaire de Ca\" sur toute la longueur du grele. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 34,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Chez le sujet normal, l'intestin grele et le colon absorbent chaque jour 80% de la charge hydrique qui leur est presentee. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 35,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'ezetimibe inhibe l'absorption grele de cholesterol, en se fixant sur le recepteur NPCILI.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 36,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le grele peut absorber des dipeptides et des tripeptides.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 37,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les complexes moteurs migrants interdigestifs sont immediatement abolis par l'ingestion alimentaire, ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 38,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion intestinale de CT est elevee a l'etat basal. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 39,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les toxines infectieuses du cholera et d'E. Coli inhibent le symport SGLTI.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 40,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La steatorrhee apparait precocement lors d'une pancreatite chronique, lorsque la production de lipase devient inferieure a 90% de sa production normale.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 41,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le peristaltisme est un reflexe court, integre au niveau du systeme nerveux enterique, en reponse a la distension ou a la stimulation chimique locale de la paroi du tube digestif.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 42,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La segmentation se produit constamment au niveau du grele, ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 43,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion grele est une secretion hydro-electrolytique d'environ 1L/jour et qui est depourvue d'enzymes. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 44,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La digestion du chyme qui arrive dans l'intestin grele est assuree par la motilite grele et par l'action d'enzymes luminales et d'enzymes membranaires de la bordure en brosse.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 45,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'intestin grele absorbe plus d'eau que le colon et avec un rendement superieur. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 46,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La cellule principale secrete egalement le facteur intrinseque qui intervient lors du processus d'absorption de la vitamine B12. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 47,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La composition ionique du liquide gastrique est independante du debit secretoire.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 48,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La gastrine stimule la secretion acide, principalement par son action directe sur la cellule parietale. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 49,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'accommodation du fundus est un reflexe mixte, cad vago-vagal et intrinseque. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 50,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'activite pacemaker de l'estomac se situe au niveau du tiers moyen de la grande courbure. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 51,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Au niveau du fundus, le potentiel membranaire de repos des cellules musculaires est superieur au seuil de  contraction, expliquant ainsi les contractions toniques a ce niveau. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 52,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors du reflux gastro-aesophagien pathologique, les symptomes ORL et respiratoires sont frequents. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 53,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La phase oesophagienne de la deglutition se caracterise par une onde de peristaltisme primaire qui propulse le bol alimentaire vers l'estomac a la vitesse de 3 a 5 cm/sec  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 54,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le peristaltisme secondaire qui est un reflexe intrinseque survient egalement lors de la deglutition. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 55,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les glandes sub-linguales sont des glandes muqueuses mais contiennent quelques acini sereux. Elles sont innervees par le nerf VII et assurent 5% de la secretion salivaire basale.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 56,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'innervation des glandes salivaires principales depend du systeme nerveux autonome et est mixte, a la fois parasympathique et orthosympathique dont les effets sont similaires et stimulateurs.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 57,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les glandes salivaires accessoires sont globalement visqueuses, innervees par le nerf IX et assurent 5% de la secretion salivaire basale. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 58,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'hyposialie est un symptome qui est tres souvent d'origine iatrogene, causee par des medicaments qui ont un effet parasympathicolytique.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 59,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lorsque le debit salivaire est eleve, la tonicite de la salive est proche de celle du plasma  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 60,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'acetylcholine stimule la secretion acinaire salivaire via un recepteur M3 basolateral et via la voie du Ca\"  intracellulaire qui entraine une secretion hydro-electrolytique predominante. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 61,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le reflexe peristaltique est un reflexe mixte du tube digestif,  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 62,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Au niveau du tube digestif, le systeme parasympathique est globalement stimulateur meme si 1l induit la relaxation des sphincters.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 63,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'innervation du tube digestif est uniquement autonome, assuree par le systeme nerveux intrinseque et par  le systeme nerveux extrinseque. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 64,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La stimulation salivaire acinaire par un agent fl adrenergique entraine une secretion proteique predominante via la voie de l'AMPc. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 65,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lorsque le debit salivaire est faible, la salive est isotonique.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 66,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La salive definitive provient de la modification de la salive primaire par les canaux stries. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 67,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les glandes parotides sont innervees par le nerf IX et assurent 20% de la secretion salivaire basale. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 68,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les antidepresseurs ayant un effet anti-cholinergique peuvent entrainer une hyposialorrhee qui se manifeste par de la xerostomie.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 69,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion salivaire basale est d'environ 5 ml/min ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 70,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La digestion des nutriments est uniquement intraluminale,  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 71,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le systeme nerveux autonome extrinseque du tube digestif est forme par le plexus sous muqueux de Meissner et par le plexus myenterique d'Auerbach.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 72,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le sphincter anal externe est un muscle lisse. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 73,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Une anemie megaloblastique peut etre liee a une carence en vitamine B12 ou en acide folique. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 74,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le grele peut parfois absorber des disaccharides. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 75,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La toxine du cholera CTX inhibe egalement l'absorption electroneutre de NaCT en inhibant l'echangeur  Na /Hdeg (NHE3). ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 76,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les icteres a bilirubine conjuguee s'accompagnent toujours de bilirubinurie mais d'une urobilinurie variable.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 77,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors d'un repas, la CCK provoque la contraction de la vesicule biliaire par une action indirecte (reflexe vago-vagal) et directe (endocrine).  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 78,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La bile ductulaire, qui represente 75% de la secretion biliaire, provient de la modification de la bile canaliculaire par les cholangiocytes qui realisent une secretion alcaline. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 79,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La steatorrhee est une diarrhee graisseuse (> 200g selles/j) avec selles liquides et flottantes qui apparait precocement lors d'une insuffisance pancreatique.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 80,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion pancreatique represente + 1,5L/j d'un liquide alcalin, riche en NaHCO2, et egalement riche en proteines qui sont majoritairement des enzymes.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 81,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretine est le principal regulateur hormonal de la secretion acinaire et la CCK est le principal regulateur paracrine de la secretion canalaire. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 82,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " 100g d'un aliment qui contient 5g de glucide et dont l'index glycemique = 50, represente une charge glycemique de 2,5 qui est une charge faible,  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 83,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'absorption grele du cholesterol se fait par endocytose par recepteur interpose. Ce processus est inhibe par l'ezetimibe.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 84,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors d'une intolerance au lactose, la production de H;, de CO2 ou de CH, au niveau grele explique le ballonnement abdominal dont se plaignent regulierement les patients intolerants. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 85,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion hydro-electrolytique (HE) acinaire represente + 25% de la secretion HE pancreatique. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 86,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion pancreatique stimulee est isotonique et alcaline, etant considerablement enrichie en HCO2 (+110 mEg/L).  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 87,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'hydrolyse intraluminale des peptides genere 40% d'acides amines et 60% d'oligopeptides. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 88,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion biliaire ductulaire est alcaline et stimulee par la secretine.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 89,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les icteres a bilirubine non conjuguee s'accompagnent toujours d'une augmentation de l'urobilirubinurie mais d'une absence de bilirubinurie.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 90,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les cellules stellees sont situees dans l'espace de Disse. Elles sont activees lors d'une agression hepatique  chronique et sont responsables du developpement de la fibrose hepatique. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 91,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les triglycerides representent 90-95% des apports quotidiens de lipides dans les pays occidentaux. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 92,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'absorption de tous les glucides est limitee par leur digestion membranaire. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 93,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Un aliment qui a un index glycemique de 45 signifie que l'ingestion de 50 g de cet aliment augmente la  glycemie a une valeur qui atteint 45% de celle obtenue par 50g de glucose. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 94,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Une carence importante en vitamine B12 s'accompagne egalement d'une diminution de l'homocysteine. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 95,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'intolerance au lactose est une maldigestion du lactose qui entraine sa malabsorption et qui est liee a un deficit d'activite lactasique pouvant etre primaire ou secondaire.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 96,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le grele peut absorber des dipeptides et des tripeptides, voir meme des tetrapeptides. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 97,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La dyspepsie peut etre liee a un defaut de l'accommodation gastrique.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 98,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La vidange gastrique des glucides est plus rapide que celle des proteines et des lipides qui ont un temps de vidange quasi similaire.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 99,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les deux tiers distaux du corps gastrique et l'antre sont le siege de contractions toniques et constituent la  \"pompe antrale\".  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 100,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La secretion hydro-electrolytique gastrique est constituee de HCTI et de NaHCO2  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 101,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La somatostatine est l'inhibiteur majeur de la secretion gastrique acide, agissant directement par voie paracrine et endocrine et agissant indirectement par voie paracrine.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 102,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La plupart des agents qui stimulent la secretion acide parietale stimulent egalement la secretion des  pepsinogenes par les cellules principales. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 103,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La phase pharyngee de la deglutition est involontaire et dure environ 0,5 sec ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 104,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La relaxation receptive de l'estomac est une chute de pression intragastrique qui prepare la partie proximale de l'estomac a recevoir le bol alimentaire,  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 105,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le reflux gastro-aesophagien pathologique est un reflux de liquide gastrique de longue duree, frequent,  symptomatique, diurne ou noctume, qui s'accompagne toujours de lesions d'oesophagite. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 106,
+            "Question": "10. Concernant les glucides: ",
+            "Proposition": " Les glucides ne sont absorbes que sous forme de monomeres.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 107,
+            "Question": "10. Concernant les glucides: ",
+            "Proposition": " Un regime dont la charge glycemique est faible peut etre obtenu par la prise de petites portions d'aliments dont l'index glycemique est eleve.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 108,
+            "Question": "10. Concernant les glucides: ",
+            "Proposition": " Une intolerance au lactose n'est jamais complete dans la mesure ou l'activite lactasique deficiente peut etre partiellement remplacee par d'autres enzymes de la bordure en brosse.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 109,
+            "Question": "8. Concernant l'estomac: ",
+            "Proposition": " La vidange gastrique des glucides est plus rapide que celle des proteines, celle-ci etant cependant plus lente que la vidange gastrique des graisses.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 110,
+            "Question": "8. Concernant l'estomac: ",
+            "Proposition": " En dehors d'un repas, l'estomac est le siege des complexes moteurs migrants interdigestifs qui debutent  environ deux heures apres un repas, au niveau du tiers moyen du corps gastrique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 111,
+            "Question": "8. Concernant l'estomac: ",
+            "Proposition": " L'accommodation du fundus permet de recevoir une quantite consequente de bol alimentaire sans augmentation notable de la pression intra-gastrique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 112,
+            "Question": "7. Concernant le grele: ",
+            "Proposition": " Avant d'etre absorbe, l'acide folique alimentaire, ingere sous forme de PteGlu 7, est hydrolyse en PteGlul par une exopeptidase de la bordure en brosse des cellules villositaires du jejunum.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 113,
+            "Question": "7. Concernant le grele: ",
+            "Proposition": " Seul le fer non hemique est absorbe au niveau du duodenum.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 114,
+            "Question": "7. Concernant le grele: ",
+            "Proposition": " Le calcium est egalement absorbe passivement et par la voie paracellulaire sur toute la longueur du grele.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 115,
+            "Question": "1. Concernant la digestion et l'absorption du grele: ",
+            "Proposition": " Le cholesterol est absorbe au niveau de l'enterocyte via un processus d'endocytose mediee par le recepteur NPCILI apical.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 116,
+            "Question": "1. Concernant la digestion et l'absorption du grele: ",
+            "Proposition": " Le facteur intrinseque est produit par les cellules principales des glandes gastriques et la liaison entre la  vitamine B12 et le facteur intrinseque a lieu au niveau intragastrique.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 117,
+            "Question": "1. Concernant la digestion et l'absorption du grele: ",
+            "Proposition": " Les dipeptides et tripeptides peuvent etre transportes dans l'enterocyte ou ils sont digeres par des peptidases cytoplasmiques.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 118,
+            "Question": "-",
+            "Proposition": " Le calcitriol stimule l'absorption duodenale de calcium par la voie transcellulaire et par la voie paracellulaire.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 119,
+            "Question": "-",
+            "Proposition": " Le fer est absorbe au niveau de l'ileon sous forme de Fe\", via le symport DMTI apical,  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 120,
+            "Question": "-",
+            "Proposition": " L'intensite des contractions segmentaires augmente apres les repas, renforcee par l'action du systeme  orthosympathique. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 121,
+            "Question": "22. Concernant la motilite du tube digestif: ",
+            "Proposition": " Le sphincter oesophagien superieur et le sphincter anal externe sont des muscles stries qui se situent respectivement a l'entree et a la sortie du tube digestif.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 122,
+            "Question": "22. Concernant la motilite du tube digestif: ",
+            "Proposition": " La motilite du tube digestif assure uniquement la progression des aliments ingeres depuis la bouche jusqu'a  l'anus.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 123,
+            "Question": "22. Concernant la motilite du tube digestif: ",
+            "Proposition": " La contraction phasique est une contraction de forte amplitude, independante du REB et suivie d'une relaxation.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 124,
+            "Question": "21. Concernant les glandes salivaires: ",
+            "Proposition": " Le reflexe salivaire conditionne se produit en absence de stimulation buccale.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 125,
+            "Question": "21. Concernant les glandes salivaires: ",
+            "Proposition": " La xerostomie est la sensation de secheresse buccale qui est ressentie precocement a partir d'une reduction  de 10% de la secretion salivaire,   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 126,
+            "Question": "21. Concernant les glandes salivaires: ",
+            "Proposition": " Les glandes sous maxillaires sont innervees par le nerf VII et assurent 70% de la secretion salivaire basale.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 127,
+            "Question": "20. Concernant le pancreas: ",
+            "Proposition": " La regulation de la secretion hydro-electrolytique pancreatique acinaire est principalement endocrine et assuree par la secretine.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 128,
+            "Question": "20. Concernant le pancreas: ",
+            "Proposition": " La lipase pancreatique est activee par la colipase dont les proprietes lypolytiques intrinseques sont  indispensables a l'activite de la lipase.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 129,
+            "Question": "20. Concernant le pancreas: ",
+            "Proposition": " Contrairement a la secretion salivaire, la secretion pancreatique est hypotonique et dependante du debit secretoire,    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 130,
+            "Question": "19. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Une hemolyse massive entraine un ictere mixte lorsque la fonction hepatique est normale.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 131,
+            "Question": "19. Concernant le foie et les voies biliaires: ",
+            "Proposition": " La bile canaliculaire est produite par les hepatocytes et represente 75% de la secretion biliaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 132,
+            "Question": "19. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Les cellules stellees activees sont dotees de proprietes contractiles et secretent une quantite abondante de collagene de type 1 responsable du developpement de la fibrose.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 133,
+            "Question": "18. Concernant la secretion salivaire: ",
+            "Proposition": " La salive est un liquide hypotonique qui est riche en Kdeg et en HCO2 et dont le pH se situe entre 7 et 8 selon le niveau de stimulation.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 134,
+            "Question": "18. Concernant la secretion salivaire: ",
+            "Proposition": " L'elaboration de la salive est un processus en deux etapes, essentiellement controlees par voie neurocrine et  qui se deroulent au niveau acinaire et canalaire.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 135,
+            "Question": "18. Concernant la secretion salivaire: ",
+            "Proposition": " La secretion salivaire est stimulee par le systeme parasympathique et peut atteindre un debit de 5 ml/min, soit un debit pres de 10 fois superieur a la secretion salivaire basale.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 136,
+            "Question": "13. Concernant l'intestin grele: ",
+            "Proposition": " La toxine du cholera CTX stimule la secretion de CT au niveau des cellules du grele et du colon par activation reversible de l'adenylate cyclase.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 137,
+            "Question": "13. Concernant l'intestin grele: ",
+            "Proposition": " La digestion membranaire des produits d'hydrolyse de l'amidon est assuree par la maltase, le complexe  sucrase-isomalatase et la lactase.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 138,
+            "Question": "13. Concernant l'intestin grele: ",
+            "Proposition": " Le symport SGLT1 (2Na'/1glucose) est la voie preponderante d'absorption de Na\" lors d'un repas.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 139,
+            "Question": "11. Concernant les macronutriments: ",
+            "Proposition": " Lors de l'intolerance au lactose, les symptomes (ballonnement abdominal, borborygmes et flatulences) sont lies a la production grele de H; et de CO2.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 140,
+            "Question": "11. Concernant les macronutriments: ",
+            "Proposition": " La digestion des lipides debute par leur emulsion au niveau de l'estomac.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 141,
+            "Question": "11. Concernant les macronutriments: ",
+            "Proposition": " L'absorption des differents acides amines au niveau de la membrane apicale des enterocvytes est assure par de nombreux symports specifiques par transport actif secondaire et tertiaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 142,
+            "Question": "1. Concernant l'intestin grele: ",
+            "Proposition": " L'acide folique est transporte sous forme de PteGlul par le symport PteGlul/Hdeg apical des cellules villositaires du Jejunum.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 143,
+            "Question": "1. Concernant l'intestin grele: ",
+            "Proposition": " Le fer est absorbe au niveau du duodenum sous forme de Fe\" par le symport DMTI de la membrane apicale  des enterocytes.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 144,
+            "Question": "1. Concernant l'intestin grele: ",
+            "Proposition": " L'elevation de l'homocysteine se rencontre lors d'un deficit en vitamine B12.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 145,
+            "Question": "35. Concernant l'estomac: ",
+            "Proposition": " La gastrine exerce un effet stimulateur sur la secretion acide par action principalement indirecte au niveau de la cellule ECL.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 146,
+            "Question": "35. Concernant l'estomac: ",
+            "Proposition": " La phase cephalique de la secretion gastrique acide represente moins de 10% de la secretion acide.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 147,
+            "Question": "35. Concernant l'estomac: ",
+            "Proposition": " La secretion des pepsinogenes par les cellules principales est stimulee par le nerf vague et inhibee par la somatostatine.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 148,
+            "Question": "29, Concernant l'oesophage:  ",
+            "Proposition": " Le reflux-oesophagien pathologique s'accompagne toujours de lesion d'oesophagite.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 149,
+            "Question": "29, Concernant l'oesophage:  ",
+            "Proposition": " La phase orale de la deglutition est volontaire et dure environ 0,6 sec    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 150,
+            "Question": "29, Concernant l'oesophage:  ",
+            "Proposition": " La relaxation du sphincter oesophagien inferieur et la relaxation receptive de la partie proximale de l'estomac se produisent lors de l'arrivee de l'onde peristaltique a leur niveau.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 151,
+            "Question": "32. Concernant les glandes salivaires: ",
+            "Proposition": " Certains antidepresseurs peuvent etre responsables de xerostomie.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 152,
+            "Question": "32. Concernant les glandes salivaires: ",
+            "Proposition": " Les glandes parotides sont purement sereuses et sont innervees par le nerf VIL    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 153,
+            "Question": "32. Concernant les glandes salivaires: ",
+            "Proposition": " Le reflexe mastico-salivaire module la secretion salivaire qui s'adapte a la consistance et a la taille des particules machees.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 154,
+            "Question": "27. Concernant la secretion salivaire: ",
+            "Proposition": " La composition salivaire depend du debit salivaire, la salive etant fortement hypotonique lorsque le debit salivaire est faible.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 155,
+            "Question": "27. Concernant la secretion salivaire: ",
+            "Proposition": ")  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 156,
+            "Question": "27. Concernant la secretion salivaire: ",
+            "Proposition": " Le systeme parasympathique assure un role trophique sur les glandes salivaires qui est indispensable pour  maintenir la masse tissulaire salivaire.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 157,
+            "Question": "26. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Les hepatocytes constituent + 50% du parenchyme hepatique.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 158,
+            "Question": "26. Concernant le foie et les voies biliaires: ",
+            "Proposition": " La bile ductulaire est une secretion hydro-electrolytique alcaline stimulee par la cholecystokinine.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 159,
+            "Question": "26. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Les icteres a bilirubine non conjuguee ne s'accompagnent pas de bilirubinurie,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 160,
+            "Question": "19. Concernant la motilite du tube digestif:  ",
+            "Proposition": " Les reflexes courts du tube digestif sont intrinseques caad integres au niveau du systeme nerveux enterique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 161,
+            "Question": "19. Concernant la motilite du tube digestif:  ",
+            "Proposition": " Contrairement a la segmentation, le peristaltisme est une contraction phasique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 162,
+            "Question": "19. Concernant la motilite du tube digestif:  ",
+            "Proposition": " L'acetylcholine qui hyperpolarise la cellule musculaire lisse du tube digestif, augmente l'intensite des contractions phasiques.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 163,
+            "Question": "16. Concernant la secretion gastrique: ",
+            "Proposition": " La somatostatine est l'inhibiteur majeur de la secretion acide, agissant uniquement directement sur la cellule parietale par voie paracrine et endocrine,   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 164,
+            "Question": "16. Concernant la secretion gastrique: ",
+            "Proposition": " La phase gastrique de la secretion acide debute lorsque le bol alimentaire se trouve dans l'oesophage.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 165,
+            "Question": "16. Concernant la secretion gastrique: ",
+            "Proposition": " Les pepsinogenes sont des proenzymes secretes par les cellules principales et leur secretion basale represente + 20% de la secretion maximale qui est atteinte lors de la prise d'un repas.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 166,
+            "Question": "15. Concernant le pancreas: ",
+            "Proposition": " La secretion pancreatique basale, dont le pH est #7,2, a un debit de l'ordre de 0,2 a 0,3 ml/min et contient surtout du NaCI.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 167,
+            "Question": "15. Concernant le pancreas: ",
+            "Proposition": ")  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 168,
+            "Question": "15. Concernant le pancreas: ",
+            "Proposition": " L'activite enzymatique de l'a-amylase pancreatique est identique a celle de l'x-amylase salivaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 169,
+            "Question": "-",
+            "Proposition": " l'estomac est le siege des complexes moteurs migrants interdigestifs qui surviennent lors des repas. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 170,
+            "Question": "-",
+            "Proposition": " au niveau du fundus, le potentiel de repos des cellules musculaires est situe au-dessus du seuil de contraction (cad plus proche de 0 mV).  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 171,
+            "Question": "-",
+            "Proposition": " le systeme parasympathique, via le nerf vague, stimule la secretion acide et des pepsinogenes.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 172,
+            "Question": "-",
+            "Proposition": " les glandes sous-maxillaires sont mixtes, a predominance muqueuse, innervees par le n. VII, et assurent 20% de la secretion salivaire basale.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 173,
+            "Question": "-",
+            "Proposition": " la secretion salivaire suit un rythme circadien et est fortement reduite durant la nuit (5 ml/min pendant le sommeil}.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 174,
+            "Question": "-",
+            "Proposition": " la xerostomie est la sensation de secheresse buccale, ressentie a partir d'une reduction de 50% de la secretion salivaire,  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 175,
+            "Question": "-",
+            "Proposition": " le peristaltisme primaire est stimule par une deglutition qui survient rapidement apres la deglutition precedente. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 176,
+            "Question": "-",
+            "Proposition": " le tiers moyen de l'oesophage est compose de muscles stries et lisses.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 177,
+            "Question": "-",
+            "Proposition": " le peristaltisme secondaire survient en dehors de la deglutition. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 178,
+            "Question": "-",
+            "Proposition": " le reflexe vago-vagal est un exemple de reflexe court du tube digestif. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 179,
+            "Question": "-",
+            "Proposition": " l'innervation orthosympathique cfferente du tube digestif est principalement postganglionnaire. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 180,
+            "Question": "-",
+            "Proposition": " le REB declenche generalement un potentiel d'action au niveau des fibres musculaires lisses du tube  digestif. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 181,
+            "Question": "-",
+            "Proposition": " la gastrine stimule la secretion acide gastrique. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 182,
+            "Question": "-",
+            "Proposition": " la ghreline stimule la prise alimentaire.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 183,
+            "Question": "-",
+            "Proposition": " le plexus de Meissner vehicule les informations vers et en provenance de la muqueuse intestinale.  D = [|  [J C] C]  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 184,
+            "Question": "35. Concernant l'oesophage: ",
+            "Proposition": " Le reflux gastro-oesophagien est toujours pathologique.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 185,
+            "Question": "35. Concernant l'oesophage: ",
+            "Proposition": " La musculature de l'aeoesophage comporte une couche circulaire interne et une couche longitudinale externe  qui sont formees par des muscles stries au niveau du tiers superieur de l'oesophage.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 186,
+            "Question": "35. Concernant l'oesophage: ",
+            "Proposition": " Le tonus de base du sphincter oesophagien inferieur est augmente par les agents anti-cholinergiques.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 187,
+            "Question": "33. Concernant l'estomac: ",
+            "Proposition": " La vidange gastrique des liquides est rapide et se deroule en deux phases.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 188,
+            "Question": "33. Concernant l'estomac: ",
+            "Proposition": " La cellule parietale gastrique secrete notamment le facteur intrinseque qui intervient dans l'absorption de la  vitamine B12 au niveau de l'ileon.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 189,
+            "Question": "33. Concernant l'estomac: ",
+            "Proposition": " La secretion gastrique est constituee de secretions hydro-electrolytiques et egalement organiques.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 190,
+            "Question": "-",
+            "Proposition": " les reactions hepatique de detoxification de phase I et IT augmentent la solubilite des endo et exobiotiques toxiques et favorisent leur excretion biliaire ou urinaire ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 191,
+            "Question": "-",
+            "Proposition": " la bile est une voie d'excretion importante du cholesterol.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 192,
+            "Question": "-",
+            "Proposition": " les cellules stellees sont quiescentes au repos et deviennent activees lors d'une agression hepatique.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 193,
+            "Question": "-",
+            "Proposition": " le DCYTB (duodenal cytochrome ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 194,
+            "Question": "-",
+            "Proposition": " de la membrane apicale de l'enterocyte duodenal possede une activite ferrique reductase qui reduit le Fe\" intestinal en Fe\". ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 195,
+            "Question": "-",
+            "Proposition": " les bacteries coliques possedent une activite B-galactosidase qui permet l'hydrolyse du lactose.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 196,
+            "Question": "-",
+            "Proposition": " la digestion luminale des proteines debute dans le duodenum. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 197,
+            "Question": "-",
+            "Proposition": " la malabsorption des nutriments est necessairement associee a une maldigestion. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 198,
+            "Question": "-",
+            "Proposition": " l'absorption transcellulaire de calcium se produit uniquement au niveau du duodenum.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 199,
+            "Question": "-",
+            "Proposition": " la permeabilite de la voie paracellulaire diminue du duodenum au rectum. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 200,
+            "Question": "-",
+            "Proposition": " les contractions peristaltiques sont des contractions phasiques, rythmees par le rythme electrique de base. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 201,
+            "Question": "-",
+            "Proposition": " la segmentation est une succession de contractions annulaires suivies de relaxations, se produisant toutes  les quelques secondes, au niveau d'un long segment du grele. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 202,
+            "Question": "-",
+            "Proposition": " chez l'individu normal, l'intestin grele et le colon absorbent chaque jour > 95% du Na\" ingere.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 203,
+            "Question": "-",
+            "Proposition": " l'absorption electroneutre de Na par les echangeurs apicaux Na /Hdeg et CT'HCO% est preponderante en periode interprandiale.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 204,
+            "Question": "-",
+            "Proposition": " la toxine d'E. Coli thermostable stimule la secretion intestinale de CT via l'augmentation d'AMPc  intracellulaire. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 205,
+            "Question": "-",
+            "Proposition": " le cycle entero-hepatique des acides biliaires permet de reabsorber +99% des acides biliaires.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 206,
+            "Question": "-",
+            "Proposition": " une tumeur de la tete du pancreas qui comprime la voie biliaire principale peut entrainer des selles decolorees (comme du masti",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 207,
+            "Question": "-",
+            "Proposition": ".  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 208,
+            "Question": "-",
+            "Proposition": " la somatostatine est l'antagoniste majeur de la secretion acide gastrique et agit uniquement au niveau de la cellule parietale, via la voie de l''AMPc. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 209,
+            "Question": "-",
+            "Proposition": " les efferences du vomissement different selon la cause du vomissement.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 210,
+            "Question": "-",
+            "Proposition": " la cellule principale secrete egalement le facteur intrinseque.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 211,
+            "Question": "Q9. Concernant la motricite du tube digestif: ",
+            "Proposition": " Le systeme nerveux enterique est compose de deux plexus principaux qui sont en etroite relation: le plexus sous muqueux d'Auerbach et le plexus myenterique de Meissner.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 212,
+            "Question": "Q9. Concernant la motricite du tube digestif: ",
+            "Proposition": " La paroi du grele comporte 4 couches qui sont, de l'interieur vers l'exterieur, la muqueuse, la sous-muqueuse,  la muscularis propria et la sereuse.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 213,
+            "Question": "Q9. Concernant la motricite du tube digestif: ",
+            "Proposition": " Le reflexe peristaltique est un reflexe court du tube digestif.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 214,
+            "Question": "Q7. Concernant le foie et les voies biliaires: ",
+            "Proposition": " L'accommodation de la vesicule biliaire permet son remplissage entre les repas.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 215,
+            "Question": "Q7. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Lorsque le foie est normal, les icteres a bilirubine non conjuguee peuvent s'accompagner de selles decolorees.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 216,
+            "Question": "Q7. Concernant le foie et les voies biliaires: ",
+            "Proposition": " L'inhibition, par certains medicaments, des OATPSs (Organic Amion Transporting Polypeptide) situes au niveau de la membrane basolaterale de l'hepatocyte peut etre responsable d'interactions medicamenteuses.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 217,
+            "Question": "Q3. Concernant les glucides: ",
+            "Proposition": " L'amidon existe sous forme d'amylose et d'amylopectine qui representent 45 a 60% des apports quotidiens de glucides d'un regime occidental.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 218,
+            "Question": "Q3. Concernant les glucides: ",
+            "Proposition": " Une portion alimentaire de 150g, qui contient 30g de glucides dont l'index glycemique est de 40, represente  une charge glycemique de 12g qui est une charge moyenne.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 219,
+            "Question": "Q3. Concernant les glucides: ",
+            "Proposition": " L'intolerance au lactose est une maldigestion du lactose qui entraine sa malabsorption, elle est liee a un deficit d'activite lactasique qui peut etre primaire ou secondaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 220,
+            "Question": "Q2. Concernant les macronutriments: ",
+            "Proposition": " Les acides gras libres a chaines courtes et moyennes ne sont pas reesterifies au sein de l'enterocyte et sont directement transportes dans le sang.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 221,
+            "Question": "Q2. Concernant les macronutriments: ",
+            "Proposition": " Les phytosterols et le cholesterol sont absorbes au niveau du grele via le recepteur NPCILI,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 222,
+            "Question": "Q2. Concernant les macronutriments: ",
+            "Proposition": " Au niveau des cellules villositaires, le transport apical des differents acides amines est assure par de nombreux symports specifiques pouvant etre Nadeg ou Hdeg dependants.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 223,
+            "Question": "-",
+            "Proposition": " la phase cephalique de la secretion pancreatique peut atteindre jusqu'a 50% de la secretion pancreatique. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 224,
+            "Question": "-",
+            "Proposition": " la vagotomie abolit la phase cephalique de la secretion acide gastrique. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 225,
+            "Question": "-",
+            "Proposition": " le reflux gastro-aeoesophagien n'est jamais physiologique.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 226,
+            "Question": "-",
+            "Proposition": " la bile hepatique est isotonique et legerement alcaline. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 227,
+            "Question": "-",
+            "Proposition": " la bile canaliculaire est produite par les cholangiocytes. ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 228,
+            "Question": "-",
+            "Proposition": " lors d'un repas, la secretine provoque la contraction de la vesicule et la relaxation du sphincter d''Oddi, de  maniere coordonnee.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 229,
+            "Question": "Q15. Concernant l'oesophage: ",
+            "Proposition": " Le reflux gastro-aesophagien pathologique est un reflux de liquide gastrique de longue duree, frequent, symptomatique, diurne ou nocturne, avec ou sans lesions d'oesophagite.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 230,
+            "Question": "Q15. Concernant l'oesophage: ",
+            "Proposition": " La musculature du tiers superieur de l'oesophage est composee de muscles lisses et de muscles stries.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 231,
+            "Question": "Q15. Concernant l'oesophage: ",
+            "Proposition": " La deglutition declenche une onde peristaltique primaire qui induit la relaxation du sphincter oesophagien inferieur et la relaxation receptive de la partie proximale de l'estomac.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 232,
+            "Question": "Q14. Concernant la secretion gastrique: ",
+            "Proposition": " Les cellules parietales sont parfois presentes au niveau antral.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 233,
+            "Question": "Q14. Concernant la secretion gastrique: ",
+            "Proposition": " La secretion gastrique de NaHCO2 est assuree par les cellules muqueuses de surface; elle est relativement faible et de volume constant.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 234,
+            "Question": "Q14. Concernant la secretion gastrique: ",
+            "Proposition": " En dehors des repas, l'effet inhibiteur et predominant de la somatostatine explique le faible debit de secretion acide gastrique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 235,
+            "Question": "Q13. Concernant les diarrhees secretoires: ",
+            "Proposition": " Lors d'une diarrhee secretoire infectieuse qui ne detruit pas la muqueuse, le SGLT1 (2Na /Iglucose) present au niveau des villosites et des cryptes reste fonctionnel.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 236,
+            "Question": "Q13. Concernant les diarrhees secretoires: ",
+            "Proposition": " Lors d'une diarrhee secretoire infectieuse, une enterotoxine bacterienne qui agit par la voie de l'adenylate  cyclase stimule egalement l'echangeur apical Nadeg/Hdeg (NHE3) au niveau villositaire.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 237,
+            "Question": "Q13. Concernant les diarrhees secretoires: ",
+            "Proposition": " Dans une solution orale de rehydratation, la presence d'amidon resistant a la digestion grele permettrait la formation colique de SCFA, ce qui favoriserait l'absorption colique de Na\" et d'eau.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 238,
+            "Question": "Q11. Concernant les glandes salivaires:  ",
+            "Proposition": " Les derives anti-cholinergiques peuvent entrainer une hyposialorrhee qui se manifeste par de la xerostomie.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 239,
+            "Question": "Q11. Concernant les glandes salivaires:  ",
+            "Proposition": " Le systeme orthosympathique stimule principalement la secretion proteique acinaire via un recepteur <<&  adrenergique et la voie de l'AMP cyclique.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 240,
+            "Question": "Q11. Concernant les glandes salivaires:  ",
+            "Proposition": " Les glandes sous-maxillaires sont mixtes, a forte predominance sereuse, et sont innervees par le nerf IX.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 241,
+            "Question": "Q10. Concernant les vitamines et les micronutriments:  ",
+            "Proposition": " La liaison entre la vitamine B12 et le facteur intrinseque se produit au niveau du duodenum et du jejunum.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 242,
+            "Question": "Q10. Concernant les vitamines et les micronutriments:  ",
+            "Proposition": " Le DCYTB (duodenal cytochrome ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 243,
+            "Question": "Q10. Concernant les vitamines et les micronutriments:  ",
+            "Proposition": " de la membrane basolaterale de l'enterocyte duodenal possede une  activite ferrique reductase qui reduit le Fe*\" intestinal en Fe\"     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 244,
+            "Question": "Q3. Concernant la salive: ",
+            "Proposition": " La salive est un liquide clair seromuqueux, contenant 95% d'eau, dont la composition ionique est independante du debit salivaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 245,
+            "Question": "Q3. Concernant la salive: ",
+            "Proposition": " La regulation de la secretion salivaire est principalement neuro-endocrine.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 246,
+            "Question": "Q3. Concernant la salive: ",
+            "Proposition": " La salive primaire, produite par les cellules acinaires sereuses, est regulee uniquement par la voie de l'AMPc.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 247,
+            "Question": "Q1. Concernant la motricite du tube digestif: ",
+            "Proposition": " Le plexus sous muqueux de Meissner est interne et innerve la muqueuse et la sous muqueuse du grele.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 248,
+            "Question": "Q1. Concernant la motricite du tube digestif: ",
+            "Proposition": " La noradrenaline hyperpolarise la cellule musculaire lisse du tube digestif, ce qui augmente le nombre de potentiels d'action et augmente l'intensite de la contraction phasique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 249,
+            "Question": "Q1. Concernant la motricite du tube digestif: ",
+            "Proposition": " Le systeme nerveux autonome extrinseque du tube digestif est forme par l'interaction du systeme parasympathique et du systeme orthosympathique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 250,
+            "Question": "Q29. Concernant l'estomac: ",
+            "Proposition": " Au niveau de la cellule parietale, la gastrine et l'acetylcholine sont des agonistes de la voie de l''AMPc tandis que l'histamine est un agoniste de la voie de la phospholipase C.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 251,
+            "Question": "Q29. Concernant l'estomac: ",
+            "Proposition": " Au niveau du corps gastrique et de l'antre, le potentiel membranaire de repos des cellules musculaires est  inferieur au seuil de contraction, expliquant ainsi l'absence de contractions toniques a ces niveaux.     ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 252,
+            "Question": "Q29. Concernant l'estomac: ",
+            "Proposition": " Le temps de vidange gastrique ne depend que de la quantite et de la composition des aliments ingeres.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 253,
+            "Question": "Q21. Concernant la salive: ",
+            "Proposition": " La secretion salivaire non stimulee est d'environ 0,3-0,5 ml/min    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 254,
+            "Question": "Q21. Concernant la salive: ",
+            "Proposition": " La composition salivaire depend du debit salivaire, la salive etant isotonique lorsque le debit salivaire est  faible,   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 255,
+            "Question": "Q21. Concernant la salive: ",
+            "Proposition": " Le pH de la salive est plus eleve lorsque la secretion salivaire est stimulee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 256,
+            "Question": "Q16. Concernant les secretions pancreatiques: ",
+            "Proposition": " La cholecystokinine est le principal regulateur paracrine de la secretion acinaire pancreatique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 257,
+            "Question": "Q16. Concernant les secretions pancreatiques: ",
+            "Proposition": " En dehors des repas, la secretion pancreatique exocrine est faible mais cyclique et correlee aux complexes moteurs migrants interdigestifs, augmentant juste avant ou durant la phase 3.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 258,
+            "Question": "Q16. Concernant les secretions pancreatiques: ",
+            "Proposition": " Les proprietes lipolytiques de la colipase sont necessaires pour permettre a la lipase pancreatique d'agir au niveau de l'interface cau-lipide des gouttelettes de triglycerides.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 259,
+            "Question": "Q24. Concernant l'oesophage:  ",
+            "Proposition": " Lors de la deglutition, la phase oesophagienne est la plus courte.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 260,
+            "Question": "Q24. Concernant l'oesophage:  ",
+            "Proposition": " Le sphincter oesophagien inferieur possede une pression de repos faible et inferieure a 10 mmHg.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 261,
+            "Question": "Q24. Concernant l'oesophage:  ",
+            "Proposition": " Le reflux gastro-oesophagien n'est jamais physiologique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 262,
+            "Question": "Q17. Concernant les macronutriments: ",
+            "Proposition": " La digestion luminale des proteines debute dans le duodenum.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 263,
+            "Question": "Q17. Concernant les macronutriments: ",
+            "Proposition": " L'ezetimibe inhibe l'absorption grele de cholesterol, en se fixant sur le recepteur NPCILI.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 264,
+            "Question": "Q17. Concernant les macronutriments: ",
+            "Proposition": " L'emulsion des lipides est un pocessus exclusivement mecanique, assure par la mastication et par la pompe antrale.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 265,
+            "Question": "Q10. Concernant l'estomac: ",
+            "Proposition": " Le temps de vidange gastrique depend de la quantite, de la composition et de la consistance du bol alimentaire.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 266,
+            "Question": "Q10. Concernant l'estomac: ",
+            "Proposition": " Au niveau du fundus, le potentiel de repos des cellules musculaires a une valeur superieure a celle du seuil de contraction, ce qui explique les contractions toniques de cette zone.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 267,
+            "Question": "Q10. Concernant l'estomac: ",
+            "Proposition": " La dyspepsie est un symptome qui peut se manifester par une sensation de repletion precoce et etre favorisee par la vagotomie.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 268,
+            "Question": "Q7. Concernant les vitamines et les micronutriments: ",
+            "Proposition": " Le fer est transporte vers les tissus peripheriques, sous forme de Fe\" lie a la transferrine.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 269,
+            "Question": "Q7. Concernant les vitamines et les micronutriments: ",
+            "Proposition": " La dissociation du complexe facteur intrinseque (FT)-vitamine B12 est favorisee au niveau du duodenum par l'elevation du pH et par l'action proteolytique des enzymes pancreatiques qui degradent le FI    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 270,
+            "Question": "Q7. Concernant les vitamines et les micronutriments: ",
+            "Proposition": " L'acide folique est transporte sous forme de PteGlul par le symport PteGlul/Nadeg apical des cellules villositaires du jejunum.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 271,
+            "Question": "Q5. Concernant les glucides: ",
+            "Proposition": " Les fibres representent les glucides d'origine vegetale qui sont non digestibles.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 272,
+            "Question": "Q5. Concernant les glucides: ",
+            "Proposition": " La charge glycemique (CG) d'un aliment est calculee par la formule suivante:  CG = [1G (%) x quantite d'aliment ingeree (g)] / [proportion de glucides presente dans l'aliment (%)]   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 273,
+            "Question": "Q5. Concernant les glucides: ",
+            "Proposition": " Les glucides sont parfois absorbes au niveau du grele sous forme de dimeres.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 274,
+            "Question": "Q4. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Les cellules stellees hepatiques sont activees au repos et deviennent quiescentes lors d'une agression hepatique.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 275,
+            "Question": "Q4. Concernant le foie et les voies biliaires: ",
+            "Proposition": " La bile canaliculaire est une secretion alcaline produite par les hepatocytes et qui represente 75% de la  secretion biliaire.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 276,
+            "Question": "Q4. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Lors d'un obstacle complet de la voie biliaire principale par une tumeur de la tete du pancreas, les urines sont foncees et liees a la presence de bilirubine conjuguee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 277,
+            "Question": "Q4. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Lors d'une hemolyse avec une fonction hepatique normale, la presence de bilirubine urinaire explique la couleur foncee des urines.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 278,
+            "Question": "Q4. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Les acides biliaires primaires sont synthetises dans l'hepatocyte et a partir du cholesterol.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 279,
+            "Question": "Q4. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Lors d'un repas, la secretine provoque la contraction de la vesicule et la relaxation du sphincter d'Oddi, de maniere coordonnee.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 280,
+            "Question": "Q34. Concernant les glandes salivaires: ",
+            "Proposition": " L'hyposialie est tres souvent d'origine iatrogene et causee par des medicaments qui ont un effet anti- cholinergique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 281,
+            "Question": "Q34. Concernant les glandes salivaires: ",
+            "Proposition": " Les glandes salivaires accessoires secretent de maniere discontinue.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 282,
+            "Question": "Q34. Concernant les glandes salivaires: ",
+            "Proposition": " Les glandes parotides sont purement sereuses et sont innervees par le nerf IX.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 283,
+            "Question": "Q32. Concernant la secretion gastrique: ",
+            "Proposition": " Lorsque la secretion acide parietale est stimulee, la concentration de Kdeg du liquide gastrique diminue fortement tandis que celle de Hdeg augmente fortement.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 284,
+            "Question": "Q32. Concernant la secretion gastrique: ",
+            "Proposition": " Les cellules a somatostatine sont situees au niveau des glandes gastriques et antrales.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 285,
+            "Question": "Q32. Concernant la secretion gastrique: ",
+            "Proposition": " Le nerf X stimule la secretion acide, notamment par stimulation indirecte, en stimulant les cellules ECL (situees au niveau des glandes gastriques) qui secretent de l'histamine.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 286,
+            "Question": "Q30. Concernant les diarrhees secretoires: ",
+            "Proposition": " Les toxines du cholera CTX et d'E, Coli thermolabile stimulent la secretion intestinale de CT, notamment via l'augmentation d'AMPc intracellulaire au niveau des cellules des cryptes.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 287,
+            "Question": "Q30. Concernant les diarrhees secretoires: ",
+            "Proposition": " Le grele absorbe plus d'eau que le colon mais avec un rendement inferieur.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 288,
+            "Question": "Q30. Concernant les diarrhees secretoires: ",
+            "Proposition": " Lors d'un traitement antibiotique, une diarrhee osmotique peut se developper suite a la modification du  microbiote colique qui entraine une augmentation de production colique de SCFA.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 289,
+            "Question": "Q25. Concernant les secretions pancreatiques: ",
+            "Proposition": " Les proteases sont les enzymes majoritaires secretees par les cellules acinaires du pancreas.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 290,
+            "Question": "Q25. Concernant les secretions pancreatiques: ",
+            "Proposition": " La regulation de la secretion hydro-electrolytique acinaire est principalement neurocrine, sous controle parasympathique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 291,
+            "Question": "Q25. Concernant les secretions pancreatiques: ",
+            "Proposition": " La steatorrhee apparait tardivement lors de la pancreatite chronique, lorsque la production de lipase devient inferieure a 10% de la production normale.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 292,
+            "Question": "Q19. Concernant les secretions pancreatiques:  ",
+            "Proposition": " Les acides biliaires et les phospholipides entourent les gouttelettes de triglyclerides, ce qui favorise la fixation et l'action de la lipase pancreatique.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 293,
+            "Question": "Q19. Concernant les secretions pancreatiques:  ",
+            "Proposition": " La secretion pancreatique basale est isotonique et sa composition est similaire a celle du plasma.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 294,
+            "Question": "Q19. Concernant les secretions pancreatiques:  ",
+            "Proposition": " La secretine, qui est le principal regulateur hormonal de la secretion canalaire, induit une secretion hydro- electrolytique alcaline abondante via la voie de la PLC et du Cadeg*    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 295,
+            "Question": "Q17. Concernant l'estomac:  ",
+            "Proposition": " L'accommodation de la region proximale de l'estomac est un reflexe mixte (vago-vagal et intrinseque).    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 296,
+            "Question": "Q17. Concernant l'estomac:  ",
+            "Proposition": " La somatostatine est sans effet sur la secretion des pepsinogenes.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 297,
+            "Question": "Q17. Concernant l'estomac:  ",
+            "Proposition": " Les deux tiers distaux du corps gastrique et l'antre sont le siege de contractions phasiques rythmees sur le REB, lui-meme genere par les cellules interstitielles de Cajal.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 298,
+            "Question": "Q15. Concernant la secretion salivaire: ",
+            "Proposition": " La secretion salivaire suit un rythme circadien et est fortement reduite durant la nuit (5 ml/min pendant le sommeil).   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 299,
+            "Question": "Q15. Concernant la secretion salivaire: ",
+            "Proposition": " Lorsqu'un patient depressif signale de la xerostormie, 1l est possible que son traitement comporte des  medications qui ont un effet anti-cholinergique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 300,
+            "Question": "Q15. Concernant la secretion salivaire: ",
+            "Proposition": " La composition de la salive definitive est independante du debit salivaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 301,
+            "Question": "Q14. Concernant la secretion gastrique: ",
+            "Proposition": " Au niveau de l'estomac, les cellules a gastrine sont uniquement situees au niveau des glandes antrales.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 302,
+            "Question": "Q14. Concernant la secretion gastrique: ",
+            "Proposition": " La secretion d'HCI par la cellule parietale est stimulee de maniere synergique par la voie neuronale (acetylcholine via la PLC et le Ca\"), endocrine (gastrine via la PLC et le Ca*deg) et paracrine (histamine via  l'AMP",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 303,
+            "Question": "Q14. Concernant la secretion gastrique: ",
+            "Proposition": ".   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 304,
+            "Question": "Q13. Concernant la motricite du tube digestif: ",
+            "Proposition": " Les complexes moteurs migrants interdigestifs sont des contractions rythmiques de l'aeoesophage, de l'estomac et de l'intestin grele se produisant en periode de jeune et qui se propagent vers l'ileon.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 305,
+            "Question": "Q13. Concernant la motricite du tube digestif: ",
+            "Proposition": " Lors d'une contraction peristaltique, le segment d'amont est le siege d'une contraction du muscle circulaire  interne et d'une contraction du muscle longitudinal externe.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 306,
+            "Question": "Q13. Concernant la motricite du tube digestif: ",
+            "Proposition": " Les contractions segmentaires du grele sont des contractions phasiques; elles sont rythmees par le REB dont la frequence augmente du duodenum vers l'ileon.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 307,
+            "Question": "Q29. Concernant les glandes salivaires: ",
+            "Proposition": " Les glandes sous-maxillaires sont mixtes, a predominance muqueuse, et innervees par le nerf VII.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 308,
+            "Question": "Q29. Concernant les glandes salivaires: ",
+            "Proposition": " La secretion acinaire salivaire est une secretion mixte, hydro-electrolytique (favorisee par la voie de la PLC et du Cadeg*) et proteique (favorisee par la voie de l'AMP",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 309,
+            "Question": "Q29. Concernant les glandes salivaires: ",
+            "Proposition": ".    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 310,
+            "Question": "Q28. Concernant l'oesophage: ",
+            "Proposition": " Le peristaltisme secondaire survient en dehors de la deglutition. Il s'agit d'un reflexe intrinseque du SNE declenche au niveau du muscle lisse oesophagien par la distension de l'oesophage.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 311,
+            "Question": "Q28. Concernant l'oesophage: ",
+            "Proposition": " Lors du reflux gastro-aeoesophagien pathologique, il y a une excellente correlation entre les symptomes presentes  par les patients et les lesions endoscopiques.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 312,
+            "Question": "Q28. Concernant l'oesophage: ",
+            "Proposition": " La phase aeoesophagienne de la deglutition est involontaire et dure entre 6 et 10 secondes.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 313,
+            "Question": "Q27. Concernant les secretions hydro-electrolytiques du tube digestif: ",
+            "Proposition": " Lors d'une diarrhee secretoire infectieuse, la secretion de CT et de HCO est stimulee au niveau des cryptes et des villosites de l'intestin grele.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 314,
+            "Question": "Q27. Concernant les secretions hydro-electrolytiques du tube digestif: ",
+            "Proposition": " Les acides gras a chaines courtes sont produits au niveau du colon a partir des carbohydrates non digeres et  favorisent la secretion de NaC et d'eau au niveau du colon.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 315,
+            "Question": "Q27. Concernant les secretions hydro-electrolytiques du tube digestif: ",
+            "Proposition": " Une solution orale de rehydratation ne doit pas toujours contenir du Na' et du glucose pour assurer l'absorption de Na et de glucose via le SGLTI qui reste fonctionnel.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 316,
+            "Question": "Q23. Concernant les vitamines et les micronutriments:  ",
+            "Proposition": " L'acide folique est la vitamine B9 et le tetrahydrofolate est sa forme reduite et active.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 317,
+            "Question": "Q23. Concernant les vitamines et les micronutriments:  ",
+            "Proposition": " La vitamine B12 liee au facteur intrinseque est absorbee au niveau de l'ileon par endocytose mediee par le  recepteur CUBAM.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 318,
+            "Question": "Q23. Concernant les vitamines et les micronutriments:  ",
+            "Proposition": " Le fer inorganique est absorbe au niveau du duodenum sous forme de Fe\" et par le symport DMTI apical (1H'/1Fe*).    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 319,
+            "Question": "Q20. Concernant les macronutriments: ",
+            "Proposition": " En dehors du lactose, la digestion des glucides n'est pas l'etape limitante a leur absorption.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 320,
+            "Question": "Q20. Concernant les macronutriments: ",
+            "Proposition": " Les besoins proteiques d'un adulte normal sont de +55g/j, apportes par les proteines alimentaires, d'origine  animale et vegetale,   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 321,
+            "Question": "Q20. Concernant les macronutriments: ",
+            "Proposition": " Certaines bacteries coliques possedent une activite f-galactosidase qui permet l'hydrolyse du lactose.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 322,
+            "Question": "Q12. Concernant le transport hydro-electrolytique du tube digestif: ",
+            "Proposition": " L'intestin grele d'un individu adulte et en bonne sante recoit quotidiennement pres de 9 litres d'eau.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 323,
+            "Question": "Q12. Concernant le transport hydro-electrolytique du tube digestif: ",
+            "Proposition": " Une solution orale de rehydratation doit contenir du Na' et du glucose pour assurer l'absorption de Nadeg et de glucose via le SGLT2 (1Na'/l glucose) apical des cellules villositaires qui reste fonctionnel.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 324,
+            "Question": "Q12. Concernant le transport hydro-electrolytique du tube digestif: ",
+            "Proposition": " Lors d'un traitement antibiotique, le developpement d'une diarrhee osmotique peut etre lie a une diminution de production de SCFA par le microbiote colique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 325,
+            "Question": "Q7. Concernant les secretions pancreatiques:  ",
+            "Proposition": " La procolipase pancreatique est activee par la lipase pancreatique.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 326,
+            "Question": "Q7. Concernant les secretions pancreatiques:  ",
+            "Proposition": " Il n'y a pas de secretion proteique au niveau des canaux pancreatiques intercalaires.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 327,
+            "Question": "Q7. Concernant les secretions pancreatiques:  ",
+            "Proposition": " L'effet stimulateur de la CCK sur la secretion acinaire pancreatique est plus marque sur la secretion hydro-  electrolytique que sur la secretion proteique.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 328,
+            "Question": "Q6. Concernant la secretion salivaire: ",
+            "Proposition": " La salive definitive est un liquide isotonique, riche en Kdeg et en HCO2, dont le pH se situe entre 7 (en absence de stimulation) et 8 (lors d'une stimulation).    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 329,
+            "Question": "Q6. Concernant la secretion salivaire: ",
+            "Proposition": " La salive primaire qui est produite par les cellules acinaires sereuses est un liquide hypotonique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 330,
+            "Question": "Q6. Concernant la secretion salivaire: ",
+            "Proposition": " La composante proteique de la salive provient d'une secretion canalaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 331,
+            "Question": "Q4. Concernant les vitamines et les micronutriments: ",
+            "Proposition": " La dissociation du complexe proteine R-vitamine B12 a lieu au niveau de la cavite gastrique, etant favorisee par le milieu acide,    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 332,
+            "Question": "Q4. Concernant les vitamines et les micronutriments: ",
+            "Proposition": " L'acide folique est transporte sous fome de PteGlu1 dans la cellule villositaire par le symport apical PteGlu1/Hdeg   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 333,
+            "Question": "Q4. Concernant les vitamines et les micronutriments: ",
+            "Proposition": " Le calcitriol controle l'absorption transcellulaire du Cadegdeg au niveau du duodenum.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 334,
+            "Question": "Q1. Concernant la motricite du tube digestif: ",
+            "Proposition": " La musculature du tube digestif est uniquement composee de muscle lisse.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 335,
+            "Question": "Q1. Concernant la motricite du tube digestif: ",
+            "Proposition": " Les reflexes courts du tube digestif permettent une regulation rapide de la motricite et des secretions digestives.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 336,
+            "Question": "Q1. Concernant la motricite du tube digestif: ",
+            "Proposition": " Le rythme electrique de base est une succession d'ondes lentes de potentiel au niveau des fibres musculaires lisses du grele qui peuvent declencher spontanement un potentiel d'action.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 337,
+            "Question": "Q31. Concernant les macronutriments:  ",
+            "Proposition": " Les phytosterols entrent en competition avec le cholesterol pour la liaison avec le recepteur NPCILI,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 338,
+            "Question": "Q31. Concernant les macronutriments:  ",
+            "Proposition": " En presence de fibres vegetales, l'index glycemique d'un aliment est augmente.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 339,
+            "Question": "Q31. Concernant les macronutriments:  ",
+            "Proposition": " L'echangeur NHE3 (Na /H'} participe a l'absorption intestinale des oligopeptides qui s'effectue selon un mecanisme de transport actif secondaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 340,
+            "Question": "Q30. Concernant l'oesophage: ",
+            "Proposition": " Le pyrosis est une sensation de brulure retrosternale descendante.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 341,
+            "Question": "Q30. Concernant l'oesophage: ",
+            "Proposition": " Des episodes inappropries de relaxation transitoire du sphincter oesophagien inferieur peuvent etre la cause de  reflux gastro-aesophagien pathologique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 342,
+            "Question": "Q30. Concernant l'oesophage: ",
+            "Proposition": " La relaxation du sphincter oesophagien inferieur se produit uniquement lors de la deglutition.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 343,
+            "Question": "Q29. Concernant les macronutriments:  ",
+            "Proposition": " La digestion luminale du lactose est assuree par la lactase.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 344,
+            "Question": "Q29. Concernant les macronutriments:  ",
+            "Proposition": " L'index glycemique ne tient pas compte de la quantite de glucides ingeree qui est un facteur important de  l'elevation de la glycemie et de la reponse insulinique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 345,
+            "Question": "Q29. Concernant les macronutriments:  ",
+            "Proposition": " Les proteines vegetales sont completes.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 346,
+            "Question": "Q24. Concernant l'estomac:  ",
+            "Proposition": " La vidange gastrique depend de la composition ou de la consistance des aliments ingeres.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 347,
+            "Question": "Q24. Concernant l'estomac:  ",
+            "Proposition": " Au niveau de l'antre, le potentiel membranaire de repos des cellules musculaires est superieur au seuil de  contraction, expliquant ainsi les contractions phasiques a ce niveau.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 348,
+            "Question": "Q24. Concernant l'estomac:  ",
+            "Proposition": " L'accommodation du fundus est un reflexe uniquement intrinseque.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 349,
+            "Question": "Q21. Concernant les macronutriments: ",
+            "Proposition": " Les besoins lipidiques quotidiens sont apportes par les triglycerides (95%), les phospholipides (5%) et les phytosterols (< 1%).     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 350,
+            "Question": "Q21. Concernant les macronutriments: ",
+            "Proposition": " L'emulsion des lipides est un processus a la fois mecanique et physico-chimique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 351,
+            "Question": "Q21. Concernant les macronutriments: ",
+            "Proposition": " L'intestin grele peut absorber des dipeptides et des tripeptides qui sont ensuite hydrolyses par des peptidases cytoplasmiques des cellules villositaires.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 352,
+            "Question": "Q19. Concernant les glandes salivaires: ",
+            "Proposition": " L'innervation des glandes salivaires principales est assuree par le systeme para et orthosympathique dont les effets sont opposes, le parasympathique stimulant la secretion salivaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 353,
+            "Question": "Q19. Concernant les glandes salivaires: ",
+            "Proposition": " Les glandes sublinguales sont essentiellement muqueuses; elles sont innervees par le nerf VIT et assurent 5% de  la secretion salivaire basale,   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 354,
+            "Question": "Q19. Concernant les glandes salivaires: ",
+            "Proposition": " Le reflexe conditionne est une stimulation de la secretion salivaire induite par une stimulation intra-buccale.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 355,
+            "Question": "Q17. Concernant la secretion gastrique: ",
+            "Proposition": " La phase cephalique de la secretion gastrique acide represente 30-40%% de la secretion acide.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 356,
+            "Question": "Q17. Concernant la secretion gastrique: ",
+            "Proposition": " La gastrine exerce un effet stimulateur sur la secretion acide par action principalement directe au niveau de la cellule parietale.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 357,
+            "Question": "Q17. Concernant la secretion gastrique: ",
+            "Proposition": " La plupart des agents qui stimulent la secretion acide parietale stimulent egalement la secretion de pepsines par les cellules principales.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 358,
+            "Question": "Q35. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Lorsque la fonction hepatique est normale, un ictere a bilirubine non conjuguee s'accompagne toujours d'urobilirubinurie.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 359,
+            "Question": "Q35. Concernant le foie et les voies biliaires: ",
+            "Proposition": " La bile ductulaire est produite par les cholangiocytes et les hepatocytes.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 360,
+            "Question": "Q35. Concernant le foie et les voies biliaires: ",
+            "Proposition": " Lors d'un repas, la CCK favorise la contraction de la vesicule bilaire par reflexe vago-vagal mais egalement par voie endocrine.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 361,
+            "Question": "Q2. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La secretine est le principal regulateur hormonal de la secretion canalaire pancreatique. Elle induit une secretion hydro-electrolytique alcaline abondante lors de la phase intestinale de la secretion pancreatique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 362,
+            "Question": "Q2. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lorsque le debit secretoire hydro-electrolytique augmente, la concentration en sodium du liquide gastrique  diminue tandis que la concentration en sodium du liquide pancreatique augmente.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 363,
+            "Question": "Q2. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En periode interprandiale, la somatostatine exerce un effet tonique inhibiteur sur la secretion d'HCI gastrique en agissant, via son recepteur SST2, sur les cellules G, ECL et parietales.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 364,
+            "Question": "Q1. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En aval d'un segment peristaltique intestinal, la relaxation du muscle lisse circulaire interne et la relaxation du muscle longitudinal externe favorisent la diminution de pression necessaire a la progression du contenu intestinal.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 365,
+            "Question": "Q1. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les complexes moteurs migrants interdigestifs sont composes de 3 phases dont la derniere, et qui est la plus  courte, est une periode de contractions regulieres et intenses.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 366,
+            "Question": "Q1. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'un repas, la cholecystokinine induit la relaxation du sphincter d'Oddi par voie endocrine et par reflexe vago-vagal.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 367,
+            "Question": "Q5. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " La carence en acide folique se rencontre regulierement chez l'alcoolique chronique et s'explique notamment par l'inhibition, par l'alcool, de l'exopeptidase de la bordure en brosse qui clive sequentiellement les residus glutamate du PteGlu7.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 368,
+            "Question": "Q5. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " Les cellules parietales gastriques secretent le facteur intrinseque qui se lie a la vitamine 812 dans la cavite gastrique.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 369,
+            "Question": "Q5. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " L'hepcidine empeche la sortie tissulaire de Fe** vers le plasma en se liant a la ferroportine,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 370,
+            "Question": "Q20. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " La biologie plasmatique d'un patient de 30 ans est la suivante: saturation de la transferrine 90% ; ferritine 1500 ng/ml (30-350) et hepcidine < 0,3 nmol/L (0,7-3,9). Ces resultats sont compatibles avec le diagnostic d'une hemochromatose HFE C282Y homozygote,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 371,
+            "Question": "Q20. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " L'elevation de l'homocysteine plasmatique peut se rencontrer lors d'une carence en vitamine B12 mais egalement lors d'une carence en vitamine B9,   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 372,
+            "Question": "Q20. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " L'absorption digestive de Ca' est active tout au long du grele.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 373,
+            "Question": "Q7. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une pancreatite chronique, la steatorrhee apparait precocement et resulte de la maldigestion et de la malabsorption des graisses.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 374,
+            "Question": "Q7. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un regime occidental apporte quotidiennement pres de 30% des glucides sous forme de sucrose et 45 a 60%  des glucides sous forme d'amidon (amylose et amylopectine).   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 375,
+            "Question": "Q7. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les dipeptides et les tripeptides sont absorbes dans l'enterocyte par un mecanisme de transport actif tertiaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 376,
+            "Question": "Q5. Concernant le foie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " 95% acides biliaires conjugues sont reabsorbes activement au niveau de l'ileon par endocytose mediee par leur liaison au recepteur cubiline-amnionless.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 377,
+            "Question": "Q5. Concernant le foie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une cirrhose hepatique avec hypertension portale sinusoidale cliniquement significative, l'etat circulatoire hyperdynamique est favorise par le developpement du reseau collateral porto-cave.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 378,
+            "Question": "Q5. Concernant le foie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un patient de 75 ans, dont la fonction hepatique est normale, presente un ictere franc, sans temperature. Ses urines sont devenues foncees et ses selles sont de couleur mastic. Son etat general s'est degrade depuis plusieurs mois et il signale des episodes de douleurs epigastriques. Dans ces conditions, on peut en deduire qu'il s'agit tres probablement d'un ictere a bilirubine conjuguee, avec presence de grandes quantites de bilirubine et  'urobilin     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 379,
+            "Question": "Q25. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une maladie auto-immunitaire qui detruit les cellules parietales, une hypergastrinemie est frequente.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 380,
+            "Question": "Q25. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La secretion pancreatique exocrine et la secretion salivaire sont des secretions isotoniques quel que soit le debit secretoire.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 381,
+            "Question": "Q25. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les medications ayant des effets cholinergiques peuvent entrainer une hyposialorrhee.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 382,
+            "Question": "Q18. Concernant le foie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La bile ductulaire est une secretion hydroelectrolytique alcaline stimulee par la cholecystokinine.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 383,
+            "Question": "Q18. Concernant le foie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'activation des cellules stellees entraine une vasoconstriction sinusoidale qui augmente la resistance vasculaire intra-hepatique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 384,
+            "Question": "Q18. Concernant le foie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une hemolyse avec une fonction hepatique normale, la presence de bilirubine urinaire explique la couleur foncee des urines.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 385,
+            "Question": "Q17. Concernant les diarrhees, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une diarrhee secretoire, les pertes de Nadeg sont generalement iso-osmotiques.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 386,
+            "Question": "Q17. Concernant les diarrhees, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La sous unite A centrale de la toxine thermolabile de E. Coli enterotoxigene stimule de maniere irreversible l'adenylate cyclase au niveau des cellules des cryptes du grele, ce qui entraine une secretion majeure de Cf via le CFTR.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 387,
+            "Question": "Q17. Concernant les diarrhees, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Ajouter de l'amidon resistant a la digestion grele dans la composition d'une solution de rehydratation orale pourrait etre utile dans la mesure ou cet amidon est transforme, au niveau du colon, en acides gras a chaines courtes.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 388,
+            "Question": "Q11. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'accommodation gastrique est un reflexe mixte, vago-vagal et intrinseque.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 389,
+            "Question": "Q11. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La relaxation receptive de la partie proximale de l'estomac se produit lors de l'arrivee du bol alimentaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 390,
+            "Question": "Q11. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le reflexe peristaltique qui assure la progression des aliments au niveau de l'intestin grele est un reflexe court, c'est-a-dire integre au niveau du systeme nerveux enterique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 391,
+            "Question": "Q9. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Si un aliment de 100g contient 10% de glucides dont l'index glycemique (IG) est de 70%, sa charge glycemique est de 7g. Il s'agit d'une valeur faible alors que l'IG est pourtant eleve.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 392,
+            "Question": "Q9. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'ezetimibe inhibe l'absorption intestinale de cholesterol libre en se liant au recepteur NPC1L1 qui est situe dans la membrane apicale de la cellule villositaire.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 393,
+            "Question": "Q9. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La digestion des proteines peut encore avoir lieu dans le cytoplasme des enterocytes ou des peptidases assurent l'hydrolyse de di et tripeptides, ceux-ci ayant ete transportes dans la cellule par un cotransporteur 1H'/1oligopeptide.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       }

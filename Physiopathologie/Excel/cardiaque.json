@@ -12,7 +12,7 @@
             "Question": "13. Concernant l'activite electrique du coeur: ",
             "Proposition": " Le noeud auriculo-ventriculaire est principalement innerve par le nerf vague droit.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "C'est le nerf vague gauche",
             "Reference": "-"
       },
       {
@@ -26,816 +26,1912 @@
       {
             "Numero": 4,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Soit une sphere dont l'epaisseur de la paroi est negligeable. Lorsque le rayon de la sphere = 4 cm et la pression transmurale = 8 dyne.cm\", la tension qui s'exerce au niveau de la paroi est de 16 dyne.cm\"  ",
+            "Reponse": true,
+            "Justification": "8*4/2 = 16 dyne.cm2",
             "Reference": "-"
       },
       {
             "Numero": 5,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le systeme orthosympathique exerce un effet Beta-1, au niveau des cardiomyocytes auriculaires et ventriculaires ainsi qu'au niveau du noeud sinusal et du noeud auriculo-ventriculaire.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 6,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Le reseau resistif du systeme circulatoire est forme par l'aorte et les gros vaisseaux arteriels. ",
+            "Reponse": false,
+            "Justification": "C'est principalement dans les arterioles",
             "Reference": "-"
       },
       {
             "Numero": 7,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Selon la loi de Laplace, la tension qui s'exerce au niveau de la paroi d'une structure creuse est inversement proportionnelle a la pression qui y regne et a son rayon.  ",
+            "Reponse": false,
+            "Justification": "C'est proportionnelle",
             "Reference": "-"
       },
       {
             "Numero": 8,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les proprietes de la fibre musculaire cardiaque isolee peuvent etre transposees au ventricule, ainsi, la tension exercee par la fibre (g) correspond a la pression intraventriculaire (mm Hg).  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 9,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La noradrenaline augmente la contractilite en deplacant la relation force-vitesse vers le haut et la droite, ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 10,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Les veines ont une compliance elevee et sont des vaisseaux capacitifs.  ",
+            "Reponse": true,
+            "Justification": "Se laisse facilement distendre pour une faible pression -> compliance eleve car haut rapport variation de volume/pression",
             "Reference": "-"
       },
       {
             "Numero": 11,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le retour veineux est le debit de sang provenant du compartiment veineux peripherique et qui entre dans le compartiment veineux central.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 12,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La postcharge est la contrainte sigma (definie selon Laplace) qui s'exerce sur la paroi du ventricule au moment  ou il se contracte et qui s'oppose a l'ejection du sang. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 13,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La pression arterielle pulsee est inversement proportionnelle a la compliance de l'aorte. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 14,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque la pression arterielle sytolique = 120 mm Hg et la pression arterielle diastolique = 90 mm Hg, la pression moyenne calculee est de 100 mm Hg.  ",
+            "Reponse": true,
+            "Justification": "(90*2+120)/3 = 100",
             "Reference": "-"
       },
       {
             "Numero": 15,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La diminution de la pression pulsee du sujet age s'explique par la diminution de la compliance aortique.  ",
+            "Reponse": false,
+            "Justification": "Il y a une augmentation de la pression pulsee",
             "Reference": "-"
       },
       {
             "Numero": 16,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Pour une frequence cardiaque de 75 battements/min, le cycle cardiaque a une duree de 800 msec. ",
+            "Reponse": true,
+            "Justification": "60/75 = 0,8s = 800msec",
             "Reference": "-"
       },
       {
             "Numero": 17,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La contractilite n'influence pas le volume d'ejection systolique. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 18,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le debit cardiaque est inversement proportionnel a la frequence cardiaque.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 19,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Le noeud sinusal est principalement innerve par le nerf vague gauche. ",
+            "Reponse": false,
+            "Justification": "C'est innerve par le nerf vague droit",
             "Reference": "-"
       },
       {
             "Numero": 20,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'enregistrement de l'ECG comporte 12 derivations: 3 bipolaires et 9 unipolaires. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 21,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La repolarisation auriculaire n'est pas visible sur l'ECG en raison de sa faible amplitude qui est masquee  par le complexe QRS. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 22,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La vitesse du courant sanguin augmente lorsque la surface de section des vaisseaux augmente.  ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 23,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque l'ecoulement est laminaire, la loi de Poiseuille indique que, le debit est proportionnel a la longueur du tube et inversement proportionnel a la 4deg puissance du rayon du tube.  ",
+            "Reponse": false,
+            "Justification": "Le debit est inversement proportionnelle a la resistance et la resistance est inversement proportionnelle a rayon puissance 4",
             "Reference": "-"
       },
       {
             "Numero": 24,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La paroi des arteres contient une quantite importante de fibres elastiques qui leur conferent une forte  compliance et une faible elastance.  ",
+            "Reponse": false,
+            "Justification": "Beaucoup de fibres elastiques font en sorte que l'aorte a besoin de plus de pression pour changer de forme -> une faible compliance et une forte elastance",
             "Reference": "-"
       },
       {
             "Numero": 25,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": ". La vitesse du courant sanguin est la plus faible au niveau du reseau capillaire ou la surface de section est la plus faible.  ",
+            "Reponse": false,
+            "Justification": "Q = v.S donc pour un debit donnee, la vitesse du sang est inversement proportionnelle a la taille de la surface de la section",
             "Reference": "-"
       },
       {
             "Numero": 26,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lors d'un exercice physique, la pression pulsee augmente mais la pression arterielle moyenne reste relativement stable.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 27,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La compliance elevee des veines peripherique (+50 fois superieure a la compliance des arteres) explique que le reseau veineux peripherique est un reseau capacitif qui contient +65-70% du sang. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 28,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Les determinants du debit cardiaque sont la frequence cardiaque et le VES (le VES etant fonction de la precharge, de la contractilite et de la postcharge).  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 29,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La frequence de decharge des barorecepteurs du systeme vasculaire a haute pression diminue lorsque la pression arterielle moyenne diminue.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 30,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque la frequence cardiaque augmente, la duree de la systole est plus fortement reduite que la duree de la diastole,  ",
+            "Reponse": false,
+            "Justification": "C'est la diastole qui est plus fortement reduit que la systole",
             "Reference": "-"
       },
       {
             "Numero": 31,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Lorsque la pression veineuse augmente, la forme des veines devient de plus en plus circulaire et la compliance veineuse diminue.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 32,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La pompe respiratoire augmente le retour le veineux lors de l'expiration.  ",
+            "Reponse": false,
+            "Justification": "Lors de l'inspiration",
             "Reference": "-"
       },
       {
             "Numero": 33,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le reseau capacitif du systeme circulatoire est forme par les veinules et veines contenant +65% du volume  sanguin. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 34,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lorsque la PAsyst = 130 mmHg et PAdiast = 70 mmHg, la PA moyenne est egale a 90 mmHg ",
+            "Reponse": true,
+            "Justification": "(70*2+130)/3 = 90",
             "Reference": "-"
       },
       {
             "Numero": 35,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'onde de pression progresse +10 a 20 fois plus vite que le sang. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 36,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La pression arterielle pulsee est la difference entre la pression systolique et la pression diastolique. Elle est  > 60 mmHg chez l'adulte jeune. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 37,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La repolarisation des oreillettes n'est pas visible sur l'ECG, etant masquee par le complexe QRS. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 38,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Comme au niveau des oreillettes, la repolarisation ventriculaire progresse de l'epicarde vers l'endocarde. ",
+            "Reponse": false,
+            "Justification": "Contrairement aux oreillettes",
             "Reference": "-"
       },
       {
             "Numero": 39,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'axe normal du coeur se situe entre -30deg et +90deg  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 40,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La noradrenaline augmente la contractilite en deplacant la relation force-vitesse vers le haut et la droite.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 41,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Le volume telediastolique (VTD) est le volume du ventricule en fin de remplissage, estime par la formule: VTD = VES + VTS, Sa valeur normale au repos est de + 130 ml par minute  ",
+            "Reponse": false,
+            "Justification": "C'est un volume et non un debit donc c'est pas par minute",
             "Reference": "-"
       },
       {
             "Numero": 42,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La FEV permet d'estimer la contractilite du myocarde par la formule: FEV = (VES/VTD) x 100. Dans les  conditions normales, sa valeur est de +70% ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 43,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Le 2eme bruit du coeur est lie a la fermeture des valves auriculo-ventriculaire G et D. ",
+            "Reponse": false,
+            "Justification": "Non c'est le premier bruit",
             "Reference": "-"
       },
       {
             "Numero": 44,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Au repos, lorsque la frequence cardiaque est de 75 battements par minute, la diastole occupe 2/3 du cycle cardiaque et dure environ 500 msec tandis que la systole occupe 1/3 du cycle et dure environ 300 msec  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 45,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La loi de Frank-Starling est une propriete intrinseque du myocarde qui ajuste le VES au retour veineux. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 46,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "2. Concernant le reseau vasculaire: ",
+            "Proposition": " Les differentes circulations destinees aux organes sont disposees en parallele.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 47,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "2. Concernant le reseau vasculaire: ",
+            "Proposition": " La circulation pulmonaire est une circulation a basse pression et a haute resistance.    ",
+            "Reponse": false,
+            "Justification": "basse pression et basse resistance",
             "Reference": "-"
       },
       {
             "Numero": 48,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "2. Concernant le reseau vasculaire: ",
+            "Proposition": " Le reseau capacitif qui contient +95% du volume sanguin est forme par les veines et les veinules.    ",
+            "Reponse": false,
+            "Justification": "Que 65%  pas 95%",
             "Reference": "-"
       },
       {
             "Numero": 49,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Dans les derivations precordiales, l'amplitude de l'onde R en regard de chaque electrode est correlee a l'epaisseur du myocarde viable sous l'electrode.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 50,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " L'ECG permet de suivre l'activite electrique cardiaque au cours du temps, de maniere directe et globale.  ",
+            "Reponse": false,
+            "Justification": "de maniere indirecte",
             "Reference": "-"
       },
       {
             "Numero": 51,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Le 1er bruit du coeur est lie a l'ouverture des valves auriculo-ventriculaires. ",
+            "Reponse": false,
+            "Justification": "C'est lie a la fermeture et non a l'ouverture (ouvrir ca fait aucun bruit alors que claquer une porte ca fait BAM)",
             "Reference": "-"
       },
       {
             "Numero": 52,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La taille d'un infarctus du myocarde depend uniquement de la localisation de l'occlusion arterielle. ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 53,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le systeme parasympathique innerve le noeud sinusal (surtout via le nerf vague D) et le noeud auriculo- ventriculaire (surtout via le nerf vague G).  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 54,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'elastance est l'inverse de la compliance et represente la variation de pression induite par une variation de  volume. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 55,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La pression arterielle pulsee (Pp) est determinee par la relation: Pp = CA/ VES  ",
+            "Reponse": false,
+            "Justification": "c'est l'inverse",
             "Reference": "-"
       },
       {
             "Numero": 56,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Chez l'adulte jeune en bonne sante, la pression arterielle systolique se situe entre 90 et 120 mmHg et la pression arterielle diastolique se situe entre 60 et 80 mmHg  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 57,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le baroreflexe arteriel est une boucle de retrocontrole negatif qui assure la regulation immediate de la  pression arterielle moyenne. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 58,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'ECG normal montre une onde T positive qui s'explique par la repolarisation ventriculaire qui progresse de l'epicarde vers l'endocarde.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 59,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Chez l'individu normal au repos, le tonus orthosympathique est preponderant et determine la frequence cardiaque.  ",
+            "Reponse": false,
+            "Justification": "C'est le tonus parasympathique",
             "Reference": "-"
       },
       {
             "Numero": 60,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'intervalle PR de l'ECG comprend la depolarisation auriculaire et la conduction au niveau du noeud auriculo-ventriculaire. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 61,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " Lors de la systole, le ventricule ne se vide pas totalement et dans les conditions normales, le volume telesystolique est de l'ordre de 100 ml.  ",
+            "Reponse": false,
+            "Justification": "Il est de l'ordre de 50-60mL (Le volume a la fin de la diastole (volume telediastolique) est de 120-130mL, or le volume d'ejection systolique est de 70mL donc a la fin de la systole, on est a 130-70 = 60mL)",
             "Reference": "-"
       },
       {
             "Numero": 62,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " Le debit cardiaque est le produit du volume d'ejection systolique et de la frequence cardiaque.  ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 63,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " La precharge est assimilee au volume telediastolique du ventricule qui represente le remplissage  ventriculaire et qui depend essentiellement du retour veineux. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 64,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La noradrenaline augmente la contractilite du myocarde en deplacant la courbe de tension isometrique maximale vers le haut et la droite.  ",
+            "Reponse": false,
+            "Justification": "/!\\ a ne pas confondre courbe de tension isometrique et courbe relation force-vitesse",
             "Reference": "-"
       },
       {
             "Numero": 65,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " La tension active developpee par le muscle papillaire cardiaque est independante de sa longueur de repos. ",
+            "Reponse": false,
+            "Justification": "C'est dependant",
             "Reference": "-"
       },
       {
             "Numero": 66,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " L'augmentation de la contractilite myocardique augmente le volume d'ejection systolique a tout niveau  donne de precharge et de postcharge. ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 67,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "28. Concernant l'activite electrique du coeur:  ",
+            "Proposition": " Lorsque le complexe QRS est positif en aVF et egal a 0 en D1 l'axe du coeur est a +90deg    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 68,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "28. Concernant l'activite electrique du coeur:  ",
+            "Proposition": " La depolarisation auriculaire et ventriculaire progresse de l'endocarde vers l'epicarde,    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 69,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "28. Concernant l'activite electrique du coeur:  ",
+            "Proposition": " L'intervalle QT s'etend du debut du complexe QRS a la fin de l'onde T et sa duree est independante du rythme cardiaque.    ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 70,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "16. Concernant la pompe cardiaque: ",
+            "Proposition": " La phase de remplissage et la phase de relaxation isovolumetrique constituent la diastole.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 71,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "16. Concernant la pompe cardiaque: ",
+            "Proposition": " La contractilite represente la force de contraction des fibres musculaires independamment de la precharge et  de la postcharge.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 72,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "16. Concernant la pompe cardiaque: ",
+            "Proposition": " La regulation heterometrique est l'adaptation du volume d'ejection systolique en fonction de la longueur des  fibres musculaires cad en fonction du volume telediastolique.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 73,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "11. Concernant le compartiment veineux: ",
+            "Proposition": " Le retour veineux augmente lorsque la pression veineuse centrale diminue.   ",
+            "Reponse": true,
+            "Justification": "C'est logique, si la pression veineuse a la fin diminue, le sang va plus facilement revenir",
             "Reference": "-"
       },
       {
             "Numero": 74,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "11. Concernant le compartiment veineux: ",
+            "Proposition": " Le compartiment veineux central est situe entre le compartiment veineux peripherique et le ventricule  gauche.   ",
+            "Reponse": false,
+            "Justification": "entre les veines cave et l'oreillette droite",
             "Reference": "-"
       },
       {
             "Numero": 75,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "11. Concernant le compartiment veineux: ",
+            "Proposition": " La compliance du compartiment veineux central est elevee.    ",
+            "Reponse": false,
+            "Justification": "Compliance faible",
             "Reference": "-"
       },
       {
             "Numero": 76,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "6. Concernant la pression arterielle: ",
+            "Proposition": " La mesure de la pression moyenne (PAmoy) n'est pas realisee en routine et peut etre estimee par la relation: PAmoy = Pasyst + 1/3(PAsyst - PAdiast)   ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 77,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "6. Concernant la pression arterielle: ",
+            "Proposition": " La pression pulsee diminue avec l'age.    ",
+            "Reponse": false,
+            "Justification": "elle augmente avec l'age (la difference entre pression syst et diast augmente)",
             "Reference": "-"
       },
       {
             "Numero": 78,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "6. Concernant la pression arterielle: ",
+            "Proposition": " Le baroreflexe arteriel est une boucle de retrocontrole negatif qui assure la regulation immediate de la pression arterielle systolique.    ",
+            "Reponse": false,
+            "Justification": "assure la regulation de la pression moyenne",
             "Reference": "-"
       },
       {
             "Numero": 79,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "5. Concernant les proprietes du systeme cardiovasculaire: ",
+            "Proposition": " La vitesse (v) du sang varie selon la relation: v = S/Q ou Q est le debit sanguin et S est la surface de section du vaisseau.   ",
+            "Reponse": false,
+            "Justification": "Q = v.S donc v = Q/S",
             "Reference": "-"
       },
       {
             "Numero": 80,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "5. Concernant les proprietes du systeme cardiovasculaire: ",
+            "Proposition": " La compliance, en cm^3.mmHg^-1 , est un index de distension de la paroi du vaisseau et represente la variation  de volume du vaisseau induite par une variation de pression transmurale qui s'y applique.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 81,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "5. Concernant les proprietes du systeme cardiovasculaire: ",
+            "Proposition": " Lorsque la loi de Laplace s'applique au ventricule, l'augmentation d'epaisseur de la paroi ventriculaire augmente la contrainte sigma qui s'exerce au niveau de la paroi et qui s'exprime en dynes.cm^-2",
+            "Reponse": false,
+            "Justification": "inversement proportionnellement donc l'epaisseur fait diminuer la contrainte sigma",
             "Reference": "-"
       },
       {
             "Numero": 82,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "4. Concernant l'activite electrique du coeur: ",
+            "Proposition": " L'activite pacemaker des cellules sinusales signifie que leur potentiel de repos fluctue spontanement ou de maniere periodique.    ",
+            "Reponse": false,
+            "Justification": "La fourberie tah la famille des Thenardiers, l'erreur ici c'est que c'est cense etre un \"et\" au lieu d'un \"ou\"",
             "Reference": "-"
       },
       {
             "Numero": 83,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "4. Concernant l'activite electrique du coeur: ",
+            "Proposition": " Le potentiel d'action des cellules sinusales ne comporte pas de phase 0 et de phase plateau.   ",
+            "Reponse": false,
+            "Justification": "Il y a une phase 0 mais pas de phase de plateau",
             "Reference": "-"
       },
       {
             "Numero": 84,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "4. Concernant l'activite electrique du coeur: ",
+            "Proposition": " La vitesse de conduction est acceleree au niveau du noeud auriculo-ventriculaire ou elle est de 0,05 m/sec.    ",
+            "Reponse": false,
+            "Justification": "Elle est ralentie",
             "Reference": "-"
       },
       {
             "Numero": 85,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "14. Concernant la pompe cardiaque: ",
+            "Proposition": " Pour une frequence cardiaque de 75 battements/min, le cycle cardiaque a une duree de 800 msec   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 86,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "14. Concernant la pompe cardiaque: ",
+            "Proposition": " La loi de Frank-Starling est une propriete intrinseque du myocarde qui ajuste le volume d'ejection systolique  au retour veineux.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 87,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "14. Concernant la pompe cardiaque: ",
+            "Proposition": " Sur la courbe PV,  la systole est la phase d'ejection ventriculaire.    ",
+            "Reponse": false,
+            "Justification": "C'est aussi la phase de contraction isometrique",
             "Reference": "-"
       },
       {
             "Numero": 88,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "12. Concernant le systeme circulatoire: ",
+            "Proposition": " Selon la loi de Laplace, la tension qui s'exerce au niveau de la paroi d'une structure creuse est inversement proportionnelle a l'epaisseur de la paroi.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 89,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "12. Concernant le systeme circulatoire: ",
+            "Proposition": " Lorsqu'un systeme vasculaire est forme de plusieurs elements disposes en serie, le debit est necessairement  identique au niveau de chaque element.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 90,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "12. Concernant le systeme circulatoire: ",
+            "Proposition": " Lorsque le nombre de Reynolds est > 2000, l'ecoulement est laminaire.    ",
+            "Reponse": false,
+            "Justification": "c'est inferieur a 2000",
             "Reference": "-"
       },
       {
             "Numero": 91,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "8. Concernant la pompe cardiaque: ",
+            "Proposition": " Une diminution de la postcharge diminue le volume telesystolique.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 92,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "8. Concernant la pompe cardiaque: ",
+            "Proposition": " La fraction d'ejection ventriculaire qui permet d'estimer la contractilite se situe normalement entre 55 et 75%    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 93,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "8. Concernant la pompe cardiaque: ",
+            "Proposition": " Lorsque la contractilite de la fibre musculaire cardiaque augmente, la relation force vitesse est deplacee vers le haut et la gauche,    ",
+            "Reponse": false,
+            "Justification": "vers le haut et la droite",
             "Reference": "-"
       },
       {
             "Numero": 94,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "3. Concernant l'activite electrique du coeur:  ",
+            "Proposition": " La derivation DI est une derivation bipolaire qui mesure la difference de potentiel entre le bras D et le bras G.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 95,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "3. Concernant l'activite electrique du coeur:  ",
+            "Proposition": " Lorsque le complexe QRS est negatif en aVF et positif en aVL, l'axe du coeur se situe entre 0 et +30deg    ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 96,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "3. Concernant l'activite electrique du coeur:  ",
+            "Proposition": " La duree normale de l'intervalle PR se situe entre 0,12 et 0,2 sec et est en moyenne de 0,16 sec    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 97,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "31. Concernant la pompe cardiaque: ",
+            "Proposition": " Le 2e bruit du coeur est lie a l'ouverture des valves aortique et pulmonaire.   ",
+            "Reponse": false,
+            "Justification": "bam",
             "Reference": "-"
       },
       {
             "Numero": 98,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "31. Concernant la pompe cardiaque: ",
+            "Proposition": " Le volume d'ejection systolique depend de la precharge, de la postcharge et de la contractilite.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 99,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "31. Concernant la pompe cardiaque: ",
+            "Proposition": " Le volume telesystolique est le volume de sang residuel au niveau du ventricule apres la systole: il est de l'ordre de 50 ml dans les conditions normales.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 100,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " lorsque l'ecoulement est laminaire, le debit est multiplie par 8 lorsque le rayon est multiplie par 2. ",
+            "Reponse": false,
+            "Justification": "Le debit est proportionnelle a la puissance 4 du rayon donc si le rayon double, le debit est multiplie par 16",
             "Reference": "-"
       },
       {
             "Numero": 101,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " la vitesse du courant sanguin est la plus elevee au niveau du reseau arteriel (+0,5m/s) ou la surface de section est plus basse.  ",
+            "Reponse": true,
+            "Justification": "Il faut voir la surface totale et non la surface de chaque vaisseau car il y en a enormement du coup ca divise car ils sont en parallele et non en serie. Par contre le 0,5m/s il a fume",
             "Reference": "-"
       },
       {
             "Numero": 102,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Proposition": " la compliance s'exprime en cm^3/mmHg. ",
+            "Reponse": true,
+            "Justification": "mL = cm^3",
             "Reference": "-"
       },
       {
             "Numero": 103,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
-            "Justification": "-",
+            "Question": "29. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " Le prepotentiel peut etre defini comme une depolarisation progressive qui n'atteint jamais le seuil de depolarisation.   ",
+            "Reponse": false,
+            "Justification": "Il va atteindre le seuil de depolarisation",
             "Reference": "-"
       },
       {
             "Numero": 104,
-            "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Question": "29. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " Le systeme parasympathique exerce son effet dromotrope negatif en hyperpolarisant les cellules de la region  N du noeud auriculo-ventriculaire.   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 105,
+            "Question": "29. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " Les cellules myocardiques ventriculaires qui sont les dernieres a se depolariser ont un potentiel d'action plus court, ce qui explique leur repolarisation precoce et l'onde T positive a l'ECG.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 106,
+            "Question": "25. Concernant le systeme circulatoire: ",
+            "Proposition": " La circulation pulmonaire et la circulation systemique sont disposees en parallele.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 107,
+            "Question": "25. Concernant le systeme circulatoire: ",
+            "Proposition": " Le debit sanguin est inversement proportionnel a la 4deg puissance du rayon du tube selon la loi de Poiseuille-  Hagen.   ",
+            "Reponse": false,
+            "Justification": "proportionnel",
+            "Reference": "-"
+      },
+      {
+            "Numero": 108,
+            "Question": "25. Concernant le systeme circulatoire: ",
+            "Proposition": " Les arteres et les veines ont une innervation orthosympathique de type alpha1-adrenergique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 109,
+            "Question": "23. Concernant la pompe cardiaque: ",
+            "Proposition": " La precharge est la contrainte sigma (definie selon Laplace) qui s'exerce sur la paroi du ventricule en fin de diastole.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 110,
+            "Question": "23. Concernant la pompe cardiaque: ",
+            "Proposition": " Si le debit cardiaque est de 6,4 litres par minute et la frequence cardiaque est de 80 battements par minute, le VES est de 80 ml par minute.    ",
+            "Reponse": false,
+            "Justification": "C'est juste 80mL (ou mL par battement pour etre exact) et non 80mL par minute",
+            "Reference": "-"
+      },
+      {
+            "Numero": 111,
+            "Question": "21. Concernant la pression arterielle: ",
+            "Proposition": " La pression pulsee augmente lorsque le volume d'ejection systolique augmente.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 112,
+            "Question": "21. Concernant la pression arterielle: ",
+            "Proposition": " Les barorecepteurs du systeme vasculaire a haute pression ont une activite permanente ou tonique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 113,
+            "Question": "20. Concernant le systeme veineux: ",
+            "Proposition": " Le retour veineux est le debit de sang provenant du compartiment veineux peripherique et qui entre dans le compartiment veineux central, selon la relation: Q = (PVP - PVC)/R   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 114,
+            "Question": "20. Concernant le systeme veineux: ",
+            "Proposition": " La pression veineuse centrale augmente lorsque la compliance veineuse augmente.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 115,
+            "Question": "20. Concernant le systeme veineux: ",
+            "Proposition": " La compliance des veines peripherique et des veines centrales est +50 fois superieure a la compliance des arteres.    ",
+            "Reponse": false,
+            "Justification": "Veines centrale 25fois moins compliant que veines peripheriques",
+            "Reference": "-"
+      },
+      {
+            "Numero": 116,
+            "Question": "Q1. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " La phase 0 du potentiel d'action des cellules sinusales est liee a l'activation transitoire du canal Na, rapide.   ",
+            "Reponse": false,
+            "Justification": "C'est pour les cardiomyocytes que c'est vrai",
+            "Reference": "-"
+      },
+      {
+            "Numero": 117,
+            "Question": "Q1. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " La periode refractaire absolue au niveau du cardiomyocyte a une duree longue et equivalente a celle de la contraction musculaire, ce qui evite le tetanos cardiaque.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 118,
+            "Question": "Q1. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " Le systeme orthosympathique accelere le rythme cardiaque en augmentant la pente de la phase 4 du potentiel d'action des cellules sinusales.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 119,
             "Question": "-",
-            "Proposition": "-",
-            "Reponse": "-",
+            "Proposition": " le compartiment veineux peripherique a un large volume, une compliance elevee et une resistance faible.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 120,
+            "Question": "-",
+            "Proposition": " la courbe de fonction veineuse relie la pression veineuse centrale au retour veineux.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 121,
+            "Question": "-",
+            "Proposition": " lors d'une transfusion, le croisement des courbes de fonction cardiaque et veineuse est deplace vers le haut et la droite.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 122,
+            "Question": "-",
+            "Proposition": " la regulation de la pression arterielle a court terme est assuree essentiellement par l'activite des barorecepteurs du systeme vasculaire a haute pression. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 123,
+            "Question": "-",
+            "Proposition": " dans la situation normale, la pression veineuse centrale se situe entre 0 et 2 mmHg.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 124,
+            "Question": "-",
+            "Proposition": " chez l'adulte jeune, la pression arterielle pulsee est > 60 mm Hg.  ",
+            "Reponse": false,
+            "Justification": "C'est chez l'individu age",
+            "Reference": "-"
+      },
+      {
+            "Numero": 125,
+            "Question": "-",
+            "Proposition": " la postcharge est d'autant plus importante que l'elastance du reseau arteriel est basse. ",
+            "Reponse": false,
+            "Justification": "que l'elastance est elevee",
+            "Reference": "-"
+      },
+      {
+            "Numero": 126,
+            "Question": "-",
+            "Proposition": " l'index cardiaque exprime le debit cardiaque en fonction de la surface corporelle. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 127,
+            "Question": "-",
+            "Proposition": " la frequence cardiaque maximale d'un sujet de 40 ans est de 200 battements/min.  ",
+            "Reponse": false,
+            "Justification": "180 bpm",
+            "Reference": "-"
+      },
+      {
+            "Numero": 128,
+            "Question": "-",
+            "Proposition": " la contractilite represente la force de contraction des fibres musculaires et depend de la precharge et de la postcharge  ",
+            "Reponse": false,
+            "Justification": "c'est independant",
+            "Reference": "-"
+      },
+      {
+            "Numero": 129,
+            "Question": "-",
+            "Proposition": " la precharge est assimilee au volume telediastolique du ventricule et depend essentiellement du retour VEINEUX.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 130,
+            "Question": "-",
+            "Proposition": " l'effet inotrope de Sarnoff indique, qu'a un volume telediastolique donne, le volume d'ejection systolique augmente lorsque la contractilite augmente.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 131,
+            "Question": "-",
+            "Proposition": " au repos, la diastole occupe 2/3 du cycle cardiaque, soit +500 msec.  ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 132,
+            "Question": "-",
+            "Proposition": " la noradrenaline augmente la contractilite en deplacant la courbe de tension isometrique maximale vers le bas et la droite.  ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 133,
+            "Question": "-",
+            "Proposition": " la duree d'un cycle cardiaque est l'inverse de la frequence cardiaque. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 134,
+            "Question": "-",
+            "Proposition": " le systeme hormonal est le principal regulateur de l'activite pacemaker cardiaque. ",
+            "Reponse": false,
+            "Justification": "C'est le systeme nerveux autonome",
+            "Reference": "-"
+      },
+      {
+            "Numero": 135,
+            "Question": "-",
+            "Proposition": " le complexe QRS de l'ECG represente la depolarisation ventriculaire. ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 136,
+            "Question": "-",
+            "Proposition": " chez l'individu normal au repos, le tonus orthosympathique est preponderant et son niveau d'activite  determine la frequence cardiaque. ",
+            "Reponse": false,
+            "Justification": "C'est le tonus parasympathique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 137,
+            "Question": "Q26. Concernant le systeme veineux:  ",
+            "Proposition": " La pression veineuse centrale diminue en position allongee.    ",
+            "Reponse": false,
+            "Justification": "elle augmente en position allongee, c'est logique puisque la PVC c'est la pression finale apres que le sang a fait toute la circulation, normalement elle est basse parce que le sang perd toute sa pression en essayant de remonter et de vaincre la gravite, mais quand on est allongee, il n'y a plus la contrainte de gravite donc on ne perd plus autant de pression veineuse, et donc la PVC va monter",
+            "Reference": "-"
+      },
+      {
+            "Numero": 138,
+            "Question": "Q26. Concernant le systeme veineux:  ",
+            "Proposition": " Le retour veineux augmente lors de l'expiration.     ",
+            "Reponse": false,
+            "Justification": "dimine lors de l'expiration",
+            "Reference": "-"
+      },
+      {
+            "Numero": 139,
+            "Question": "Q26. Concernant le systeme veineux:  ",
+            "Proposition": " Lorsque la pression veineuse augmente, la forme des veines devient de plus en plus circulaire et la compliance  veincuse augmente.     ",
+            "Reponse": false,
+            "Justification": "La compliance diminue (parce que ca devient trop tendu)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 140,
+            "Question": "Q25. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " La tension active developpee par le muscle papillaire cardiaque isole depend de sa longueur de repos.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 141,
+            "Question": "Q25. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " Lorsque la contractilite augmente, Vmax augmente de meme que la tension isometrique maximale a une longueur donnee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 142,
+            "Question": "Q25. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " Une variation de la contractilite n'implique pas toujours un deplacement de la courbe de tension isometrique maximale.    ",
+            "Reponse": false,
+            "Justification": "ca implique toujours",
+            "Reference": "-"
+      },
+      {
+            "Numero": 143,
+            "Question": "Q24. Concernant la pompe cardiaque: ",
+            "Proposition": " Une insuffisance cardiaque diastolique peut resulter d'un defaut de relaxation ventriculaire ou de remplissage ventriculaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 144,
+            "Question": "Q24. Concernant la pompe cardiaque: ",
+            "Proposition": " Lors d'une insuffisance cardiaque diastolique, la fraction d'ejection ventriculaire est diminuee.    ",
+            "Reponse": false,
+            "Justification": "Elle peut ne pas changer",
+            "Reference": "-"
+      },
+      {
+            "Numero": 145,
+            "Question": "Q24. Concernant la pompe cardiaque: ",
+            "Proposition": " Une augmentation de la postcharge peut entrainer une insuffisance cardiaque systolique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 146,
+            "Question": "Q20. Concernant l'hemodynamique: ",
+            "Proposition": " La compliance est egale au rapport (DeltaP/DeltaV) ou DeltaV est la variation de volume (cm^3) et DeltaP est la variation de pression (mmHg)   ",
+            "Reponse": false,
+            "Justification": "C'est l'inverse, la formule ici represente l'elastance et non la compliance",
+            "Reference": "-"
+      },
+      {
+            "Numero": 147,
+            "Question": "Q20. Concernant l'hemodynamique: ",
+            "Proposition": " Lorsque la loi de Laplace s'applique au ventricule, l'augmentation du rayon du ventricule diminue la contrainte  sigma qui s'exerce au niveau de la paroi et qui s'exprime en dynes.cm^-2",
+            "Reponse": false,
+            "Justification": "ca augmente",
+            "Reference": "-"
+      },
+      {
+            "Numero": 148,
+            "Question": "Q20. Concernant l'hemodynamique: ",
+            "Proposition": " Selon la relation de Poiseuille-Hagen, le debit sanguin est proportionnel a la longueur du vaisseau.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 149,
+            "Question": "Q18. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " Lorsque le complexe QRS est positif en D2 et egal a 0 en aVL, l'axe du coeur est a -30deg   ",
+            "Reponse": true,
+            "Justification": "flm de fr le dessin",
+            "Reference": "-"
+      },
+      {
+            "Numero": 150,
+            "Question": "Q18. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " La transmission de l'activite electrique cardiaque est normalement ralentie au niveau du noeud auriculo-  ventriculaire.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 151,
+            "Question": "Q18. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " La repolarisation auriculaire progresse de l'epicarde vers l'endocarde.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 152,
+            "Question": "Q12. Concernant la pompe cardiaque: ",
+            "Proposition": " La precharge est assimilee au volume du ventricule en fin de diastole et depend du retour veineux.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 153,
+            "Question": "Q12. Concernant la pompe cardiaque: ",
+            "Proposition": " Lorsque la frequence cardiaque est de 100 battements par minute et le volume d'ejection systolique est de 80 ml/battement, le debit cardiaque est de 8L par minute,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 154,
+            "Question": "Q12. Concernant la pompe cardiaque: ",
+            "Proposition": " La loi de Frank-Starling, ou regulation homeometrique, permet l'adaptation du volume d'ejection systolique au niveau de remplissage ventriculaire de maniere automatique et instantanee pour assurer un debit cardiaque approprie.    ",
+            "Reponse": false,
+            "Justification": "C'est la regulation heterometrique et non homeometrique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 155,
+            "Question": "Q13. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " La duree de l'intervalle QT est fonction du rythme cardiaque.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 156,
+            "Question": "Q13. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " La repolarisation auriculaire n'est pas visible sur l'ECG en raison de sa faible amplitude qui est masquee par le complexe QRS,     ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 157,
+            "Question": "Q13. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " Lorsque le complexe QRS est positif en D1, positif en aVF et negatif en aVL, l'axe du coeur se situe entre +60 et +90degC    ",
+            "Reponse": true,
+            "Justification": ":)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 158,
+            "Question": "Q8. Concernant l'hemodynamique:  ",
+            "Proposition": " Le rayon des vaisseaux est le principal determinant du debit sanguin.    ",
+            "Reponse": true,
+            "Justification": "C'est proportionnelle a la puissance 4 du rayon, tkt pas que c lui qui decide",
+            "Reference": "-"
+      },
+      {
+            "Numero": 159,
+            "Question": "Q6. Concernant la pompe cardiaque: ",
+            "Proposition": " Lors d'une insuffisance cardiaque systolique, la FEV est reduite et < 40%   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 160,
+            "Question": "Q6. Concernant la pompe cardiaque: ",
+            "Proposition": " Une decompensation cardiaque droite peut entrainer un oedeme pulmonaire hemodynamique.    ",
+            "Reponse": false,
+            "Justification": "C'est l'insuffisance cardiaque gauche qui va provoquer l'oedeme pulmonaire. En gros, le fait qu'il y ait une insuffisance cardiaque gauche signifie que le ventricule n'arrive pas a bien se vider (systolique) ou alors que l'oreillette n'arrive pas a bien se vider pour remplir le ventricule (diastolique). Dans tous les cas, il y aura une accumulation  de sang au niveau du coeur gauche, donc la pression va augmenter a ce niveau la. Pour compenser ca, la pression va augmenter en amont, d'abord dans la veine pulmonaire puis dans les capillaires pulmonaires. Or si la pression des capillaires pulmonaire augmente, alors il y aura un oedeme psk le sang va commencer a fuiter a travers la paroi des capillaires psk il y a trop de pression. Dans le cas de l'insuffisance cardiaque droite, l'oedeme sera au niveau des organes",
+            "Reference": "-"
+      },
+      {
+            "Numero": 161,
+            "Question": "Q6. Concernant la pompe cardiaque: ",
+            "Proposition": " Une stenose aortique augmente la postcharge du ventricule gauche.    ",
+            "Reponse": true,
+            "Justification": "stenose aortique = retrecissement de la valve aortique-> augmentation de la pression en amont donc dans le ventricule gauche psk le sang a du mal a passer -> augmentation de la postcharge",
+            "Reference": "-"
+      },
+      {
+            "Numero": 162,
+            "Question": "Q2. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " La lidocaine et la tetrodotoxine (TTX).inhibent la phase 1 du potentiel d'action du cardiomyocyte.    ",
+            "Reponse": false,
+            "Justification": "Ils inhibent la phase 0",
+            "Reference": "-"
+      },
+      {
+            "Numero": 163,
+            "Question": "Q2. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " La vitesse de conduction est ralentie au niveau du noeud auriculo-ventriculaire ou elle est de 0,05 m/sec    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 164,
+            "Question": "Q2. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " Le noeud sinusal est principalement innerve par le nerf vague gauche.    ",
+            "Reponse": false,
+            "Justification": "le noeud sinusal est a droite du noeud atrioventriculaire, donc innerve par la droite et l'autre par la gauche",
+            "Reference": "-"
+      },
+      {
+            "Numero": 165,
+            "Question": "Q35. Concernant la pompe cardiaque: ",
+            "Proposition": " Le ler bruit du coeur est lie a la fermeture des valves mitrale et tricuspide.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 166,
+            "Question": "Q35. Concernant la pompe cardiaque: ",
+            "Proposition": " La phase de contraction isovolumetrique et la phase d'ejection constituent la systole..    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 167,
+            "Question": "Q35. Concernant la pompe cardiaque: ",
+            "Proposition": " Lorsque la frequence cardiaque augmente, la duree de la diastole et la duree de la systole sont reduites de maniere identique.    ",
+            "Reponse": false,
+            "Justification": "Ils sont tout les deux divises de moitie mais vu que y en a un plus long que l'autre, il va prendre plus tarif",
+            "Reference": "-"
+      },
+      {
+            "Numero": 168,
+            "Question": "Q27. Concernant la pression arterielle: ",
+            "Proposition": " Lorsque la PAsyst = 116 mmHg et PAdiast = 80 mmHg, la PA moyenne est egale a 92 mmHg ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 169,
+            "Question": "Q27. Concernant la pression arterielle: ",
+            "Proposition": " Lors d'un exercice physique, la pression arterielle moyenne reste relativement stable dans la mesure ou le debit cardiaque augmente et les resistances vasculaires peripheriques diminuent.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 170,
+            "Question": "Q35. Concernant le systeme veineux: ",
+            "Proposition": " L'activite de la pompe musculaire des membres inferieurs augmente le retour veineux et la pression veineuse centrale,   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 171,
+            "Question": "Q35. Concernant le systeme veineux: ",
+            "Proposition": " Lors d'une transfusion, le croisement des courbes de fonction cardiaque et veineuse est deplace vers le haut et  la gauche.     ",
+            "Reponse": false,
+            "Justification": "vers le haut et la droite",
+            "Reference": "-"
+      },
+      {
+            "Numero": 172,
+            "Question": "Q35. Concernant le systeme veineux: ",
+            "Proposition": " Toutes les veines ont une compliance elevee et similaire.    ",
+            "Reponse": false,
+            "Justification": "Veines centrale 25fois moins compliant que veines peripheriques",
+            "Reference": "-"
+      },
+      {
+            "Numero": 173,
+            "Question": "Q21. Concernant la pompe cardiaque: ",
+            "Proposition": " Lorsque la precharge augmente, la longueur des fibres augmente et le volume telediastolique augmente.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 174,
+            "Question": "Q21. Concernant la pompe cardiaque: ",
+            "Proposition": " Si le debit cardiaque est de 6,4L/min et la frequence cardiaque est de 80 battements par minute, le volume telesystolique est de 80 ml par battement.    ",
+            "Reponse": false,
+            "Justification": "C'est le volume d'ejection systolique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 175,
+            "Question": "Q21. Concernant la pompe cardiaque: ",
+            "Proposition": " La contractilite d'une fibre musculaire cardiaque peut etre definie comme le changement de sa tension isometrique maximale a une longueur donnee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 176,
+            "Question": "Q18. Concernant la pompe cardiaque: ",
+            "Proposition": " La pression systolique dans l'aorte et le ventricule gauche est + 5 fois plus elevee que dans l'artere pulmonaire et le ventricule droit.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 177,
+            "Question": "Q18. Concernant la pompe cardiaque: ",
+            "Proposition": " Le 2e bruit du coeur est lie a la fermeture des valves aortique et pulmonaire,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 178,
+            "Question": "Q18. Concernant la pompe cardiaque: ",
+            "Proposition": " Lors de la phase de relaxation isovolumetrique du ventricule, la valve mitrale est fermee et la valve aortique est encore ouverte.    ",
+            "Reponse": false,
+            "Justification": "les deux valves sont fermees",
+            "Reference": "-"
+      },
+      {
+            "Numero": 179,
+            "Question": "Q15. Concernant les proprietes du muscle cardiaque:  ",
+            "Proposition": " Lorsque la contractilite de la fibre musculaire cardiaque augmente, la relation force vitesse est deplacee vers le haut et la droite.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 180,
+            "Question": "Q15. Concernant les proprietes du muscle cardiaque:  ",
+            "Proposition": " La courbe de tension de repos de la fibre musculaire cardiaque fixe la limite de son raccourcissement  lorsqu'elle soumise a un poids constant.   ",
+            "Reponse": false,
+            "Justification": "C'est la courbe de tension isometrique et non la courbe de repos",
+            "Reference": "-"
+      },
+      {
+            "Numero": 181,
+            "Question": "Q15. Concernant les proprietes du muscle cardiaque:  ",
+            "Proposition": " L'augmentation de la postcharge diminue la vitesse de raccourcissement de la fibre musculaire cardiaque a une longueur initiale donnee cad a une precharge donnee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 182,
+            "Question": "Q14. Concernant la pression arterielle:  ",
+            "Proposition": " Lors du passage de la position assise a la station debout, la regulation de la PA moyenne s'opere  immediatement, par l'activite des barorecepteurs du systeme vasculaire a haute pression.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 183,
+            "Question": "Q16. Concernant la pompe cardiaque: ",
+            "Proposition": " Une embolie pulmonaire massive augmente brutalement la postcharge du ventricule droit et du ventricule gauche.   ",
+            "Reponse": false,
+            "Justification": "Que dans le ventricule droit car en amont de l'embolie",
+            "Reference": "-"
+      },
+      {
+            "Numero": 184,
+            "Question": "Q16. Concernant la pompe cardiaque: ",
+            "Proposition": " Lors d'une insuffisance cardiaque diastolique, le debit cardiaque est insuffisant mais la fraction d'ejection  ventriculaire reste preservee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 185,
+            "Question": "Q16. Concernant la pompe cardiaque: ",
+            "Proposition": " La loi de Frank-Starling permet de comprendre que, dans les conditions physiologiques, le VES s'adapte automatiquement a la valeur du volume telediastolique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 186,
+            "Question": "Q9. Concernant la pompe cardiaque: ",
+            "Proposition": " Sur la courbe pression-volume, la diastole correspond a la phase de relaxation isovolumetrique du ventricule et a la phase de remplissage passif du ventricule.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 187,
+            "Question": "Q9. Concernant la pompe cardiaque: ",
+            "Proposition": " Lorsque la frequence cardiaque est de 80 battements par minute, le volume telesystolique est de 60 ml et le  volume telediastolique est de 120 ml, le debit cardiaque est de 4,8L/min.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 188,
+            "Question": "Q9. Concernant la pompe cardiaque: ",
+            "Proposition": " La regulation homeometrique est un changement de contractilite, independamment de la precharge et de la postcharge,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 189,
+            "Question": "Q8. Concernant la pression arterielle: ",
+            "Proposition": " La resistance totale peripherique (RTP) qui s'exprime en [mmHg.min/L] peut etre calculee d'apres la formule: RTP = PAmoy/DC   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 190,
+            "Question": "Q8. Concernant la pression arterielle: ",
+            "Proposition": " Lorsque la pression arterielle moyenne augmente, la frequence de decharge des barorecepteurs de la paroi du  sinus carotidien et de l'arc aortique diminue.   ",
+            "Reponse": false,
+            "Justification": "la frequence augmente",
+            "Reference": "-"
+      },
+      {
+            "Numero": 191,
+            "Question": "Q8. Concernant la pression arterielle: ",
+            "Proposition": " La pression arterielle pulsee est proportionnelle au volume d'ejection systolique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 192,
+            "Question": "Q7. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " L'onde P de l'ECG represente la repolarisation auriculaire.    ",
+            "Reponse": false,
+            "Justification": "C'est la depolarisation auriculaire",
+            "Reference": "-"
+      },
+      {
+            "Numero": 193,
+            "Question": "Q7. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " Lorsque le complexe QRS est positif en DIII et egal a 0 en aVR, l'axe du coeur est a 120deg, ce qui correspond a une deviation axiale droite.    ",
+            "Reponse": true,
+            "Justification": "bien joue (si tu t'es trompe ptdr nan gros t'abuses c'est la 4eme fois qd meme)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 194,
+            "Question": "Q7. Concernant l'activite electrique cardiaque: ",
+            "Proposition": " L'onde T positive d'un ECG normal est liee a la repolarisation ventriculaire qui progresse de l'epicarde vers l'endocarde.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 195,
+            "Question": "Q5. Concernant l'hemodynamique: ",
+            "Proposition": " Selon la relation de Poiseuille-Hagen, lors d'une vasoconstriction qui reduit le rayon d'un vaisseau de moitie, le debit sanguin diminue de 8 fois.    ",
+            "Reponse": false,
+            "Justification": "reduit 16 fois (2^4 = 16)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 196,
+            "Question": "Q14. Concernant le systeme veineux:  ",
+            "Proposition": " Lors de l'exercice, le retour veineux est notamment favorise par l'augmentation de la pompe respiratoire.     ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 197,
+            "Question": "Q14. Concernant le systeme veineux:  ",
+            "Proposition": " La pression veineuse centrale est la pression qui regne au niveau au niveau de la partie thoracique des veines caves, au niveau de l'oreillette droite et au niveau du ventricule droit.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 198,
+            "Question": "Q3. Concernant la pression arterielle (PA)",
+            "Proposition": "La pression arteriel pulsee est proportionnelle au VES et a la compliance aortique",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 199,
+            "Question": "Q3. Concernant la pression arterielle (PA)",
+            "Proposition": " La pression arterielle moyenne est mesuree en routine clinique.    ",
+            "Reponse": false,
+            "Justification": "Elle n'est pas mesuree en routine clinique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 200,
+            "Question": "Q3. Concernant la pression arterielle (PA)",
+            "Proposition": " Lorsqu'une perturbation se produit, la regulation de la PA s'opere immediatement, par l'activite des  barorecepteurs du systeme vasculaire a haute et a basse pression.   ",
+            "Reponse": false,
+            "Justification": "que par l'activite des barorecpteurs a haute pression",
+            "Reference": "-"
+      },
+      {
+            "Numero": 201,
+            "Question": "Q33. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " La tension active du sarcomere d'un cardiomyocyte est maximale lorsque la longueur de repos du sarcomere se situe entre 2,2 et 2,4 um.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 202,
+            "Question": "Q33. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " A chaque longueur d'une fibre musculaire cardiaque, la tension isometrique maximale qu'elle peut exercer  represente la somme de sa tension de repos et de sa tension active.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 203,
+            "Question": "Q33. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " Au niveau de la fibre musculaire cardiaque, la noradrenaline augmente Vmax mais sans modifier la tension isometrique maximale,    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 204,
+            "Question": "Q21. Concernant le systeme veineux: ",
+            "Proposition": " Le compartiment veineux central est situe entre le compartiment veineux peripherique et le ventricule droit.     ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 205,
+            "Question": "Q21. Concernant le systeme veineux: ",
+            "Proposition": " La pression veineuse centrale augmente lors de la vasoconstriction veineuse,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 206,
+            "Question": "Q18. Concernant le systeme cardiovasculaire: ",
+            "Proposition": " L'aorte dont l'elastance est elevee a une compliance faible.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 207,
+            "Question": "Q18. Concernant le systeme cardiovasculaire: ",
+            "Proposition": " Le systeme orthosympathique innerve les cardiomyocytes auriculaires et ventriculaires, le noeud sinusal et le  noeud auriculo-ventriculaire, par effet Beta-2.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 208,
+            "Question": "Q34. Concernant l'hemodynamique: ",
+            "Proposition": " La vitesse du courant sanguin est de l'ordre de 0,5 mm/sec au niveau du reseau capillaire.    ",
+            "Reponse": true,
+            "Justification": "\"de l'ordre\" donc 0,03cm/s est equivalent a 0,5mm/sec",
+            "Reference": "-"
+      },
+      {
+            "Numero": 209,
+            "Question": "Q31. Concernant l'activite electrique cardiaque:  ",
+            "Proposition": " En absence d'onde P visible a l'ECG, le rythme peut etre sinusal.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 210,
+            "Question": "Q31. Concernant l'activite electrique cardiaque:  ",
+            "Proposition": " Lorsqu'un infarctus transmural s'est produit, une onde Q est visible au niveau des derivations sous lesquelles se trouve le myocarde infarci.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 211,
+            "Question": "Q27. Concernant le systeme cardiovasculaire: ",
+            "Proposition": " Le systeme parasympathique innerve le noeud sinusal (surtout via le nerf vague gauche) et le noeud auriculo- ventriculaire (surtout via le nerf vague droit).    ",
+            "Reponse": false,
+            "Justification": "c'est l'inverse",
+            "Reference": "-"
+      },
+      {
+            "Numero": 212,
+            "Question": "Q27. Concernant le systeme cardiovasculaire: ",
+            "Proposition": " Les arterioles representent le lieu principal de la resistance a l'ecoulement du sang dans la mesure ou la chute  de pression qui s'exerce a leur niveau est la plus importante,   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 213,
+            "Question": "Q26. Concernant la pompe cardiaque:  ",
+            "Proposition": " Un infarctus du myocarde peut entrainer une insuffisance cardiaque systolique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 214,
+            "Question": "Q26. Concernant la pompe cardiaque:  ",
+            "Proposition": " Lorsque le retour veineux augmente, le volume telediastolique augmente.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 215,
+            "Question": "Q26. Concernant la pompe cardiaque:  ",
+            "Proposition": " En transposant les proprietes de la fibre musculaire cardiaque isolee au ventricule, on peut considerer que  l'importance du raccourcissement de la fibre correspond correspond a la vitesse d'ejection du ventricule.     ",
+            "Reponse": false,
+            "Justification": "L'importance du raccourcissement de la fibre devient le volume ejecte systolique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 216,
+            "Question": "Q18. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " L'inotropisme du muscle cardiaque est sa force de contraction qui depend de la precharge et de la postcharge auxquelles il est soumis.    ",
+            "Reponse": false,
+            "Justification": "Independant, (inotropisme = contractilite)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 217,
+            "Question": "Q18. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " La noradrenaline augmente l'amplitude du raccourcissement de la fibre musculaire lors de la contraction  isotonique.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 218,
+            "Question": "Q18. Concernant les proprietes du muscle cardiaque: ",
+            "Proposition": " Dans les conditions physiologiques, les sarcomeres du cardiomyocyte ont une longueur de 0,9 um, ce qui permet d'augmenter leur tension active lorsque la fibre est etiree jusqu'a 2.2-2,4 um.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 219,
+            "Question": "Q4,. En considerant le ventricule, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une augmentation de l'elastance diminue le volume telediastolique pour une pression telediastolique donnee.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 220,
+            "Question": "Q4,. En considerant le ventricule, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Modifier la droite d'elastance de fin de systole revient a changer la contractilite.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 221,
+            "Question": "Q25. Concernant la tension arterielle, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Si l'aorte etait un tuyau completement rigide, les pressions arterielles systoliques et diastoliques seraient tres elevees.   ",
+            "Reponse": false,
+            "Justification": "systolique tres haut mais diastolique tres bas",
+            "Reference": "-"
+      },
+      {
+            "Numero": 222,
+            "Question": "Q25. Concernant la tension arterielle, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En cas d'hypertension aigue, l'activation des barorecepteurs resulte notamment en une diminution du volume d'ejection systolique liee a une diminution de la precharge et de la contractilite.   ",
+            "Reponse": true,
+            "Justification": "askip c vrai",
+            "Reference": "-"
+      },
+      {
+            "Numero": 223,
+            "Question": "Q25. Concernant la tension arterielle, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Tous les medicaments anti-hypertenseurs agissent soit par une diminution du volume d'ejection systolique, soit par une diminution de la frequence cardiaque.    ",
+            "Reponse": false,
+            "Justification": "Les vasodilatateurs diminuent la resistance peripherique totale",
+            "Reference": "-"
+      },
+      {
+            "Numero": 224,
+            "Question": "Q22. Concernant la fraction d'ejection ventriculaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Si le debit cardiaque est de 10 L/minute, la frequence cardiaque de 100/minute et le volume telediastolique de 150 mil, alors la fraction d'ejection est de 66%.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 225,
+            "Question": "Q22. Concernant la fraction d'ejection ventriculaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une fraction d'ejection de 30% peut se voir dans une stenose aortique du fait d'une contrainte sigma du ventricule  gauche augmentee meme si la tension arterielle est basse.   ",
+            "Reponse": true,
+            "Justification": "Si la fraction d'ejection est de 30%, elle est en dessous de 40% (cptn obvious) et donc si la contrainte sigma a augmente, ca veut dire que la postcharge a augmente donc on est dans le cas en haut a droite sur l'image. Or la tension arterielle reste basse, donc on est obligatoirement en stenose aortique",
+            "Reference": "-"
+      },
+      {
+            "Numero": 226,
+            "Question": "Q22. Concernant la fraction d'ejection ventriculaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La fraction d'ejection est souvent conservee dans la dysfonction diastolique alors que le debit cardiaque est diminue.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 227,
+            "Question": "Q21. Concernant l'electrocardiogramme, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Comme consequence d'une hypertension arterielle systemique non traitee au long cours, on ne sera pas surpris que le QRS soit isoelectrique en DII et negatif en aVF.   ",
+            "Reponse": true,
+            "Justification": "Si il y a une hypertension arterielle systemique, ca veut dire que l'axe electrique du coeur aura tendance a s'orienter vers la gauche (pour bien bien innerver le ventricule gauche) et donc le complexe QRS (qui represente l'axe electrique du coeur) peut apparaitre nul en DII (isoelectrique quoi) et negatif en aVF",
+            "Reference": "-"
+      },
+      {
+            "Numero": 228,
+            "Question": "Q21. Concernant l'electrocardiogramme, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les ondes P et QRS apparaissent regulierement mais la frequence des P est plus elevee que celle des QRS et le  rythme cardiaque est de 45/minute. Cela suggere un bloc complet au niveau du noeud auriculo-ventriculaire.   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 229,
+            "Question": "Q21. Concernant l'electrocardiogramme, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un bloc de branche droit ou gauche donnera inevitablement un allongement du QRS.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 230,
+            "Question": "Q18. Concernant l'electrocardiogramme, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Si l'amplitude du QRS net semble etre negative en aVF et tres positive en aVL, une hypertrophie du ventricule droit est plausible.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 231,
+            "Question": "Q18. Concernant l'electrocardiogramme, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un aspect qR est classique en V6.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 232,
+            "Question": "Q18. Concernant l'electrocardiogramme, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'onde T positive apres une depolarisation electriquement globalement positive s'explique par le fait que la repolarisation du ventricule se fait de l'endocarde vers l'epicarde.    ",
+            "Reponse": false,
+            "Justification": "epicarde vers endocarde",
+            "Reference": "-"
+      },
+      {
+            "Numero": 233,
+            "Question": "Q17. En considerant les adaptations cardiovasculaires a l'exercice, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La pression arterielle moyenne augmente car les resistances peripheriques totales diminuent plus que le debit cardiaque n'augmente.    ",
+            "Reponse": false,
+            "Justification": "la resistance cardiaque diminue moins que le debit cardiaque augmente",
+            "Reference": "-"
+      },
+      {
+            "Numero": 234,
+            "Question": "Q17. En considerant les adaptations cardiovasculaires a l'exercice, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La pression pulsee augmente car la pression arterielle moyenne augmente,   ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 235,
+            "Question": "Q17. En considerant les adaptations cardiovasculaires a l'exercice, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La pression veineuse centrale augmente du fait de la veino-constriction et de l'activite pompe musculaire et abdomino-thoracique.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 236,
+            "Question": "Q1. En considerant le ventricule, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une modification de l'elastance affecte avant tout la fonction systolique.    ",
+            "Reponse": false,
+            "Justification": "ca affecte la fonction diastolique (la compliance reflete l'elastance vu que c'est l'inverse l'un de l'autre)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 237,
+            "Question": "Q1. En considerant le ventricule, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une hypertrophie du ventricule gauche entraine secondairement une diminution de la postcharge et de la precharge.   ",
+            "Reponse": true,
+            "Justification": "A cause de l'hypertrophie, le muscle du ventricule gauche sera bcp plus epais, donc le remplissage du ventricule gauche sera diminue -> precharge diminue. De meme, parceque le muscle sera plus epais, il sera plus tendu -> diminution de la postcharge",
+            "Reference": "-"
+      },
+      {
+            "Numero": 238,
+            "Question": "Q1. En considerant le ventricule, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une modification du retour veineux va affecter la droite d'elastance de fin de systole.    ",
+            "Reponse": false,
+            "Justification": "Le retour veineux va influer sur le volume telediastolique, mais n'aura donc aucun rapport avec le volume telesystolique. Il n'y aura donc aucun changement de la droite d'elastance en fin de systole",
+            "Reference": "-"
+      },
+      {
+            "Numero": 239,
+            "Question": "Q36. En considerant la regulation parasympathique et sympathique du coeur, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Inotrope ou contractilite, chronotrope ou vitesse de conduction et dromotrope ou frequence cardiaque: ces trois caracteristiques sont activees par la stimulation orthosympathique.   ",
+            "Reponse": false,
+            "Justification": "L'erreur ici c'est que chronotrope = frequence cardiaque et dromotrope = vitesse de conduction",
+            "Reference": "-"
+      },
+      {
+            "Numero": 240,
+            "Question": "Q36. En considerant la regulation parasympathique et sympathique du coeur, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La simulation orthosympathique augmente la pente du potentiel pace-maker.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 241,
+            "Question": "Q31. En considerant le travail cardiaque et la perfusion coronaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les augmentations de precharge, postcharge ou contractilite augmentent la consommation d'oxygene par le coeur mais celle qui l'augmente le moins est l'augmentation de precharge.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 242,
+            "Question": "Q31. En considerant le travail cardiaque et la perfusion coronaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un medicament inotrope positif qui augmente le volume d'ejection systolique est excellent pour la perfusion coronaire.   ",
+            "Reponse": false,
             "Justification": "-",
             "Reference": "-"
       }
