@@ -1,7 +1,7 @@
 [
       {
             "Numero": 1,
-            "Question": "17. Concernant l'hydratation du LEC: ",
+            "Question": "-",
             "Proposition": " Selon la cause, les etats d'hyperhydratation du LEC peuvent s'accompagner d'hypertension arterielle ou d'hypotension arterielle.   ",
             "Reponse": true,
             "Justification": "-",
@@ -9,7 +9,7 @@
       },
       {
             "Numero": 2,
-            "Question": "17. Concernant l'hydratation du LEC: ",
+            "Question": "-",
             "Proposition": " Lors d'une deshydratation du LEC, l'osmolalite plasmatique et la natremie sont normales sauf si il existe un  trouble associe de la balance de l'eau.  ",
             "Reponse": true,
             "Justification": "-",
@@ -17,7 +17,7 @@
       },
       {
             "Numero": 3,
-            "Question": "17. Concernant l'hydratation du LEC: ",
+            "Question": "-",
             "Proposition": "Certains etats d'hyperhydratation du LEC peuvent s'accompagner de diminution de volume circulant effectif et de signes d'hypovolemie",
             "Reponse": true,
             "Justification": "-",
@@ -689,7 +689,7 @@
       },
       {
             "Numero": 87,
-            "Question": "26. Concernant le LEC et le LIC: ",
+            "Question": "-",
             "Proposition": " Une prise de poids rapide, en quelques jours, est un signe d'hyperhydratation du LEC.   ",
             "Reponse": true,
             "Justification": "-",
@@ -697,7 +697,7 @@
       },
       {
             "Numero": 88,
-            "Question": "26. Concernant le LEC et le LIC: ",
+            "Question": "-",
             "Proposition": " La quantite de sodium echangeable de l'organisme definit le volume du LEC et le volume du LIC,    ",
             "Reponse": false,
             "Justification": "Juste le volume de LEC, le volume de LIC est determinee par la natremie. La difference entre la balance du sodium et la natremie est que la natremie est une concentration en sodium, tandis que la balance represente la difference entre les apports en sodium et l'excretion en sodium. La natremie peut etre influence par les apports en eau, contrairement a la balance de sodium",
@@ -705,7 +705,7 @@
       },
       {
             "Numero": 89,
-            "Question": "26. Concernant le LEC et le LIC: ",
+            "Question": "-",
             "Proposition": " Certains etats d'hyperhydratation du LEC peuvent s'accompagner de diminution du volume circulant effectif et de signes d'hypovolemie.    ",
             "Reponse": true,
             "Justification": "-",
@@ -713,7 +713,7 @@
       },
       {
             "Numero": 90,
-            "Question": "25. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " Lorsque la glycemie est inferieure a 200 mg/dl, il n'y a pas de glycosurie.   ",
             "Reponse": true,
             "Justification": "-",
@@ -721,7 +721,7 @@
       },
       {
             "Numero": 91,
-            "Question": "25. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " La branche ascendante large de l'anse de Henle est le segment de dilution de l'urine dans la mesure ou elle est impermeable a l'eau et reabsorbe activement le NaCI.    ",
             "Reponse": true,
             "Justification": "-",
@@ -729,7 +729,7 @@
       },
       {
             "Numero": 92,
-            "Question": "25. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " L'aldosterone est le principal regulateur de la natriurese en stimulant la reabsorption de NaCI au niveau des segments du tubule renal qui expriment ENaC    ",
             "Reponse": true,
             "Justification": "-",
@@ -737,7 +737,7 @@
       },
       {
             "Numero": 93,
-            "Question": "17. Concernant la regulation de la tonicite: ",
+            "Question": "-",
             "Proposition": " Lorsque Uosm = 600 mosm/kg et Posm, = 300 mosm/kg, la clearance d'eau libre est negative et les urines sont concentrees.   ",
             "Reponse": true,
             "Justification": "-",
@@ -745,7 +745,7 @@
       },
       {
             "Numero": 94,
-            "Question": "17. Concernant la regulation de la tonicite: ",
+            "Question": "-",
             "Proposition": " La circulation a contre-courant du liquide tubulaire au niveau de l'anse de Henle ne permet pas de generer un  gradient d'osmolalite entre la lumiere tubulaire et l'interstitium.   ",
             "Reponse": true,
             "Justification": "-",
@@ -753,7 +753,7 @@
       },
       {
             "Numero": 95,
-            "Question": "17. Concernant la regulation de la tonicite: ",
+            "Question": "-",
             "Proposition": " Le gradient cortico-medullaire au niveau de l'interstitium renal peut etre multiplie 4 fois en situation d'antidiurese,  ",
             "Reponse": true,
             "Justification": "1200/300 = 4",
@@ -761,7 +761,7 @@
       },
       {
             "Numero": 96,
-            "Question": "15. Concernant le metabolisme phospho-calcique: ",
+            "Question": "-",
             "Proposition": " La diminution du Ca2+ plasmatique stimule la secretion de la PTH par un mecanisme de feedback negatif.   ",
             "Reponse": true,
             "Justification": "-",
@@ -769,7 +769,7 @@
       },
       {
             "Numero": 97,
-            "Question": "15. Concernant le metabolisme phospho-calcique: ",
+            "Question": "-",
             "Proposition": " Une carence en vitamine D chez un adulte en bon etat general s'accompagne souvent d'une phosphatemie a  la limite superieure de la normale ou legerement augmentee.    ",
             "Reponse": false,
             "Justification": "Une carence en vitamine D s'accompagne d'une hypophosphatemie",
@@ -777,7 +777,7 @@
       },
       {
             "Numero": 98,
-            "Question": "15. Concernant le metabolisme phospho-calcique: ",
+            "Question": "-",
             "Proposition": " L'absorption intestinale du calcium depend de la PTH et du calcitriol.    ",
             "Reponse": false,
             "Justification": "Ca ne depend que du calcitriol dans l'intestin, c'est dans le rein que la reabsorption depend a la fois du calcitriol et du PTH",
@@ -785,7 +785,7 @@
       },
       {
             "Numero": 99,
-            "Question": "14. Concernant le metabolisme phospho-calcique:  ",
+            "Question": "-",
             "Proposition": " La PTH augmente le nombre d'osteoclastes et favorise ainsi la resorption osseuse de Ca2+ et de Pi.    ",
             "Reponse": true,
             "Justification": "-",
@@ -793,7 +793,7 @@
       },
       {
             "Numero": 100,
-            "Question": "14. Concernant le metabolisme phospho-calcique:  ",
+            "Question": "-",
             "Proposition": " Lors d'une insuffisance renale chronique terminale, la phosphatemie diminue.    ",
             "Reponse": false,
             "Justification": "Elle augmente car le rein n'arrive plus a eliminer le phosphate -> hypophosphaturie -> accumulation de phosphate dans le corps -> hyperphosphatemie",
@@ -801,7 +801,7 @@
       },
       {
             "Numero": 101,
-            "Question": "14. Concernant le metabolisme phospho-calcique:  ",
+            "Question": "-",
             "Proposition": " Le calcitriol est forme au niveau des cellules du tubule proximal du rein grace a l'action de la 1  alpha-hydroxylase dont l'expression est notamment stimulee par l'augmentation de la PTH.    ",
             "Reponse": true,
             "Justification": "-",
@@ -809,7 +809,7 @@
       },
       {
             "Numero": 102,
-            "Question": "9, Concernant la fonction renale:  ",
+            "Question": "-",
             "Proposition": " Si Ucreat = 50 mg/dl, Pcreat = 1 mg/dl et V= 2L/j, la clearance de la creatinine est egale a 100 ml/min  ",
             "Reponse": true,
             "Justification": "50 mg/dl * 2 L/j  / 1mg/dL = 100L/j = 69mL/min (sur le pdf il a mis que c'est vrai mais c'est faux dans mon livre)",
@@ -817,7 +817,7 @@
       },
       {
             "Numero": 103,
-            "Question": "9, Concernant la fonction renale:  ",
+            "Question": "-",
             "Proposition": "L'excretion urinaire d'un solute x est calcule par la formule Ux * V ou V est le volume urinaire",
             "Reponse": false,
             "Justification": "On voit pas sur le site psk c dla merde qui enleve les accents mais y a un point au dessus de V qui signifie une derivee temporelle, donc V(point) n'est pas le volume urinaire, mais le debit urinaire et s'exprime en volume par unite de temps",
@@ -825,7 +825,7 @@
       },
       {
             "Numero": 104,
-            "Question": "9, Concernant la fonction renale:  ",
+            "Question": "-",
             "Proposition": " Au niveau du tubule proximal, la reabsorption du liquide tubulaire est iso-osmotique.   ",
             "Reponse": true,
             "Justification": "-",
@@ -833,7 +833,7 @@
       },
       {
             "Numero": 105,
-            "Question": "6. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " Si Ucreat =60 mg/dl, Pcreat = 1,2 mg/dl et V = 1,5L/j, la clearance de la creatinine est egale a 75 L/jour   ",
             "Reponse": true,
             "Justification": "60*1,5/1,2 = 75L/j",
@@ -841,7 +841,7 @@
       },
       {
             "Numero": 106,
-            "Question": "6. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " L'acide para amino hippurique est une substance exogene qui est en partie filtree et en partie secretee au niveau peri tubulaire.    ",
             "Reponse": true,
             "Justification": "-",
@@ -849,7 +849,7 @@
       },
       {
             "Numero": 107,
-            "Question": "6. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " L'excretion fractionnelle d'un solute x est le rapport entre la quantite du solute qui est excretee et la quantite du solute qui a ete filtree, soit [(Ux* Pcreat)/ (Px * Ucreat)]    ",
             "Reponse": true,
             "Justification": "-",
@@ -857,7 +857,7 @@
       },
       {
             "Numero": 108,
-            "Question": "5. Concernant la tonicite du LEC: ",
+            "Question": "-",
             "Proposition": " La natremie reflete etroitement la tonicite plasmatique.   ",
             "Reponse": true,
             "Justification": "-",
@@ -865,7 +865,7 @@
       },
       {
             "Numero": 109,
-            "Question": "5. Concernant la tonicite du LEC: ",
+            "Question": "-",
             "Proposition": " Les variations de la tonicite plasmatique sont percues par des osmorecepteurs sensibles a la pression.    ",
             "Reponse": false,
             "Justification": "Ils sont sensible aux variations de volume",
@@ -873,7 +873,7 @@
       },
       {
             "Numero": 110,
-            "Question": "5. Concernant la tonicite du LEC: ",
+            "Question": "-",
             "Proposition": " Lorsque le bilan hydrique est positif, la tonicite du LEC est diminuee et il existe un etat d'hyperhydratation du LIC,",
             "Reponse": true,
             "Justification": "-",
@@ -881,7 +881,7 @@
       },
       {
             "Numero": 111,
-            "Question": "4. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " Le FPR diminue lorsque l'AA se contracte ou lorsque l'AE se contracte.   ",
             "Reponse": true,
             "Justification": "-",
@@ -889,7 +889,7 @@
       },
       {
             "Numero": 112,
-            "Question": "4. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " Une proteinurie selective est une proteinurie glomerulaire, generalement liee a une perte de charges negatives au niveau des diaphragmes situes entre les pedicelles des podocytes.    ",
             "Reponse": true,
             "Justification": "-",
@@ -897,7 +897,7 @@
       },
       {
             "Numero": 113,
-            "Question": "4. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " A faibles concentrations, l'angiotensine II augmente le DFG par son effet vasoconstnicteur preponderant sur l'AE,    ",
             "Reponse": true,
             "Justification": "-",
@@ -905,7 +905,7 @@
       },
       {
             "Numero": 114,
-            "Question": "33. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " Une vasodilatation seule de l'AA (sans modification du tonus de l'AE) ou une vasoconstriction seule de l'AE (sans modification du tonus de l' AA) induit une augmentation du DFG via l'augmentation de Pcg",
             "Reponse": true,
             "Justification": "C'est  simple a retenir, faut penser a un tuyau d'arrosage ou passe de l'eau et ou y a un petit trou qui fait une fuite (qui symbolise DFG), si t'appuies en amont du trou, y aura moins d'eau qui passera par la fuite et si t'appuie en aval, tu provoques un bouchon et y a plus d'occasion pour les molecules d'eau de passer dans la fuite",
@@ -913,7 +913,7 @@
       },
       {
             "Numero": 115,
-            "Question": "33. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": "L'adenosine est un vasodilatateur au niveau de la circulation renale comme elle l'est au niveau des autres circulations",
             "Reponse": false,
             "Justification": "-",
@@ -921,7 +921,7 @@
       },
       {
             "Numero": 116,
-            "Question": "33. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " La barriere glomerulaire permet un passage variable des molecules dont la taille se situe entre 20 et 35 A, en  fonction de leur charge.   ",
             "Reponse": true,
             "Justification": "-",
@@ -929,7 +929,7 @@
       },
       {
             "Numero": 117,
-            "Question": "27. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " La liberation de renine par les cellules granulaires de l'AA est stimulee par le systeme orthosympathique qui est active lors d'une diminution du volume circulant effectif.   ",
             "Reponse": true,
             "Justification": "-",
@@ -937,7 +937,7 @@
       },
       {
             "Numero": 118,
-            "Question": "27. Concernant la fonction renale: ",
+            "Question": "-",
             "Proposition": " L'angiotensine II stimule la secretion d'ADH et stimule le centre de la soif.    ",
             "Reponse": true,
             "Justification": "-",
@@ -945,18 +945,18 @@
       },
       {
             "Numero": 119,
-            "Question": "27. Concernant la fonction renale: ",
-            "Proposition": " L'autoregulation du DFG est notamment assuree par un reflexe myogenique au niveau de l'AA qui repond aux variations de la pression arterielle (P",
-            "Reponse": true,
-            "Justification": "-",
+            "Question": "-",
+            "Proposition": " L'autoregulation du DFG est notamment assuree par un reflexe myogenique au niveau de l'AA qui repond aux variations de la pression arterielle (PA) : lorsque la PA augmente au niveau de l'AA, celle-ci se relache ",
+            "Reponse": false,
+            "Justification": "Le reflexe myogenique est present pour proteger le glomerule contre les effets deleteres d'une augmentation de la pression arterielle, de ce fait, que la PA augmente, l'arteriole afferente (en amont donc) va se contracter pour limiter le debit et proteger le glomerule",
             "Reference": "-"
       },
       {
             "Numero": 120,
             "Question": "-",
-            "Proposition": " la clearance de creatinine, exprimee en ml/min, est estimee par la formule: Cle = (Porese, + VU res ",
+            "Proposition": " la clearance de creatinine, exprimee en ml/min, est estimee par la formule: Cl_creat = (P_creat *  V) / U_creat ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "C'est Ucreat * V / Pcreat, la clearance represente ce que t'arrive a eliminer donc c'est la concentration de l'urine qui est au numerateur et la concentration plasmatique au denominateur",
             "Reference": "-"
       },
       {
@@ -970,46 +970,46 @@
       {
             "Numero": 122,
             "Question": "-",
-            "Proposition": " lorsque le debit de filtration glomerulaire diminue, P,,,, augmente pour maintenir une elimination urinaire  de creatinine egale a sa production. ",
+            "Proposition": " lorsque le debit de filtration glomerulaire diminue, Pcreat augmente pour maintenir une elimination urinaire  de creatinine egale a sa production. ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 123,
-            "Question": "34. Concernant la regulation de la tonicite: ",
-            "Proposition": " Lorsque la clearance d'eau hbre est positive, le rein reabsorbe moins d'eau que de solutes et l'urine est plus diluee que le plasma.   ",
+            "Question": "-",
+            "Proposition": " Lorsque la clearance d'eau libre est positive, le rein reabsorbe moins d'eau que de solutes et l'urine est plus diluee que le plasma.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 124,
-            "Question": "34. Concernant la regulation de la tonicite: ",
+            "Question": "-",
             "Proposition": " Le tubule proximal du rein assure une reabsorption iso-osmotique du liquide tubulaire dont l'importance  varie selon l'osmolalite finale de l'urine.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "ca ne depend pas de l'osmolalite de l'urine",
             "Reference": "-"
       },
       {
             "Numero": 125,
-            "Question": "34. Concernant la regulation de la tonicite: ",
+            "Question": "-",
             "Proposition": " L'ADH augmente la permeabilite apicale a l'uree au niveau de l'ensemble du tubule collecteur medullaire.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "que au niveau de la partie medullaire interne du tubule collecteur",
             "Reference": "-"
       },
       {
             "Numero": 126,
-            "Question": "30. Concernant le systeme renal: ",
+            "Question": "-",
             "Proposition": " Les vasa recta qui sont de longues boucles vasculaires en forme de U provenant de l'AE se trouvent au niveau des nephrons juxtamedullaires et au niveau de certains nephrons corticaux superficiels.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "que au niveau des nephrons juxtamedullaire",
             "Reference": "-"
       },
       {
             "Numero": 127,
-            "Question": "30. Concernant le systeme renal: ",
+            "Question": "-",
             "Proposition": " Le retrocontrole tubulo-glomerulaire fait intervenir la macula densa qui percoit les variations de debit  tubulaire de NaCT et permet de maintenir le DFG stable.   ",
             "Reponse": true,
             "Justification": "-",
@@ -1017,31 +1017,31 @@
       },
       {
             "Numero": 128,
-            "Question": "30. Concernant le systeme renal: ",
+            "Question": "-",
             "Proposition": " Le Tm du glucose correspond au taux de reabsorption tubulaire maximum du glucose et s'exprime en mmoles ou mg.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est en mg/min",
             "Reference": "-"
       },
       {
             "Numero": 129,
-            "Question": "24. Concernant la regulation phospho-calcique:  ",
+            "Question": "-",
             "Proposition": " L'hyperphosphatemie plasmatique stimule la secretion de la PTH par un mecanisme de retrocontrole negatif.    ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "bizarre bizarre pour le systeme de retrocontrole negatif psk ca concerne le Ca mais bon",
             "Reference": "-"
       },
       {
             "Numero": 130,
-            "Question": "24. Concernant la regulation phospho-calcique:  ",
-            "Proposition": " La liaison du Cadegdeg au recepteur CaSR (calcium sensing receptor) de la cellule principale parathyroidienne  inhibe la secretion de PTH.   ",
+            "Question": "-",
+            "Proposition": " La liaison du Ca2+au recepteur CaSR (calcium sensing receptor) de la cellule principale parathyroidienne  inhibe la secretion de PTH.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 131,
-            "Question": "24. Concernant la regulation phospho-calcique:  ",
+            "Question": "-",
             "Proposition": " Lors d'une carence en vitamine D chez un sujet en bon etat general, la PTH n'est jamais augmentee,    ",
             "Reponse": false,
             "Justification": "-",
@@ -1049,56 +1049,56 @@
       },
       {
             "Numero": 132,
-            "Question": "10. Concernant la regulation phospho-calcique: ",
-            "Proposition": " Les thiazides ont un effet hypocalciurique en stimulant la reabsorption de Ca\" via le canal apical TRPVS des cellules tubulaires distales.   ",
+            "Question": "-",
+            "Proposition": " Les thiazides ont un effet hypocalciurique en stimulant la reabsorption de Ca2+ via le canal apical TRPV5 des cellules tubulaires distales.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 133,
-            "Question": "10. Concernant la regulation phospho-calcique: ",
-            "Proposition": " La stimulation de l'expression de la 1 <<-hydroxylase renale des cellules tubulaires proximales est favorisee  par l'hyperphosphatemie.   ",
+            "Question": "-",
+            "Proposition": " La stimulation de l'expression de la 1 alpha-hydroxylase renale des cellules tubulaires proximales est favorisee  par l'hyperphosphatemie.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est inhibe",
             "Reference": "-"
       },
       {
             "Numero": 134,
-            "Question": "10. Concernant la regulation phospho-calcique: ",
+            "Question": "-",
             "Proposition": " Le calcitriol stimule la synthese de PTH pour renforcer la resorption osseuse.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "bien que les deux renforcent la resorption osseuse, la presence de calcitriol inhibe la synthese de PTH",
             "Reference": "-"
       },
       {
             "Numero": 135,
-            "Question": "9, Concernant la regulation de la tonicite: ",
+            "Question": "-",
             "Proposition": " Jusqu'a preuve du contraire, une hyponatremie reflete toujours un deficit en sel.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "qd on sait pas, c'est tjr la flotte le pb",
             "Reference": "-"
       },
       {
             "Numero": 136,
-            "Question": "9, Concernant la regulation de la tonicite: ",
+            "Question": "-",
             "Proposition": " Chez un individu normal, pres de 600 mosmoles sont elimines chaque jour dans les urines, dont 40 a 50%  sont de l'uree.  ",
-            "Reponse": false,
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 137,
-            "Question": "9, Concernant la regulation de la tonicite: ",
-            "Proposition": ")  ",
-            "Reponse": false,
+            "Question": "-",
+            "Proposition": "La secretion osmotique d'ADH est influencee par une variation plasmatique d'a peine 1%",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 138,
             "Question": "-",
-            "Proposition": " le tampon HPO*/H;PO2 represente la grande majorite de l'acidite titrable. ",
+            "Proposition": " le tampon HPO42-/H2PO4- represente la grande majorite de l'acidite titrable. ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1106,15 +1106,15 @@
       {
             "Numero": 139,
             "Question": "-",
-            "Proposition": " au niveau du tubule collecteur, la secretion d'un Hdeg correspond a la reabsorption d'un HCO2 ",
+            "Proposition": " au niveau du tubule collecteur, la secretion d'un H+ correspond a la reabsorption d'un HCO3-",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "il est regenere et non reabsorbe vu que le tubule collecteur est a la fin, on peut pas trop recup le HCO3- du coup on en genere de nouveau",
             "Reference": "-"
       },
       {
             "Numero": 140,
             "Question": "-",
-            "Proposition": " au niveau des liquides de l'organisme, [Hdeg] est directement proportionnelle a PCO2 et inversement  proportionnel a [HCO2 ]. ",
+            "Proposition": " au niveau des liquides de l'organisme, [H+] est directement proportionnelle a PCO2 et inversement  proportionnel a [HCO3-]. ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1122,7 +1122,7 @@
       {
             "Numero": 141,
             "Question": "-",
-            "Proposition": " l'hemoglobine represente 80deg% des tampons non bicarbonate du LEC. ",
+            "Proposition": " l'hemoglobine represente 80% des tampons non bicarbonate du LEC. ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1130,15 +1130,15 @@
       {
             "Numero": 142,
             "Question": "-",
-            "Proposition": " lorsque le pH diminue de 1 unite en dessous de son pK,. 90% de l'acide faible est sous forme non dissociee.  ",
+            "Proposition": " lorsque le pH diminue de 1 unite en dessous de son pKa. 90% de l'acide faible est sous forme non dissociee.  ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "dixit cours de physio g",
             "Reference": "-"
       },
       {
             "Numero": 143,
             "Question": "-",
-            "Proposition": " l'excretion urinaire de NH,\" augmente lorsque le pH urinaire devient plus acide.  ",
+            "Proposition": " l'excretion urinaire de NH4+ augmente lorsque le pH urinaire devient plus acide.  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1154,29 +1154,21 @@
       {
             "Numero": 145,
             "Question": "-",
-            "Proposition": " dans un etat dans stationnaire, la quantite d'osmoles excretees par Jour dans l'urine est relativement constante et represente + 600 mosmoles/j de solutes dont 40-50% d'uree.  ",
-            "Reponse": true,
-            "Justification": "-",
+            "Proposition": " lorsque la perfusion de l'arteriole afferente augmente, la secretion de renine est stimulee.  ",
+            "Reponse": false,
+            "Justification": "elle est diminuee",
             "Reference": "-"
       },
       {
             "Numero": 146,
             "Question": "-",
-            "Proposition": " lorsque la perfusion de l'arteriole afferente augmente, la secretion de renine est stimulee.  ",
+            "Proposition": " lorsque le volume du LEC est augmente, le volume circulant effectif est toujours augmente, ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "pas toujours le cas",
             "Reference": "-"
       },
       {
             "Numero": 147,
-            "Question": "-",
-            "Proposition": " lorsque le volume du LEC est augmente, le volume circulant effectif est toujours augmente, ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 148,
             "Question": "-",
             "Proposition": " la composition de l'interstitium de la medullaire interne du rein determine la composition finale de l'urine. ",
             "Reponse": true,
@@ -1184,15 +1176,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 149,
+            "Numero": 148,
             "Question": "-",
             "Proposition": " une circulation a contre-courant est un dispositif actif qui limite les pertes de solutes mais qui ne permet pas  de generer un gradient d'osmolalite, ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "dispositif passif",
             "Reference": "-"
       },
       {
-            "Numero": 150,
+            "Numero": 149,
             "Question": "-",
             "Proposition": " le splay, qui se produit lorsque la glycemie se situe entre 200 et 375 mg/dl, est l'apparition progressive et non lineaire du glucose dans l'urine.  ",
             "Reponse": true,
@@ -1200,31 +1192,31 @@
             "Reference": "-"
       },
       {
-            "Numero": 151,
+            "Numero": 150,
             "Question": "-",
             "Proposition": " la liberation des peptides natriuretiques est favorisee par une diminution du volume circulant effectif et de la pression arterielle.  ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est par une augmentation du VCE",
+            "Reference": "-"
+      },
+      {
+            "Numero": 151,
+            "Question": "-",
+            "Proposition": " l'ADH n'a pas d'effet sur la reabsorption de Na+ au niveau du tubule collecteur. ",
+            "Reponse": false,
+            "Justification": "si ca en a",
             "Reference": "-"
       },
       {
             "Numero": 152,
             "Question": "-",
-            "Proposition": " l'ADH n'a pas d'effet sur la reabsorption de Na\" au niveau du tubule collecteur. ",
+            "Proposition": " la barriere glomerulaire peut etre consideree comme un tamis relativement serre et charge positivement qui s'oppose au passage des cations et favorise le passage des petits anions.  ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est charge negativement",
             "Reference": "-"
       },
       {
             "Numero": 153,
-            "Question": "-",
-            "Proposition": " la barriere glomerulaire peut etre consideree comme un tamis relativement serre et charge positivement qui s'oppose au passage des cations et favorise le passage des petits anions.  ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 154,
             "Question": "-",
             "Proposition": " l'autoregulation maintient le DFG et le FPR quasi constants lorsque la pression arterielle varie entre 90 et 180 mmHg.  ",
             "Reponse": true,
@@ -1232,7 +1224,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 155,
+            "Numero": 154,
             "Question": "-",
             "Proposition": " le tubule proximal reabsorbe pres de 65 % du Na filtre.  ",
             "Reponse": true,
@@ -1240,15 +1232,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 156,
+            "Numero": 155,
             "Question": "-",
-            "Proposition": " lorsque CI, < Cline, le solute est globalement reabsorbe par le tubule (il peut etre egalement secrete mais la reabsorption l'emporte sur la secretion).  ",
+            "Proposition": " lorsque CI_x < Cl_inuline, le solute est globalement reabsorbe par le tubule (il peut etre egalement secrete mais la reabsorption l'emporte sur la secretion).  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 157,
+            "Numero": 156,
             "Question": "-",
             "Proposition": " la clearance du PAH (acide para amino hippurique) est la clearance la plus elevee et est un marqueur du flux plasmatique renal.  ",
             "Reponse": true,
@@ -1256,7 +1248,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 158,
+            "Numero": 157,
             "Question": "-",
             "Proposition": " la reabsorption tubulaire d'eau est de 124 ml/min chez l'individu normal, et fait intervenir les capillaires peri-tubulaires et les vasa recta.  ",
             "Reponse": true,
@@ -1264,7 +1256,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 159,
+            "Numero": 158,
             "Question": "Q30. Concernant les tampons de l'organisme: ",
             "Proposition": " L'hemoglobine represente 80% des tampons non bicarbonate du LEC.   ",
             "Reponse": true,
@@ -1272,47 +1264,47 @@
             "Reference": "-"
       },
       {
+            "Numero": 159,
+            "Question": "Q30. Concernant les tampons de l'organisme: ",
+            "Proposition": " Face a une perturbation de l'homeostasie acide-base d'origine non pulmonaire, le rein constitue la 2eme ligne de  defense de l'organisme.     ",
+            "Reponse": false,
+            "Justification": "constitue la 3eme ligne de defense",
+            "Reference": "-"
+      },
+      {
             "Numero": 160,
             "Question": "Q30. Concernant les tampons de l'organisme: ",
-            "Proposition": " Face a une perturbation de l'homeostasie acide-base d'origine non pulmonaire, le rein constitue la 2deg ligne de  defense de l'organisme.     ",
+            "Proposition": " Les 2 principaux tampons urinaires sont les couples CO2/HCO3- et NH4+/NH3   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "faux c'est H2PO4-/HPO2- l'autre tampon urinaire",
             "Reference": "-"
       },
       {
             "Numero": 161,
-            "Question": "Q30. Concernant les tampons de l'organisme: ",
-            "Proposition": " Les 2 principaux tampons urinaires sont les couples CO/HCO2 et NHS\"NH;    ",
+            "Question": "Q28. Concernant le debit de filtration glomerulaire (DFG): ",
+            "Proposition": " Certains medicaments comme les inhibiteurs de l'enzyme de conversion entrainent une vasoconstriction au niveau de l'arteriole efferente et augmentent ainsi le DFG.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "ca vasodilate l'AE et du coup la DFG diminue",
             "Reference": "-"
       },
       {
             "Numero": 162,
             "Question": "Q28. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " Certains medicaments comme les inhibiteurs de l'enzyme de conversion entrainent une vasoconstriction au niveau de l'arteriole efferente et augmentent ainsi le DFG.   ",
-            "Reponse": false,
+            "Proposition": " Le debit de filtration glomerulaire (DFG) peut etre calcule selon la formule de Starling:  DFG = Kf * [P_cg - (P_EB + Pi_cg)]",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 163,
             "Question": "Q28. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " Le debit de filtration glomerulaire (DFG) peut etre calcule selon la formule de Starling:  DEG = K;. [Py - (Pos + ol.    ",
-            "Reponse": true,
-            "Justification": "-",
+            "Proposition": " Au niveau du capillaire glomerulaire fenetre, la pression d'ultrafiltration nette (AP) n'est positive que sur la premiere moitie du capillaire.    ",
+            "Reponse": false,
+            "Justification": "reste positif tout au long du capilairre",
             "Reference": "-"
       },
       {
             "Numero": 164,
-            "Question": "Q28. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " Au niveau du capillaire glomerulaire fenetre, la pression d'ultrafiltration nette (AP) n'est positive que sur la premiere moitie du capillaire.    ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 165,
             "Question": "Q22. Concernant la regulation du LEC: ",
             "Proposition": " La regulation non osmotique de la secretion d'ADH est induite par des variations du VCE d'au moins 10%.   ",
             "Reponse": true,
@@ -1320,15 +1312,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 166,
+            "Numero": 165,
             "Question": "Q22. Concernant la regulation du LEC: ",
-            "Proposition": " Le systeme orthosympathique stimule la liberation de renine au niveau des cellules granulaires de l'arteriole afferente (AA) par un effet fi;    ",
+            "Proposition": " Le systeme orthosympathique stimule la liberation de renine au niveau des cellules granulaires de l'arteriole afferente (AA) par un effet beta-1",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 167,
+            "Numero": 166,
             "Question": "Q22. Concernant la regulation du LEC: ",
             "Proposition": " Certains etats d'hyperhydratation du LEC s'accompagnent d'hypertension arterielle tandis que d'autres peuvent s'accompagner d'hypovolemie et d'hypotension arterielle.    ",
             "Reponse": true,
@@ -1336,7 +1328,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 168,
+            "Numero": 167,
             "Question": "Q17. Concernant la fonction renale: ",
             "Proposition": " L'autoregulation du debit de filtration glomerulaire est assuree par le reflexe myogenique et le retrocontrole tubulo-glomerulaire.   ",
             "Reponse": true,
@@ -1344,15 +1336,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 169,
+            "Numero": 168,
             "Question": "Q17. Concernant la fonction renale: ",
             "Proposition": " Lorsque la clearance d'un solute qui est librement filtre est nulle, cela signifie que ce solute est integralement  reabsorbe au niveau tubulaire et n'est pas retrouve dans les urines.   ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "Si le solute est librement filtree, c'est qu'il passe librement a travers le glomerule, or si sa clearance est nulle, c'est qu'il ne se retrouve pas du tout dans l'urine, donc entre temps, le solute s'est fait totalement reabsorbe",
             "Reference": "-"
       },
       {
-            "Numero": 170,
+            "Numero": 169,
             "Question": "Q17. Concernant la fonction renale: ",
             "Proposition": " Une proteinurie non-selective est liee a une augmentation de la taille des pores de la barriere glomerulaire.    ",
             "Reponse": true,
@@ -1360,33 +1352,41 @@
             "Reference": "-"
       },
       {
+            "Numero": 170,
+            "Question": "Q5. Concernant l'homeostasie acide-base: ",
+            "Proposition": " Si le pH arteriel = 7,3 et sachant que le pK du couple CO2/HCO23-= 6,1, cela implique que log ([CO2 dissout ]arteriel / ([HCO3-]arteriel) = 1,2.    ",
+            "Reponse": false,
+            "Justification": "c'est le log de l'inverse",
+            "Reference": "-"
+      },
+      {
             "Numero": 171,
             "Question": "Q5. Concernant l'homeostasie acide-base: ",
-            "Proposition": " Si le pH arteriel = 7,3 et sachant que le pK du couple COYHCO2 = 6,1, cela implique que log ([CO2 dissout }ueria / [HCO2 anesier) = 1,2.    ",
-            "Reponse": false,
+            "Proposition": " L'acidite titrable represente environ 40% de l'excretion renale acide quotidienne, soit 30 mEq/j    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 172,
             "Question": "Q5. Concernant l'homeostasie acide-base: ",
-            "Proposition": " L'acidite titrable represente environ 40% de l'excretion renale acide quotidienne, soit 30 mEq/)j    ",
-            "Reponse": true,
-            "Justification": "-",
+            "Proposition": " Chaque jour, le rein regenere 4500 mEq de HCO3- filtre.    ",
+            "Reponse": false,
+            "Justification": "reabsorbe",
             "Reference": "-"
       },
       {
             "Numero": 173,
-            "Question": "Q5. Concernant l'homeostasie acide-base: ",
-            "Proposition": " Chaque jour, le rein regenere 4500 mEq de HCO2 filtre.    ",
-            "Reponse": false,
+            "Question": "Q4. Concernant la fonction renale:  ",
+            "Proposition": " Si Ucreat = 30 mg/dl, Pcreat = 0,5 mg/dl et V = 2L/j, la clearance de la creatinine est egale a 120 L/j    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 174,
             "Question": "Q4. Concernant la fonction renale:  ",
-            "Proposition": " Si Use = 30 mg/dl, Pere = 0,5 mg/dl et V = 2L/j, la clearance de la creatinine est egale a 120 L/j    ",
+            "Proposition": " La charge filtree d'un solute x est egale au produit de Px par le debit de filtration glomerulaire.    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1394,21 +1394,13 @@
       {
             "Numero": 175,
             "Question": "Q4. Concernant la fonction renale:  ",
-            "Proposition": " La charge filtree d'un solute x est egale au produit de P, par le debit de filtration glomerulaire.    ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 176,
-            "Question": "Q4. Concernant la fonction renale:  ",
             "Proposition": " Chez un adulte normal, le debit sanguin renal est de 1200 ml/min, soit 20-25% du debit cardiaque.    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 177,
+            "Numero": 176,
             "Question": "Q22. Concernant la fonction renale:  ",
             "Proposition": " La reabsorption tubulaire d'eau est de l'ordre de 124 ml/min chez un individu normal.    ",
             "Reponse": true,
@@ -1416,15 +1408,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 178,
+            "Numero": 177,
             "Question": "Q22. Concernant la fonction renale:  ",
             "Proposition": " L'inuline est une substance exogene qui est couramment utilisee en clinique pour estimer le debit de filtration  glomerulaire.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "vu que c'est exogene et que faut donc l'injecter, c'est relou a utiliser en clinique alors qu'on a deja le goat mr creatine",
             "Reference": "-"
       },
       {
-            "Numero": 179,
+            "Numero": 178,
             "Question": "Q22. Concernant la fonction renale:  ",
             "Proposition": " La clearance de l'acide para-amino-hippurique est de 625 ml/min et mesure le flux plasmatique renal.    ",
             "Reponse": true,
@@ -1432,49 +1424,57 @@
             "Reference": "-"
       },
       {
+            "Numero": 179,
+            "Question": "Q19. Concernant la reabsorption tubulaire: ",
+            "Proposition": " La balance glomerulo-tubulaire permet au tubule proximal de reabsorber une fraction variable de la charge filtree de Na+ lorsque celle-ci varie suite a des variations du debit de filtration glomerulaire.   ",
+            "Reponse": false,
+            "Justification": "c'est une fraction constante",
+            "Reference": "-"
+      },
+      {
             "Numero": 180,
             "Question": "Q19. Concernant la reabsorption tubulaire: ",
-            "Proposition": " La balance glomerulo-tubulaire permet au tubule proximal de reabsorber une fraction variable de la charge filtree de Na' lorsque celle-ci varie suite a des variations du debit de filtration glomerulaire.   ",
+            "Proposition": " La majorite du glucose filtre est reabsorbee dans la portion proximale du tubule proximal par le SGLT1 (2Na /1D-glucose) qui est egalement present au niveau des cellules villositaires greles.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "La majorite par SGLT2",
             "Reference": "-"
       },
       {
             "Numero": 181,
             "Question": "Q19. Concernant la reabsorption tubulaire: ",
-            "Proposition": " La majorite du glucose filtre est reabsorbee dans la portion proximale du tubule proximal par le SGLTI]  (2Na /1D-glucose) qui est egalement present au niveau des cellules villositaires greles.   ",
+            "Proposition": " Les diuretiques thiazidiques inhibent le cotransport Na+/K+/2Cl (NKCC2) apical.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est les diuretiques de l'anse qui inhibent le NKCC2",
             "Reference": "-"
       },
       {
             "Numero": 182,
-            "Question": "Q19. Concernant la reabsorption tubulaire: ",
-            "Proposition": " Les diuretiques thiazidiques inhibent le cotransport Na /K'/2CT (NKCC2) apical.    ",
+            "Question": "Q11. Concernant l'homeostasie acide-base: ",
+            "Proposition": " Le metabolisme oxydatif produit chaque jour 15 a 20 mmoles/j de CO2   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est des moles et pas des mmoles",
             "Reference": "-"
       },
       {
             "Numero": 183,
             "Question": "Q11. Concernant l'homeostasie acide-base: ",
-            "Proposition": " Le metabolisme oxydatif produit chaque jour 15 a 20 mmoles/j de CO2   ",
-            "Reponse": false,
+            "Proposition": " L'organisme recoit chaque jour + ou - 70 mEq/j de H+ sous forme d'acide non volatil dont l'origine est alimentaire, metabolique et liee a la perte de base par les selles.    ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 184,
             "Question": "Q11. Concernant l'homeostasie acide-base: ",
-            "Proposition": " L'organisme recoit chaque jour + 70 mEq/j de Hdeg sous forme d'acide non volatil dont l'origine est alimentaire, metabolique et liee a la perte de base par les selles.    ",
+            "Proposition": " Le rein assure la regeneration quotidienne du HCO3- qui a ete consomme en excretant l'acide non volatil, sous forme d'acidite titrable et de NH4+    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 185,
-            "Question": "Q11. Concernant l'homeostasie acide-base: ",
-            "Proposition": " Le rein assure la regeneration quotidienne du HCO2 qui a ete consomme en excretant l'acide non volatil, sous forme d'acidite titrable et de NH4    ",
+            "Question": "Q9. Concernant la regulation du LEC:  ",
+            "Proposition": " La quantite de sodium echangeable de l'organisme definit le volume du LEC cad l'hydratation extracellulaire.    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1482,53 +1482,45 @@
       {
             "Numero": 186,
             "Question": "Q9. Concernant la regulation du LEC:  ",
-            "Proposition": " La quantite de sodium echangeable de l'organisme definit le volume du LEC caad l'hydratation extracellulaire.    ",
-            "Reponse": true,
-            "Justification": "-",
+            "Proposition": " Lors d'une hyperhydratation du LEC, la natremie est toujours diminuee.    ",
+            "Reponse": false,
+            "Justification": "pas tjr",
             "Reference": "-"
       },
       {
             "Numero": 187,
             "Question": "Q9. Concernant la regulation du LEC:  ",
-            "Proposition": " Lors d'une hyperhydratation du LEC, la natremie est toujours diminuee.    ",
+            "Proposition": " La secretion non osmotique d'ADH est declenchee des que le VCE diminue de 1%.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "Il faut que la variation soit sup a 10%",
             "Reference": "-"
       },
       {
             "Numero": 188,
-            "Question": "Q9. Concernant la regulation du LEC:  ",
-            "Proposition": " La secretion non osmotique d'ADH est declenchee des que le VCE diminue de 1%.    ",
+            "Question": "Q33. Concernant la reabsorption tubulaire: ",
+            "Proposition": " Chez un sujet normal, les reins reabsorbent + ou - 25.000 mEq/j de Na+, soit pres de 80% de la charge filtree de Na+",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "C'est plus de 99%",
             "Reference": "-"
       },
       {
             "Numero": 189,
             "Question": "Q33. Concernant la reabsorption tubulaire: ",
-            "Proposition": " Chez un sujet normal, les reins reabsorbent +25.000 mEq/j de Na', soit pres de 80% de la charge filtree de Na\"    ",
+            "Proposition": " Lorsque le Tm du glucose au niveau du tubule proximal est atteint, la glycosurie devient constante.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "Elle augmente lineairement, en gros a valeur de Tm, les transporteurs qui recuperent le glucose pour pas qu'il finisse dans l'urine sont satures, donc le surplus de glucose va juste s'ajouter lineairement",
             "Reference": "-"
       },
       {
             "Numero": 190,
             "Question": "Q33. Concernant la reabsorption tubulaire: ",
-            "Proposition": " Lorsque le Tm du glucose au niveau du tubule proximal est atteint, la glycosurie devient constante.    ",
+            "Proposition": " L'angiotensine II stimule la reabsorption tubulaire de NaCl en agissant exclusivement au niveau du tubule proximal et en activant l'echangeur apical Na+/H+ (NHE3).    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "pas exclusivement",
             "Reference": "-"
       },
       {
             "Numero": 191,
-            "Question": "Q33. Concernant la reabsorption tubulaire: ",
-            "Proposition": " L'angiotensine IT stimule la reabsorption tubulaire de NaCT en agissant exclusivement au niveau du tubule proximal et en activant l'echangeur apical Na /Hdeg (NHE3).    ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 192,
             "Question": "Q31. Concernant la regulation de la tonicite du LEC: ",
             "Proposition": " Au niveau du tubule collecteur, la reabsorption d'eau est modulee par la presence d'ADH et par l'importance du gradient cortico-medullaire.   ",
             "Reponse": true,
@@ -1536,15 +1528,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 193,
+            "Numero": 192,
             "Question": "Q31. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " La clearance d'eau libre negative se calcule par la formule suivante: Teyo = V x [Po Users) = 1]    ",
+            "Proposition": " La clearance d'eau libre negative se calcule par la formule suivante: Tc_H2O = V x [Posm/ Uosm) - 1]    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "faut exchanger Posm et Uosm",
             "Reference": "-"
       },
       {
-            "Numero": 194,
+            "Numero": 193,
             "Question": "Q31. Concernant la regulation de la tonicite du LEC: ",
             "Proposition": " Pour que le bilan osmolaire et le bilan hydrique restent nuls, le rein adapte l'elimination des apports liquidiens aux osmoles a eliminer.    ",
             "Reponse": true,
@@ -1552,15 +1544,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 195,
+            "Numero": 194,
             "Question": "Q3. Concernant la regulation du LEC: ",
-            "Proposition": " Lors d'une deshydratation du LEC liee a des pertes digestives iso-osmotiques, 1l existe une perturbation de la balance de l'eau.    ",
+            "Proposition": " Lors d'une deshydratation du LEC liee a des pertes digestives iso-osmotiques, il existe une perturbation de la balance de l'eau.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est lie a une perturbation de la balance de Na",
             "Reference": "-"
       },
       {
-            "Numero": 196,
+            "Numero": 195,
             "Question": "Q3. Concernant la regulation du LEC: ",
             "Proposition": " Le volume du LEC peut etre augmente alors que le volume circulant effectif est diminue.   ",
             "Reponse": true,
@@ -1568,23 +1560,23 @@
             "Reference": "-"
       },
       {
-            "Numero": 197,
+            "Numero": 196,
             "Question": "Q3. Concernant la regulation du LEC: ",
-            "Proposition": " Un regime occidental apporte en moyenne 9g/j de NaCT soit 155 mEq de NaC1/    ",
+            "Proposition": " Un regime occidental apporte en moyenne 9g/j de NaCl soit 155 mEq de NaCl",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 198,
+            "Numero": 197,
             "Question": "Q2. Concernant la regulation de la tonicite du LEC: ",
             "Proposition": " Le gradient cortico-medullaire au niveau de l'interstitium, dont l'importance depend de l'ADH, peut etre multiplie 10 fois en situation d'antidiurese.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est 4 fois pas 10 fois",
             "Reference": "-"
       },
       {
-            "Numero": 199,
+            "Numero": 198,
             "Question": "Q2. Concernant la regulation de la tonicite du LEC: ",
             "Proposition": " Dans les conditions normales et pour un regime normal, le rein elimine en moyenne 600 mosm/j dans 1,5L  d'urine, ce qui represente une osmolalite urinaire de + 400 mosm/kg   ",
             "Reponse": true,
@@ -1592,7 +1584,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 200,
+            "Numero": 199,
             "Question": "Q2. Concernant la regulation de la tonicite du LEC: ",
             "Proposition": " La clearance d'eau libre represente la quantite d'eau qui doit etre ajoutee ou soustraite au volume d'urine de 24h pour la rendre iso-osmotique par rapport au plasma.    ",
             "Reponse": true,
@@ -1600,9 +1592,17 @@
             "Reference": "-"
       },
       {
-            "Numero": 201,
+            "Numero": 200,
             "Question": "Q31. Concernant le debit de filtration glomerulaire (DFG):  ",
             "Proposition": " Lors d'une vasoconstriction de l'arteriole efferente du glomerule, le DFG et le FPR varient dans le meme sens.    ",
+            "Reponse": true,
+            "Justification": "encore une fois il a craque et il a mis vrai mais c'est faux dans mon livre (et dans son cours)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 201,
+            "Question": "Q31. Concernant le debit de filtration glomerulaire (DFG):  ",
+            "Proposition": " Une reduction du DFG peut s'observer lorsque P_EB augmente.    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1610,77 +1610,69 @@
       {
             "Numero": 202,
             "Question": "Q31. Concernant le debit de filtration glomerulaire (DFG):  ",
-            "Proposition": " Une reduction du DFG peut s'observer lorsque P,:4 augmente.    ",
-            "Reponse": true,
-            "Justification": "-",
+            "Proposition": " L'autoregulation est une regulation extrinseque du DFG qui permet de le maintenir quasi constant lorsque la pression arterielle varie entre 90 et 180 mmHg.    ",
+            "Reponse": false,
+            "Justification": "c'est intrinseque et pas extrinseque",
             "Reference": "-"
       },
       {
             "Numero": 203,
-            "Question": "Q31. Concernant le debit de filtration glomerulaire (DFG):  ",
-            "Proposition": " L'autoregulation est une regulation extrinseque du DFG qui permet de le maintenir quasi constant lorsque la pression arterielle varie entre 90 et 180 mmHg.    ",
+            "Question": "Q26. Concernant les tampons de l'organisme:  ",
+            "Proposition": " Le pouvoir tampon non CO2/HCO3- du plasma est represente majoritairement par le tampon phosphate",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est principalement les proteines plasmatiques, notamment l'albumine",
             "Reference": "-"
       },
       {
             "Numero": 204,
             "Question": "Q26. Concernant les tampons de l'organisme:  ",
-            "Proposition": " Le pouvoir tampon non CO/HCO2 du plasma est represente majoritairement par le tampon phosphate,   ",
+            "Proposition": " Les concentrations plasmatiques arterielles de HCO3- et du CO2 dissout sont de l'ordre de 1000 fois superieures a la concentration arterielle plasmatique de H+",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "pas 1000 fois mais 1 000 000, il y a les micromoles entre les mili et les nanomoles",
             "Reference": "-"
       },
       {
             "Numero": 205,
             "Question": "Q26. Concernant les tampons de l'organisme:  ",
-            "Proposition": " Les concentrations plasmatiques arterielles de HCOY et du CO2 dissout sont de l'ordre de 10deg fois superieures a la concentration arterielle plasmatique de Hdeg    ",
-            "Reponse": false,
-            "Justification": "-",
+            "Proposition": " En absence de tampons urinaires et meme si le pH urinaire pouvait descendre a 4, il faudrait uriner 600L/j pour eliminer quotidiennement 60 mEq d'acides fixes.    ",
+            "Reponse": true,
+            "Justification": "pH a 4 -> concentration urinaire en H+ a 0,0001 Eq/L, il faut eliminer 60 mEq soit 0,06 Eq, donc 0,06/0,0001 = 600L",
             "Reference": "-"
       },
       {
             "Numero": 206,
-            "Question": "Q26. Concernant les tampons de l'organisme:  ",
-            "Proposition": " En absence de tampons urinaires et meme si le pH urinaire pouvait descendre a 4, 11 faudrait uriner 600L/; pour eliminer quotidiennement 60 mEq d'acides fixes.    ",
+            "Question": "Q23. Concernant la regulation de la tonicite du LEC: ",
+            "Proposition": " Pour eliminer 450 mosmoles/j lorsque le pouvoir de concentration de l'urine est limite a 900 mosm/kg, il faut au minimum un volume quotidien de 500 ml d'urine.   ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "900mosm/kg * 0,5L/j = 450mosm/j (1L = 1kg tkt)",
             "Reference": "-"
       },
       {
             "Numero": 207,
             "Question": "Q23. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " Pour eliminer 450 mosmoles/j lorsque le pouvoir de concentration de l'urine est limite a 900 mosm/kg, il faut au minimum un volume quotidien de 500 ml d'urine.   ",
-            "Reponse": true,
-            "Justification": "-",
+            "Proposition": " Lorsque la clearance d'eau libre est negative, Uosm/Posm > 1 et les urines sont diluees.    ",
+            "Reponse": false,
+            "Justification": "les urines sont concentrees",
             "Reference": "-"
       },
       {
             "Numero": 208,
             "Question": "Q23. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " Lorsque la clearance d'eau libre est negative, Usm/Pasm > 1 et les urines sont diluees.    ",
+            "Proposition": " La branche ascendante large de Henle qui permet de generer une urine hypotonique est le segment de concentration de l'urine.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est le segment de dilution",
             "Reference": "-"
       },
       {
             "Numero": 209,
-            "Question": "Q23. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " La branche ascendante large de Henle qui permet de generer une urine hypotonique est le segment de concentration de l'urine.    ",
-            "Reponse": false,
-            "Justification": "-",
+            "Question": "Q34. Concernant les tampons de l'organisme: ",
+            "Proposition": " Le tampon H2PO4-/HPO4-- qui represente la majorite de l'acidite titrable n'est pourtant pas le tampon urinaire majeur lors d'une acidose.   ",
+            "Reponse": true,
+            "Justification": "jsp c'est qui mais c'est pas lui en tout cas",
             "Reference": "-"
       },
       {
             "Numero": 210,
-            "Question": "Q34. Concernant les tampons de l'organisme: ",
-            "Proposition": " Le tampon H;PO2/HPO2\" qui represente la majorite de l'acidite titrable n'est pourtant pas le tampon urinaire majeur lors d'une acidose.   ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 211,
             "Question": "Q34. Concernant les tampons de l'organisme: ",
             "Proposition": " Comme le pH urinaire ne peut descendre en dessous de 4,5, l'elimination des acides forts dont le pKa est tres  petit (< 1) est impossible.   ",
             "Reponse": true,
@@ -1688,15 +1680,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 212,
+            "Numero": 211,
             "Question": "Q34. Concernant les tampons de l'organisme: ",
             "Proposition": " L'hemoglobine represente 50% des tampons non bicarbonate du LEC.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est 82%",
             "Reference": "-"
       },
       {
-            "Numero": 213,
+            "Numero": 212,
             "Question": "Q30. Concernant la reabsorption tubulaire: ",
             "Proposition": " Le phenomene de splay pour le glucose est lie a la difference de capacite de transport maximale des transporteurs SGLTI et SGLT2 du tubule proximal et a une certaine heterogeneite des differents tubules.    ",
             "Reponse": true,
@@ -1704,15 +1696,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 214,
+            "Numero": 213,
             "Question": "Q30. Concernant la reabsorption tubulaire: ",
-            "Proposition": " Dans les conditions normales, les reins reabsorbent quotidiennement plus de 99% de la charge filtree de Na\"   ",
+            "Proposition": " Dans les conditions normales, les reins reabsorbent quotidiennement plus de 99% de la charge filtree de Na+",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 215,
+            "Numero": 214,
             "Question": "Q30. Concernant la reabsorption tubulaire: ",
             "Proposition": " Les antagonistes de l'aldosterone font partie de la categorie des diuretiques d'epargne potassique.    ",
             "Reponse": true,
@@ -1720,15 +1712,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 216,
+            "Numero": 215,
             "Question": "Q26. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " La dilatation de l'arteriole efferente (AE) induite par certains medicaments (comme les inhibiteurs de l'enzyme de conversion) diminue P., et reduit ainsi le DFG.   ",
+            "Proposition": " La dilatation de l'arteriole efferente (AE) induite par certains medicaments (comme les inhibiteurs de l'enzyme de conversion) diminue Pcg et reduit ainsi le DFG.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 217,
+            "Numero": 216,
             "Question": "Q26. Concernant le debit de filtration glomerulaire (DFG): ",
             "Proposition": " Lorsque le VCE est diminue, l'administration d'AINS, qui reduisent la vasodilatation de l'arteriole afferente  (AA), risque de precipiter une insuffisance renale aigue.   ",
             "Reponse": true,
@@ -1736,63 +1728,63 @@
             "Reference": "-"
       },
       {
-            "Numero": 218,
+            "Numero": 217,
             "Question": "Q26. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " A faibles concentrations, ldeg angiotensine Il (AGIT) diminue le DFG par son effet vasoconstricteur sur l'arteriole  ",
+            "Proposition": " A faibles concentrations, l'angiotensine II (AGII) diminue le DFG par son effet vasoconstricteur sur l'arteriole  afferente (AA), celle-ci etant plus sensible a l'action de l'angiotensine II que l'arteriole efferente (AE)",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "l'AE est plus sensible a l'AGII que l'AA",
+            "Reference": "-"
+      },
+      {
+            "Numero": 218,
+            "Question": "Q24. Concernant la fonction renale: ",
+            "Proposition": " Certaines arterioles afferentes peuvent irriguer plusieurs nephrons.   ",
+            "Reponse": false,
+            "Justification": "un seul et unique",
             "Reference": "-"
       },
       {
             "Numero": 219,
             "Question": "Q24. Concernant la fonction renale: ",
-            "Proposition": " Certaines arterioles afferentes peuvent irriguer plusieurs nephrons.   ",
+            "Proposition": " L'excretion fractionnelle d'un solute x peut s'exprimer en mmoles de solute x par unite de temps.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est en % vu que c'est une fraction",
             "Reference": "-"
       },
       {
             "Numero": 220,
             "Question": "Q24. Concernant la fonction renale: ",
-            "Proposition": " L'excretion fractionnelle d'un solute x peut s'exprimer en mmoles de solute x par unite de temps.    ",
+            "Proposition": " En pratique clinique, il est necessaire de recueillir les urines de 24h pour determiner la clearance de la creatinine.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "nan justement c'est pour ca que c'est le goat mr creatine",
             "Reference": "-"
       },
       {
             "Numero": 221,
-            "Question": "Q24. Concernant la fonction renale: ",
-            "Proposition": " En pratique clinique, il est necessaire de recueillir les urines de 24h pour determiner la clearance de la creatinine.    ",
-            "Reponse": false,
+            "Question": "Q10. Concernant le debit de filtration glomerulaire (DFG): ",
+            "Proposition": " La relation de Starling simplifiee appliquee au capillaire glomerulaire fenetre est la suivante: DFG = Kf * DeltaP_UF sachant que DeltaP_UF = [Pcg - (P_EB+ Pi_cg)]   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 222,
             "Question": "Q10. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " La relation de Starling simplifiee appliquee au capillaire glomerulaire fenetre est la suivante: DFG = K;. AP sachant que AP = [Pay -- (Pes + Ty]   ",
-            "Reponse": true,
-            "Justification": "-",
+            "Proposition": " Lorsque la taille de dextrans polyanioniques devient inferieure a 20 A, leur filtration glomerulaire peut  atteindre pres de 100%.   ",
+            "Reponse": false,
+            "Justification": "non elle reste autour de 50%",
             "Reference": "-"
       },
       {
             "Numero": 223,
             "Question": "Q10. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " Lorsque la taille de dextrans polyanioniques devient inferieure a 20 A, leur filtration glomerulaire peut  atteindre pres de 100%.   ",
+            "Proposition": " Au niveau du capillaire glomerulaire et dans les conditions normales, la filtration d'equilibre est parfois atteinte.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "pas atteint",
             "Reference": "-"
       },
       {
             "Numero": 224,
-            "Question": "Q10. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " Au niveau du capillaire glomerulaire et dans les conditions normales, la filtration d'equilibre est parfois atteinte.    ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 225,
             "Question": "Q20. Concernant la fonction renale: ",
             "Proposition": " Tous les corpuscules renaux sont situes au niveau du cortex.   ",
             "Reponse": true,
@@ -1800,23 +1792,15 @@
             "Reference": "-"
       },
       {
+            "Numero": 225,
+            "Question": "Q20. Concernant la fonction renale: ",
+            "Proposition": " Si Ucreat = 40 mg/dl, Pcreat = 0,8 mg/dl et V = 2L/j, la clearance de la creatinine est egale a 100L/j    ",
+            "Reponse": true,
+            "Justification": "2*40/0,8 = 100L/j",
+            "Reference": "-"
+      },
+      {
             "Numero": 226,
-            "Question": "Q20. Concernant la fonction renale: ",
-            "Proposition": " Si Us = 40 mg/dl, Poe = 0,8 mg/dl et V = 2L/j, la clearance de la creatinine est egale a 100L/j    ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 227,
-            "Question": "Q20. Concernant la fonction renale: ",
-            "Proposition": " Le flux plasmatique renal normal est de 625 ml/min.    ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 228,
             "Question": "Q15. Concernant l'homeostasie acide-base:  ",
             "Proposition": " La quantite de tampon phosphate urinaire est limitee par la filtration glomerulaire.    ",
             "Reponse": true,
@@ -1824,41 +1808,57 @@
             "Reference": "-"
       },
       {
-            "Numero": 229,
+            "Numero": 227,
             "Question": "Q15. Concernant l'homeostasie acide-base:  ",
             "Proposition": " La PaCO2 normale se situe entre 20 et 24 mm Hg    ",
             "Reponse": false,
+            "Justification": "autour de 40 mmHg",
+            "Reference": "-"
+      },
+      {
+            "Numero": 228,
+            "Question": "Q15. Concernant l'homeostasie acide-base:  ",
+            "Proposition": " Lors d'une acidose respiratoire chronique, la compensation renale qui augmente la concentration plasmatique de HCO3- vise a garder le rapport PaCO2/[HCO3- ] constant,    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 229,
+            "Question": "Q13. Concernant la regulation de la tonicite du LEC: ",
+            "Proposition": " La natremie reflete etroitement la tonicite plasmatique cad la tonicite du LEC (le Na+ et les anions qui l'accompagnent representant > 90% de la tonicite du plasma)   ",
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
             "Numero": 230,
-            "Question": "Q15. Concernant l'homeostasie acide-base:  ",
-            "Proposition": " Lors d'une acidose respiratoire chronique, la compensation renale qui augmente la concentration plasmatique de HCO2 vise a garder le rapport PaCO2/[HCO2 ] constant,    ",
-            "Reponse": true,
-            "Justification": "-",
+            "Question": "Q13. Concernant la regulation de la tonicite du LEC: ",
+            "Proposition": " Au niveau du tubule collecteur, la reabsorption d'eau est uniquement dependante de la presence d'ADH.    ",
+            "Reponse": false,
+            "Justification": "ca depend aussi du gradient",
             "Reference": "-"
       },
       {
             "Numero": 231,
             "Question": "Q13. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " La natremie reflete etroitement la tonicite plasmatique cad la tonicite du LEC (le Nadeg et les anions qui l'accompagnent representant 90% de la tonicite du plasma)   ",
+            "Proposition": " L'elimination d'une charge osmolaire de 100 mosm/24h et d'un apport hydrique de 2,5L/24h, depasse la capacite de dilution maximum du rein normal, ce qui induit un bilan hydrique positif.    ",
+            "Reponse": true,
+            "Justification": "100/2,5 = 40msosm/L or la concentration urinaire minimal est de 50mosm/kg (celle maximale est de 1200mosm/kg",
+            "Reference": "-"
+      },
+      {
+            "Numero": 232,
+            "Question": "Q8. Concernant la regulation du LEC: ",
+            "Proposition": " Les peptides natriuretiques induisent une vasodilatation renale, principalement au niveau de l'arteriole afferente, ce qui augmente la charge filtree de Na+ et la natriurese.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 232,
-            "Question": "Q13. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " Au niveau du tubule collecteur, la reabsorption d'eau est uniquement dependante de la presence d'ADH.    ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
             "Numero": 233,
-            "Question": "Q13. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " L'elimination d'une charge osmolaire de 100 mosm/24h et d'un apport hydrique de 2,5L/24h, depasse la capacite de dilution maximum du rein normal, ce qui induit un bilan hydrique positif.    ",
+            "Question": "Q8. Concernant la regulation du LEC: ",
+            "Proposition": " Lors d'une deshydratation du LEC liee a des pertes extra-renales, la renine plasmatique augmente, ce qui induit  un etat d'hyperaldosteronisme 2ndaire permettant de reduire la natriurie (< 10 mmoles/j).     ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1866,37 +1866,13 @@
       {
             "Numero": 234,
             "Question": "Q8. Concernant la regulation du LEC: ",
-            "Proposition": " Les peptides natriuretiques induisent une vasodilatation renale, principalement au niveau de l'arteriole afferente, ce qui augmente la charge filtree de Nadeg et la natriurese.   ",
-            "Reponse": true,
-            "Justification": "-",
+            "Proposition": " Lorsque le bilan du sodium est positif, cela signifie que la natremie est elevee.    ",
+            "Reponse": false,
+            "Justification": "aucun rapport avec la natremie",
             "Reference": "-"
       },
       {
             "Numero": 235,
-            "Question": "Q8. Concernant la regulation du LEC: ",
-            "Proposition": " Lors d'une deshydratation du LEC liee a des pertes extra-renales, la renine plasmatique augmente, ce qui induit  un etat d'hyperaldosteronisme 2deg\" permettant de reduire la natriurie (< 10 mmoles/j).     ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 236,
-            "Question": "Q8. Concernant la regulation du LEC: ",
-            "Proposition": " Lorsque le bilan du sodium est positif, cela signifie que la natremie est elevee.    ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 237,
-            "Question": "Q5. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " Le set point ou seuil de declenchement de la secretion d'ADH est defini genetiquement et est de 300 mosm/kg chez un individu normal.   ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 238,
             "Question": "Q5. Concernant la regulation de la tonicite du LEC: ",
             "Proposition": " Pour maintenir l'osmolalite du LEC constante, le rein fixe la quantite de solutes a eliminer et adapte ensuite la  quantite d'eau a reabsorber ou a eliminer.   ",
             "Reponse": true,
@@ -1904,15 +1880,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 239,
-            "Question": "Q5. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " Chez l'individu normal, la secretion non osmotique d'ADH est physiologiquement importante.    ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 240,
+            "Numero": 236,
             "Question": "Q35. Concernant la regulation de la tonicite du LEC: ",
             "Proposition": " Jusqu'a preuve du contraire, une hypernatremie ne reflete pas un exces en sel mais un deficit en eau.    ",
             "Reponse": true,
@@ -1920,31 +1888,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 241,
-            "Question": "Q35. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " Chez l'individu normal dont l'etat d'hydratation extracellulaire est normal, la secretion non osmotique d'ADH est importante.    ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 242,
-            "Question": "Q35. Concernant la regulation de la tonicite du LEC: ",
-            "Proposition": " Une circulation a contre-courant est un dispositif actif qui limite les pertes de solutes mais qui ne permet pas de generer un gradient d'osmolalite.    ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 243,
+            "Numero": 237,
             "Question": "Q28. Concernant l'homeostasie acide-base:  ",
             "Proposition": " L'acidite titrable represente environ 2/3 de l'excretion renale acide quotidienne chez un adulte normal.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est 1/3",
             "Reference": "-"
       },
       {
-            "Numero": 244,
+            "Numero": 238,
             "Question": "Q28. Concernant l'homeostasie acide-base:  ",
             "Proposition": " Chaque jour, le metabolisme oxydatif produit 20 a 25 moles de CO2 qui sont elimines par les poumons.    ",
             "Reponse": true,
@@ -1952,15 +1904,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 245,
+            "Numero": 239,
             "Question": "Q28. Concernant l'homeostasie acide-base:  ",
             "Proposition": " L'hemoglobine et les differentes proteines du plasma (dont l'albumine) representent + 96% des tampons non bicarbonates du LEC,    ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "82 + 16 = 98",
             "Reference": "-"
       },
       {
-            "Numero": 246,
+            "Numero": 240,
             "Question": "Q25. Concernant le debit de filtration glomerulaire (DFG): ",
             "Proposition": " Lors d'une proteinure non-selective, le profil electrophoretique des proteines urinaires est identique a celui d'une electrophorese des proteines plasmatiques.   ",
             "Reponse": true,
@@ -1968,39 +1920,23 @@
             "Reference": "-"
       },
       {
-            "Numero": 247,
-            "Question": "Q25. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " La relation de Starling appliquee au capillaire glomerulaire fenetre est la suivante:  DEG = K;.[P,4 - (Pen - Lu]   ",
+            "Numero": 241,
+            "Question": "Q23. Concernant le debit de filtration glomerulaire (DFG): ",
+            "Proposition": " L'autoregulation est un mecanisme de regulation a la fois intrinseque et extrinseque de R_A permettant de maintenir le FPR et le DFG constants lorsque la pression arterielle varie entre 90 et 180 mmHg.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "uniquement intrinseque",
             "Reference": "-"
       },
       {
-            "Numero": 248,
-            "Question": "Q25. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " La barriere glomerulaire empeche le passage des molecules dont la taille est superieure a 42 A.    ",
+            "Numero": 242,
+            "Question": "Q23. Concernant le debit de filtration glomerulaire (DFG): ",
+            "Proposition": " Lorsque le VCE est diminue, la contraction de l'arteriole efferente (AE) permet d'augmenter Pcg et ainsi  d'attenuer la reduction du DFG.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 249,
-            "Question": "Q23. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " L'autoregulation est un mecanisme de regulation a la fois intrinseque et extrinseque de R; permettant de maintenir le FPR et le DFG constants lorsque la pression arterielle varie entre 90 et 180 mmHg.   ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 250,
-            "Question": "Q23. Concernant le debit de filtration glomerulaire (DFG): ",
-            "Proposition": " Lorsque le VCE est diminue, la contraction de l'arteriole efferente (AE) permet d'augmenter P, et ainsi  d'attenuer la reduction du DFG.   ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 251,
+            "Numero": 243,
             "Question": "Q23. Concernant le debit de filtration glomerulaire (DFG): ",
             "Proposition": " Les prostaglandines maintiennent une certaine vasodilatation de l'AA (arteriole afferente) lorsque le VCE est diminue.    ",
             "Reponse": true,
@@ -2008,7 +1944,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 252,
+            "Numero": 244,
             "Question": "Q22. Concernant la reabsorption tubulaire:  ",
             "Proposition": " Dans les conditions normales, la fraction excretee du potassium est de l'ordre de 10 a 15%.    ",
             "Reponse": true,
@@ -2016,95 +1952,95 @@
             "Reference": "-"
       },
       {
-            "Numero": 253,
+            "Numero": 245,
             "Question": "Q22. Concernant la reabsorption tubulaire:  ",
             "Proposition": " Dans les conditions normales, la clearance du glucose n'est pas nulle.    ",
             "Reponse": false,
+            "Justification": "si elle est nulle",
+            "Reference": "-"
+      },
+      {
+            "Numero": 246,
+            "Question": "Q22. Concernant la reabsorption tubulaire:  ",
+            "Proposition": " L'angiotensine Il stimule l'echangeur apical Na+/H+ (NHE3) du tubule proximal, ce qui favorise la reabsorption tubulaire proximale de NaCl et de NaHCO3",
+            "Reponse": true,
             "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 247,
+            "Question": "Q6. Concernant la clearance et les mecanismes de dilution et de concentration des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Soit un adulte dont la fonction renale est normale, dont les pertes liquidiennes extra-renales sont de 0,6L/j et dont les apports osmolaires quotidiens sont de 100 mosm. Dans ces conditions, une hyponatremie va se developper si ses apports liquidiens depassent 2,6L/j.    ",
+            "Reponse": true,
+            "Justification": "2,6-0,6 = + de 2L/j pour l'urine, or on a 100mosm a eliminer pour 2L d'urine, donc ca va faire une concentration urinaire inferieur a 100/2 = 50mosm/L ce qui est la limite minimale",
+            "Reference": "-"
+      },
+      {
+            "Numero": 248,
+            "Question": "Q6. Concernant la clearance et les mecanismes de dilution et de concentration des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un sujet adulte et en bonne sante recoit une dose de gliflozine par voie orale. Si Pglucose = 80 mg/dl, Clcreatinine =  120 ml/min et si l'excretion urinaire de glucose est de 48 mg/min, on peut en deduire que 50% du glucose n'est pas reabsorbe au niveau du tubule proximal.      ",
+            "Reponse": true,
+            "Justification": "On s'en fout du gliflozine ici, c'est juste pour justifier la situation, ici on doit calculer  la FE du glucose, or on a pas le volume urinaire, or on peut remarquer que FE = E_glucose / (Clcreat * Pglucose)  (comme ca le volume urinaire qu'on a pas va s'annuler) = 48/(1,2*80) =0,5 (faire giga attention au dL et mL pour pas se tromper (120mL = 1,2dL)",
+            "Reference": "-"
+      },
+      {
+            "Numero": 249,
+            "Question": "Q6. Concernant la clearance et les mecanismes de dilution et de concentration des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lorsque le debit urinaire est de 1L/j avec Uosm = 560 mosm/kg et Posm = 280 mosm/kg, la clearance d'eau libre  est negative (-1L/j}, ce qui est compatible avec une situation ou le VCE est augmente.      ",
+            "Reponse": false,
+            "Justification": "Vu qu'on reabsorbe l'eau, ca pourrait dire que le VCE a diminue et qu'on est en deshydratation extracellulaire",
+            "Reference": "-"
+      },
+      {
+            "Numero": 250,
+            "Question": "Q27. Un patient de 35 ans, sans antecedents particuliers, se presente aux urgences pour une diarrhee severe et non sanglante qui evolue depuis 4 jours. il indique que sa fille de 2 ans qui est a la creche a contracte un rotavirus.  Examen clinique: hypotension orthostatique ; muqueuses seches  Biologie: Na+ 135 mEqg/L (135-145); K+ 2,8 mEq/L (3,5-4,8); Cl- 112 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2)  Gazometrie arterielle (air ambiant): pH 7,20; HCO3- 9 mEq/L; PaCO2 23 mmHg",
+            "Proposition": " Compte tenu des resultats, il y a lieu de suspecter que le patient a egalement presente des vomissements abondants qu'il n'a cependant pas mentionnes.   ",
+            "Reponse": false,
+            "Justification": "sorry aucune idee",
+            "Reference": "-"
+      },
+      {
+            "Numero": 251,
+            "Question": "Q27. Un patient de 35 ans, sans antecedents particuliers, se presente aux urgences pour une diarrhee severe et non sanglante qui evolue depuis 4 jours. il indique que sa fille de 2 ans qui est a la creche a contracte un rotavirus.  Examen clinique: hypotension orthostatique ; muqueuses seches  Biologie: Na+ 135 mEqg/L (135-145); K+ 2,8 mEq/L (3,5-4,8); Cl- 112 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2)  Gazometrie arterielle (air ambiant): pH 7,20; HCO3- 9 mEq/L; PaCO2 23 mmHg",
+            "Proposition": " Dans cette situation, l'excretion renale de NH4' est considerablement augmentee (2 200 mmoles/j) et le calcul du trou anionique urinaire devrait etre tres positif et superieur a +20 mEqg/L.   ",
+            "Reponse": false,
+            "Justification": "sorry aucune idee",
+            "Reference": "-"
+      },
+      {
+            "Numero": 252,
+            "Question": "Q27. Un patient de 35 ans, sans antecedents particuliers, se presente aux urgences pour une diarrhee severe et non sanglante qui evolue depuis 4 jours. il indique que sa fille de 2 ans qui est a la creche a contracte un rotavirus.  Examen clinique: hypotension orthostatique ; muqueuses seches  Biologie: Na+ 135 mEqg/L (135-145); K+ 2,8 mEq/L (3,5-4,8); Cl- 112 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2)  Gazometrie arterielle (air ambiant): pH 7,20; HCO3- 9 mEq/L; PaCO2 23 mmHg",
+            "Proposition": " Si la kaliurie etait dosee sur un echantillon urinaire, elle devrait etre faible et inferieure a 40 mEg/L.    ",
+            "Reponse": true,
+            "Justification": "sorry aucune idee",
+            "Reference": "-"
+      },
+      {
+            "Numero": 253,
+            "Question": "Q26. Un homme de 50 ans, sans antecedents particuliers, a ete renverse par une voiture. Il est admis en urgence pour une fracture ouverte de la jambe droite avec hemorragie importante. Il est conscient.  Examen cliniaue: TA 9/7, RC 120 battements/min, regulier; respiration rapide et profonde,  Biologie: hemoglobine 7g/dL (13-18) Na+ 137 mEq/L; K+ 4,0 mEq/L (3,5-4,8}; CI- 106 mEq/L (97-109); glucose 90 mg/dL; uree 40 mg/dl (15-40); creatinine 1,1 mg/dL (0,7-1,2) ; albumine 44 g/L (40-48)  Gazometrie arterielle (air ambiant): pH 7,30; PaCO2 25 mm Hg; HCO3- 12 mEq/L (22-26) ; SpO2 98% ",
+            "Proposition": " Le patient presente une acidose metabolique compensee. Le trou anionique plasmatique est augmente (19 mEqa/Lj} et s'explique tres probablement par la production de lactate (dont le taux plasmatique n'est pas indique  dans l'enonce).   ",
+            "Reponse": true,
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
             "Numero": 254,
-            "Question": "Q22. Concernant la reabsorption tubulaire:  ",
-            "Proposition": " L'angiotensine Il stimule l'echangeur apical Na /Hdeg (NHE3) du tubule proximal, ce qui favorise la reabsorption tubulaire proximale de NaCT et de NaHCO2    ",
-            "Reponse": true,
-            "Justification": "-",
+            "Question": "Q26. Un homme de 50 ans, sans antecedents particuliers, a ete renverse par une voiture. Il est admis en urgence pour une fracture ouverte de la jambe droite avec hemorragie importante. Il est conscient.  Examen cliniaue: TA 9/7, RC 120 battements/min, regulier; respiration rapide et profonde,  Biologie: hemoglobine 7g/dL (13-18) Na+ 137 mEq/L; K+ 4,0 mEq/L (3,5-4,8}; CI- 106 mEq/L (97-109); glucose 90 mg/dL; uree 40 mg/dl (15-40); creatinine 1,1 mg/dL (0,7-1,2) ; albumine 44 g/L (40-48)  Gazometrie arterielle (air ambiant): pH 7,30; PaCO2 25 mm Hg; HCO3- 12 mEq/L (22-26) ; SpO2 98% ",
+            "Proposition": " Pour ameliorer la capacite de transport de l'oxygene par l'hemoglobine, il faut administrer de l'oxygene au patient.   ",
+            "Reponse": false,
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
             "Numero": 255,
-            "Question": "Q6. Concernant la clearance et les mecanismes de dilution et de concentration des urines, caracteriser par 12345 ou 45678 chacune des propositions suivantes.  ",
-            "Proposition": " Soit un adulte dont la fonction renale est normale, dont les pertes liquidiennes extra-renales sont de 0,6L/j et dont les apports osmolaires quotidiens sont de 100 mosm. Dans ces conditions, une hyponatremie va se developper si ses apports liquidiens depassent 2,6L/).    ",
+            "Question": "Q26. Un homme de 50 ans, sans antecedents particuliers, a ete renverse par une voiture. Il est admis en urgence pour une fracture ouverte de la jambe droite avec hemorragie importante. Il est conscient.  Examen cliniaue: TA 9/7, RC 120 battements/min, regulier; respiration rapide et profonde,  Biologie: hemoglobine 7g/dL (13-18) Na+ 137 mEq/L; K+ 4,0 mEq/L (3,5-4,8}; CI- 106 mEq/L (97-109); glucose 90 mg/dL; uree 40 mg/dl (15-40); creatinine 1,1 mg/dL (0,7-1,2) ; albumine 44 g/L (40-48)  Gazometrie arterielle (air ambiant): pH 7,30; PaCO2 25 mm Hg; HCO3- 12 mEq/L (22-26) ; SpO2 98% ",
+            "Proposition": " Dans une telle situation, l'angiotensine Il est augmentee et stimule notamment le centre de la soif.    ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
             "Numero": 256,
-            "Question": "Q6. Concernant la clearance et les mecanismes de dilution et de concentration des urines, caracteriser par 12345 ou 45678 chacune des propositions suivantes.  ",
-            "Proposition": " Un sujet adulte et en bonne sante recoit une dose de gliflozine par voie orale. Si Pyucos = 80 mg/dl, Clesesinine =  120 ml/min et si l'excretion urinaire de glucose est de 48 mg/min, on peut en deduire que 50% du glucose n'est pas reabsorbe au niveau du tubule proximal.      ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 257,
-            "Question": "Q6. Concernant la clearance et les mecanismes de dilution et de concentration des urines, caracteriser par 12345 ou 45678 chacune des propositions suivantes.  ",
-            "Proposition": " Lorsque le debit urinaire est de 1L/j avec Um = 560 mosm/kg et Pom = 280 mosm/kg, la clearance d'eau libre  est negative (-1L/j}, ce qui est compatible avec une situation ou le VCE est augmente.      ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 258,
-            "Question": "Q27. Un patient de 35 ans, sans antecedents particuliers, se presente aux urgences pour une diarrhee severe et non sanglante qui evolue depuis 4 jours. || indique que sa fille de 2 ans qui est a la creche a contracte un rotavirus.  Examen clinique: hypotension orthostatique ; muqueuses seches  Biologie: Nadeg 135 mEqg/L (135-145); Kdeg 2,8 mEq/L (3,5-4,8); CF 112 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2)  Gazometrie arterielle (air ambiant): pH 7,20; HCO2 9 mEq/L; PaCO2 23 mmHg Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Compte tenu des resultats, il y a lieu de suspecter que le patient a egalement presente des vomissements abondants qu'il n'a cependant pas mentionnes.   ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 259,
-            "Question": "Q27. Un patient de 35 ans, sans antecedents particuliers, se presente aux urgences pour une diarrhee severe et non sanglante qui evolue depuis 4 jours. || indique que sa fille de 2 ans qui est a la creche a contracte un rotavirus.  Examen clinique: hypotension orthostatique ; muqueuses seches  Biologie: Nadeg 135 mEqg/L (135-145); Kdeg 2,8 mEq/L (3,5-4,8); CF 112 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2)  Gazometrie arterielle (air ambiant): pH 7,20; HCO2 9 mEq/L; PaCO2 23 mmHg Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Dans cette situation, l'excretion renale de NH4' est considerablement augmentee (2 200 mmoles/j) et le calcul du trou anionique urinaire devrait etre tres positif et superieur a +20 mEqg/L.   ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 260,
-            "Question": "Q27. Un patient de 35 ans, sans antecedents particuliers, se presente aux urgences pour une diarrhee severe et non sanglante qui evolue depuis 4 jours. || indique que sa fille de 2 ans qui est a la creche a contracte un rotavirus.  Examen clinique: hypotension orthostatique ; muqueuses seches  Biologie: Nadeg 135 mEqg/L (135-145); Kdeg 2,8 mEq/L (3,5-4,8); CF 112 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2)  Gazometrie arterielle (air ambiant): pH 7,20; HCO2 9 mEq/L; PaCO2 23 mmHg Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Si la kaliurie etait dosee sur un echantillon urinaire, elle devrait etre faible et inferieure a 40 mEg/L.    ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 261,
-            "Question": "Q26. Un homme de 50 ans, sans antecedents particuliers, a ete renverse par une voiture. Il est admis en urgence pour une fracture ouverte de la jambe droite avec hemorragie importante. Il est conscient.  Examen cliniaue: TA 9/7, RC 120 battements/min, regulier; respiration rapide et profonde,  Biologie: hemoglobine 7g/dL (13-18) Nadeg 137 mEq/L; K' 4,0 mEq/L (3,5-4,8}; CI 106 mEq/L (97-109); glucose 90 mg/dL; uree 40 mg/dl (15-40); creatinine 1,1 mg/dL (0,7-1,2) ; albumine 44 g/L (40-48)  Gazometrie arterielle (air ambiant): pH 7,30; PaCO 25 mm Hg; HCO2 12 mEq/L (22-26) ; SpO2 98% Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Le patient presente une acidose metabolique compensee. Le trou anionique plasmatique est augmente (19 mEqa/Lj} et s'explique tres probablement par la production de lactate (dont le taux plasmatique n'est pas indique  dans l'enonce).   ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 262,
-            "Question": "Q26. Un homme de 50 ans, sans antecedents particuliers, a ete renverse par une voiture. Il est admis en urgence pour une fracture ouverte de la jambe droite avec hemorragie importante. Il est conscient.  Examen cliniaue: TA 9/7, RC 120 battements/min, regulier; respiration rapide et profonde,  Biologie: hemoglobine 7g/dL (13-18) Nadeg 137 mEq/L; K' 4,0 mEq/L (3,5-4,8}; CI 106 mEq/L (97-109); glucose 90 mg/dL; uree 40 mg/dl (15-40); creatinine 1,1 mg/dL (0,7-1,2) ; albumine 44 g/L (40-48)  Gazometrie arterielle (air ambiant): pH 7,30; PaCO 25 mm Hg; HCO2 12 mEq/L (22-26) ; SpO2 98% Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Pour ameliorer la capacite de transport de l'oxygene par l'hemoglobine, il faut administrer de l'oxygene au patient.   ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 263,
-            "Question": "Q26. Un homme de 50 ans, sans antecedents particuliers, a ete renverse par une voiture. Il est admis en urgence pour une fracture ouverte de la jambe droite avec hemorragie importante. Il est conscient.  Examen cliniaue: TA 9/7, RC 120 battements/min, regulier; respiration rapide et profonde,  Biologie: hemoglobine 7g/dL (13-18) Nadeg 137 mEq/L; K' 4,0 mEq/L (3,5-4,8}; CI 106 mEq/L (97-109); glucose 90 mg/dL; uree 40 mg/dl (15-40); creatinine 1,1 mg/dL (0,7-1,2) ; albumine 44 g/L (40-48)  Gazometrie arterielle (air ambiant): pH 7,30; PaCO 25 mm Hg; HCO2 12 mEq/L (22-26) ; SpO2 98% Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Dans une telle situation, l'angiotensine Il est augmentee et stimule notamment le centre de la soif.    ",
-            "Reponse": true,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 264,
             "Question": "Q19. Concernant les polyuries, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Un diabete insipide (nephrogenique ou central) meconnu peut se reveler a la suite d'une restriction de l'acces a l'eau.   ",
             "Reponse": true,
@@ -2112,15 +2048,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 265,
+            "Numero": 257,
             "Question": "Q19. Concernant les polyuries, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Une epreuve de restriction hydrique est realisee dans le cadre de la mise au point d'une polyurie avec urines diluees chez une femme de 25 ans sans antecedents medicaux particuliers. On constate que le debit urinaire diminue nettement, que P..n augmente et que la natremie se normalise. U.., augmente egalement pour atteindre sa valeur maximale qui est cependant inferieure a 1200 mosm/kg. Dans ces conditions, le diagnostic peut etre etabli et il n'est pas necessaire de devoir injecter de la desmopressine |V.   ",
+            "Proposition": " Une epreuve de restriction hydrique est realisee dans le cadre de la mise au point d'une polyurie avec urines diluees chez une femme de 25 ans sans antecedents medicaux particuliers. On constate que le debit urinaire diminue nettement, que Posm augmente et que la natremie se normalise. Uosm augmente egalement pour atteindre sa valeur maximale qui est cependant inferieure a 1200 mosm/kg. Dans ces conditions, le diagnostic peut etre etabli et il n'est pas necessaire de devoir injecter de la desmopressine IV.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 266,
+            "Numero": 258,
             "Question": "Q19. Concernant les polyuries, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La biologie d'un adulte de 60 ans et qui ne prend pas de medicaments montre, notamment, une glycemie normale et une hypophosphatemie. La biologie urinaire met en evidence la presence de glucose et de proteines de bas poids moleculaire ainsi qu'une phosphaturie. Dans ces conditions, un syndrome de Fanconi acquis est un diagnostic possible.    ",
             "Reponse": true,
@@ -2128,7 +2064,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 267,
+            "Numero": 259,
             "Question": "Q34. Concernant la regulation phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Le FGF23 inhibe la synthese de PTH et la synthese de calcitriol.   ",
             "Reponse": true,
@@ -2136,47 +2072,47 @@
             "Reference": "-"
       },
       {
-            "Numero": 268,
+            "Numero": 260,
             "Question": "Q34. Concernant la regulation phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Lors d'une carence en vitamine D chez un adulte en bonne sante, la calcemie est souvent diminuee.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "pas souvent mais tjr",
             "Reference": "-"
       },
       {
-            "Numero": 269,
+            "Numero": 261,
             "Question": "Q34. Concernant la regulation phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " La liaison du Ca** avec le CaSR situe dans la membrane de la cellule principale parathyroidienne induit une inhibition de la secretion de PTH.    ",
+            "Proposition": " La liaison du Ca++ avec le CaSR situe dans la membrane de la cellule principale parathyroidienne induit une inhibition de la secretion de PTH.    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 270,
-            "Question": "Q33. Un patient de 57 ans beneficie d'une intervention intestinale et une sonde nasogastrique en aspiration continue est mise en place a la fin de l'intervention.  Au 4eme jour post operatoire, alors que la sonde est toujours en place mais n'est plus en aspiration depuis la veille:  Examen clinique: hypotension orthostatique Biologie: Nadeg 134 mEq/L (135-145); Kdeg 3,0 mEq/L (3,5-4,8); Cl 93 mEa/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2) Gazometrie arterielle (air ambiant): pH 7,49; HCO2 35 mEq/L; PaCO2 49 mmHPSg Caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Numero": 262,
+            "Question": "Q33. Un patient de 57 ans beneficie d'une intervention intestinale et une sonde nasogastrique en aspiration continue est mise en place a la fin de l'intervention.  Au 4eme jour post operatoire, alors que la sonde est toujours en place mais n'est plus en aspiration depuis la veille:  Examen clinique: hypotension orthostatique Biologie: Na+ 134 mEq/L (135-145); K+ 3,0 mEq/L (3,5-4,8); Cl- 93 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2) Gazometrie arterielle (air ambiant): pH 7,49; HCO3- 35 mEq/L; PaCO2 49 mmHg",
             "Proposition": " L'hypokaliemie s'explique principalement par des pertes digestives de potassium.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 271,
-            "Question": "Q33. Un patient de 57 ans beneficie d'une intervention intestinale et une sonde nasogastrique en aspiration continue est mise en place a la fin de l'intervention.  Au 4eme jour post operatoire, alors que la sonde est toujours en place mais n'est plus en aspiration depuis la veille:  Examen clinique: hypotension orthostatique Biologie: Nadeg 134 mEq/L (135-145); Kdeg 3,0 mEq/L (3,5-4,8); Cl 93 mEa/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2) Gazometrie arterielle (air ambiant): pH 7,49; HCO2 35 mEq/L; PaCO2 49 mmHPSg Caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
-            "Proposition": " Si un echantillon d'urine est preleve, la concentration de CF urinaire sera inferieure a 15 mEq/L et le pH urinaire devrait etre paradoxalement acide, soit entre 5 et 5,5.    ",
+            "Numero": 263,
+            "Question": "Q33. Un patient de 57 ans beneficie d'une intervention intestinale et une sonde nasogastrique en aspiration continue est mise en place a la fin de l'intervention.  Au 4eme jour post operatoire, alors que la sonde est toujours en place mais n'est plus en aspiration depuis la veille:  Examen clinique: hypotension orthostatique Biologie: Na+ 134 mEq/L (135-145); K+ 3,0 mEq/L (3,5-4,8); Cl- 93 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2) Gazometrie arterielle (air ambiant): pH 7,49; HCO3- 35 mEq/L; PaCO2 49 mmHg",
+            "Proposition": " Si un echantillon d'urine est preleve, la concentration de Cl- urinaire sera inferieure a 15 mEq/L et le pH urinaire devrait etre paradoxalement acide, soit entre 5 et 5,5.    ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 272,
-            "Question": "Q33. Un patient de 57 ans beneficie d'une intervention intestinale et une sonde nasogastrique en aspiration continue est mise en place a la fin de l'intervention.  Au 4eme jour post operatoire, alors que la sonde est toujours en place mais n'est plus en aspiration depuis la veille:  Examen clinique: hypotension orthostatique Biologie: Nadeg 134 mEq/L (135-145); Kdeg 3,0 mEq/L (3,5-4,8); Cl 93 mEa/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2) Gazometrie arterielle (air ambiant): pH 7,49; HCO2 35 mEq/L; PaCO2 49 mmHPSg Caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Numero": 264,
+            "Question": "Q33. Un patient de 57 ans beneficie d'une intervention intestinale et une sonde nasogastrique en aspiration continue est mise en place a la fin de l'intervention.  Au 4eme jour post operatoire, alors que la sonde est toujours en place mais n'est plus en aspiration depuis la veille:  Examen clinique: hypotension orthostatique Biologie: Na+ 134 mEq/L (135-145); K+ 3,0 mEq/L (3,5-4,8); Cl- 93 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2) Gazometrie arterielle (air ambiant): pH 7,49; HCO3- 35 mEq/L; PaCO2 49 mmHg",
             "Proposition": " Pour retablir l'ionogramme et revenir a un pH normal, il suffi retirer la son 'aspiration rique.     ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 273,
+            "Numero": 265,
             "Question": "Q32. Concernant la concentration et la dilution des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
             "Proposition": " L'ADH augmente la permeabilite membranaire a l'uree au niveau de la partie medullaire interne du tubule collecteur et participe ainsi a l'augmentation du gradient cortico-medullaire en situation d'antidiurese.    ",
             "Reponse": true,
@@ -2184,39 +2120,31 @@
             "Reference": "-"
       },
       {
-            "Numero": 274,
+            "Numero": 266,
             "Question": "Q32. Concernant la concentration et la dilution des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
             "Proposition": " En antidiurese, le liquide tubulaire quittant la partie proximale du tubule distal est deja fortement hypertonique.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "pas encore hypertonique",
             "Reference": "-"
       },
       {
-            "Numero": 275,
-            "Question": "Q32. Concernant la concentration et la dilution des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
-            "Proposition": " La circulation a contre-courant est un dispositif actif qui limite les pertes de solutes et qui permet de generer  un gradient d'osmolalite.     ",
-            "Reponse": false,
-            "Justification": "-",
-            "Reference": "-"
-      },
-      {
-            "Numero": 276,
+            "Numero": 267,
             "Question": "Q29. Concernant les dysnatremies, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Lors d'un SIADH, l'osmolalite urinaire reste adaptee (LU... > 100 mosm/kg) dans la mesure ou la natriurie correspond aux apports quotidiens de Na.   ",
+            "Proposition": " Lors d'un SIADH, l'osmolalite urinaire reste adaptee (Uosm > 100 mosm/kg) dans la mesure ou la natriurie correspond aux apports quotidiens de Na.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "elle est inadaptee",
             "Reference": "-"
       },
       {
-            "Numero": 277,
+            "Numero": 268,
             "Question": "Q29. Concernant les dysnatremies, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Lors de sudations profuses, les pertes liquidiennes sont hypotoniques et favorisent le developpement d'un etat  de deshydratation extracellulaire avec hyponatremie.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "ca favorise l'hypernatremie",
             "Reference": "-"
       },
       {
-            "Numero": 278,
+            "Numero": 269,
             "Question": "Q29. Concernant les dysnatremies, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Dans le cas du \"tea and toast syndrome\", les apports osmolaires sont faibles tandis que les apports hydriques restent generalement normaux, ce qui peut expliquer le developpement d'une hyponatremie hypo-osmolaire.    ",
             "Reponse": true,
@@ -2224,15 +2152,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 279,
+            "Numero": 270,
             "Question": "Q20. Concernant la barriere glomerulaire et la regulation du DFG, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Lors d'une reduction importante du VCE, la stimulation orthosympathique intense induit principalement une vasoconstriction de l'arteriole efferente (AE) qui reduit P., et le DFG.    ",
+            "Proposition": " Lors d'une reduction importante du VCE, la stimulation orthosympathique intense induit principalement une vasoconstriction de l'arteriole efferente (AE) qui reduit Pcg et le DFG.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est l'arteriole afferente",
             "Reference": "-"
       },
       {
-            "Numero": 280,
+            "Numero": 271,
             "Question": "Q20. Concernant la barriere glomerulaire et la regulation du DFG, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Les dextrans neutres et polycationiques dont la taille est inferieure a 20 A sont librement filtres au niveau de la barriere glomerulaire.   ",
             "Reponse": true,
@@ -2240,7 +2168,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 281,
+            "Numero": 272,
             "Question": "Q20. Concernant la barriere glomerulaire et la regulation du DFG, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La prise chronique d'AINS favorise la vasoconstriction de l'arteriole afferente (AA) chez les sujets ages.    ",
             "Reponse": true,
@@ -2248,15 +2176,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 282,
+            "Numero": 273,
             "Question": "Q15. Concernant l'ADH, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Des variations de l'osmolalite plasmatique de l'ordre de 1% suffisent a moduler la secretion d'ADH chez l'individu normal.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est pas de l'osmolalite mais de tonicite plasmatique (c'est un genie du crime)",
             "Reference": "-"
       },
       {
-            "Numero": 283,
+            "Numero": 274,
             "Question": "Q15. Concernant l'ADH, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " L'excretion urinaire d'uree depend fortement du debit urinaire.   ",
             "Reponse": true,
@@ -2264,7 +2192,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 284,
+            "Numero": 275,
             "Question": "Q15. Concernant l'ADH, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La diminution du VCE de plus de 10% induit une secretion non osmotique d'ADH qui peut entrainer une hyponatremie de dilution.    ",
             "Reponse": true,
@@ -2272,31 +2200,31 @@
             "Reference": "-"
       },
       {
-            "Numero": 285,
+            "Numero": 276,
             "Question": "Q6. Concernant la clearance et la dilution de l'urine, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Un patient presente un trouble de dilution de l'urine ne lui permettant pas de descendre en dessous de 200 mosm/kg H:0. Il doit eliminer quotidiennement 550 mosm urinaires et ses pertes liquidiennes extra-renales sont de 0,5L/j. Dans ces conditions, si ses apports hydriques sont superieurs a 3,25L/)j, il developpera une hyponatremie.    ",
+            "Proposition": " Un patient presente un trouble de dilution de l'urine ne lui permettant pas de descendre en dessous de 200 mosm/kg H2O. Il doit eliminer quotidiennement 550 mosm urinaires et ses pertes liquidiennes extra-renales sont de 0,5L/j. Dans ces conditions, si ses apports hydriques sont superieurs a 3,25L/j, il developpera une hyponatremie.    ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "Il doit eliminer 550mosm, or il peut dilluer ses urines qu'a hauteur de 200mosm/kg, ce qui fait que par jour, il peut excreter qu'un volume maximal de 550/200 = 2,75L. Or il peut avoir une perte extra renal de 0,5L/j, donc il peut ingerer au maximum 2,75 + 0,5 = 3,25L/j, sinon il sera en hyponatremie car il n'arrivera pas a eliminer l'eau en trop et elle dilluera sa tonicite plasmatique",
             "Reference": "-"
       },
       {
-            "Numero": 286,
+            "Numero": 277,
             "Question": "Q6. Concernant la clearance et la dilution de l'urine, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Un patient presente une creatinine plasmatique de 0,8 mg/dLl avec un debit urinaire de 2,4 L/24h et une creatinine urinaire de 48 mg/dL. Dans ces conditions, la clearance de la creatinine est de 100 ml/min.   ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "48(mg/dL)*2,4(L/j)/ 0,8(mg/dL) = 144L/j = 144 * 1000 / 1440 (1440min = 1j) = 100ml/min",
             "Reference": "-"
       },
       {
-            "Numero": 287,
+            "Numero": 278,
             "Question": "Q6. Concernant la clearance et la dilution de l'urine, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Lorsque Ussmn/Pasm est > 1, la clearance d'eau libre est positive.    ",
+            "Proposition": " Lorsque Uosm/Posm est > 1, la clearance d'eau libre est positive.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "elle est negative (si Uosm > Posm, ca veut dire que les urines sont concentrees, et si elles sont concentrees, ca veut dire que y a pas assez d'eau libre pour aider a dilluer -> negatif)",
             "Reference": "-"
       },
       {
-            "Numero": 288,
+            "Numero": 279,
             "Question": "Q40. Concernant le tubule, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Une acidose tubulaire renale de type 2 est une acidose metabolique a trou anionique plasmatique normal et qui s'accompagne d'hypokaliemie.   ",
             "Reponse": true,
@@ -2304,7 +2232,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 289,
+            "Numero": 280,
             "Question": "Q40. Concernant le tubule, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Pour eviter la formation de lithiases d'acide urique, il est recommande d'alcaliniser les urines pour atteindre un pH urinaire superieur a 6.   ",
             "Reponse": true,
@@ -2312,7 +2240,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 290,
+            "Numero": 281,
             "Question": "Q40. Concernant le tubule, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Une proteinurie glomerulaire selective est composee de > 80% d'albumine.    ",
             "Reponse": true,
@@ -2320,63 +2248,63 @@
             "Reference": "-"
       },
       {
-            "Numero": 291,
+            "Numero": 282,
             "Question": "Q27. Concernant les urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Soit des urines de 24h recueillies chez un adulte de 30 ans et en bonne sante dans le cadre d'un bilan de sante: volume 1,5 L ; Un, 80 mEq/L, Ux 40 mEq/L, Uure 1200 mg/dL (PM uree = 60) et U..., = 470 mosm/kg. Dans ces conditions, il est important de calculer le trou osmotique urinaire qui est egal +30 mosm/kg.   ",
+            "Proposition": " Soit des urines de 24h recueillies chez un adulte de 30 ans et en bonne sante dans le cadre d'un bilan de sante: volume 1,5 L ; U_Na 80 mEq/L, U_K 40 mEq/L, Uuree 1200 mg/dL (PM uree = 60) et Uosm = 470 mosm/kg. Dans ces conditions, il est important de calculer le trou osmotique urinaire qui est egal +30 mosm/kg.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "vu que le sujet est sain, il n'est pas necessaire de calculer le trou osmotique urinaire",
             "Reference": "-"
       },
       {
-            "Numero": 292,
+            "Numero": 283,
             "Question": "Q27. Concernant les urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Lors d'une acidose metabolique, la mesure du pH urinaire permet de determiner la concentration urinaire de NH   ",
+            "Proposition": " Lors d'une acidose metabolique, la mesure du pH urinaire permet de determiner la concentration urinaire de NH4+",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "le ph urinaire ne reflete pas la concentration d'un tampon urinaire",
             "Reference": "-"
       },
       {
-            "Numero": 293,
+            "Numero": 284,
             "Question": "Q27. Concernant les urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Le tampon H2PO4/HPO4* represente la grande majorite de l'acidite titrable, cad de l'ensemble des tampons urinaires non HCO2 et non NH; qui lient H'.    ",
+            "Proposition": " Le tampon H2PO4-/HPO4-- represente la grande majorite de l'acidite titrable, cad de l'ensemble des tampons urinaires non HCO3- et non NH4+ qui lient H+ ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 294,
-            "Question": "Q26. Un homme de 24 ans est admis aux urgences pour polyurie-polydipsie.  Examen cliniaue: respiration rapide et profonde; TA 90/60 mmhHg et rythme cardiaque 132/minute, regulier.  Biologie olasmatiaque: Nadeg 147mmol/L (135-145); K' 3,5 mmol/L (3,5-4,8); CI 99 mmol/L (97-109); glycemie 483 mg/dL (70-100); creatinine 1,3 mg/dL (0,7-1,2}; uree 64 mg/dL (15-40); lactate 1,9 mmol/L (0,4-2,2).  Gazometrie arterielle (air ambiant): pH 7,28; PaCO2 30 mmHg; PaO2 104 mmHg; HCO2 14 mEqg/L Urines: debit 210 ml/h; osmolalite: 580 mosm/kg; kaliurie 40mEq/L Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Compte tenu de la situation clinique, la compensation respiratoire est adequate. Le calcul de la AaaPO2 qui est de 8,5 mmHg confirme d'ailleurs qu'il n'y a pas de pathologie respiratoire associee.   ",
+            "Numero": 285,
+            "Question": "Q26. Un homme de 24 ans est admis aux urgences pour polyurie-polydipsie.  Examen cliniaue: respiration rapide et profonde; TA 90/60 mmhHg et rythme cardiaque 132/minute, regulier.  Biologie plasmatique: Na+ 147mmol/L (135-145); K+ 3,5 mmol/L (3,5-4,8); CI- 99 mmol/L (97-109); glycemie 483 mg/dL (70-100); creatinine 1,3 mg/dL (0,7-1,2}; uree 64 mg/dL (15-40); lactate 1,9 mmol/L (0,4-2,2).  Gazometrie arterielle (air ambiant): pH 7,28; PaCO2 30 mmHg; PaO2 104 mmHg; HCO3- 14 mEqg/L Urines: debit 210 ml/h; osmolalite: 580 mosm/kg; kaliurie 40mEq/L",
+            "Proposition": " Compte tenu de la situation clinique, la compensation respiratoire est adequate. Le calcul de la AaPO2 qui est de 8,5 mmHg confirme d'ailleurs qu'il n'y a pas de pathologie respiratoire associee.   ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 295,
-            "Question": "Q26. Un homme de 24 ans est admis aux urgences pour polyurie-polydipsie.  Examen cliniaue: respiration rapide et profonde; TA 90/60 mmhHg et rythme cardiaque 132/minute, regulier.  Biologie olasmatiaque: Nadeg 147mmol/L (135-145); K' 3,5 mmol/L (3,5-4,8); CI 99 mmol/L (97-109); glycemie 483 mg/dL (70-100); creatinine 1,3 mg/dL (0,7-1,2}; uree 64 mg/dL (15-40); lactate 1,9 mmol/L (0,4-2,2).  Gazometrie arterielle (air ambiant): pH 7,28; PaCO2 30 mmHg; PaO2 104 mmHg; HCO2 14 mEqg/L Urines: debit 210 ml/h; osmolalite: 580 mosm/kg; kaliurie 40mEq/L Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Numero": 286,
+            "Question": "Q26. Un homme de 24 ans est admis aux urgences pour polyurie-polydipsie.  Examen cliniaue: respiration rapide et profonde; TA 90/60 mmhHg et rythme cardiaque 132/minute, regulier.  Biologie plasmatique: Na+ 147mmol/L (135-145); K+ 3,5 mmol/L (3,5-4,8); CI- 99 mmol/L (97-109); glycemie 483 mg/dL (70-100); creatinine 1,3 mg/dL (0,7-1,2}; uree 64 mg/dL (15-40); lactate 1,9 mmol/L (0,4-2,2).  Gazometrie arterielle (air ambiant): pH 7,28; PaCO2 30 mmHg; PaO2 104 mmHg; HCO3- 14 mEqg/L Urines: debit 210 ml/h; osmolalite: 580 mosm/kg; kaliurie 40mEq/L",
             "Proposition": " Dans la mesure ou la kaliemie est normale, on peut en deduire qu'il n'y a pas de deficit du pool de potassium.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 296,
-            "Question": "Q26. Un homme de 24 ans est admis aux urgences pour polyurie-polydipsie.  Examen cliniaue: respiration rapide et profonde; TA 90/60 mmhHg et rythme cardiaque 132/minute, regulier.  Biologie olasmatiaque: Nadeg 147mmol/L (135-145); K' 3,5 mmol/L (3,5-4,8); CI 99 mmol/L (97-109); glycemie 483 mg/dL (70-100); creatinine 1,3 mg/dL (0,7-1,2}; uree 64 mg/dL (15-40); lactate 1,9 mmol/L (0,4-2,2).  Gazometrie arterielle (air ambiant): pH 7,28; PaCO2 30 mmHg; PaO2 104 mmHg; HCO2 14 mEqg/L Urines: debit 210 ml/h; osmolalite: 580 mosm/kg; kaliurie 40mEq/L Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Dans le cas present, comme le A/A est > 2, une alcalose metabolique concomitante, induite par des vomissements ayant precede l'admission, est tres probable.    ",
+            "Numero": 287,
+            "Question": "Q26. Un homme de 24 ans est admis aux urgences pour polyurie-polydipsie.  Examen cliniaue: respiration rapide et profonde; TA 90/60 mmhHg et rythme cardiaque 132/minute, regulier.  Biologie plasmatique: Na+ 147mmol/L (135-145); K+ 3,5 mmol/L (3,5-4,8); CI- 99 mmol/L (97-109); glycemie 483 mg/dL (70-100); creatinine 1,3 mg/dL (0,7-1,2}; uree 64 mg/dL (15-40); lactate 1,9 mmol/L (0,4-2,2).  Gazometrie arterielle (air ambiant): pH 7,28; PaCO2 30 mmHg; PaO2 104 mmHg; HCO3- 14 mEqg/L Urines: debit 210 ml/h; osmolalite: 580 mosm/kg; kaliurie 40mEq/L",
+            "Proposition": " Dans le cas present, comme le Delta/Delta est > 2, une alcalose metabolique concomitante, induite par des vomissements ayant precede l'admission, est tres probable.    ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 297,
+            "Numero": 288,
             "Question": "Q24. Concernant les diuretiques, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Les thiazides induisent une hypocalciurie en stimulant la reabsorption tubulaire proximale du Cadeg*   ",
+            "Proposition": " Les thiazides induisent une hypocalciurie en stimulant la reabsorption tubulaire proximale du Ca++ ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "tubulaire distale",
             "Reference": "-"
       },
       {
-            "Numero": 298,
+            "Numero": 289,
             "Question": "Q24. Concernant les diuretiques, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Lors d'un traitement chronique par diuretique de l'anse, les cellules tubulaires distales s'hypertrophient et leur nombre de NCC augmente. Il en resulte une augmentation de la reabsorption de NaCI qui reduit l'effet des diuretiques de l'anse,   ",
             "Reponse": true,
@@ -2384,7 +2312,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 299,
+            "Numero": 290,
             "Question": "Q24. Concernant les diuretiques, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Les diuretiques d'epargne du potassium augmentent faiblement la natriurese, jusque maximum 3% de la charge filtree de sodium.    ",
             "Reponse": true,
@@ -2392,7 +2320,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 300,
+            "Numero": 291,
             "Question": "Q22. Concernant le potassium, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La prise de B-bloquants non-selectifs peut favoriser une hyperkaliemie post prandiale.   ",
             "Reponse": true,
@@ -2400,15 +2328,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 301,
+            "Numero": 292,
             "Question": "Q22. Concernant le potassium, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Une acidose metabolique organique a trou anionique plasmatique augmente s'accompagne generalement d'hyperkaliemie,   ",
+            "Proposition": " Une acidose metabolique organique a trou anionique plasmatique augmente (participe passe) s'accompagne generalement d'hyperkaliemie,   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "ca ne modifie pas la kaliemie",
             "Reference": "-"
       },
       {
-            "Numero": 302,
+            "Numero": 293,
             "Question": "Q22. Concernant le potassium, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Une HTA est mise en evidence chez un homme de 35 ans dans le cadre d'un bilan de sante. Il n'a pas d' antecedents medicaux particuliers et ne prend pas de medicaments. L'examen clinique est sans particularite. II existe une hypokaliemie et la kaliurie est > 40 mmoles/L. Dans ces conditions, et avant toute mise au point complementaire, une stenose unilaterale de l'artere renale est un diagnostic plausible.    ",
             "Reponse": true,
@@ -2416,31 +2344,31 @@
             "Reference": "-"
       },
       {
-            "Numero": 303,
-            "Question": "Q33. Un patient cirrhotique d'origine ethylique se presente pour un ictere et l'apparition d'oedemes des membres inferieurs. Son poids a augmente de 6 kg en 4 jours. Le regime sans sel (< 100 mEqg/j) n'est pas suivi et le patient continue a consommer de l'alcool.  Examen clinique: PA en position allongee 95/70 mmHg et rythme cardiaque 114/min regulier. Ictere. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie: Hb 14 g/dL (13,5-17,5), Nadeg 129 mEq/L; Kdeg 3,6 mEq/L; uree 36 mg/dL (15-40); creat 1,1 mg/dL (0,7-1,2}; bili totale 8,5 mg/dL (<1,2), bili directe 1,6 mg/dL; albumine 3,0 g/dL (4,0-4,8); glycemie 90 mg/dL; PT 60%  Urine de 24h: 850 ml; osmolalite 700 mosm/kg; creatinine 200 mg/dl; Nadeg 25 mEq/L Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Numero": 294,
+            "Question": "Q33. Un patient cirrhotique d'origine ethylique se presente pour un ictere et l'apparition d'oedemes des membres inferieurs. Son poids a augmente de 6 kg en 4 jours. Le regime sans sel (< 100 mEq/j) n'est pas suivi et le patient continue a consommer de l'alcool.  Examen clinique: PA en position allongee 95/70 mmHg et rythme cardiaque 114/min regulier. Ictere. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie: Hb 14 g/dL (13,5-17,5), Na+ 129 mEq/L; K+ 3,6 mEq/L; uree 36 mg/dL (15-40); creat 1,1 mg/dL (0,7-1,2}; bili totale 8,5 mg/dL (<1,2), bili directe 1,6 mg/dL; albumine 3,0 g/dL (4,0-4,8); glycemie 90 mg/dL; PT 60%  Urine de 24h: 850 ml; osmolalite 700 mosm/kg; creatinine 200 mg/dl; Na+ 25 mEq/L",
             "Proposition": " Il existe une hyperhydratation du LEC favorisee uniquement par l'hyperaldosteronisme secondaire induit par la  reduction du VCE.   ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 304,
-            "Question": "Q33. Un patient cirrhotique d'origine ethylique se presente pour un ictere et l'apparition d'oedemes des membres inferieurs. Son poids a augmente de 6 kg en 4 jours. Le regime sans sel (< 100 mEqg/j) n'est pas suivi et le patient continue a consommer de l'alcool.  Examen clinique: PA en position allongee 95/70 mmHg et rythme cardiaque 114/min regulier. Ictere. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie: Hb 14 g/dL (13,5-17,5), Nadeg 129 mEq/L; Kdeg 3,6 mEq/L; uree 36 mg/dL (15-40); creat 1,1 mg/dL (0,7-1,2}; bili totale 8,5 mg/dL (<1,2), bili directe 1,6 mg/dL; albumine 3,0 g/dL (4,0-4,8); glycemie 90 mg/dL; PT 60%  Urine de 24h: 850 ml; osmolalite 700 mosm/kg; creatinine 200 mg/dl; Nadeg 25 mEq/L Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Numero": 295,
+            "Question": "Q33. Un patient cirrhotique d'origine ethylique se presente pour un ictere et l'apparition d'oedemes des membres inferieurs. Son poids a augmente de 6 kg en 4 jours. Le regime sans sel (< 100 mEq/j) n'est pas suivi et le patient continue a consommer de l'alcool.  Examen clinique: PA en position allongee 95/70 mmHg et rythme cardiaque 114/min regulier. Ictere. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie: Hb 14 g/dL (13,5-17,5), Na+ 129 mEq/L; K+ 3,6 mEq/L; uree 36 mg/dL (15-40); creat 1,1 mg/dL (0,7-1,2}; bili totale 8,5 mg/dL (<1,2), bili directe 1,6 mg/dL; albumine 3,0 g/dL (4,0-4,8); glycemie 90 mg/dL; PT 60%  Urine de 24h: 850 ml; osmolalite 700 mosm/kg; creatinine 200 mg/dl; Na+ 25 mEq/L",
             "Proposition": " La fraction excretee du sodium = 0,106%   ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 305,
-            "Question": "Q33. Un patient cirrhotique d'origine ethylique se presente pour un ictere et l'apparition d'oedemes des membres inferieurs. Son poids a augmente de 6 kg en 4 jours. Le regime sans sel (< 100 mEqg/j) n'est pas suivi et le patient continue a consommer de l'alcool.  Examen clinique: PA en position allongee 95/70 mmHg et rythme cardiaque 114/min regulier. Ictere. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie: Hb 14 g/dL (13,5-17,5), Nadeg 129 mEq/L; Kdeg 3,6 mEq/L; uree 36 mg/dL (15-40); creat 1,1 mg/dL (0,7-1,2}; bili totale 8,5 mg/dL (<1,2), bili directe 1,6 mg/dL; albumine 3,0 g/dL (4,0-4,8); glycemie 90 mg/dL; PT 60%  Urine de 24h: 850 ml; osmolalite 700 mosm/kg; creatinine 200 mg/dl; Nadeg 25 mEq/L Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Numero": 296,
+            "Question": "Q33. Un patient cirrhotique d'origine ethylique se presente pour un ictere et l'apparition d'oedemes des membres inferieurs. Son poids a augmente de 6 kg en 4 jours. Le regime sans sel (< 100 mEq/j) n'est pas suivi et le patient continue a consommer de l'alcool.  Examen clinique: PA en position allongee 95/70 mmHg et rythme cardiaque 114/min regulier. Ictere. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie: Hb 14 g/dL (13,5-17,5), Na+ 129 mEq/L; K+ 3,6 mEq/L; uree 36 mg/dL (15-40); creat 1,1 mg/dL (0,7-1,2}; bili totale 8,5 mg/dL (<1,2), bili directe 1,6 mg/dL; albumine 3,0 g/dL (4,0-4,8); glycemie 90 mg/dL; PT 60%  Urine de 24h: 850 ml; osmolalite 700 mosm/kg; creatinine 200 mg/dl; Na+ 25 mEq/L",
             "Proposition": " 1! s'agit d'une cirrhose decompensee ou l'etat circulatoire est lie la vasodilatation arteriolaire splanchnique. Cette vasodilatation est induite par une augmentation de production splanchnique de vasodilatateurs {principalement le NO) et par une hypo-reactivite des vaisseaux splanchniques aux agents vasoconstricteurs.    ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "sorry aucune idee",
             "Reference": "-"
       },
       {
-            "Numero": 306,
+            "Numero": 297,
             "Question": "Q31. Concernant les proteinuries, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La proteinurie physiologique < 150 mg/24h comprend + 50% de proteines de bas poids moleculaire dont l'albumine et 450% de proteines tubulaires de Tamm-Horsfall.   ",
             "Reponse": true,
@@ -2448,47 +2376,47 @@
             "Reference": "-"
       },
       {
-            "Numero": 307,
+            "Numero": 298,
             "Question": "Q31. Concernant les proteinuries, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " La tigette urinaire permet de mettre en evidence une proteinurie de surcharge qui est liee a la presence de  chaines legeres et qui est generalement > 2g/)    ",
+            "Proposition": " La tigette urinaire permet de mettre en evidence une proteinurie de surcharge qui est liee a la presence de  chaines legeres et qui est generalement > 2g/j",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "ne detecte pas les trucs legers",
             "Reference": "-"
       },
       {
-            "Numero": 308,
+            "Numero": 299,
             "Question": "Q31. Concernant les proteinuries, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Si le profil electrophoretique des proteines urinaires est identique a celui de l'electrophorese des proteines plasmatiques, une proteinurie tubulaire non selective doit etre suspectee.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est une proteinurie glomerulaire non selective et non une proteinurie tubulaire non selective",
             "Reference": "-"
       },
       {
-            "Numero": 309,
+            "Numero": 300,
             "Question": "Q30. Concernant la regulation phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " La PTH stimule la formation de calcitriol au niveau de la cellule tubulaire proximale en stimulant l'expression de la 1 a-hydroxylase mitochondriale.   ",
+            "Proposition": " La PTH stimule la formation de calcitriol au niveau de la cellule tubulaire proximale en stimulant l'expression de la 1 alpha-hydroxylase mitochondriale.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
       {
-            "Numero": 310,
+            "Numero": 301,
             "Question": "Q30. Concernant la regulation phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Lors d'une insuffisance renale chronique, l'hyperparathyroidie secondaire se developpe tardivement.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "c'est pas tardivement mais precoce, c'est l'hyperparathyroidie tertiaire qui est tardif",
             "Reference": "-"
       },
       {
-            "Numero": 311,
+            "Numero": 302,
             "Question": "Q30. Concernant la regulation phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Vous recevez les resultats suivants: uree 34 mg/dL (15-40); creat 0,9 mg/dL (0,7-1,2}; albumine 4,4 g/dl (4,0- 4,8); calcemie 2 mmol/L (2,12-2,62); phosphatemie 1,7 mmol/L (0,8-1,5); 25-(OH)vitD 35 ng/ml (30 -80). Dans ces conditions, il y a lieu de doser la PTH qui devrait etre basse.    ",
             "Reponse": true,
-            "Justification": "-",
+            "Justification": "la seule valeur anormale est la calcemie donc on suit l'approche diagnostique et vu qu'on est on hypocalcemie, il va donc falloir doser la PTH pour savoir si elle est haute ou basse",
             "Reference": "-"
       },
       {
-            "Numero": 312,
+            "Numero": 303,
             "Question": "Q29. Concernant les polyuries et la dilution des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " En presence d'une polyurie avec urines diluees et d'un VCE cliniquement normal, la natremie est un element utile pour orienter le diagnostic   ",
             "Reponse": true,
@@ -2496,15 +2424,15 @@
             "Reference": "-"
       },
       {
-            "Numero": 313,
+            "Numero": 304,
             "Question": "Q29. Concernant les polyuries et la dilution des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Chez un individu qui boit plusieurs litres de biere par jour, les urines sont diluees mais l'osmolalite urinaire de  24h est generalement normale et de l'ordre de 600 mosm/i.    ",
+            "Proposition": " Chez un individu qui boit plusieurs litres de biere par jour, les urines sont diluees mais l'osmolalite urinaire de  24h est generalement normale et de l'ordre de 600 mosm/j.    ",
             "Reponse": false,
-            "Justification": "-",
+            "Justification": "l'osmolalite urinaire est basse et de l'ordre <100mosm/j ",
             "Reference": "-"
       },
       {
-            "Numero": 314,
+            "Numero": 305,
             "Question": "Q29. Concernant les polyuries et la dilution des urines, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Une personne agee dont les apports osmolaires sont faibles (100 mosm/j) presente une hyponatremie hypo- osmolaire. Son hydratation extracellulaire et son VCE sont cliniquement normaux et elle ne prend pas de medicaments. Dans ces conditions, si ses urines sont diluees, on peut considerer que l'osmolalite urinaire est adaptee mais insuffisante.    ",
             "Reponse": true,
@@ -2512,7 +2440,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 315,
+            "Numero": 306,
             "Question": "Q34. Concernant les dysnatremies, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Les vomissements favorisent le developpement d'un etat de deshydratation extracellulaire et de deshydratation intracellulaire avec developpement d'hypernatremie,    ",
             "Reponse": true,
@@ -2520,7 +2448,7 @@
             "Reference": "-"
       },
       {
-            "Numero": 316,
+            "Numero": 307,
             "Question": "Q34. Concernant les dysnatremies, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " Lors d'un SIADH, l'effet d'echappement a l'antidiurese est lie a une \"down regulation\" des RV2 basolateraux des cellules du tubule collecteur. Cet effet permet une excretion d'eau qui diminue l'osmolalite urinaire et qui reduit le volume du LEC.   ",
             "Reponse": true,
