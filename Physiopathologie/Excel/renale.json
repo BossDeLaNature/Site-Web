@@ -2370,7 +2370,7 @@
       {
             "Numero": 297,
             "Question": "Q31. Concernant les proteinuries, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " La proteinurie physiologique < 150 mg/24h comprend + 50% de proteines de bas poids moleculaire dont l'albumine et 450% de proteines tubulaires de Tamm-Horsfall.   ",
+            "Proposition": " La proteinurie physiologique < 150 mg/24h comprend +ou- 50% de proteines de bas poids moleculaire dont l'albumine et +ou- 50% de proteines tubulaires de Tamm-Horsfall.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
