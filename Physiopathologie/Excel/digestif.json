@@ -482,7 +482,7 @@
       {
             "Numero": 61,
             "Question": "-",
-            "Proposition": " Le reflexe peristaltique est un reflexe mixte du tube digestif,  ",
+            "Proposition": " Le reflexe peristaltique est un reflexe mixte du tube digestif",
             "Reponse": false,
             "Justification": "c'est un reflexe court",
             "Reference": "-"
@@ -906,7 +906,7 @@
       {
             "Numero": 114,
             "Question": "1. Concernant la digestion et l'absorption du grele: ",
-            "Proposition": " Le cholesterol est absorbe au niveau de l'enterocyte via un processus d'endocytose mediee par le recepteur NPCILI apical.   ",
+            "Proposition": " Le cholesterol est absorbe au niveau de l'enterocyte via un processus d'endocytose mediee par le recepteur NPC1L1 apical.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -938,7 +938,7 @@
       {
             "Numero": 118,
             "Question": "-",
-            "Proposition": " Le fer est absorbe au niveau de l'ileon sous forme de Fe2+, via le symport DMTI apical,  ",
+            "Proposition": " Le fer est absorbe au niveau de l'ileon sous forme de Fe2+, via le symport DMT1 apical,  ",
             "Reponse": false,
             "Justification": "c'est au niveau du duodenum et non de l'ileon",
             "Reference": "-"
@@ -1618,7 +1618,7 @@
       {
             "Numero": 203,
             "Question": "-",
-            "Proposition": " la somatostatine est l'antagoniste majeur de la secretion acide gastrique et agit uniquement au niveau de la cellule parietale, via la voie de l''AMPc. ",
+            "Proposition": " la somatostatine est l'antagoniste majeur de la secretion acide gastrique et agit uniquement au niveau de la cellule parietale, via la voie de l'AMPc. ",
             "Reponse": false,
             "Justification": "pas uniquement sur la cellule parietale",
             "Reference": "-"
@@ -2490,7 +2490,7 @@
       {
             "Numero": 312,
             "Question": "Q7. Concernant les secretions pancreatiques:  ",
-            "Proposition": " L'effet stimulateur de la CCK sur la secretion acinaire pancreatique est plus marque sur la secretion hydro-  electrolytique que sur la secretion proteique.     ",
+            "Proposition": " L'effet stimulateur de la CCK sur la secretion acinaire pancreatique est plus marque sur la secretion hydro-electrolytique que sur la secretion proteique.     ",
             "Reponse": false,
             "Justification": "plus marquee sur proteique que HE",
             "Reference": "-"
@@ -2946,7 +2946,7 @@
       {
             "Numero": 369,
             "Question": "Q17. Concernant les diarrhees, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " La sous unite A centrale de la toxine thermolabile de E. Coli enterotoxigene stimule de maniere irreversible l'adenylate cyclase au niveau des cellules des cryptes du grele, ce qui entraine une secretion majeure de Cf via le CFTR.   ",
+            "Proposition": " La sous unite A centrale de la toxine thermolabile de E. Coli enterotoxigene stimule de maniere irreversible l'adenylate cyclase au niveau des cellules des cryptes du grele, ce qui entraine une secretion majeure de Cl- via le CFTR.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"

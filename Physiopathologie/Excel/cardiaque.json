@@ -26,7 +26,7 @@
       {
             "Numero": 4,
             "Question": "-",
-            "Proposition": " Soit une sphere dont l'epaisseur de la paroi est negligeable. Lorsque le rayon de la sphere = 4 cm et la pression transmurale = 8 dyne.cm\", la tension qui s'exerce au niveau de la paroi est de 16 dyne.cm\"  ",
+            "Proposition": " Soit une sphere dont l'epaisseur de la paroi est negligeable. Lorsque le rayon de la sphere = 4 cm et la pression transmurale = 8 dyne.cm-2, la tension qui s'exerce au niveau de la paroi est de 16 dyne.cm-1  ",
             "Reponse": true,
             "Justification": "8*4/2 = 16 dyne.cm2",
             "Reference": "-"
@@ -58,7 +58,7 @@
       {
             "Numero": 8,
             "Question": "-",
-            "Proposition": " Les proprietes de la fibre musculaire cardiaque isolee peuvent etre transposees au ventricule, ainsi, la tension exercee par la fibre (g) correspond a la pression intraventriculaire (mm Hg).  ",
+            "Proposition": " Les proprietes de la fibre musculaire cardiaque isolee peuvent etre transposees au ventricule, ainsi, la tension exercee par la fibre (g) correspond a la pression intraventriculaire (mmHg).  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -178,7 +178,7 @@
       {
             "Numero": 23,
             "Question": "-",
-            "Proposition": " Lorsque l'ecoulement est laminaire, la loi de Poiseuille indique que, le debit est proportionnel a la longueur du tube et inversement proportionnel a la 4deg puissance du rayon du tube.  ",
+            "Proposition": " Lorsque l'ecoulement est laminaire, la loi de Poiseuille indique que, le debit est proportionnel a la longueur du tube et inversement proportionnel a la puissance 4eme du rayon du tube.  ",
             "Reponse": false,
             "Justification": "Le debit est inversement proportionnelle a la resistance et la resistance est inversement proportionnelle a rayon puissance 4",
             "Reference": "-"
@@ -850,7 +850,7 @@
       {
             "Numero": 107,
             "Question": "25. Concernant le systeme circulatoire: ",
-            "Proposition": " Le debit sanguin est inversement proportionnel a la 4deg puissance du rayon du tube selon la loi de Poiseuille-  Hagen.   ",
+            "Proposition": " Le debit sanguin est inversement proportionnel a la 4eme puissance du rayon du tube selon la loi de Poiseuille-  Hagen.   ",
             "Reponse": false,
             "Justification": "proportionnel",
             "Reference": "-"
@@ -922,7 +922,7 @@
       {
             "Numero": 116,
             "Question": "Q1. Concernant l'activite electrique cardiaque: ",
-            "Proposition": " La phase 0 du potentiel d'action des cellules sinusales est liee a l'activation transitoire du canal Na, rapide.   ",
+            "Proposition": " La phase 0 du potentiel d'action des cellules sinusales est liee a l'activation transitoire du canal Na_V rapide.   ",
             "Reponse": false,
             "Justification": "C'est pour les cardiomyocytes que c'est vrai",
             "Reference": "-"
@@ -1106,7 +1106,7 @@
       {
             "Numero": 139,
             "Question": "Q26. Concernant le systeme veineux:  ",
-            "Proposition": " Lorsque la pression veineuse augmente, la forme des veines devient de plus en plus circulaire et la compliance  veincuse augmente.     ",
+            "Proposition": " Lorsque la pression veineuse augmente, la forme des veines devient de plus en plus circulaire et la compliance  veineuse augmente.     ",
             "Reponse": false,
             "Justification": "La compliance diminue (parce que ca devient trop tendu)",
             "Reference": "-"
@@ -1194,7 +1194,7 @@
       {
             "Numero": 150,
             "Question": "Q18. Concernant l'activite electrique cardiaque: ",
-            "Proposition": " La transmission de l'activite electrique cardiaque est normalement ralentie au niveau du noeud auriculo-  ventriculaire.   ",
+            "Proposition": " La transmission de l'activite electrique cardiaque est normalement ralentie au niveau du noeud auriculo- ventriculaire.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"

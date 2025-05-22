@@ -10,7 +10,7 @@
       {
             "Numero": 2,
             "Question": "-",
-            "Proposition": " La PO2 du sang veineux mele = 40 mm Hg et la PO2 du sang arteriel = 100 mm Hg.  ",
+            "Proposition": " La PO2 du sang veineux mele = 40 mmHg et la PO2 du sang arteriel = 100 mmHg.  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -18,7 +18,7 @@
       {
             "Numero": 3,
             "Question": "-",
-            "Proposition": " La ventilation alveolaire est le volume d'air frais qui, chaque minute, atteint les alveoles; il s'agit donc du  volume disponible pour les echanges gazeux. ",
+            "Proposition": " La ventilation alveolaire est le volume d'air frais qui, chaque minute, atteint les alveoles : il s'agit donc du  volume disponible pour les echanges gazeux. ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -50,7 +50,7 @@
       {
             "Numero": 7,
             "Question": "-",
-            "Proposition": " Les chemorecepteurs centraux sont surtout sensibles aux variations de PaCO2, mais egalement de pH et de PaO2 (lorsque PaO2 devient < 60 mm Hg).  ",
+            "Proposition": " Les chemorecepteurs centraux sont surtout sensibles aux variations de PaCO2, mais egalement de pH et de PaO2 (lorsque PaO2 devient < 60 mmHg).  ",
             "Reponse": false,
             "Justification": "Ce sont les chemorecepteurs peripheriques qui sont a la fois sensible a la PO2, PCO2 et pH, les chemorecepteurs centraux ne sont pas sensible a la PO2",
             "Reference": "-"
@@ -90,7 +90,7 @@
       {
             "Numero": 12,
             "Question": "-",
-            "Proposition": " Le coefficient de diffusion (D_L } represente la capacite de diffusion d'un gaz et est proportionnel a la surface de la barriere de diffusion.  ",
+            "Proposition": " Le coefficient de diffusion (D_L ) represente la capacite de diffusion d'un gaz et est proportionnel a la surface de la barriere de diffusion.  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -162,7 +162,7 @@
       {
             "Numero": 21,
             "Question": "-",
-            "Proposition": " Si la solubilite plasmatique de l'O2, est de 0,0013 mM/mmHg, a 37degC, la concentration d''O2 dissout dans le  plasma est de 0,013 mM, lorsque PO2 = 100 mm Hg. ",
+            "Proposition": " Si la solubilite plasmatique de l'O2, est de 0,0013 mM/mmHg, a 37degC, la concentration d'O2 dissout dans le  plasma est de 0,013 mM, lorsque PO2 = 100 mm Hg. ",
             "Reponse": false,
             "Justification": "0,0013 mM/mmHg * 100 mmHg = 0,13mM et non 0,013mM",
             "Reference": "-"
@@ -234,7 +234,7 @@
       {
             "Numero": 30,
             "Question": "30. Ventilation  ",
-            "Proposition": " Lorsque la ventilation alveolaire double, la PAco2 diminue de moitie, considerant que la production de CO2 reste inchangee.  ",
+            "Proposition": " Lorsque la ventilation alveolaire double, la PACO2 diminue de moitie, considerant que la production de CO2 reste inchangee.  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -298,7 +298,7 @@
       {
             "Numero": 38,
             "Question": "-",
-            "Proposition": " La zone de conduction des voies aeriennes inferieures se situe entre la 1deg a la 16deg generation et est entierement cartilagineuse.  ",
+            "Proposition": " La zone de conduction des voies aeriennes inferieures se situe entre la 1ere a la 16eme generation et est entierement cartilagineuse.  ",
             "Reponse": false,
             "Justification": "C'est cartilagineux jusqu'a la 10eme generation",
             "Reference": "-"
@@ -642,7 +642,7 @@
       {
             "Numero": 81,
             "Question": "30. Concernant la mecanique respiratoire: ",
-            "Proposition": " Lors d'un pneumothorax gauche, le poumon droit se retracte et la cage thoracique gauche se distend,.    ",
+            "Proposition": " Lors d'un pneumothorax gauche, le poumon droit se retracte et la cage thoracique gauche se distend.    ",
             "Reponse": false,
             "Justification": "Non c'est le poumon gauche qui se retracte",
             "Reference": "-"
@@ -738,7 +738,7 @@
       {
             "Numero": 93,
             "Question": "28. Concernant le systeme respiratoire: ",
-            "Proposition": " La zone de conduction des voies aeriennes inferieures se situe de la 1degdeg a la 16deg generation, Cette zone est cartilagineuse jusqu'a la 10deg generation et non cartilagineuse ensuite.    ",
+            "Proposition": " La zone de conduction des voies aeriennes inferieures se situe de la 1ere a la 16eme generation, Cette zone est cartilagineuse jusqu'a la 10eme generation et non cartilagineuse ensuite.    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -994,7 +994,7 @@
       {
             "Numero": 125,
             "Question": "-",
-            "Proposition": " la zone de conduction des voies aeriennes inferieures s'etend de la 1deg a la 16deg generation.  ",
+            "Proposition": " la zone de conduction des voies aeriennes inferieures s'etend de la 1ere a la 16eme generation.  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1098,7 +1098,7 @@
       {
             "Numero": 138,
             "Question": "Q23. Concernant la diffusion des gaz:  ",
-            "Proposition": " Le transfert du N20 a travers la barriere alveolo-capillaire est limite par les caracteristiques de la barriere alveolo-capillaire dans la mesure ou le N20 ne se lie pas a l'hemoglobine.     ",
+            "Proposition": " Le transfert du N2O a travers la barriere alveolo-capillaire est limite par les caracteristiques de la barriere alveolo-capillaire dans la mesure ou le N2O ne se lie pas a l'hemoglobine.     ",
             "Reponse": false,
             "Justification": "C'est limitee par la perfusion car le gradient s'annule tres vite",
             "Reference": "-"
@@ -1682,7 +1682,7 @@
       {
             "Numero": 211,
             "Question": "Q39. Concernant la ventilation et les volumes, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
-            "Proposition": " Si un volume courant de 600 ml (espace mort de 150 mil} est double avec une frequence respiratoire constante, la PaCO2 passera de 40 a 17 mmHg.   ",
+            "Proposition": " Si un volume courant de 600 ml (espace mort de 150 ml) est double avec une frequence respiratoire constante, la PaCO2 passera de 40 a 17 mmHg.   ",
             "Reponse": true,
             "Justification": "1200-150 = 1050ml, VCO2 = 40mmHg * K * nbCycle*(600-150) = 40mmHg / K * nbCycle* 450, donc PACO2 = K * 40mmHg / K *  nbCycle * 450 / nbCycle*1050 = 40*450/1050 = 17,14mmHg",
             "Reference": "-"

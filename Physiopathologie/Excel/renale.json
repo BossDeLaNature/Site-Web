@@ -26,7 +26,7 @@
       {
             "Numero": 4,
             "Question": "Q22. Concernant l'homeostasie acide-base: ",
-            "Proposition": " Selon l'equation de Kassirer-Bleich, lorsque PCO2 = 27 mmHg et [HCO3-2] = 9 mEg/L, [H+] = 72 nM   ",
+            "Proposition": " Selon l'equation de Kassirer-Bleich, lorsque PCO2 = 27 mmHg et [HCO3--] = 9 mEg/L, [H+] = 72 nM   ",
             "Reponse": true,
             "Justification": "24*27/9 = 72nM",
             "Reference": "-"
@@ -34,7 +34,7 @@
       {
             "Numero": 5,
             "Question": "Q22. Concernant l'homeostasie acide-base: ",
-            "Proposition": " Chez un individu normal et ayant un regime occidental, une secretion tubulaire de 70 mEg/j de Hdeg est necessaire pour assurer la reabsorption du HCO2 filtre quotidiennement.    ",
+            "Proposition": " Chez un individu normal et ayant un regime occidental, une secretion tubulaire de 70 mEg/j de H+ est necessaire pour assurer la reabsorption du HCO3 filtre quotidiennement.    ",
             "Reponse": false,
             "Justification": "Non il faut une secretion de 4500mEq/j pour reabsorber, les 70mEq par jour c'est pour la regeneration.",
             "Reference": "-"
@@ -42,7 +42,7 @@
       {
             "Numero": 6,
             "Question": "Q22. Concernant l'homeostasie acide-base: ",
-            "Proposition": " L'excretion urinaire nette et quotidienne de H+ = acidite titrable + ammonium - excretion residuelle de HCO2 (l'acidite titrable, l'ammonium et le HCO2 etant mesures sur les urines de 24h)    ",
+            "Proposition": " L'excretion urinaire nette et quotidienne de H+ = acidite titrable + ammonium - excretion residuelle de HCO3 (l'acidite titrable, l'ammonium et le HCO3 etant mesures sur les urines de 24h)    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -74,7 +74,7 @@
       {
             "Numero": 10,
             "Question": "-",
-            "Proposition": " Le debit urinaire minimal est de 0,5 L/jour, determine par l'osmolalite urinaire maximale de 1200 mosm/kg H;:0 et par la charge quotidienne de 600 mosmoles de solutes a eliminer. ",
+            "Proposition": " Le debit urinaire minimal est de 0,5 L/jour, determine par l'osmolalite urinaire maximale de 1200 mosm/kg H2O et par la charge quotidienne de 600 mosmoles de solutes a eliminer. ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -354,7 +354,7 @@
       {
             "Numero": 45,
             "Question": "-",
-            "Proposition": " Le debit sanguin renal est de 1200 ml/min au repos, soit +20-25% du debit cardiaque.  ",
+            "Proposition": " Le debit sanguin renal est de 1200 ml/min au repos, soit +ou- 20-25% du debit cardiaque.  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -418,7 +418,7 @@
       {
             "Numero": 53,
             "Question": "-",
-            "Proposition": " La relation de Starling appliquee au capillaire glomerulaire fenetre est la suivante:  DFG = Kf*  [Pcg- (PEB + Pi_cg)] ",
+            "Proposition": " La relation de Starling appliquee au capillaire glomerulaire fenetre est la suivante:  DFG = Kf*  [Pcg- (P_EB + Pi_cg)] ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -602,7 +602,7 @@
       {
             "Numero": 76,
             "Question": "-",
-            "Proposition": " La balance glomerulo-tubulaire permet au tubule proximal de reabsorber une fraction constante de la charge filtree de Na\" lorsque celle-ci varie.  ",
+            "Proposition": " La balance glomerulo-tubulaire permet au tubule proximal de reabsorber une fraction constante de la charge filtree de Na+ lorsque celle-ci varie.  ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -682,7 +682,7 @@
       {
             "Numero": 86,
             "Question": "-",
-            "Proposition": " Lors d'une deshydratation du LEC liee a des pertes extra-renales, il existe un hyperaldosteronisme 2deg\"  expliquant un rapport urinaire Na /Kdeg < 1 ",
+            "Proposition": " Lors d'une deshydratation du LEC liee a des pertes extra-renales, il existe un hyperaldosteronisme 2ndaire  expliquant un rapport urinaire Na+/K+ < 1 ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -850,7 +850,7 @@
       {
             "Numero": 107,
             "Question": "-",
-            "Proposition": " L'excretion fractionnelle d'un solute x est le rapport entre la quantite du solute qui est excretee et la quantite du solute qui a ete filtree, soit [(Ux* Pcreat)/ (Px * Ucreat)]    ",
+            "Proposition": " L'excretion fractionnelle d'un solute x est le rapport entre la quantite du solute qui est excretee et la quantite du solute qui a ete filtree, soit  [(Ux* Pcreat)/ (Px * Ucreat)]    ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1034,7 +1034,7 @@
       {
             "Numero": 130,
             "Question": "-",
-            "Proposition": " La liaison du Ca2+au recepteur CaSR (calcium sensing receptor) de la cellule principale parathyroidienne  inhibe la secretion de PTH.   ",
+            "Proposition": " La liaison du Ca2+ au recepteur CaSR (calcium sensing receptor) de la cellule principale parathyroidienne  inhibe la secretion de PTH.   ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1098,7 +1098,7 @@
       {
             "Numero": 138,
             "Question": "-",
-            "Proposition": " le tampon HPO42-/H2PO4- represente la grande majorite de l'acidite titrable. ",
+            "Proposition": " le tampon HPO4--/H2PO4- represente la grande majorite de l'acidite titrable. ",
             "Reponse": true,
             "Justification": "-",
             "Reference": "-"
@@ -1354,7 +1354,7 @@
       {
             "Numero": 170,
             "Question": "Q5. Concernant l'homeostasie acide-base: ",
-            "Proposition": " Si le pH arteriel = 7,3 et sachant que le pK du couple CO2/HCO23-= 6,1, cela implique que log ([CO2 dissout ]arteriel / ([HCO3-]arteriel) = 1,2.    ",
+            "Proposition": " Si le pH arteriel = 7,3 et sachant que le pK du couple CO2/HCO3-= 6,1, cela implique que log ([CO2 dissout ]arteriel / ([HCO3-]arteriel) = 1,2.    ",
             "Reponse": false,
             "Justification": "c'est le log de l'inverse",
             "Reference": "-"
@@ -1434,7 +1434,7 @@
       {
             "Numero": 180,
             "Question": "Q19. Concernant la reabsorption tubulaire: ",
-            "Proposition": " La majorite du glucose filtre est reabsorbee dans la portion proximale du tubule proximal par le SGLT1 (2Na /1D-glucose) qui est egalement present au niveau des cellules villositaires greles.   ",
+            "Proposition": " La majorite du glucose filtre est reabsorbee dans la portion proximale du tubule proximal par le SGLT1 (2Na+ /1D-glucose) qui est egalement present au niveau des cellules villositaires greles.   ",
             "Reponse": false,
             "Justification": "La majorite par SGLT2",
             "Reference": "-"
@@ -1442,7 +1442,7 @@
       {
             "Numero": 181,
             "Question": "Q19. Concernant la reabsorption tubulaire: ",
-            "Proposition": " Les diuretiques thiazidiques inhibent le cotransport Na+/K+/2Cl (NKCC2) apical.    ",
+            "Proposition": " Les diuretiques thiazidiques inhibent le cotransport Na+/K+/2Cl- (NKCC2) apical.    ",
             "Reponse": false,
             "Justification": "c'est les diuretiques de l'anse qui inhibent le NKCC2",
             "Reference": "-"
@@ -2106,7 +2106,7 @@
       {
             "Numero": 264,
             "Question": "Q33. Un patient de 57 ans beneficie d'une intervention intestinale et une sonde nasogastrique en aspiration continue est mise en place a la fin de l'intervention.  Au 4eme jour post operatoire, alors que la sonde est toujours en place mais n'est plus en aspiration depuis la veille:  Examen clinique: hypotension orthostatique Biologie: Na+ 134 mEq/L (135-145); K+ 3,0 mEq/L (3,5-4,8); Cl- 93 mEq/L (97-109); glucose 70 mg/dL (70-100); uree 44 mg/dL (15-40); creatinine 1,4 mg/dL (0,7-1,2) Gazometrie arterielle (air ambiant): pH 7,49; HCO3- 35 mEq/L; PaCO2 49 mmHg",
-            "Proposition": " Pour retablir l'ionogramme et revenir a un pH normal, il suffi retirer la son 'aspiration rique.     ",
+            "Proposition": " Pour retablir l'ionogramme et revenir a un pH normal, il suffit retirer la sonde d'aspiration gastrique.     ",
             "Reponse": false,
             "Justification": "sorry aucune idee",
             "Reference": "-"
@@ -2362,7 +2362,7 @@
       {
             "Numero": 296,
             "Question": "Q33. Un patient cirrhotique d'origine ethylique se presente pour un ictere et l'apparition d'oedemes des membres inferieurs. Son poids a augmente de 6 kg en 4 jours. Le regime sans sel (< 100 mEq/j) n'est pas suivi et le patient continue a consommer de l'alcool.  Examen clinique: PA en position allongee 95/70 mmHg et rythme cardiaque 114/min regulier. Ictere. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie: Hb 14 g/dL (13,5-17,5), Na+ 129 mEq/L; K+ 3,6 mEq/L; uree 36 mg/dL (15-40); creat 1,1 mg/dL (0,7-1,2}; bili totale 8,5 mg/dL (<1,2), bili directe 1,6 mg/dL; albumine 3,0 g/dL (4,0-4,8); glycemie 90 mg/dL; PT 60%  Urine de 24h: 850 ml; osmolalite 700 mosm/kg; creatinine 200 mg/dl; Na+ 25 mEq/L",
-            "Proposition": " 1! s'agit d'une cirrhose decompensee ou l'etat circulatoire est lie la vasodilatation arteriolaire splanchnique. Cette vasodilatation est induite par une augmentation de production splanchnique de vasodilatateurs {principalement le NO) et par une hypo-reactivite des vaisseaux splanchniques aux agents vasoconstricteurs.    ",
+            "Proposition": " Il s'agit d'une cirrhose decompensee ou l'etat circulatoire est lie la vasodilatation arteriolaire splanchnique. Cette vasodilatation est induite par une augmentation de production splanchnique de vasodilatateurs {principalement le NO) et par une hypo-reactivite des vaisseaux splanchniques aux agents vasoconstricteurs.    ",
             "Reponse": true,
             "Justification": "sorry aucune idee",
             "Reference": "-"
