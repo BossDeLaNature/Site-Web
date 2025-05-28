@@ -44,7 +44,7 @@ fetch('Excel/juin2024.json')
     // Fonction pour vérifier la réponse
     function checkAnswer(selectedAnswer, correctAnswer, justification) {
       let numeroquestion = quizData[currentQuestionIndex]['Numero'].toString();
-      let imagesource = 'media/dias/digestif/'.concat(numeroquestion, '.png')
+      let imagesource = 'media/dias/digestif/'.concat('10000.png')
       const imageContainer = document.getElementById('image-container');
       imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="'.concat(imagesource,'" class="w-100" alt="Responsive image"/> </button>');
       const modalContainer = document.getElementById('modal-container');
