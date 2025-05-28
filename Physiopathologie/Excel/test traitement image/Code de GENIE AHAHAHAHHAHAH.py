@@ -134,7 +134,7 @@ Donnees = pd.DataFrame({'Question' : ["Paris"], \
                         columns = ["Question","Proposition","Reponse","Reference"])
 
 
-for i in range(1):
+for i in range(10):
     # Reading an image in default mode:
     inputImage = cv2.imread("pdf/out"+str(i)+".jpg")
     inputCopy = inputImage.copy()
@@ -184,7 +184,7 @@ for i in range(1):
     Dezoom = cv2.resize(thresh, (708, 1002)) 
 
 
-    contours, hierarchy = cv2.findContours(carre3, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+    contours, hierarchy = cv2.findContours(carre3, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
     im = cv2.drawContours(inputImage, contours, 0, (0,255,0), 3)
     
@@ -215,11 +215,12 @@ for i in range(1):
     black1 = 255-black
     imask_invert = np.invert(imask_dilated)
     black1[imask_invert] = inputCopy[imask_invert]
-    
-    
-    for j in range(int(len(contours)/2)):
 
-        Min, Max = coordonnee_rectangle(contours[2*j])
+    
+    
+    for j in range(len(contours)):
+
+        Min, Max = coordonnee_rectangle(contours[j])
 
         img_crop = inputImage[Min[1]:Max[1],Min[0]:Max[0]]
         

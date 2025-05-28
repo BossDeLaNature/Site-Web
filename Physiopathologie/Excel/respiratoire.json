@@ -1564,7 +1564,7 @@
             "Question": "Q14. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " La CPT resulte de l'equilibre entre le rappel elastique du poumon et la force des muscles inspiratoires.   ",
             "Reponse": false,
-            "Justification": "faux c'est la CRF",
+            "Justification": "faux car c'est pas un equilibre vu que t'es oblige d'utiliser de l'energie pour contracter tes muscles inspiratoire -> l'energie potentiel n'est pas minimal - > pas un equilibre par definition",
             "Reference": "-"
       },
       {
@@ -1643,7 +1643,7 @@
             "Numero": 206,
             "Question": "Q4. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
             "Proposition": " CI = CPT - VRE - VR    ",
-            "Reponse": false,
+            "Reponse": true,
             "Justification": "-",
             "Reference": "-"
       },
