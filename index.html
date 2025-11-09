@@ -108,14 +108,6 @@
     const questionSelect = document.getElementById("questionSelect");
 
     // === Initialisation du menu déroulant ===
-    quizData.forEach((q, i) => {
-      const opt = document.createElement("option");
-      opt.value = i;
-      opt.textContent = `Question ${i + 1} – ${q.titre}`;
-      questionSelect.appendChild(opt);
-    });
-
-
 
 
     document.getElementById("questionSelect").addEventListener('click', () => {
@@ -217,40 +209,63 @@
     }
 
     // === Vérifier les réponses ===
-    checkBtn.addEventListener("click", () => {
-      const q = quizData[currentIndex];
-      const inputs = quizForm.querySelectorAll("input");
-      let bonnes = 0;
+    // === Vérifier les réponses ===
+checkBtn.addEventListener("click", () => {
+  const q = quizData[currentIndex];
+  const inputs = quizForm.querySelectorAll("input");
+  let bonnes = 0;
+  let feedbackHTML = "";
 
-      inputs.forEach(input => {
-        const numero = parseInt(input.dataset.numero);
-        const valeur = input.value.trim();
-        const rep = q.reponses.find(r => r.numero === numero);
-        const expDiv = document.getElementById(`explication-${numero}`);
+  if (q.ordre) {
+    // Ordre strict
+    inputs.forEach((input, idx) => {
+      const valeur = input.value.trim();
+      const rep = q.reponses[idx];
+      const expDiv = document.getElementById(`explication-${rep.numero}`);
 
-        if (!rep) return;
+      if (valeur.toLowerCase() === rep.correct.toLowerCase()) {
+        input.classList.add("is-valid");
+        input.classList.remove("is-invalid");
+        bonnes++;
+      } else {
+        input.classList.add("is-invalid");
+        input.classList.remove("is-valid");
+      }
 
-        if (valeur.toLowerCase() === rep.correct.toLowerCase()) {
-          input.classList.add("is-valid");
-          input.classList.remove("is-invalid");
-          bonnes++;
-        } else {
-          input.classList.add("is-invalid");
-          input.classList.remove("is-valid");
-        }
-
-        expDiv.innerHTML = `<strong>Bonne réponse :</strong> ${rep.correct}<br>${rep.explication}`;
-        expDiv.classList.add("d-none");
-      });
-
-      const total = q.reponses.length;
-      feedback.innerHTML = `
-        <div class="alert ${bonnes === total ? "alert-success" : "alert-warning"}">
-          ${bonnes}/${total} bonnes réponses
-        </div>
-      `;
-      showBtn.classList.remove("d-none");
+      expDiv.innerHTML = `<strong>Bonne réponse :</strong> ${rep.correct}<br>${rep.explication}`;
+      expDiv.classList.add("d-none");
     });
+  } else {
+    // Ordre libre
+    const remainingAnswers = [...inputs].map(i => i.value.trim().toLowerCase());
+    q.reponses.forEach(rep => {
+      const expDiv = document.getElementById(`explication-${rep.numero}`);
+      const matchIndex = remainingAnswers.indexOf(rep.correct.toLowerCase());
+      if (matchIndex !== -1) {
+        bonnes++;
+        remainingAnswers.splice(matchIndex, 1); // Retirer pour ne pas compter deux fois
+        inputs[matchIndex].classList.add("is-valid");
+        inputs[matchIndex].classList.remove("is-invalid");
+      } else {
+        // Marquer la bonne réponse manquante
+        const input = [...inputs].find(i => i.dataset.numero == rep.numero);
+        input.classList.add("is-invalid");
+        input.classList.remove("is-valid");
+      }
+
+      expDiv.innerHTML = `<strong>Bonne réponse :</strong> ${rep.correct}<br>${rep.explication}`;
+      expDiv.classList.add("d-none");
+    });
+  }
+
+  feedback.innerHTML = `
+    <div class="alert ${bonnes === q.reponses.length ? "alert-success" : "alert-warning"}">
+      ${bonnes}/${q.reponses.length} bonnes réponses
+    </div>
+  `;
+  showBtn.classList.remove("d-none");
+});
+
 
     // === Afficher / masquer explications ===
     showBtn.addEventListener("click", () => {
