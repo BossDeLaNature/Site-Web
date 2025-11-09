@@ -115,6 +115,24 @@
       questionSelect.appendChild(opt);
     });
 
+
+
+
+    document.getElementById("questionSelect").addEventListener('click', () => {
+      quizData.forEach((q, i) => {
+        const opt = document.createElement("option");
+        opt.value = i;
+        opt.textContent = `Question ${i + 1} – ${q.titre}`;
+        questionSelect.appendChild(opt);
+      });
+
+    });
+
+
+
+
+
+
     // === Afficher une question ===
     function loadQuestion(index) {
       const q = quizData[index];
