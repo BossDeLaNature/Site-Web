@@ -20,6 +20,11 @@
       border-top: none;
       border-radius: 0 0 .5rem .5rem;
     }
+    #feedback .card {
+  border-left: 5px solid #0d6efd;
+  background-color: #fdfdfe;
+}
+
     .results-list li {
       padding: 8px 12px;
       cursor: pointer;
@@ -210,11 +215,11 @@
 
     // === Vérifier les réponses ===
     // === Vérifier les réponses ===
-    // === Vérifier les réponses ===
     checkBtn.addEventListener("click", () => {
       const q = quizData[currentIndex];
       const inputs = quizForm.querySelectorAll("input");
       let bonnes = 0;
+      let explicationsHTML = "";
 
       // Nettoyage visuel
       inputs.forEach(input => {
@@ -226,18 +231,25 @@
         inputs.forEach((input, idx) => {
           const valeur = input.value.trim();
           const rep = q.reponses[idx];
-          const expDiv = document.getElementById(`explication-${rep.numero}`);
 
           if (valeur.toLowerCase() === rep.correct.toLowerCase()) {
             input.classList.add("is-valid");
             bonnes++;
-            expDiv.innerHTML = `<span class="text-success fw-bold">✅ ${rep.correct}</span><br>${rep.explication}`;
+            explicationsHTML += `
+              <div class="mb-2 text-success">
+                <strong>✅ Réponse ${rep.numero} :</strong> ${rep.correct}<br>
+                <span class="text-muted">${rep.explication}</span>
+              </div>
+            `;
           } else {
             input.classList.add("is-invalid");
-            expDiv.innerHTML = `<span class="text-danger fw-bold">❌ ${rep.correct}</span><br>${rep.explication}`;
+            explicationsHTML += `
+              <div class="mb-2 text-danger">
+                <strong>❌ Réponse ${rep.numero} :</strong> ${rep.correct}<br>
+                <span class="text-muted">${rep.explication}</span>
+              </div>
+            `;
           }
-
-          expDiv.classList.remove("d-none");
         });
 
       } else {
@@ -246,41 +258,46 @@
         const reponsesTrouvees = Array.from(inputs).map(i => i.value.trim().toLowerCase());
 
         q.reponses.forEach(rep => {
-          const expDiv = document.getElementById(`explication-${rep.numero}`);
           const idxMatch = reponsesTrouvees.findIndex(r => r === rep.correct.toLowerCase());
 
           if (idxMatch !== -1) {
-            // Bonne réponse quelque part
             inputs[idxMatch].classList.add("is-valid");
             bonnes++;
-            expDiv.innerHTML = `<span class="text-success fw-bold">✅ ${rep.correct}</span><br>${rep.explication}`;
+            explicationsHTML += `
+              <div class="mb-2 text-success">
+                <strong>✅ Réponse ${rep.numero} :</strong> ${rep.correct}<br>
+                <span class="text-muted">${rep.explication}</span>
+              </div>
+            `;
           } else {
-            // Mauvaise ou manquante
-            expDiv.innerHTML = `<span class="text-danger fw-bold">❌ ${rep.correct}</span><br>${rep.explication}`;
+            explicationsHTML += `
+              <div class="mb-2 text-danger">
+                <strong>❌ Réponse ${rep.numero} :</strong> ${rep.correct}<br>
+                <span class="text-muted">${rep.explication}</span>
+              </div>
+            `;
           }
-
-          expDiv.classList.remove("d-none");
         });
       }
 
+      // Affichage du score et des explications
       const total = q.reponses.length;
       feedback.innerHTML = `
         <div class="alert ${bonnes === total ? "alert-success" : "alert-warning"}">
-          ${bonnes}/${total} bonnes réponses
+          <strong>${bonnes}/${total}</strong> bonnes réponses
+        </div>
+        <div class="card mt-3 text-start">
+          <div class="card-body">
+            <h6 class="fw-bold mb-2">Explications :</h6>
+            ${explicationsHTML}
+          </div>
         </div>
       `;
 
-      showBtn.classList.add("d-none"); // plus besoin de bouton explications
+      showBtn.classList.add("d-none");
     });
 
 
-    // === Afficher / masquer explications ===
-    showBtn.addEventListener("click", () => {
-      const exps = document.querySelectorAll(".explication");
-      const hidden = Array.from(exps).every(div => div.classList.contains("d-none"));
-      exps.forEach(div => div.classList.toggle("d-none", !hidden));
-      showBtn.textContent = hidden ? "Masquer les explications" : "Afficher les explications";
-    });
 
     // === Navigation ===
     prevBtn.addEventListener("click", () => {
