@@ -1,7 +1,7 @@
 [
   {
     "titre": "Quel est le secret du bonheur",
-    "image": "'media/kangoovnr.jpg'",
+    "image": "media/kangoovnr.jpg",
     "reponses": [
       { "numero": 1, "correct": "Foie", "explication": "Le foie sécrète la bile..." },
       { "numero": 2, "correct": "Estomac", "explication": "L’estomac débute la digestion chimique..." },
