@@ -1,160 +1,265 @@
 <!DOCTYPE html>
-<html lang="fr" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Objectif : Tabasser la biologie</title>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz de Sémiologie</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .results-list {
+      position: absolute;
+      z-index: 1000;
+      width: 100%;
+      max-height: 150px;
+      overflow-y: auto;
+      background: white;
+      border: 1px solid #ccc;
+      border-top: none;
+      border-radius: 0 0 .5rem .5rem;
+    }
+    .results-list li {
+      padding: 8px 12px;
+      cursor: pointer;
+    }
+    .results-list li:hover {
+      background-color: #f8f9fa;
+    }
+    .explication {
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+      border-left: 3px solid #0d6efd;
+      padding-left: 0.5rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body class="p-4">
 
-    <!-- css -->
+  <div class="container text-center">
+    <h3 class="mb-4">🧠 Quiz de Sémiologie</h3>
 
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
-  </head>
-  <body onload="Menuderoulant()" style="background-color:  #154360 ;">
-      <div class="container space">
+    <!-- Barre de progression -->
+    <div class="d-flex justify-content-between align-items-center mb-2">
+      <div id="progressText" class="fw-bold">Question 1 / 2</div>
+      <select id="questionSelect" class="form-select w-auto">
+        <!-- Options ajoutées dynamiquement -->
+      </select>
+    </div>
 
-      </div>
-      <div class="container">
-        <div class="row">
-          <div class="col">
+    <div class="progress mb-4" style="height: 20px;">
+      <div id="progressBar" class="progress-bar" role="progressbar" style="width: 0%">0%</div>
+    </div>
 
-          </div>
-          <div class="col align-self-center">
-            <video controls width="500">
+    <!-- Image -->
+    <img id="quizImage" src="" alt="Illustration" class="img-fluid mb-4 rounded shadow" style="max-width: 600px;">
 
-              <source src="media/maraiste.mp4" type="video/mp4" />
-            </video>
-          </div>
-          <div class="col">
+    <!-- Questions -->
+    <div id="questionTitle" class="fs-5 fw-bold mb-3"></div>
+    <form id="quizForm" class="mx-auto" style="max-width: 500px;"></form>
 
-          </div>
+    <!-- Boutons -->
+    <div class="d-flex justify-content-center gap-2 mt-3">
+      <button id="prevBtn" class="btn btn-outline-secondary">⬅️ Précédente</button>
+      <button id="checkBtn" class="btn btn-primary">Vérifier</button>
+      <button id="nextBtn" class="btn btn-outline-secondary">Suivante ➡️</button>
+    </div>
 
+    <button id="showExplanations" class="btn btn-outline-info mt-3 d-none">Afficher les explications</button>
+
+    <div id="feedback" class="mt-4"></div>
+  </div>
+
+  <script>
+    // === Données du quiz ===
+    let quizData = [];
+
+  fetch("quizData.json")
+    .then(response => response.json())
+    .then(data => {
+      quizData = data;
+      loadQuestion(0);
+    })
+    .catch(err => console.error("Erreur chargement JSON :", err));
+
+    // === Base de données pour autocomplétion ===
+    let database = [];
+
+    fetch("database.json")
+      .then(response => response.json())
+      .then(data => {
+        database = data;
+      })
+      .catch(err => console.error("Erreur chargement database :", err));
+
+    let currentIndex = 0;
+    const quizImage = document.getElementById("quizImage");
+    const quizForm = document.getElementById("quizForm");
+    const feedback = document.getElementById("feedback");
+    const title = document.getElementById("questionTitle");
+    const checkBtn = document.getElementById("checkBtn");
+    const showBtn = document.getElementById("showExplanations");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+    const progressBar = document.getElementById("progressBar");
+    const progressText = document.getElementById("progressText");
+    const questionSelect = document.getElementById("questionSelect");
+
+    // === Initialisation du menu déroulant ===
+    quizData.forEach((q, i) => {
+      const opt = document.createElement("option");
+      opt.value = i;
+      opt.textContent = `Question ${i + 1} – ${q.titre}`;
+      questionSelect.appendChild(opt);
+    });
+
+    // === Afficher une question ===
+    function loadQuestion(index) {
+      const q = quizData[index];
+      title.textContent = q.titre;
+      quizImage.src = q.image;
+      quizForm.innerHTML = "";
+      feedback.innerHTML = "";
+      showBtn.classList.add("d-none");
+
+      q.reponses.forEach(rep => {
+        const div = document.createElement("div");
+        div.classList.add("mb-3", "position-relative");
+
+        const label = document.createElement("label");
+        label.innerHTML = `<strong>${rep.numero}.</strong>`;
+        label.classList.add("me-2");
+
+        const input = document.createElement("input");
+        input.type = "text";
+        input.classList.add("form-control", "mt-1");
+        input.placeholder = `Réponse ${rep.numero}`;
+        input.dataset.numero = rep.numero;
+        input.autocomplete = "off";
+
+        const list = document.createElement("ul");
+        list.classList.add("list-group", "results-list", "d-none");
+
+        const explicationDiv = document.createElement("div");
+        explicationDiv.classList.add("explication", "d-none");
+        explicationDiv.id = `explication-${rep.numero}`;
+
+        div.appendChild(label);
+        div.appendChild(input);
+        div.appendChild(list);
+        div.appendChild(explicationDiv);
+        quizForm.appendChild(div);
+
+        // Autocomplétion
+        input.addEventListener("input", () => {
+          const query = input.value.toLowerCase().trim();
+          list.innerHTML = "";
+          if (!query) return list.classList.add("d-none");
+
+          const filtered = database.filter(item => item.toLowerCase().includes(query));
+          if (filtered.length === 0) return list.classList.add("d-none");
+
+          filtered.forEach(result => {
+            const li = document.createElement("li");
+            li.textContent = result;
+            li.classList.add("list-group-item");
+            li.addEventListener("click", () => {
+              input.value = result;
+              list.classList.add("d-none");
+            });
+            list.appendChild(li);
+          });
+
+          list.classList.remove("d-none");
+        });
+
+        document.addEventListener("click", (e) => {
+          if (!e.target.closest(".position-relative")) list.classList.add("d-none");
+        });
+      });
+
+      // Mise à jour des contrôles
+      prevBtn.disabled = currentIndex === 0;
+      nextBtn.disabled = currentIndex === quizData.length - 1;
+      questionSelect.value = currentIndex;
+      updateProgress();
+    }
+
+    // === Barre de progression ===
+    function updateProgress() {
+      const total = quizData.length;
+      const progress = ((currentIndex + 1) / total) * 100;
+      progressBar.style.width = `${progress}%`;
+      progressBar.textContent = `${Math.round(progress)}%`;
+      progressText.textContent = `Question ${currentIndex + 1} / ${total}`;
+    }
+
+    // === Vérifier les réponses ===
+    checkBtn.addEventListener("click", () => {
+      const q = quizData[currentIndex];
+      const inputs = quizForm.querySelectorAll("input");
+      let bonnes = 0;
+
+      inputs.forEach(input => {
+        const numero = parseInt(input.dataset.numero);
+        const valeur = input.value.trim();
+        const rep = q.reponses.find(r => r.numero === numero);
+        const expDiv = document.getElementById(`explication-${numero}`);
+
+        if (!rep) return;
+
+        if (valeur.toLowerCase() === rep.correct.toLowerCase()) {
+          input.classList.add("is-valid");
+          input.classList.remove("is-invalid");
+          bonnes++;
+        } else {
+          input.classList.add("is-invalid");
+          input.classList.remove("is-valid");
+        }
+
+        expDiv.innerHTML = `<strong>Bonne réponse :</strong> ${rep.correct}<br>${rep.explication}`;
+        expDiv.classList.add("d-none");
+      });
+
+      const total = q.reponses.length;
+      feedback.innerHTML = `
+        <div class="alert ${bonnes === total ? "alert-success" : "alert-warning"}">
+          ${bonnes}/${total} bonnes réponses
         </div>
-
-
-
-      </div>
-
-        <div class="container">
-
-      <div class="container p-3 mb-2 bg-info text-dark rounded" >
-        <div class="row">
-
-
-        <div id="quiz-container"></div>
-        </div>
-
-        <div class="row">
-
-            <div class="col-md-6">
-              <div class="container text-center p-3 mb-2 bg-info text-dark rounded">
-                <div class="row">
-                  <div class="h2">
-                    Révision chapitre
-
-                  </div>
-
-                </div>
-                <div class="row">
-
-                  <a class="h3 text-center" href="RevisionChap2.html"> Chapitre II</a>
-
-
-                </div>
-
-                <div class="row">
-
-                  <a class="h3 text-center" href="Sommaire-Chapitre.html"> Chapitre III</a>
-
-
-                </div>
-
-                <div class="row">
-
-                  <a class="h3 text-center" href="Sommaire-Chapitre.html"> Chapitre IV</a>
-
-
-                </div>
-
-                <div class="row">
-
-                  <a class="h3 text-center" href="Sommaire-Chapitre.html"> Chapitre V</a>
-
-
-                </div>
-
-
-              </div>
-
-            </div>
-            <div class="col-md-6">
-              <div class="container text-center p-3 mb-2 bg-info text-dark rounded">
-                <div class="row">
-                  <div class="h2">
-                    Défi chapitre
-
-                  </div>
-
-                </div>
-                <div class="row">
-
-                  <a class="h3 text-center" href="Sommaire-Chapitre.html"> Chapitre II</a>
-
-
-                </div>
-
-                <div class="row">
-
-                  <a class="h3 text-center" href="Sommaire-Chapitre.html"> Chapitre III</a>
-
-
-                </div>
-
-                <div class="row">
-
-                  <a class="h3 text-center" href="Sommaire-Chapitre.html"> Chapitre IV</a>
-
-
-                </div>
-
-                <div class="row">
-
-                  <a class="h3 text-center" href="Sommaire-Chapitre.html"> Chapitre V</a>
-
-
-                </div>
-
-                <div class="row">
-
-                  <a class="h3 text-center" href="Sommaire-Chapitre.html"> TOUT</a>
-
-
-                </div>
-
-
-              </div>
-
-            </div>
-
-
-        </div>
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-<!-- SCRIPT-->
-
-
-<script src="js/bootstrap.bundle.min.js"></script>
-<script src="script.js"></script>
-
-
-  </body>
+      `;
+      showBtn.classList.remove("d-none");
+    });
+
+    // === Afficher / masquer explications ===
+    showBtn.addEventListener("click", () => {
+      const exps = document.querySelectorAll(".explication");
+      const hidden = Array.from(exps).every(div => div.classList.contains("d-none"));
+      exps.forEach(div => div.classList.toggle("d-none", !hidden));
+      showBtn.textContent = hidden ? "Masquer les explications" : "Afficher les explications";
+    });
+
+    // === Navigation ===
+    prevBtn.addEventListener("click", () => {
+      if (currentIndex > 0) {
+        currentIndex--;
+        loadQuestion(currentIndex);
+      }
+    });
+    nextBtn.addEventListener("click", () => {
+      if (currentIndex < quizData.length - 1) {
+        currentIndex++;
+        loadQuestion(currentIndex);
+      }
+    });
+    questionSelect.addEventListener("change", () => {
+      currentIndex = parseInt(questionSelect.value);
+      loadQuestion(currentIndex);
+    });
+
+    // === Initialisation ===
+    loadQuestion(currentIndex);
+  </script>
+</body>
 </html>

@@ -1,0 +1,20 @@
+[
+  {
+    "titre": "Appareil Digestif",
+    "image": "digestif.svg",
+    "reponses": [
+      { "numero": 1, "correct": "Foie", "explication": "Le foie sécrète la bile..." },
+      { "numero": 2, "correct": "Estomac", "explication": "L’estomac débute la digestion chimique..." },
+      { "numero": 3, "correct": "Pancréas", "explication": "Le pancréas régule la glycémie..." }
+    ]
+  },
+  {
+    "titre": "Appareil Respiratoire",
+    "image": "respiratoire.svg",
+    "reponses": [
+      { "numero": 1, "correct": "Poumon", "explication": "Échanges gazeux air/sang." },
+      { "numero": 2, "correct": "Trachée", "explication": "Conduit l’air vers les bronches." },
+      { "numero": 3, "correct": "Bronches", "explication": "Distribuent l’air dans les poumons." }
+    ]
+  }
+]
