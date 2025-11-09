@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Sémiologie</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .search-container { margin: 10px 0; }
+    .suggestions { list-style: none; padding: 0; margin: 0; border: 1px solid #ccc; border-radius: 5px; max-height: 150px; overflow-y: auto; display: none; }
+    .suggestions li { padding: 5px 10px; cursor: pointer; background: white; }
+    .suggestions li:hover { background: #f8f9fa; }
+    .progress { height: 20px; margin: 20px 0; }
+  </style>
+</head>
+<body class="bg-light">
+
+<div class="container mt-4">
+  <h1 class="text-center mb-4">Quiz de Sémiologie</h1>
+
+  <!-- Barre de progression -->
+  <div class="progress">
+    <div id="progressBar" class="progress-bar" role="progressbar" style="width: 0%">0%</div>
+  </div>
+
+  <!-- Sélecteur de question -->
+  <div class="text-center mb-3">
+    <label for="questionSelect" class="form-label">Aller à la question :</label>
+    <select id="questionSelect" class="form-select w-auto d-inline-block"></select>
+  </div>
+
+  <div id="questionContainer" class="text-center"></div>
+
+  <div class="text-center mt-4">
+    <button id="prevBtn" class="btn btn-secondary">⬅️ Précédente</button>
+    <button id="nextBtn" class="btn btn-primary">Suivante ➡️</button>
+  </div>
+</div>
+
+<script>
+// === "Database" pour les suggestions ===
+const database = [
+  "Foie", "Estomac", "Pancréas",
+  "Poumon", "Trachée", "Bronches",
+  "Phase d’appui", "Phase de propulsion", "Phase de balancement"
+];
+
+
+// === Données du quiz ===
+let quizData = [];
+
+fetch("quizData.json")
+.then(response => response.json())
+.then(data => {
+  quizData = data;
+  loadQuestion(0);
+})
+.catch(err => console.error("Erreur chargement JSON :", err));
+
+// === Base de données pour autocomplétion ===
+let database = [];
+
+fetch("database.json")
+  .then(response => response.json())
+  .then(data => {
+    database = data;
+  })
+  .catch(err => console.error("Erreur chargement database :", err));
+let currentQuestion = 0;
+
+// Initialisation
+initQuiz();
+
+function initQuiz() {
+  const select = document.getElementById("questionSelect");
+  quizData.forEach((q, i) => {
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.textContent = `${i + 1}. ${q.titre}`;
+    select.appendChild(opt);
+  });
+  select.addEventListener("change", e => loadQuestion(parseInt(e.target.value)));
+  document.getElementById("prevBtn").addEventListener("click", () => { if (currentQuestion > 0) loadQuestion(currentQuestion - 1); });
+  document.getElementById("nextBtn").addEventListener("click", () => { if (currentQuestion < quizData.length - 1) loadQuestion(currentQuestion + 1); });
+  loadQuestion(0);
+}
+
+function loadQuestion(index) {
+  currentQuestion = index;
+  const q = quizData[index];
+  const container = document.getElementById("questionContainer");
+
+  container.innerHTML = `
+    <h3>${q.titre}</h3>
+    <p class="text-muted">${q.ordre ? "(⚙️ Répondre dans l’ordre)" : "(🔀 L’ordre n’a pas d’importance)"}</p>
+    <img src="${q.image}" class="img-fluid rounded mb-3">
+    <div id="answersContainer"></div>
+    <button class="btn btn-success mt-3" id="checkBtn">Vérifier</button>
+  `;
+
+  const answersDiv = document.getElementById("answersContainer");
+
+  q.reponses.forEach(rep => {
+    const group = document.createElement("div");
+    group.className = "search-container";
+    group.innerHTML = `
+      <label><strong>${rep.numero}.</strong></label>
+      <input type="text" class="form-control answer-input" placeholder="Réponse ${rep.numero}">
+      <ul class="suggestions"></ul>
+    `;
+    answersDiv.appendChild(group);
+  });
+
+  // Ajout de l’autocomplétion
+  document.querySelectorAll(".answer-input").forEach(input => {
+    const list = input.nextElementSibling;
+    input.addEventListener("input", () => {
+      const query = input.value.toLowerCase();
+      list.innerHTML = "";
+      if (!query) { list.style.display = "none"; return; }
+      const matches = database.filter(d => d.toLowerCase().includes(query));
+      matches.forEach(m => {
+        const li = document.createElement("li");
+        li.textContent = m;
+        li.onclick = () => { input.value = m; list.style.display = "none"; };
+        list.appendChild(li);
+      });
+      list.style.display = matches.length ? "block" : "none";
+    });
+  });
+
+  document.getElementById("checkBtn").addEventListener("click", () => checkAnswers(q));
+  document.getElementById("questionSelect").value = index;
+  updateProgress();
+}
+
+function checkAnswers(question) {
+  const inputs = Array.from(document.querySelectorAll(".answer-input"));
+  const userAnswers = inputs.map(i => i.value.trim());
+  let correct = 0;
+  let feedback = "";
+
+  if (question.ordre) {
+    // Vérification stricte
+    question.reponses.forEach((r, i) => {
+      if (userAnswers[i].toLowerCase() === r.correct.toLowerCase()) {
+        correct++;
+        feedback += `<p class="text-success">✅ ${r.numero}. ${r.correct} — ${r.explication}</p>`;
+      } else {
+        feedback += `<p class="text-danger">❌ ${r.numero}. Attendu : ${r.correct}</p>`;
+      }
+    });
+  } else {
+    // Vérification sans ordre
+    const remaining = [...userAnswers];
+    question.reponses.forEach(r => {
+      const matchIndex = remaining.findIndex(a => a.toLowerCase() === r.correct.toLowerCase());
+      if (matchIndex !== -1) {
+        correct++;
+        remaining.splice(matchIndex, 1);
+        feedback += `<p class="text-success">✅ ${r.correct} — ${r.explication}</p>`;
+      } else {
+        feedback += `<p class="text-danger">❌ Manqué : ${r.correct}</p>`;
+      }
+    });
+  }
+
+  const score = Math.round((correct / question.reponses.length) * 100);
+  const resultDiv = document.createElement("div");
+  resultDiv.className = "alert mt-3 " + (score === 100 ? "alert-success" : "alert-warning");
+  resultDiv.innerHTML = `<strong>Score : ${score}%</strong><br>${feedback}`;
+  document.getElementById("answersContainer").appendChild(resultDiv);
+}
+
+function updateProgress() {
+  const progress = ((currentQuestion + 1) / quizData.length) * 100;
+  const bar = document.getElementById("progressBar");
+  bar.style.width = `${progress}%`;
+  bar.textContent = `${Math.round(progress)}%`;
+}
+</script>
+</body>
+</html>
