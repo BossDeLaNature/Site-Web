@@ -130,6 +130,11 @@ function enqueueSound(sound) {
    AFFICHAGE QUESTION
 ================================ */
 
+function autoResizeTextarea(textarea) {
+  textarea.style.height = 'auto';                    // réinitialise la hauteur
+  textarea.style.height = textarea.scrollHeight + 'px'; // adapte à la hauteur du texte
+}
+
 function loadQuestion() {
   const espece = tableData[currentIndex];
   document.getElementById("questionTitle").textContent = espece.espece;
@@ -146,7 +151,7 @@ function loadQuestion() {
 
     div.innerHTML = `
       <label class="fw-bold">${cle.replaceAll("_", " ")}</label>
-      <textarea class="form-control mt-1" data-cle="${cle}" autocomplete="off"></textarea>
+      <textarea class="form-control mt-1" spellcheck="false" data-cle="${cle}" autocomplete="off"></textarea>
       <ul class="results-list d-none"></ul>
       <div class="explication d-none">
         <strong>Réponse :</strong> ${espece[cle]}
@@ -158,6 +163,7 @@ function loadQuestion() {
     const db = databases[cle];
 
     input.addEventListener("input", () => {
+      autoResizeTextarea(input); // ajuste la hauteur automatiquement
       const q = input.value.toLowerCase().trim();
       list.innerHTML = "";
       if (!q) return list.classList.add("d-none");
