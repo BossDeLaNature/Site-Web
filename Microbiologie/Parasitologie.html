@@ -83,7 +83,7 @@ let currentIndex = 0;
 ================================ */
 
 const databaseFetches = COLONNES.map(cle =>
-  fetch(`data/databases_parasitologie/{cle}.json`).then(r => r.json())
+  fetch(`data/databases_parasitologie/${cle}.json`).then(r => r.json())
 );
 
 Promise.all([
