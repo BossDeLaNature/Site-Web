@@ -100,6 +100,32 @@ Promise.all([
   loadQuestion();
 });
 
+
+
+// Gestion des sons avec file d'attente
+const soundQueue = [];
+let isPlaying = false;
+const DELAY = 200; // 0.3 seconde
+
+function playNextSound() {
+  if (soundQueue.length === 0) {
+    isPlaying = false;
+    return;
+  }
+
+  isPlaying = true;
+  const sound = soundQueue.shift();
+  sound.currentTime = 0;
+  sound.play();
+
+  setTimeout(playNextSound, DELAY);
+}
+
+function enqueueSound(sound) {
+  soundQueue.push(sound);
+  if (!isPlaying) playNextSound();
+}
+
 /* ===============================
    AFFICHAGE QUESTION
 ================================ */
@@ -120,7 +146,7 @@ function loadQuestion() {
 
     div.innerHTML = `
       <label class="fw-bold">${cle.replaceAll("_", " ")}</label>
-      <input type="text" class="form-control mt-1" data-cle="${cle}" autocomplete="off">
+      <input type="textarea" class="form-control mt-1" data-cle="${cle}" autocomplete="off">
       <ul class="results-list d-none"></ul>
       <div class="explication d-none">
         <strong>Réponse :</strong> ${espece[cle]}
@@ -173,10 +199,14 @@ document.getElementById("checkBtn").addEventListener("click", () => {
     if (q === reponse) {
       input.classList.add("is-valid");
       input.classList.remove("is-invalid");
+      var audio = new Audio('media/sound/Correct.mp3');
+      enqueueSound(audio);
       bonnes++;
     } else {
       input.classList.add("is-invalid");
       input.classList.remove("is-valid");
+      var audio = new Audio('media/sound/Wrong.mp3');
+      enqueueSound(audio);
     }
   });
 
