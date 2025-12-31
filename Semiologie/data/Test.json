@@ -1,0 +1,19 @@
+[
+  {
+    "titre": "Quelles sont les limites de l'étages antérieur de l'endocrane ? ",
+    "image": "",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "os frontal",
+        "explication": "psk"
+      },
+      {
+        "numero": 2,
+        "correct": "petites ailes du sphénoides",
+        "explication": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WarioWare Quiz QCM</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    body {
+      background: #222;
+      color: white;
+      text-align: center;
+      user-select: none;
+      overflow: hidden;
+    }
+
+    #gameBox {
+      max-width: 600px;
+      margin: auto;
+      margin-top: 40px;
+      padding: 20px;
+      background: #333;
+      border-radius: 15px;
+      box-shadow: 0 0 20px #000;
+    }
+
+    #timerCont {
+      height: 20px;
+      background: #555;
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 20px;
+    }
+
+    #timerBar {
+      height: 100%;
+      background: #0d6efd;
+      width: 100%;
+      transition: width linear;
+    }
+
+    .choiceBtn {
+      transition: transform 0.1s;
+    }
+
+    .choiceBtn:hover {
+      transform: scale(1.05);
+    }
+
+    /* Animation pendant la pause */
+    #pauseScreen {
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.85);
+      justify-content: center;
+      align-items: center;
+      font-size: 3rem;
+      animation: pulse 1s infinite;
+      z-index: 10;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.2); opacity: 1; }
+      100% { transform: scale(1); opacity: 0.8; }
+    }
+
+    #gameOverBox {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+
+<div id="pauseScreen">⚡</div>
+
+<div id="gameBox">
+
+  <h2>⚡ WarioWare – QCM Express</h2>
+  <div id="lives" class="fs-4 mb-3"></div>
+
+  <div id="timerCont">
+    <div id="timerBar"></div>
+  </div>
+
+  <div id="question" class="fs-3 mb-4"></div>
+
+  <div id="choices" class="d-grid gap-3"></div>
+
+  <div id="feedback" class="fs-4 mt-3"></div>
+  <div id="score" class="fs-5 mt-2"></div>
+
+  <div id="gameOverBox">
+    <h3 class="text-warning mt-4">GAME OVER 💀</h3>
+    <div id="finalScore" class="fs-3 mt-3"></div>
+    <button class="btn btn-primary w-100 mt-4" onclick="location.reload()">Rejouer</button>
+  </div>
+
+</div>
+
+<audio id="music" src="https://actions.google.com/sounds/v1/alarms/beep_short.ogg" loop></audio>
+
+<script>
+/* =======================
+      QUESTIONS
+======================= */
+const questions = [
+  {
+    q: "2 + 2 ?",
+    correct: "4",
+    choices: ["3", "4", "5", "22"]
+  },
+  {
+    q: "Couleur du ciel ?",
+    correct: "Bleu",
+    choices: ["Rouge", "Bleu", "Vert", "Orange"]
+  },
+  {
+    q: "3 × 3 ?",
+    correct: "9",
+    choices: ["6", "8", "9", "12"]
+  },
+  {
+    q: "Os du bras ?",
+    correct: "Humérus",
+    choices: ["Sternum", "Tibia", "Humérus", "Fibula"]
+  }
+];
+
+/* =======================
+      VARIABLES
+======================= */
+let index = 0;
+let scoreVal = 0;
+let lives = 3;
+let timerDuration = 4000;
+let timer;
+
+const questionEl = document.getElementById("question");
+const choicesEl = document.getElementById("choices");
+const timerBar = document.getElementById("timerBar");
+const music = document.getElementById("music");
+const feedback = document.getElementById("feedback");
+const scoreEl = document.getElementById("score");
+const livesEl = document.getElementById("lives");
+const pauseScreen = document.getElementById("pauseScreen");
+
+/* =======================
+      START GAME
+======================= */
+startGame();
+
+function startGame() {
+  updateLives();
+  updateScore();
+
+  music.playbackRate = 1;
+  music.volume = 0.4;
+  music.play();
+
+  nextQuestion();
+}
+
+/* =======================
+     PAUSE ANIMATION
+======================= */
+function showPause(callback) {
+  pauseScreen.style.display = "flex";
+  setTimeout(() => {
+    pauseScreen.style.display = "none";
+    callback();
+  }, 1000);
+}
+
+/* =======================
+     LOAD QUESTION
+======================= */
+function nextQuestion() {
+
+  showPause(() => {
+    if (lives <= 0) return gameOver();
+
+    const q = questions[index];
+    questionEl.textContent = q.q;
+    feedback.textContent = "";
+
+    // Mélange des choix
+    const shuffled = [...q.choices].sort(() => Math.random() - 0.5);
+
+    choicesEl.innerHTML = "";
+    shuffled.forEach(choice => {
+      const btn = document.createElement("button");
+      btn.className = "btn btn-lg btn-outline-light choiceBtn";
+      btn.textContent = choice;
+      btn.onclick = () => checkAnswer(choice);
+      choicesEl.appendChild(btn);
+    });
+
+    startTimer();
+
+    // accélération progressive
+    timerDuration *= 0.93;
+    music.playbackRate *= 1.05;
+
+    index = (index + 1) % questions.length;
+  });
+}
+
+/* =======================
+        TIMER
+======================= */
+function startTimer() {
+  clearTimeout(timer);
+
+  timerBar.style.transitionDuration = timerDuration + "ms";
+  timerBar.style.width = "100%";
+
+  setTimeout(() => {
+    timerBar.style.width = "0%";
+  }, 20);
+
+  timer = setTimeout(() => {
+    loseLife();
+  }, timerDuration);
+}
+
+/* =======================
+    CHECK ANSWER
+======================= */
+function checkAnswer(choice) {
+  const correct = questions[index - 1 < 0 ? questions.length - 1 : index - 1].correct;
+
+  if (choice.toLowerCase() === correct.toLowerCase()) {
+    scoreVal++;
+    updateScore();
+    feedback.textContent = "✔️ Correct !";
+    nextQuestion();
+  } else {
+    loseLife();
+  }
+}
+
+/* =======================
+        LOSE LIFE
+======================= */
+function loseLife() {
+  lives--;
+  updateLives();
+
+  feedback.textContent = "❌ Faux ou trop lent !";
+
+  if (lives <= 0) {
+    gameOver();
+  } else {
+    nextQuestion();
+  }
+}
+
+/* =======================
+       UI UPDATES
+======================= */
+function updateLives() {
+  livesEl.textContent = "❤️".repeat(lives);
+}
+
+function updateScore() {
+  scoreEl.textContent = "Score : " + scoreVal;
+}
+
+/* =======================
+        GAME OVER
+======================= */
+function gameOver() {
+  clearTimeout(timer);
+  music.pause();
+
+  questionEl.style.display = "none";
+  choicesEl.style.display = "none";
+  document.getElementById("timerCont").style.display = "none";
+
+  document.getElementById("gameOverBox").style.display = "block";
+  document.getElementById("finalScore").textContent =
+    "Score final : " + scoreVal;
+}
+</script>
+
+</body>
+</html>

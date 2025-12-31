@@ -1,0 +1,46 @@
+[
+  {
+    "titre": "Quelles sont les limites de l'etage antérieur de l'endocrane",
+    "image": "",
+    "ordre": false,
+    "reponses": [
+      { "numero": 1, "correct": "Os frontal", "explication": "En avant et latéralement" },
+      { "numero": 2, "correct": "Gain de poids", "explication": "" },
+      { "numero": 3, "correct": "Perte de poids", "explication": "" },
+      { "numero": 4, "correct": "La fièvre", "explication": "" },
+      { "numero": 5, "correct": "Les céphalées", "explication": "" },
+      { "numero": 6, "correct": "L'hypertension artérielle", "explication": "" },
+      { "numero": 7, "correct": "L'hypotension artérielle", "explication": "" }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les manifestations associées pour juger d'une origine psychologique à l'asthénie ?",
+    "image": "",
+    "ordre": false,
+    "reponses": [
+      { "numero": 1, "correct": "Insomnie", "explication": "Réveil précoce" },
+      { "numero": 2, "correct": "Perte de libido", "explication": "Modification du désir sexuelle" },
+      { "numero": 3, "correct": "Trouble de concentration", "explication": "" },
+      { "numero": 4, "correct": "Troubles de mémoire", "explication": "La dépression s'accompagnant de fatigue est un diagnostic différentiel de la démence" },
+      { "numero": 5, "correct": "Manque d'élan vital", "explication": "" },
+      { "numero": 6, "correct": "Absence d'altération de l'état général", "explication": "" }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les causes générales organiques à l'asthénie ?",
+    "image": "",
+    "ordre": false,
+    "reponses": [
+      { "numero": 1, "correct": "Hypoxémiques", "explication": "Tout ce qui diminue l'apport d'O2/oxygénations vers les tissus périphériques (peut venir d'une insuffisance cardiaque)" },
+      { "numero": 2, "correct": "Métaboliques", "explication": "" },
+      { "numero": 3, "correct": "Endocrinologiques", "explication": "" },
+      { "numero": 4, "correct": "Carentielles", "explication": "Carence en fer peut apporter fatigue avant même que l'anémie soit détectée" },
+      { "numero": 5, "correct": "Infectieuses", "explication": "toute infection aiguë, hépatite viral, mononucléose" },
+      { "numero": 6, "correct": "Inflammatoires", "explication": "Vasculite, maladies granulomateuses" },
+      { "numero": 7, "correct": "Néoplasiques", "explication": "La fatigue est un signe précoce des cancers généralisés (mais accompagnés d'autres manifestations)" },
+      { "numero": 8, "correct": "Hématologiques", "explication": "Anémie, hémopathies..." },
+      { "numero": 9, "correct": "Médicamenteuse", "explication": "La fatigue est un signe précoce des cancers généralisés (mais accompagnés d'autres manifestations)" }
+    ]
+  }
+
+]
