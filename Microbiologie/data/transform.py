@@ -47,20 +47,20 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Mapping colonnes Excel -> noms de fichiers JSON
 columns_map = {
-    "Espèce": "especes",
-    "Maladie": "maladies",
+    "Espèce": "espece",
+    "Maladie": "maladie",
     "Répartition (Lieu)": "repartition",
-    "Réservoir": "reservoirs",
+    "Réservoir": "reservoir",
     "Caractéristiques": "caracteristiques",
     "Localisation": "localisation",
-    "Cycle (monoxène ou dixène)": "types_cycle",
+    "Cycle (monoxène ou dixène)": "cycle_type",
     "Cycle chez l'homme": "cycle_homme",
     "Cycle chez le vecteur (mettre / si pas de cycle)": "cycle_vecteur",
     "Mode de contamination": "mode_contamination",
     "Manifestations cliniques": "manifestations_cliniques",
     "Diagnostique": "diagnostic",
     "Traitement/Prophylaxie": "traitement",
-    "Image": "images"
+    "Image": "image"
 }
 
 for excel_col, json_name in columns_map.items():
