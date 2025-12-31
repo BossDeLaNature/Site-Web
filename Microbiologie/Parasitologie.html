@@ -99,20 +99,6 @@ let tableData = [];
 let databases = {};
 let currentIndex = 0;
 
-const progressBar = document.getElementById("progressBar");
-const progressText = document.getElementById("progressText");
-const questionSelect = document.getElementById("questionSelect");
-const quizImage = document.getElementById("quizImage");
-const quizForm = document.getElementById("quizForm");
-const feedback = document.getElementById("feedback");
-const title = document.getElementById("questionTitle");
-const checkBtn = document.getElementById("checkBtn");
-const showBtn = document.getElementById("showExplanations");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
-const progressBar = document.getElementById("progressBar");
-const progressText = document.getElementById("progressText");
-const questionSelect = document.getElementById("questionSelect");
 
 
 /* ===============================
@@ -132,6 +118,10 @@ Promise.all([
   loadQuestion();
 });
 
+const progressBar = document.getElementById("progressBar");
+const progressText = document.getElementById("progressText");
+const questionSelect = document.getElementById("questionSelect");
+const prevBtn = document.getElementById("prevBtn");
 
 
 // Gestion des sons avec file d'attente
@@ -170,7 +160,7 @@ function autoResizeTextarea(textarea) {
 
 // === Barre de progression ===
 function updateProgress() {
-  const total = quizData.length;
+  const total = tableData.length;
   const progress = ((currentIndex + 1) / total) * 100;
   progressBar.style.width = `${progress}%`;
   progressBar.textContent = `${Math.round(progress)}%`;
@@ -274,20 +264,18 @@ document.getElementById("checkBtn").addEventListener("click", () => {
     </div>
   `;
   document.getElementById("showBtn").classList.remove("d-none");
-  // Affiche le bouton pour passer à la question suivante
-  const nextBtn = document.getElementById("nextBtn");
 });
 
 // === Navigation ===
 prevBtn.addEventListener("click", () => {
   if (currentIndex > 0) {
     currentIndex--;
-    loadQuestion(currentIndex);
+    loadQuestion();
   }
 });
 questionSelect.addEventListener("change", () => {
   currentIndex = parseInt(questionSelect.value);
-  loadQuestion(currentIndex);
+  loadQuestion();
 });
 
 
