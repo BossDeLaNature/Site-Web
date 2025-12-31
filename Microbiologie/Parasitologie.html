@@ -146,14 +146,14 @@ function loadQuestion() {
 
     div.innerHTML = `
       <label class="fw-bold">${cle.replaceAll("_", " ")}</label>
-      <input type="text" class="form-control mt-1" data-cle="${cle}" autocomplete="off">
+      <textarea class="form-control mt-1" data-cle="${cle}" autocomplete="off"></textarea>
       <ul class="results-list d-none"></ul>
       <div class="explication d-none">
         <strong>Réponse :</strong> ${espece[cle]}
       </div>
     `;
 
-    const input = div.querySelector("input");
+    const input = div.querySelector("textarea");
     const list = div.querySelector("ul");
     const db = databases[cle];
 
@@ -198,7 +198,7 @@ function normalizeString(str) {
 
 document.getElementById("checkBtn").addEventListener("click", () => {
   const espece = tableData[currentIndex];
-  const inputs = document.querySelectorAll("#quizForm input");
+  const inputs = document.querySelectorAll("#quizForm textarea");
   let bonnes = 0;
 
   inputs.forEach(input => {
