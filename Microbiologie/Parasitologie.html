@@ -168,7 +168,9 @@ document.getElementById("checkBtn").addEventListener("click", () => {
 
   inputs.forEach(input => {
     const cle = input.dataset.cle;
-    if (input.value.trim().toLowerCase() === espece[cle].trim().toLowerCase()) {
+    const q = input.value.toLowerCase().trim().replace(/\r\n/g, '\n');
+    const reponse = espece[cle].toLowerCase().trim().replace(/\r\n/g, '\n');
+    if (q === reponse) {
       input.classList.add("is-valid");
       input.classList.remove("is-invalid");
       bonnes++;
