@@ -146,7 +146,7 @@ function loadQuestion() {
 
     div.innerHTML = `
       <label class="fw-bold">${cle.replaceAll("_", " ")}</label>
-      <input type="textarea" class="form-control mt-1" data-cle="${cle}" autocomplete="off">
+      <input type="text" class="form-control mt-1" data-cle="${cle}" autocomplete="off">
       <ul class="results-list d-none"></ul>
       <div class="explication d-none">
         <strong>Réponse :</strong> ${espece[cle]}
@@ -186,6 +186,15 @@ function loadQuestion() {
 /* ===============================
    CORRECTION
 ================================ */
+function normalizeString(str) {
+  return str
+    .replace(/\r\n/g, '\n') // Windows -> Unix
+    .replace(/\r/g, '\n')   // macOS ancien -> Unix
+    .split('\n')             // découpe en lignes
+    .map(line => line.trim())// enlève les espaces début/fin de chaque ligne
+    .join('\n')              // reconstitue la chaîne
+    .toLowerCase();          // ignore la casse
+}
 
 document.getElementById("checkBtn").addEventListener("click", () => {
   const espece = tableData[currentIndex];
@@ -194,8 +203,8 @@ document.getElementById("checkBtn").addEventListener("click", () => {
 
   inputs.forEach(input => {
     const cle = input.dataset.cle;
-    const q = input.value.toLowerCase().trim().replace('\n','');
-    const reponse = espece[cle].toLowerCase().trim().replace('\n','');
+    const q = normalizeString(input.value);
+    const reponse = normalizeString(espece[cle]);
     if (q === reponse) {
       input.classList.add("is-valid");
       input.classList.remove("is-invalid");
