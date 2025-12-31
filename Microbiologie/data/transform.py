@@ -42,7 +42,7 @@ df = pd.read_excel("Parasitologie.xlsx")
 df = df.fillna("")
 
 # Dossier de sortie
-OUTPUT_DIR = "databases"
+OUTPUT_DIR = "databases_parasitologie"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Mapping colonnes Excel -> noms de fichiers JSON
