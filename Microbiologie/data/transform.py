@@ -11,20 +11,20 @@ parasites = []
 
 for _, row in df.iterrows():
     parasites.append({
-        "espece": row["Espèce"],
-        "maladie": row["Maladie"],
-        "repartition": row["Répartition (Lieu)"],
-        "reservoir": row["Réservoir"],
-        "caracteristiques": row["Caractéristiques"],
-        "localisation": row["Localisation"],
-        "cycle_type": row["Cycle (monoxène ou dixène)"],
-        "cycle_homme": row["Cycle chez l'homme"],
-        "cycle_vecteur": row["Cycle chez le vecteur (mettre / si pas de cycle)"],
-        "mode_contamination": row["Mode de contamination"],
-        "manifestations_cliniques": row["Manifestations cliniques"],
-        "diagnostic": row["Diagnostique"],
-        "traitement": row["Traitement/Prophylaxie"],
-        "image": row["Image"]
+        "Espece": row["Espèce"],
+        "Maladie": row["Maladie"],
+        "Repartition": row["Répartition (Lieu)"],
+        "Reservoir": row["Réservoir"],
+        "Caracteristiques": row["Caractéristiques"],
+        "Localisation": row["Localisation"],
+        "Cycle_type": row["Cycle (monoxène ou dixène)"],
+        "Cycle_homme": row["Cycle chez l'homme"],
+        "Cycle_vecteur": row["Cycle chez le vecteur (mettre / si pas de cycle)"],
+        "Mode_contamination": row["Mode de contamination"],
+        "Manifestations_cliniques": row["Manifestations cliniques"],
+        "Diagnostic": row["Diagnostique"],
+        "Traitement": row["Traitement/Prophylaxie"],
+        "Image": row["Image"]
     })
 
 # Sauvegarde en JSON
@@ -47,20 +47,20 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Mapping colonnes Excel -> noms de fichiers JSON
 columns_map = {
-    "Espèce": "espece",
-    "Maladie": "maladie",
-    "Répartition (Lieu)": "repartition",
-    "Réservoir": "reservoir",
-    "Caractéristiques": "caracteristiques",
-    "Localisation": "localisation",
-    "Cycle (monoxène ou dixène)": "cycle_type",
-    "Cycle chez l'homme": "cycle_homme",
-    "Cycle chez le vecteur (mettre / si pas de cycle)": "cycle_vecteur",
-    "Mode de contamination": "mode_contamination",
-    "Manifestations cliniques": "manifestations_cliniques",
-    "Diagnostique": "diagnostic",
-    "Traitement/Prophylaxie": "traitement",
-    "Image": "image"
+    "Espèce": "Espece",
+    "Maladie": "Maladie",
+    "Répartition (Lieu)": "Repartition",
+    "Réservoir": "Reservoir",
+    "Caractéristiques": "Caracteristiques",
+    "Localisation": "Localisation",
+    "Cycle (monoxène ou dixène)": "Cycle_type",
+    "Cycle chez l'homme": "Cycle_homme",
+    "Cycle chez le vecteur (mettre / si pas de cycle)": "Cycle_vecteur",
+    "Mode de contamination": "Mode_contamination",
+    "Manifestations cliniques": "Manifestations_cliniques",
+    "Diagnostique": "Diagnostic",
+    "Traitement/Prophylaxie": "Traitement",
+    "Image": "Image"
 }
 
 for excel_col, json_name in columns_map.items():
