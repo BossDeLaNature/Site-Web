@@ -19,13 +19,17 @@
       border: 1px solid #ccc;
       border-top: none;
       border-radius: 0 0 .5rem .5rem;
+      white-space: pre-wrap;
     }
     .results-list li {
       padding: 6px 10px;
       cursor: pointer;
+
+      white-space: pre-wrap;
     }
     .results-list li:hover {
       background-color: #f1f1f1;
+      white-space: pre-wrap;
     }
     .explication {
       font-size: 0.9rem;
@@ -164,7 +168,7 @@ document.getElementById("checkBtn").addEventListener("click", () => {
 
   inputs.forEach(input => {
     const cle = input.dataset.cle;
-    if (input.value.trim().toLowerCase() === espece[cle].toLowerCase()) {
+    if (input.value.trim().toLowerCase() === espece[cle].trim().toLowerCase()) {
       input.classList.add("is-valid");
       input.classList.remove("is-invalid");
       bonnes++;
