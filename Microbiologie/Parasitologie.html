@@ -87,7 +87,7 @@ const databaseFetches = COLONNES.map(cle =>
 );
 
 Promise.all([
-  fetch("data/table.json").then(r => r.json()),
+  fetch("data/parasitologie.json").then(r => r.json()),
   ...databaseFetches
 ]).then(([table, ...dbs]) => {
   tableData = table;
