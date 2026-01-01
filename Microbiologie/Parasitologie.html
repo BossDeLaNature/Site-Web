@@ -165,18 +165,6 @@ function autoResizeTextarea(textarea) {
 
 
 
-    document.getElementById("questionSelect").addEventListener('click', () => {
-      questionSelect.innerHTML = ''
-      tableData.forEach((q, i) => {
-        const opt = document.createElement("option");
-        opt.value = i;
-        opt.textContent = `Question ${i + 1} – ${q.titre}`;
-        questionSelect.appendChild(opt);
-      });
-
-
-    });
-
 
 
 
@@ -197,7 +185,7 @@ function loadQuestion() {
   tableData.forEach((q, i) => {
     const opt = document.createElement("option");
     opt.value = i;
-    opt.textContent = `Question ${i + 1} – ${q.titre}`;
+    opt.textContent = `Question ${i + 1} – ${q.Espece}`;
     questionSelect.appendChild(opt);
   });
   const espece = tableData[currentIndex];
@@ -321,10 +309,6 @@ document.getElementById("nextBtn").addEventListener("click", () => {
   loadQuestion(); // recharge la nouvelle question
 });
 
-questionSelect.addEventListener("change", () => {
-  currentIndex = parseInt(questionSelect.value);
-  loadQuestion(currentIndex);
-});
 
 
 /* ===============================
