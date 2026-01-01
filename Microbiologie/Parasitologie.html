@@ -74,6 +74,7 @@
     <button id="prevBtn" class="btn btn-outline-secondary">⬅️ Précédente</button>
     <button id="checkBtn" class="btn btn-primary">Vérifier</button>
     <button id="showBtn" class="btn btn-outline-info d-none">Afficher les réponses</button>
+    <button id="randomBtn" class="btn btn-outline-warning">🎲 Question au hasard</button>
     <button id="nextBtn" class="btn btn-outline-secondary">Suivante ➡️</button>
   </div>
 
@@ -285,6 +286,20 @@ document.getElementById("checkBtn").addEventListener("click", () => {
     </div>
   `;
   document.getElementById("showBtn").classList.remove("d-none");
+
+
+  if (bonnes == 0){
+    var audio = new Audio('media/sound/Wario_laugh.mp3');
+    enqueueSound(audio);
+  }
+  if (bonnes ==12){
+    var audio = new Audio('media/sound/Yosha.mp3');
+    enqueueSound(audio);
+  }
+
+
+
+
 });
 
 // === Navigation ===
@@ -318,6 +333,13 @@ document.getElementById("nextBtn").addEventListener("click", () => {
 document.getElementById("showBtn").addEventListener("click", () => {
   document.querySelectorAll(".explication")
     .forEach(e => e.classList.toggle("d-none"));
+});
+
+document.getElementById("randomBtn").addEventListener("click", () => {
+  const total = tableData.length;
+  const randomIndex = Math.floor(Math.random() * total);
+  currentIndex = randomIndex;
+  loadQuestion();
 });
 </script>
 
