@@ -30,5 +30,53 @@
     "Diagnostic": "Recherche de trophozoite/forme flagellée dans le LCR",
     "Traitement": "/",
     "Image": ""
+  },
+  {
+    "Espece": "test1",
+    "Maladie": "",
+    "Repartition": "",
+    "Reservoir": "",
+    "Caracteristiques": "",
+    "Localisation": "",
+    "Cycle_type": "",
+    "Cycle_homme": "",
+    "Cycle_vecteur": "",
+    "Mode_contamination": "",
+    "Manifestations_cliniques": "",
+    "Diagnostic": "",
+    "Traitement": "",
+    "Image": ""
+  },
+  {
+    "Espece": "test2",
+    "Maladie": "",
+    "Repartition": "",
+    "Reservoir": "",
+    "Caracteristiques": "",
+    "Localisation": "",
+    "Cycle_type": "",
+    "Cycle_homme": "",
+    "Cycle_vecteur": "",
+    "Mode_contamination": "",
+    "Manifestations_cliniques": "",
+    "Diagnostic": "",
+    "Traitement": "",
+    "Image": ""
+  },
+  {
+    "Espece": "test3",
+    "Maladie": "",
+    "Repartition": "",
+    "Reservoir": "",
+    "Caracteristiques": "",
+    "Localisation": "",
+    "Cycle_type": "",
+    "Cycle_homme": "",
+    "Cycle_vecteur": "",
+    "Mode_contamination": "",
+    "Manifestations_cliniques": "",
+    "Diagnostic": "",
+    "Traitement": "",
+    "Image": ""
   }
 ]
