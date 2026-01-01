@@ -226,9 +226,6 @@ function loadQuestion() {
     form.appendChild(div);
   });
   // Mise à jour des contrôles
-  prevBtn.disabled = currentIndex === 0;
-  nextBtn.disabled = currentIndex === quizData.length - 1;
-  questionSelect.value = currentIndex;
   updateProgress();
 }
 
