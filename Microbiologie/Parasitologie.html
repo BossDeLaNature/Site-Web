@@ -80,6 +80,9 @@
 
   <div id="feedback" class="mt-4"></div>
 </div>
+<footer>
+  <p> Vous pouvez laisser les réponses vides</p>
+</footer>
 
 <script>
 /* ===============================
@@ -181,12 +184,33 @@ function updateProgress() {
 }
 
 
+function fillResultsList(list, input, values) {
+  list.innerHTML = "";
+
+  values.forEach(v => {
+    const li = document.createElement("li");
+    li.textContent = v;
+    li.classList.add("list-group-item");
+
+    li.onclick = () => {
+      input.value = v;
+      list.classList.add("d-none");
+      autoResizeTextarea(input);
+    };
+
+    list.appendChild(li);
+  });
+
+  list.classList.remove("d-none");
+}
+
+
 function loadQuestion() {
   questionSelect.innerHTML = ''
   tableData.forEach((q, i) => {
     const opt = document.createElement("option");
     opt.value = i;
-    opt.textContent = `Question ${i + 1} – ${q.Espece}`;
+    opt.textContent = `${q.Espece}`;
     questionSelect.appendChild(opt);
   });
   const espece = tableData[currentIndex];
@@ -215,24 +239,26 @@ function loadQuestion() {
     const list = div.querySelector("ul");
     const db = databases[cle];
 
-    input.addEventListener("input", () => {
-      const q = input.value.toLowerCase().trim();
-      list.innerHTML = "";
-      if (!q) return list.classList.add("d-none");
-
-      db.filter(v => v.toLowerCase().includes(q)).forEach(v => {
-        const li = document.createElement("li");
-        li.textContent = v;
-        li.onclick = () => {
-          input.value = v;
-          list.classList.add("d-none");
-          autoResizeTextarea(input); // ajuste la hauteur automatiquement
-        };
-        list.appendChild(li);
+      input.addEventListener("focus", () => {
+        if (!db || db.length === 0) return;
+        fillResultsList(list, input, db);
       });
 
-      list.classList.remove("d-none");
-    });
+      
+      input.addEventListener("input", () => {
+        const q = input.value.toLowerCase().trim();
+
+        if (!q) {
+          fillResultsList(list, input, db);
+          return;
+        }
+
+        const filtered = db.filter(v =>
+          v.toLowerCase().includes(q)
+        );
+
+        fillResultsList(list, input, filtered);
+      });
 
     document.addEventListener("click", e => {
       if (!e.target.closest(".position-relative")) list.classList.add("d-none");
@@ -344,4 +370,5 @@ document.getElementById("randomBtn").addEventListener("click", () => {
 </script>
 
 </body>
+
 </html>
