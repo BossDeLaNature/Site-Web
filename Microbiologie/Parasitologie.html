@@ -24,11 +24,10 @@
       padding-left: 1.5rem;
     }
     .results-list li {
+      display: list-item
       padding: 6px 10px;
       cursor: pointer;
       list-style-position: outside;
-
-
       white-space: pre-wrap;
     }
     .results-list li:hover {
@@ -194,7 +193,6 @@ function fillResultsList(list, input, values) {
   values.forEach(v => {
     const li = document.createElement("li");
     li.textContent = v;
-    li.classList.add("list-group-item");
 
     li.onclick = () => {
       input.value = v;
