@@ -163,6 +163,25 @@ function autoResizeTextarea(textarea) {
 }
 
 
+
+
+    document.getElementById("questionSelect").addEventListener('click', () => {
+      questionSelect.innerHTML = ''
+      tableData.forEach((q, i) => {
+        const opt = document.createElement("option");
+        opt.value = i;
+        opt.textContent = `Question ${i + 1} – ${q.titre}`;
+        questionSelect.appendChild(opt);
+      });
+
+
+    });
+
+
+
+
+
+
 // === Barre de progression ===
 function updateProgress() {
   const total = tableData.length;
@@ -174,6 +193,13 @@ function updateProgress() {
 
 
 function loadQuestion() {
+  questionSelect.innerHTML = ''
+  tableData.forEach((q, i) => {
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.textContent = `Question ${i + 1} – ${q.titre}`;
+    questionSelect.appendChild(opt);
+  });
   const espece = tableData[currentIndex];
   document.getElementById("questionTitle").textContent = espece.Espece;
 
@@ -293,6 +319,11 @@ document.getElementById("nextBtn").addEventListener("click", () => {
     currentIndex = 0; // ou bloquer ici si tu veux
   }
   loadQuestion(); // recharge la nouvelle question
+});
+
+questionSelect.addEventListener("change", () => {
+  currentIndex = parseInt(questionSelect.value);
+  loadQuestion(currentIndex);
 });
 
 
