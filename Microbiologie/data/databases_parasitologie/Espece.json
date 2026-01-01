@@ -1,7 +1,19 @@
 [
+  "Acanthamoeba spp",
+  "Cryptosporidium parvum\nCryptosporidium hominis",
+  "Cyclospora cayetanensis\nIsospora belli",
+  "Dientamoeba fragilis\nChilomastix mesnili\nEnteromonas hominis\nEmbadomonas intestinalis\nTrichomonas tenax",
   "Entamoeba histolytica",
+  "Giardia intestinalis",
   "Naegleria fowleri",
-  "test1",
-  "test2",
-  "test3"
+  "Plasmodium Falciparum",
+  "Plasmodium Knowlesi (pareil que precedent juste déterminer Répartition)",
+  "Plasmodium Malarie (pareil que precedent juste déterminer Répartition)",
+  "Plasmodium Ovale (pareil que precedent juste déterminer Répartition)",
+  "Plasmodium Vivax (pareil que precedent juste déterminer Répartition)",
+  "Toxoplasma gondii",
+  "Trichomonas intestinalis",
+  "Trichomonas vaginalis",
+  "Trypanosoma brucei gambiense",
+  "Trypanosoma brucei rhodensiense"
 ]
