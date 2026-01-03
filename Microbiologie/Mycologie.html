@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz – Mycologie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    body { background-color: #f8f9fa; }
+    .results-list {
+      position: absolute;
+      z-index: 1000;
+      width: 100%;
+      max-height: 150px;
+      overflow-y: auto;
+      background: white;
+      border: 1px solid #ccc;
+      border-top: none;
+      border-radius: 0 0 .5rem .5rem;
+      white-space: pre-wrap;
+      list-style-type: disc;
+      padding-left: 1.5rem;
+    }
+    .results-list li {
+      display: list-item
+      padding: 6px 10px;
+      cursor: pointer;
+      list-style-position: outside;
+      white-space: pre-wrap;
+    }
+    .results-list li:hover {
+      background-color: #f1f1f1;
+      white-space: pre-wrap;
+    }
+    .explication {
+      font-size: 0.9rem;
+      margin-top: 0.3rem;
+      border-left: 3px solid #0d6efd;
+      padding-left: 0.5rem;
+      color: #555;
+      white-space: pre-wrap;
+    }
+    textarea.form-control {
+  overflow-y: hidden;
+  resize: none;
+  min-height: 40px; /* optionnel : hauteur minimale */
+}
+  </style>
+</head>
+
+<body class="p-4">
+
+<div class="container">
+  <h2 class="text-center mb-4">🦠 Quiz de Mycolologie</h2>
+  <!-- Barre de progression -->
+  <div class="d-flex justify-content-between align-items-center mb-2">
+    <div id="progressText" class="fw-bold">Question 1 / 2</div>
+    <select id="questionSelect" class="form-select w-auto">
+      <!-- Options ajoutées dynamiquement -->
+    </select>
+  </div>
+
+  <div class="progress mb-4" style="height: 20px;">
+    <div id="progressBar" class="progress-bar" role="progressbar" style="width: 0%">0%</div>
+  </div>
+
+  <!-- Image -->
+  <img id="quizImage" src="" alt="" class="img-fluid mb-4 rounded shadow" style="max-width: 600px;">
+
+  <div id="questionTitle" class="fs-4 fw-bold text-center mb-4"></div>
+
+  <form id="quizForm" class="mx-auto" style="max-width: 700px;"></form>
+
+  <div class="text-center mt-3">
+    <button id="prevBtn" class="btn btn-outline-secondary">⬅️ Précédente</button>
+    <button id="checkBtn" class="btn btn-primary">Vérifier</button>
+    <button id="showBtn" class="btn btn-outline-info d-none">Afficher les réponses</button>
+    <button id="randomBtn" class="btn btn-outline-warning">🎲 Question au hasard</button>
+    <button id="nextBtn" class="btn btn-outline-secondary">Suivante ➡️</button>
+  </div>
+
+  <div id="feedback" class="mt-4"></div>
+</div>
+<footer>
+  <p> Vous pouvez laisser les réponses vides</p>
+</footer>
+
+<script>
+/* ===============================
+   CONFIG
+================================ */
+
+const COLONNES = [
+  "Maladie",
+  "Caracteristiques",
+  "Manifestations_cliniques",
+  "Diagnostic",
+  "Traitement"
+];
+
+let tableData = [];
+let databases = {};
+let currentIndex = 0;
+
+
+
+/* ===============================
+   CHARGEMENT DES DONNÉES
+================================ */
+
+const databaseFetches = COLONNES.map(cle =>
+  fetch(`data/databases_mycologie/${cle}.json`).then(r => r.json())
+);
+
+Promise.all([
+  fetch("data/mycologie.json").then(r => r.json()),
+  ...databaseFetches
+]).then(([table, ...dbs]) => {
+  tableData = table;
+  COLONNES.forEach((cle, i) => databases[cle] = dbs[i]);
+  loadQuestion();
+});
+
+const progressBar = document.getElementById("progressBar");
+const progressText = document.getElementById("progressText");
+const questionSelect = document.getElementById("questionSelect");
+const prevBtn = document.getElementById("prevBtn");
+
+
+// Gestion des sons avec file d'attente
+const soundQueue = [];
+let isPlaying = false;
+const DELAY = 200; // 0.3 seconde
+
+function playNextSound() {
+  if (soundQueue.length === 0) {
+    isPlaying = false;
+    return;
+  }
+
+  isPlaying = true;
+  const sound = soundQueue.shift();
+  sound.currentTime = 0;
+  sound.play();
+
+  setTimeout(playNextSound, DELAY);
+}
+
+function enqueueSound(sound) {
+  soundQueue.push(sound);
+  if (!isPlaying) playNextSound();
+}
+
+/* ===============================
+   AFFICHAGE QUESTION
+================================ */
+
+function autoResizeTextarea(textarea) {
+  textarea.style.height = 'auto';                    // réinitialise la hauteur
+  textarea.style.height = textarea.scrollHeight + 'px'; // adapte à la hauteur du texte
+}
+
+
+
+
+
+
+
+
+
+// === Barre de progression ===
+function updateProgress() {
+  const total = tableData.length;
+  const progress = ((currentIndex + 1) / total) * 100;
+  progressBar.style.width = `${progress}%`;
+  progressBar.textContent = `${Math.round(progress)}%`;
+  progressText.textContent = `Question ${currentIndex + 1} / ${total}`;
+}
+
+
+function fillResultsList(list, input, values) {
+  list.innerHTML = "";
+
+  values.forEach(v => {
+    const li = document.createElement("li");
+    li.textContent = v;
+
+    li.onclick = () => {
+      input.value = v;
+      list.classList.add("d-none");
+      autoResizeTextarea(input);
+    };
+
+    list.appendChild(li);
+  });
+
+  list.classList.remove("d-none");
+}
+
+
+function loadQuestion() {
+  questionSelect.innerHTML = ''
+  tableData.forEach((q, i) => {
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.textContent = `${q.Espece}`;
+    questionSelect.appendChild(opt);
+  });
+  const espece = tableData[currentIndex];
+  document.getElementById("questionTitle").textContent = espece.Espece;
+
+  const form = document.getElementById("quizForm");
+  const feedback = document.getElementById("feedback");
+  form.innerHTML = "";
+  feedback.innerHTML = "";
+  document.getElementById("showBtn").classList.add("d-none");
+
+  COLONNES.forEach(cle => {
+    const div = document.createElement("div");
+    div.className = "mb-3 position-relative";
+
+    div.innerHTML = `
+      <label class="fw-bold">${cle.replaceAll("_", " ")}</label>
+      <textarea class="form-control mt-1" spellcheck="false" data-cle="${cle}" autocomplete="off"></textarea>
+      <ul class="results-list d-none"></ul>
+      <div class="explication d-none">
+        <strong>Réponse :</strong> ${espece[cle]}
+      </div>
+    `;
+
+    const input = div.querySelector("textarea");
+    const list = div.querySelector("ul");
+    const db = databases[cle];
+
+      input.addEventListener("focus", () => {
+        if (!db || db.length === 0) return;
+        fillResultsList(list, input, db);
+      });
+
+
+      input.addEventListener("input", () => {
+        const q = input.value.toLowerCase().trim();
+
+        if (!q) {
+          fillResultsList(list, input, db);
+          return;
+        }
+
+        const filtered = db.filter(v =>
+          v.toLowerCase().includes(q)
+        );
+
+        fillResultsList(list, input, filtered);
+      });
+
+    document.addEventListener("click", e => {
+      if (!e.target.closest(".position-relative")) list.classList.add("d-none");
+    });
+
+    form.appendChild(div);
+  });
+  // Mise à jour des contrôles
+  updateProgress();
+}
+
+/* ===============================
+   CORRECTION
+================================ */
+function normalizeString(str) {
+  return str
+    .replace(/\r\n/g, '\n') // Windows -> Unix
+    .replace(/\r/g, '\n')   // macOS ancien -> Unix
+    .split('\n')             // découpe en lignes
+    .map(line => line.trim())// enlève les espaces début/fin de chaque ligne
+    .join('\n')              // reconstitue la chaîne
+    .toLowerCase();          // ignore la casse
+}
+
+document.getElementById("checkBtn").addEventListener("click", () => {
+  const espece = tableData[currentIndex];
+  const inputs = document.querySelectorAll("#quizForm textarea");
+  let bonnes = 0;
+
+  inputs.forEach(input => {
+    const cle = input.dataset.cle;
+    const q = normalizeString(input.value);
+    const reponse = normalizeString(espece[cle]);
+    if (q === reponse) {
+      input.classList.add("is-valid");
+      input.classList.remove("is-invalid");
+      var audio = new Audio('media/sound/Correct.mp3');
+      enqueueSound(audio);
+      bonnes++;
+    } else {
+      input.classList.add("is-invalid");
+      input.classList.remove("is-valid");
+      var audio = new Audio('media/sound/Wrong.mp3');
+      enqueueSound(audio);
+    }
+  });
+
+  document.getElementById("feedback").innerHTML = `
+    <div class="alert alert-info">
+      ${bonnes} / ${inputs.length} bonnes réponses
+    </div>
+  `;
+  document.getElementById("showBtn").classList.remove("d-none");
+
+
+  if (bonnes == 0){
+    var audio = new Audio('media/sound/Wario_laugh.mp3');
+    enqueueSound(audio);
+  }
+  if (bonnes ==5){
+    var audio = new Audio('media/sound/Yosha.mp3');
+    enqueueSound(audio);
+  }
+
+
+
+
+});
+
+// === Navigation ===
+prevBtn.addEventListener("click", () => {
+  if (currentIndex > 0) {
+    currentIndex--;
+    loadQuestion();
+  }
+});
+questionSelect.addEventListener("change", () => {
+  currentIndex = parseInt(questionSelect.value);
+  loadQuestion();
+});
+
+
+document.getElementById("nextBtn").addEventListener("click", () => {
+  currentIndex++;
+  if (currentIndex >= tableData.length) {
+    alert("Quiz terminé !");
+    currentIndex = 0; // ou bloquer ici si tu veux
+  }
+  loadQuestion(); // recharge la nouvelle question
+});
+
+
+
+/* ===============================
+   AFFICHER RÉPONSES
+================================ */
+
+document.getElementById("showBtn").addEventListener("click", () => {
+  document.querySelectorAll(".explication")
+    .forEach(e => e.classList.toggle("d-none"));
+});
+
+document.getElementById("randomBtn").addEventListener("click", () => {
+  const total = tableData.length;
+  const randomIndex = Math.floor(Math.random() * total);
+  currentIndex = randomIndex;
+  loadQuestion();
+});
+</script>
+
+</body>
+
+</html>

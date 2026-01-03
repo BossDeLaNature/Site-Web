@@ -1,0 +1,83 @@
+[
+  {
+    "Espece": "Histoplasma capsulatum",
+    "Maladie": "Histoplasmose américaine",
+    "Caracteristiques": "Ascomycète saprophyte ; forme filamenteuse se multiplie dans sol contaminé par des déjections d’oiseaux et de chauve-souris.\n\nContamination : inhalation de spores (spéléologie, greniers, caves) qui se multiplient sous forme levure IC dans les macrophages.\n\nChez hôte immunocompétent et hôte immunodéprimé.",
+    "Manifestations_cliniques": "Forme asymt : + fréquente, décelée par test cutané à histoplasmine + nodules pulm visibles à radiographie\n\nForme pulmonaire bénigne : fièvre, toux, d+ thoraciques, nodule pulm à radiographie, persistance calcifications\n\nFormes disséminées : patients atteints SISA ou recevant traitement par Ac anti-TNF : fièvre élevée, infiltration moelle osseuse et atteintes polyviscérales",
+    "Diagnostic": "Mycologique : examen direct (expecto, LBA, sang, moelle osseuse) et histologie : petites levures IC, visibles après colo à l’HE, PAS, Gomori-Grocott.\n\nImmunologique : recherche d’Ac et d’Ag\n\nMoléculaire : PCR (labo spécialisés)",
+    "Traitement": "Si sympt sévères amphotéricine B liposomale suivi d’itraconazole",
+    "Image": ""
+  },
+  {
+    "Espece": "Histoplasma capsulatum variété duboisii",
+    "Maladie": "Histoplasmose africaine",
+    "Caracteristiques": "Limité à certaines régions d’Afrique Mode de contamination inconnu",
+    "Manifestations_cliniques": "Forme asympt : lésions cutanées (nodules, ulcères, lésions verruqueuses,…) ; adénopathies ; atteintes pulm exceptionnelles et formes disséminées rares (>< histoplasmose américaine)",
+    "Diagnostic": "Mycologique : examen direct, histo : levures de grande taille à double paroi, EC.",
+    "Traitement": "Médical, = histoplasmose américaine",
+    "Image": ""
+  },
+  {
+    "Espece": "Blastomyces dermatitidis",
+    "Maladie": "Blastomycose",
+    "Caracteristiques": "Rencontrée en Amérique du Nord (endémique) et en Afrique (cas sporadiques).\n\nChampignons filamenteux dans l’env, levure chez l’hôte.\n\nMajorité des personnes infectées sont asymptomatiques ou ne présentent que de légers symptômes.",
+    "Manifestations_cliniques": "Pneumonie aiguë ou chronique : toux, fièvre, perte de poids\nInfection disséminée à principale manifestation = lésions cutanées.",
+    "Diagnostic": "Mycologique : grandes levures bourgeonnantes ; culture",
+    "Traitement": "",
+    "Image": ""
+  },
+  {
+    "Espece": "Coccidioides immitis",
+    "Maladie": "Coccidioidomycose",
+    "Caracteristiques": "Dans les régions désertiques d’Amérique.",
+    "Manifestations_cliniques": "Infection asymptomatique : 60% des cas \n\nForme pulmonaire aigue : toux, fièvre, d+ thoraciques, à résolution spontanée mais peut évoluer vers forme chronique. \n\nForme disséminée : chez IC et ID",
+    "Diagnostic": "Biologique : examen direct, histopathologie : sphérules contenant des endospores. Culture, possible recherche d’Ac",
+    "Traitement": "",
+    "Image": ""
+  },
+  {
+    "Espece": "Paracoccidioides brasiliensis",
+    "Maladie": "Paracoccidioidomycose",
+    "Caracteristiques": "Amérique latine ",
+    "Manifestations_cliniques": "Infection asymptomatique : 30% cas\nInfection pulm chronique Infection disséminée",
+    "Diagnostic": "Mycologique : grandes levures bourgeonnantes",
+    "Traitement": "",
+    "Image": ""
+  },
+  {
+    "Espece": "penicillium marneffei ",
+    "Maladie": "Infection à penicillium marneffei ",
+    "Caracteristiques": "Surtout en Asie du SE, cause fréquente infection opportuniste chez sidéens.",
+    "Manifestations_cliniques": "Infection disséminée : fièvre, sympt respi, lésions cut, … ",
+    "Diagnostic": "Détection des levures IC dans tissus ",
+    "Traitement": "Amphotéricine B suivie itraco",
+    "Image": ""
+  },
+  {
+    "Espece": "Mucor/Absisia/Rhizopus",
+    "Maladie": "Zygomycoses",
+    "Caracteristiques": "Champignons filamenteux présents dans l’env, vivant dans le sol, sur les végétaux en décomposition ou les déjections animales, moisissures très communes.\n\nPatients sains : spores éliminées\n\nFacteurs de risque : immuno-supp, rupture barrière anatomique (brulûre, traumatisme), surcharge en Fe, patients diabétiques ++, cancer sanguin, transplantation, prématurité \n\nMycoses opportunistes + rares que asperg mais à morbidité élevée.\n\nPorte d’entrée : voie aérienne : la + fréquente et lésion cutanée préexistante",
+    "Manifestations_cliniques": "Mucormycose rhino-cérébrale : œdème et érythème de la joue avec tuméfaction périorbitaire, lésions nécrotiques extensives de la face. \n\nMucormycose cutanée (autour brûlure ou fracture multiple)\n\nMucormycose pulmonaire",
+    "Diagnostic": "Histologie + identification des hyphes tissulaires ",
+    "Traitement": "posaconazole",
+    "Image": ""
+  },
+  {
+    "Espece": "Pneumocystis jirovecii",
+    "Maladie": "Pneumocystose",
+    "Caracteristiques": "Réservoir : enfants porteurs\n\nTransmission interhumaine par voie respiratoire\n\nPathologie +++ uniquement chez sujets immunodéprimés (SIDA++), nouveaux-nés prématurés, enfants dénutris.\n\nMultiplication EC en bordure des alvéoles avec phases asexuée et sexuée + production de sporocystes.",
+    "Manifestations_cliniques": "Pneumonie intersticielle : souvent létale en cas d’ID, mortelle sans traitement",
+    "Diagnostic": "Mycologique : examen direct (expecto, LBA), ou histologie : identification de « trophozoïtes » à paroi fine et de « kystes » à paroi épaisse (coloration Giemsa, coloration à l’argent, Ac monoclonaux)\n\nImmunologique : Ac antipneumocystis\n\nMoléculaire : PCR sensible et spécifique, méthode de choix +++",
+    "Traitement": "Triméthoprime – sulfa- méthoxazole",
+    "Image": ""
+  },
+  {
+    "Espece": "Aspergillus fumigatus /A. flavus/ A. niger/ A. nidulans/ A. terreus",
+    "Maladie": "Aspergillose",
+    "Caracteristiques": "Mycoses systémiques, abondants dans la nature (moisissures), ils se développent en saprophytes sur les débris végétaux.\n\nContamination par voie respiratoire : inhalation de spores contenues dans l’air, à cause de leur petite taille ils atteignent tous les compartiments du poumon.\n\nPossibilité de porte d’entrée cutanée : cathéters, aiguille,.. (les + à risque : travailleurs bâtiment, fermiers, jardinage,…)\n\nInoffensifs pour la majorité population, opportunistes (se dév dans cavité résiduelle pulmonaire ou déficit immunitaire).\n\nCertains individus dév réaction allergique d’hypersensitivité aux Ag aspergillaires à l’origine d’asthme aspergillaire.",
+    "Manifestations_cliniques": "Inhalation spores à germination à filaments à prolifération + invasion. Relation inverse entre l’imp de l’affection pulmonaire sousjacente et le degré d’immunosuppression nécessaire au dév d’une invasion tissulaire.\n\nAspergillome : colonisation cavité pré-existante, généralement pulmonaire ds ancienne caverne tuberculeuse. Asympt ou sympt (hémoptysies récidivantes +++, dyspnée, toux,…) Aspergillose pulmonaire chronique nécrosante : invasion du parenchyme, évolution lente et progressive, fièvre, fatigue perte de poids, toux chronique productive, hémoptysie légère à sévère\n\nAspergillose pulmonaire invasive (API) : sympt de bronchopneumonie (fièvre, toux, expecto, dyspnée et éventuellement d+ thoraciques pleurales (cf. invasion vasculaire conduisant à des thromboses et des infarctus pulmonaires localisés), hémoptysie, tableau infectieux grave souvent mortel.\n\nSouvent associée à neutropénie sévère.\n\nL’infection peut se disséminer par voie hématogène : cerveau, lésions cutanées, abcès hépatiques, atteinte rénale, ostéomyélite.\n\nAspergillose allergique : asthme chez sujets atopiques, alvéolite chez sujets non atopiques, aspergillose bronchopulmonaire allergique (inflammation péri-bronchique avec formation de bouchons muqueux : atélectasie, dilatation)",
+    "Diagnostic": "RX, CT scan : masse dans une cavité surmontée d’un croissant clair. Orientation clinique + imagerie, recherche directe ds expectorations (+ ds 50% et – si corticoth), détecter Ag ds LBA, recherche d’Ac (+ ds 70%)\n\nRX, CT scan : comblement des alvéoles, généralement au niveau lobes supérieurs\n\nImagerie + clinique + présence d’Ac anti-aspergillus + culture positif àpd expectorations + - CRP sérique è hautement indicatif\n\nDiagnostic de confirmation : démonstration histo sur biopsie pulm d’une inflm nécrosante et présence d’hyphes.\n\nRX, CT scan : lésion diffuse au centre nécrotique entourée d’un halo périphérique. Signe du halo (patients neutropénique) = zone à contracte atténué, signe du croissant : à l’endroit du nodule initial, = nécrose.\n\nMycologique : examen histologique d’une biopsie pulm (observation d’une invasion tissulaire par des hyphes branchés, septés) + culture positive pour cette même biopsie\n\nImmunologique : recherche d’AgV dans le sérum (galactomannan constituant la paroi)\n\nTest cutané de réaction immédiate aux antigènes aspergillaires : + Présence de taux élevés d’Ac sériques IgG et/ou IgE",
+    "Traitement": "Uniquement si patient sympt : résection chirurgicale et itraconazole Voriconazole voie orale\n\n1er choix : voriconazole \n\n2ème choix : caspofungine ou ampho B liposomale mortalité reste élevée\n\nCorticostéroïdes voie orale",
+    "Image": ""
+  }
+]
