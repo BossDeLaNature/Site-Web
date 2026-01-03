@@ -153,6 +153,83 @@ print("✅ Toutes les bases JSON ont été générées.")
 
 
 
+#################################################################################################
+
+# Charger le fichier Excel
+df = pd.read_excel("Bacteriologie.xlsx")
+
+# Nettoyage : remplacer les NaN par des chaînes vides
+df = df.fillna("")
+
+parasites = []
+
+for _, row in df.iterrows():
+    parasites.append({
+        "Espece": row["Espèce"],
+        "Appartenance": row["Appartenance"],
+        "Transmission": row["Transmission"],
+        "Caracteristiques": row["Caractéristiques"],
+        "Localisation": row["Localisation"],
+        "Toxine_Pathogenicite": row["Toxine/Pathogenicite"],
+        "Facteurs de virulence": row["Facteurs de virulence"],
+        "Resistance": row["Résistance"],
+        "Manifestations_cliniques": row["Manifestations cliniques"],
+        "Diagnostic": row["Diagnostique"],
+        "Traitement": row["Traitement/Prophylaxie"],
+        "Image": row["Image"]
+    })
+
+# Sauvegarde en JSON
+with open("bacteriologie.json", "w", encoding="utf-8") as f:
+    json.dump(parasites, f, ensure_ascii=False, indent=2)
+
+
+
+import pandas as pd
+import json
+import os
+
+# Charger Excel
+df = pd.read_excel("Bacteriologie.xlsx")
+df = df.fillna("")
+
+# Dossier de sortie
+OUTPUT_DIR = "databases_bacteriologie"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Mapping colonnes Excel -> noms de fichiers JSON
+columns_map = {
+    "Espèce": "Espece",
+    "Appartenance": "Appartenance",
+    "Transmission": "Transmission",
+    "Caractéristiques": "Caracteristiques",
+    "Localisation": "Localisation",
+    "Toxine/Pathogenicite" : "Toxine_Pathogenicite",
+    "Facteurs de virulence": "Facteurs de virulence",
+    "Résistance": "Resistance",
+    "Manifestations cliniques": "Manifestations_cliniques",
+    "Diagnostique": "Diagnostic",
+    "Traitement/Prophylaxie": "Traitement",
+    "Image": "Image"
+}
+
+for excel_col, json_name in columns_map.items():
+    valeurs_uniques = set()
+
+    for value in df[excel_col]:
+        value = value.strip()
+        if value and value != "/":
+            valeurs_uniques.add(value)
+
+    # Tri alphabétique
+    data = sorted(valeurs_uniques)
+
+    # Sauvegarde
+    with open(f"{OUTPUT_DIR}/{json_name}.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+print("✅ Toutes les bases JSON ont été générées.")
+
 
 
 
