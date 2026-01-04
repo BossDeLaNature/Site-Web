@@ -132,6 +132,28 @@
 
 
 
+    const soundQueue = [];
+    let isPlaying = false;
+    const DELAY = 200; // 0.3 seconde
+
+    function playNextSound() {
+      if (soundQueue.length === 0) {
+        isPlaying = false;
+        return;
+      }
+
+      isPlaying = true;
+      const sound = soundQueue.shift();
+      sound.currentTime = 0;
+      sound.play();
+
+      setTimeout(playNextSound, DELAY);
+    }
+
+    function enqueueSound(sound) {
+      soundQueue.push(sound);
+      if (!isPlaying) playNextSound();
+    }
 
 
 
@@ -141,6 +163,7 @@
       quizImage2.classList.add("d-none");
       title.textContent = q.titre;
       quizImage.src = q.image;
+      quizImage2.src = q.image2;
       quizForm.innerHTML = "";
       feedback.innerHTML = "";
       showBtn.classList.add("d-none");
@@ -221,7 +244,6 @@
     // === Vérifier les réponses ===
     checkBtn.addEventListener("click", () => {
       const q = quizData[currentIndex];
-      quizImage2.src = q.image2;
       const inputs = quizForm.querySelectorAll("input");
       let bonnes = 0;
       let explicationsHTML = "";
@@ -267,6 +289,8 @@
 
           if (idxMatch !== -1) {
             inputs[idxMatch].classList.add("is-valid");
+            var audio = new Audio('media/sound/Correct.mp3');
+            enqueueSound(audio);
             bonnes++;
             explicationsHTML += `
               <div class="mb-2 text-success">
@@ -275,6 +299,8 @@
               </div>
             `;
           } else {
+            var audio = new Audio('media/sound/Wrong.mp3');
+            enqueueSound(audio);
             explicationsHTML += `
               <div class="mb-2 text-danger">
                 <strong>❌ Réponse ${rep.numero} :</strong> ${rep.correct}<br>
