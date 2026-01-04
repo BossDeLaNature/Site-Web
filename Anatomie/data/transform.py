@@ -6,6 +6,9 @@ df = pd.read_excel("Reconnaissance.xlsx")
 
 df["image"] = "media/Reconnaissance/"+df["image"].astype(int).astype(str)+".png"
 
+df["image2"] = "media/Reconnaissance/Correction/"+df["image2"].astype(int).astype(str)+".png"
+
+
 # Colonnes de base
 base_cols = ["titre", "image", "ordre"]
 
