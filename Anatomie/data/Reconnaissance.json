@@ -2,6 +2,7 @@
   {
     "titre": "Question 1",
     "image": "media/Reconnaissance/1.png",
+    "image2": "media/Reconnaissance/Correction/1.png",
     "ordre": true,
     "reponses": [
       {
@@ -29,6 +30,7 @@
   {
     "titre": "Question 2",
     "image": "media/Reconnaissance/2.png",
+    "image2": "media/Reconnaissance/Correction/2.png",
     "ordre": true,
     "reponses": [
       {
@@ -51,6 +53,7 @@
   {
     "titre": "Question 3",
     "image": "media/Reconnaissance/3.png",
+    "image2": "media/Reconnaissance/Correction/3.png",
     "ordre": true,
     "reponses": [
       {
@@ -83,6 +86,7 @@
   {
     "titre": "Question 4",
     "image": "media/Reconnaissance/4.png",
+    "image2": "media/Reconnaissance/Correction/4.png",
     "ordre": true,
     "reponses": [
       {
@@ -120,6 +124,7 @@
   {
     "titre": "Question 5",
     "image": "media/Reconnaissance/5.png",
+    "image2": "media/Reconnaissance/Correction/5.png",
     "ordre": true,
     "reponses": [
       {
@@ -142,6 +147,7 @@
   {
     "titre": "Question 6",
     "image": "media/Reconnaissance/6.png",
+    "image2": "media/Reconnaissance/Correction/6.png",
     "ordre": true,
     "reponses": [
       {
@@ -184,6 +190,7 @@
   {
     "titre": "Question 7",
     "image": "media/Reconnaissance/7.png",
+    "image2": "media/Reconnaissance/Correction/7.png",
     "ordre": true,
     "reponses": [
       {
@@ -206,6 +213,7 @@
   {
     "titre": "Question 8",
     "image": "media/Reconnaissance/8.png",
+    "image2": "media/Reconnaissance/Correction/8.png",
     "ordre": true,
     "reponses": [
       {
