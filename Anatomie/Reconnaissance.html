@@ -44,7 +44,7 @@
 <body class="p-4">
 
   <div class="container text-center">
-    <h3 class="mb-4">Anat</h3>
+    <h3 class="mb-4">Reconnaissance</h3>
 
     <!-- Barre de progression -->
     <div class="d-flex justify-content-between align-items-center mb-2">
@@ -81,7 +81,7 @@
     // === Données du quiz ===
     let quizData = [];
 
-  fetch("data/quizData1.json")
+  fetch("data/Reconnaissance.json")
     .then(response => response.json())
     .then(data => {
       quizData = data;
@@ -92,7 +92,7 @@
     // === Base de données pour autocomplétion ===
     let database = [];
 
-    fetch("data/database.json")
+    fetch("data/databaseReconnaissance.json")
       .then(response => response.json())
       .then(data => {
         database = data;
@@ -120,7 +120,7 @@
       quizData.forEach((q, i) => {
         const opt = document.createElement("option");
         opt.value = i;
-        opt.textContent = `Question ${i + 1} – ${q.titre}`;
+        opt.textContent = `Question ${i + 1}`;
         questionSelect.appendChild(opt);
       });
 

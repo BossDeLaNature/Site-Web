@@ -2,7 +2,9 @@ import pandas as pd
 import json
 
 # Lecture Excel
-df = pd.read_excel("quizData1.xlsx")
+df = pd.read_excel("Reconnaissance.xlsx")
+
+df["image"] = "media/Reconnaissance/"+df["image"].astype(int).astype(str)+".png"
 
 # Colonnes de base
 base_cols = ["titre", "image", "ordre"]
@@ -34,12 +36,12 @@ for _, row in df.iterrows():
     })
 
 # Sauvegarde JSON
-with open("test.json", "w", encoding="utf-8") as f:
+with open("Reconnaissance.json", "w", encoding="utf-8") as f:
     json.dump(questions, f, ensure_ascii=False, indent=2)
     
     
 
-with open("quizData1.json", "r", encoding="utf-8") as f:
+with open("Reconnaissance.json", "r", encoding="utf-8") as f:
     questions = json.load(f)
 
 reponses_uniques = set()
@@ -53,5 +55,5 @@ for q in questions:
 # Tri alphabétique
 reponses_list = sorted(reponses_uniques)
 
-with open("test2.json", "w", encoding="utf-8") as f:
+with open("databaseReconnaissance.json", "w", encoding="utf-8") as f:
     json.dump(reponses_list, f, ensure_ascii=False, indent=2)

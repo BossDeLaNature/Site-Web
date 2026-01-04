@@ -1,18 +1,409 @@
 [
   {
-    "titre": "Quelles sont les limites de l'étages antérieur de l'endocrane ? ",
-    "image": "",
+    "titre": "Quelles sont les manifestations externes de la maladie fréquemment rencontrées ?",
+    "image": "media/Reconnaissance1.png",
     "ordre": false,
     "reponses": [
       {
         "numero": 1,
-        "correct": "os frontal",
-        "explication": "psk"
+        "correct": "Fatigue",
+        "explication": ""
       },
       {
         "numero": 2,
-        "correct": "petites ailes du sphénoides",
+        "correct": "Gain de poids",
         "explication": ""
+      },
+      {
+        "numero": 3,
+        "correct": "Perte de poids",
+        "explication": ""
+      },
+      {
+        "numero": 4,
+        "correct": "Fièvre",
+        "explication": ""
+      },
+      {
+        "numero": 5,
+        "correct": "Céphalées",
+        "explication": ""
+      },
+      {
+        "numero": 6,
+        "correct": "Hypertension artérielle",
+        "explication": ""
+      },
+      {
+        "numero": 7,
+        "correct": "Hypotension artérielle",
+        "explication": ""
+      }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les manifestations associées pour juger d'une origine psychologique à l'asthénie ?",
+    "image": "media/Reconnaissance2.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Insomnie",
+        "explication": "par exemple réveil précoce"
+      },
+      {
+        "numero": 2,
+        "correct": "Perte de libido",
+        "explication": ""
+      },
+      {
+        "numero": 3,
+        "correct": "Troubles de concentration",
+        "explication": ""
+      },
+      {
+        "numero": 4,
+        "correct": "Troubles de mémoire",
+        "explication": "La dépression s'accompagnant de fatigue est un diagnostic différentiel de la démence"
+      },
+      {
+        "numero": 5,
+        "correct": "Manque d'élan vital",
+        "explication": ""
+      },
+      {
+        "numero": 6,
+        "correct": "Absence d'altération de l'état général",
+        "explication": ""
+      }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les causes générales organiques à l'asthénie ?",
+    "image": "media/Reconnaissance3.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Hypoxémiques",
+        "explication": "Tout ce qui diminue l'apport d'O2/oxygénations vers les tissus périphériques (peut venir d'une insuffisance cardiaque)"
+      },
+      {
+        "numero": 2,
+        "correct": "Métaboliques",
+        "explication": ""
+      },
+      {
+        "numero": 3,
+        "correct": "Endocrinologiques",
+        "explication": ""
+      },
+      {
+        "numero": 4,
+        "correct": "Carentielles",
+        "explication": "Carence en fer peut apporter fatigue avant même que l'anémie soit détectée"
+      },
+      {
+        "numero": 5,
+        "correct": "Infectieuses",
+        "explication": "toute infection aiguë, hépatite viral, mononucléose"
+      },
+      {
+        "numero": 6,
+        "correct": "Inflammatoires",
+        "explication": "Vasculite, maladies granulomateuses"
+      },
+      {
+        "numero": 7,
+        "correct": "Néoplasiques",
+        "explication": "La fatigue est un signe précoce des cancers généralisés (mais accompagnés d'autres manifestations)"
+      },
+      {
+        "numero": 8,
+        "correct": "Hématologiques",
+        "explication": "Anémie, hémopathies..."
+      },
+      {
+        "numero": 9,
+        "correct": "Médicamenteuses",
+        "explication": "Les Beta-bloquants, les hypotenseurs, la chimiothérapies + Benzodiazépine comme les sommnifères qui ralentissent l'activité du cerveau et peut perturber le sommeil réparateur"
+      }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les causes d'une perte localisée de force musculaire ?",
+    "image": "media/Reconnaissance4.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Atteinte nerveuse",
+        "explication": ""
+      }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les causes d'une perte généralisée transitoire de force musculaire ?",
+    "image": "media/Reconnaissance5.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Hypotension artérielle",
+        "explication": ""
+      },
+      {
+        "numero": 2,
+        "correct": "Hypoglycémie",
+        "explication": ""
+      },
+      {
+        "numero": 3,
+        "correct": "Hypoxie aiguë",
+        "explication": ""
+      }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les causes d'une perte généralisée persistante de force musculaire ?",
+    "image": "media/Reconnaissance6.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Maladies musculaire",
+        "explication": ""
+      },
+      {
+        "numero": 2,
+        "correct": "Métaboliques",
+        "explication": ""
+      },
+      {
+        "numero": 3,
+        "correct": "Endocriniennes",
+        "explication": ""
+      },
+      {
+        "numero": 4,
+        "correct": "Médicamenteuses",
+        "explication": ""
+      }
+    ]
+  },
+  {
+    "titre": "Comment une prise de poids peut se manifester ?",
+    "image": "media/Reconnaissance7.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Hyperplasie du tissu adipeux",
+        "explication": "Prise de poids uniquement due à une augmentation du tissus adipeux"
+      },
+      {
+        "numero": 2,
+        "correct": "Rétention hydrique",
+        "explication": "Défaillance cardiaque, cirrhose décompensée et hypoprotéinémie (hypoalbumine avec un œdème généralisés mais toujours œdème dans les zones déclives)"
+      }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les causes d'une prise de poids ?",
+    "image": "media/Reconnaissance8.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Modification des habitudes alimentaires",
+        "explication": ""
+      },
+      {
+        "numero": 2,
+        "correct": "Diminution de l'activité physique",
+        "explication": ""
+      },
+      {
+        "numero": 3,
+        "correct": "Boulimie",
+        "explication": ""
+      },
+      {
+        "numero": 4,
+        "correct": "Diminution pathologique de la satiété",
+        "explication": "Problème au niveau de l'hypothalamus, ou syndrôme de Cushing (trop de cortisol)"
+      },
+      {
+        "numero": 5,
+        "correct": "Médicamenteuses",
+        "explication": "Certains anti-dépresseurs augmentent la faim, le sevrage de certaines drogues aussi"
+      },
+      {
+        "numero": 6,
+        "correct": "Contexte familiale",
+        "explication": ""
+      },
+      {
+        "numero": 7,
+        "correct": "Ulcère gastro-duodénal",
+        "explication": ""
+      },
+      {
+        "numero": 8,
+        "correct": "Endocrinopathies",
+        "explication": "Plus rare que les autres causes mais hypothyroïdie, hypercorticisme et hypoglycémie"
+      }
+    ]
+  },
+  {
+    "titre": "Quelles sont les conséquences de la prise de poids (obésite grave) ?",
+    "image": "media/Reconnaissance9.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Cardiovasculaires",
+        "explication": "Insuffisance coronaires, athéromatose"
+      },
+      {
+        "numero": 2,
+        "correct": "Pulmonaires",
+        "explication": "Syndrôme des apnées du sommeil (SAS), syndrôme de Pickwick (car la graisse peut obstruer les voies respiratoires)"
+      },
+      {
+        "numero": 3,
+        "correct": "Ostéoarticulaires",
+        "explication": "Arthrose"
+      },
+      {
+        "numero": 4,
+        "correct": "Métaboliques",
+        "explication": "Diabète de type 2, Hyperlipémie, hyperuricémie"
+      },
+      {
+        "numero": 5,
+        "correct": "Digestives",
+        "explication": "Hernie hiatal + problème de foie dont des cirrhoses du foie (auj, cause n°1 de cirrhose n'est plus l'alcool mais l'obésité)"
+      }
+    ]
+  },
+  {
+    "titre": "Quelles peuvent être les causes organique d'une perte de poids ?",
+    "image": "media/Reconnaissance10.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Malnutrition",
+        "explication": "isolement sévère, éthylisme"
+      },
+      {
+        "numero": 2,
+        "correct": "Malabsorption",
+        "explication": "diarrhée associé, pb système digestif. Souvent accompagnées de carences en vitamine en particulier liposolubles (A,D,E,K), les selles vont flotter car graisse dedans, mais appetit toujours conservé"
+      },
+      {
+        "numero": 3,
+        "correct": "Métaboliques",
+        "explication": "insuffisance rénale, hépatique"
+      },
+      {
+        "numero": 4,
+        "correct": "Endocrinologiques",
+        "explication": "diabète, insuffisance rénale, hyperthyroïdie"
+      },
+      {
+        "numero": 5,
+        "correct": "Infectieuses",
+        "explication": ""
+      },
+      {
+        "numero": 6,
+        "correct": "Inflammatoires",
+        "explication": ""
+      },
+      {
+        "numero": 7,
+        "correct": "Néoplasiques",
+        "explication": ""
+      },
+      {
+        "numero": 8,
+        "correct": "Hématologiques",
+        "explication": ""
+      },
+      {
+        "numero": 9,
+        "correct": "Psychologiques",
+        "explication": ""
+      }
+    ]
+  },
+  {
+    "titre": "Comment s'appelle le paradoxe associant perte de poids et appétit augmenté (avec apports caloriques objectivement accrus)",
+    "image": "media/Reconnaissance11.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Paradoxe de Muller",
+        "explication": ""
+      }
+    ]
+  },
+  {
+    "titre": "Quelles sont les maladies associés à ce paradoxe ?",
+    "image": "media/Reconnaissance12.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Diabète inaugural",
+        "explication": "diabète déséquilibré aussi"
+      },
+      {
+        "numero": 2,
+        "correct": "Hyperthyroïdie sévère",
+        "explication": "Pas dans 100% des cas mais ça arrive"
+      },
+      {
+        "numero": 3,
+        "correct": "Malabsorption",
+        "explication": ""
+      },
+      {
+        "numero": 4,
+        "correct": "Phéochromocytome",
+        "explication": "Maladie très rare, c'est une tumeur des surrénales où l'on sécrète des catécholamines (adénaline etc) par vague ce qui induit de l'hypertension"
+      },
+      {
+        "numero": 5,
+        "correct": "Infection VIH",
+        "explication": "perte de poids car on doit generer des milliards de virus par jour"
+      }
+    ]
+  },
+  {
+    "titre": "Quelles est la première cause à laquelle on doit penser en cas de fièvre ?",
+    "image": "media/Reconnaissance13.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Infectieuses",
+        "explication": ""
+      }
+    ]
+  },
+  {
+    "titre": "A quelle maladie doit-on penser en cas de fièvre hectique vespérale (pic de fièvre nocturne) ?",
+    "image": "media/Reconnaissance14.png",
+    "ordre": false,
+    "reponses": [
+      {
+        "numero": 1,
+        "correct": "Malade de Still",
+        "explication": "mais ça reste quand même rare"
       }
     ]
   }
