@@ -114,27 +114,12 @@
     const progressBar = document.getElementById("progressBar");
     const progressText = document.getElementById("progressText");
     const questionSelect = document.getElementById("questionSelect");
-
-    // === Initialisation du menu déroulant ===
-
-
-    document.getElementById("questionSelect").addEventListener('click', () => {
-      questionSelect.innerHTML = ''
-      quizData.forEach((q, i) => {
-        const opt = document.createElement("option");
-        opt.value = i;
-        opt.textContent = `Question ${i + 1}`;
-        questionSelect.appendChild(opt);
-      });
-
-
-    });
-
-
-
     const soundQueue = [];
     let isPlaying = false;
     const DELAY = 200; // 0.3 seconde
+
+    // === Initialisation du menu déroulant ===
+
 
     function playNextSound() {
       if (soundQueue.length === 0) {
@@ -166,6 +151,15 @@
       quizImage2.src = q.image2;
       quizForm.innerHTML = "";
       feedback.innerHTML = "";
+
+      questionSelect.innerHTML = ''
+      quizData.forEach((q, i) => {
+        const opt = document.createElement("option");
+        opt.value = i;
+        opt.textContent = `Question ${i + 1}`;
+        questionSelect.appendChild(opt);
+      });
+
       showBtn.classList.add("d-none");
 
       q.reponses.forEach(rep => {
@@ -261,6 +255,8 @@
 
           if (valeur.toLowerCase() === rep.correct.toLowerCase()) {
             input.classList.add("is-valid");
+            var audio = new Audio('media/sound/Correct.mp3');
+            enqueueSound(audio);
             bonnes++;
             explicationsHTML += `
               <div class="mb-2 text-success">
@@ -270,6 +266,8 @@
             `;
           } else {
             input.classList.add("is-invalid");
+            var audio = new Audio('media/sound/Wrong.mp3');
+            enqueueSound(audio);
             explicationsHTML += `
               <div class="mb-2 text-danger">
                 <strong>❌ Réponse ${rep.numero} :</strong> ${rep.correct}<br>
