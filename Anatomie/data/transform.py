@@ -2,11 +2,11 @@ import pandas as pd
 import json
 
 # Lecture Excel
-df = pd.read_excel("Reconnaissance.xlsx")
+df = pd.read_excel("Neuroanatomie.xlsx")
 
-df["image"] = "media/Reconnaissance/"+df["image"].astype(int).astype(str)+".png"
+df["image"] = "media/Neuroanatomie/"+df["image"].astype(int).astype(str)+".png"
 
-df["image2"] = "media/Reconnaissance/Correction/"+df["image2"].astype(int).astype(str)+".png"
+df["image2"] = "media/Neuroanatomie/Correction/"+df["image2"].astype(int).astype(str)+".png"
 
 
 # Colonnes de base
@@ -40,12 +40,12 @@ for _, row in df.iterrows():
     })
 
 # Sauvegarde JSON
-with open("Reconnaissance.json", "w", encoding="utf-8") as f:
+with open("Neuroanatomie.json", "w", encoding="utf-8") as f:
     json.dump(questions, f, ensure_ascii=False, indent=2)
 
 
 
-with open("Reconnaissance.json", "r", encoding="utf-8") as f:
+with open("Neuroanatomie.json", "r", encoding="utf-8") as f:
     questions = json.load(f)
 
 reponses_uniques = set()
@@ -59,5 +59,5 @@ for q in questions:
 # Tri alphabétique
 reponses_list = sorted(reponses_uniques)
 
-with open("databaseReconnaissance.json", "w", encoding="utf-8") as f:
+with open("databaseNeuroanatomie.json", "w", encoding="utf-8") as f:
     json.dump(reponses_list, f, ensure_ascii=False, indent=2)
