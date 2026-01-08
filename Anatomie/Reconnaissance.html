@@ -156,7 +156,7 @@
       quizData.forEach((q, i) => {
         const opt = document.createElement("option");
         opt.value = i;
-        opt.textContent = `Question ${i + 1}`;
+        opt.textContent = `${q.titre}`;
         questionSelect.appendChild(opt);
       });
 
