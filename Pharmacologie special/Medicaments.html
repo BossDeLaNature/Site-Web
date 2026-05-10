@@ -68,7 +68,7 @@
 
                     <div class="text-center mb-12">
                         <span class="text-[10px] font-black uppercase tracking-[0.3em] text-slate-400 mb-2 block">DCI / Nom du Médicament</span>
-                        <h2 id="medName" class="text-4xl md:text-6xl font-black text-slate-800 tracking-tighter">...</h2>
+                        <h2 id="medName" class="text-4xl md:text-6xl font-black text-slate-800 tracking-tighter">Chargement...</h2>
                     </div>
 
                     <!-- ÉTAPE 1 : DEVINER LA CLASSE -->
@@ -86,7 +86,7 @@
                         </button>
                     </div>
 
-                    <!-- ÉTAPE 2 : CLASSE RÉVÉLÉE / RÉFLEXION -->
+                    <!-- ÉTAPE 2 : CLASSE RÉVÉLÉE -->
                     <div id="step2_ClassRevealed" class="hidden-step reveal-anim max-w-md mx-auto text-center">
                         <div class="bg-indigo-600 text-white p-8 rounded-[2.5rem] shadow-xl shadow-indigo-100 mb-8">
                             <p class="text-[10px] font-black uppercase tracking-widest mb-2 opacity-70">Type de Médicament</p>
@@ -98,7 +98,7 @@
                         </div>
                     </div>
 
-                    <!-- ÉTAPE 3 : DÉTAILS COMPLETS (Compatible avec Listes JSON) -->
+                    <!-- ÉTAPE 3 : DÉTAILS COMPLETS -->
                     <div id="step3_AllDetails" class="hidden-step reveal-anim grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pb-10">
                         <div class="bg-blue-50/50 p-6 rounded-3xl border border-blue-100">
                             <h3 class="text-[10px] font-black text-blue-600 uppercase tracking-widest mb-3">🎯 Indications</h3>
@@ -137,34 +137,37 @@
     </div>
 
     <script>
-        // EXEMPLE AVEC LISTES (Le format que vous avez)
-        fetch("data/medicaments.json")
-        .then(response => response.json())
-        .then(data => {
-
-        // Enregistrer dans le tableau medicationsDB
-        const medicationsDB = data;
-
-        console.log(medicationsDB);
-
-        // Exemple
-            console.log(medicationsDB[0].nom_medicament);
-
-        })
-        .catch(error => {
-            console.error("Erreur :", error);
-        });
-
-        let filteredMeds = [...medicationsDB];
+        // 1. Déclarer les variables au niveau global pour qu'elles soient accessibles partout
+        let medicationsDB = [];
+        let filteredMeds = [];
         let currentIndex = 0;
         let flowState = 'GUESSING';
 
+        // 2. Charger les données depuis le fichier JSON
+        // Important : GitHub Pages respecte la casse (minuscules/majuscules) !
+        fetch("data/medicaments.json")
+            .then(response => {
+                if (!response.ok) throw new Error("Fichier JSON non trouvé dans data/medicaments.json");
+                return response.json();
+            })
+            .then(data => {
+                medicationsDB = data;
+                filteredMeds = [...medicationsDB];
+
+                // 3. Lancer l'initialisation SEULEMENT quand les données sont chargées
+                init();
+            })
+            .catch(error => {
+                console.error("Erreur critique :", error);
+                document.getElementById('medName').innerHTML = "Erreur : " + error.message;
+            });
+
         function init() {
+            if (medicationsDB.length === 0) return;
             populateClasses();
             updateDisplay();
         }
 
-        // Helper pour transformer texte ou liste en HTML propre
         function formatData(data) {
             if (Array.isArray(data)) {
                 if (data.length === 0) return "Aucun";
@@ -176,6 +179,7 @@
         function populateClasses() {
             const select = document.getElementById('classFilter');
             const datalist = document.getElementById('allClassesList');
+            // Récupérer les classes uniques et trier
             const classes = [...new Set(medicationsDB.map(m => m.type_medicament))].sort();
 
             classes.forEach(c => {
@@ -227,7 +231,7 @@
             ui.name.textContent = med.nom_medicament;
             ui.counter.textContent = `${currentIndex + 1} / ${filteredMeds.length}`;
 
-            // Reset visibility
+            // Masquer tout par défaut
             ui.step1.classList.add('hidden-step');
             ui.step2.classList.add('hidden-step');
             ui.step3.classList.add('hidden-step');
@@ -247,7 +251,6 @@
                 ui.statusTag.textContent = "Étape 2/3";
             }
             else if (flowState === 'REVEALED') {
-                // Utilisation de formatData pour gérer les listes
                 document.getElementById('medIndications').innerHTML = formatData(med.indications);
                 document.getElementById('medContra').innerHTML = formatData(med.contre_indications);
                 document.getElementById('medInteractions').innerHTML = formatData(med.interactions);
@@ -317,8 +320,6 @@
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Enter') handleMainAction();
         });
-
-        window.onload = init;
     </script>
 </body>
 </html>
