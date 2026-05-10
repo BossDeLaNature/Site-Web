@@ -42,12 +42,11 @@ def excel_to_json(input_excel_path, output_json_path=None):
                         values.append(str(value).strip())
 
             return values
-
         medicament = {
             "nom_medicament": row.get("Nom du médicament", ""),
             "type_medicament": (
-                str(row["type_medicament"]).strip()
-                if pd.notna(row.get("type_medicament"))
+                str(row["Type du médicament"]).strip()
+                if pd.notna(row.get("Type du médicament"))
                 else ""
                 ),
             "indications": extract_fields("Indication_"),
@@ -99,7 +98,7 @@ def save_sorted_lists_separately(json_path, output_dir=None):
 
     # Sets pour éviter les doublons
     data = {
-        "types_medicaments": set(),
+        "type_medicament": set(),
         "indications": set(),
         "contre_indications": set(),
         "interactions": set(),
@@ -112,8 +111,9 @@ def save_sorted_lists_separately(json_path, output_dir=None):
 
         # Type médicament
         type_med = med.get("type_medicament")
+        print(type_med)
         if type_med and str(type_med).strip():
-            data["types_medicaments"].add(str(type_med).strip())
+            data["type_medicament"].add(str(type_med).strip())
 
         # Indications
         for item in med.get("indications", []):
