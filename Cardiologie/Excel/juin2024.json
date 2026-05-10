@@ -1,0 +1,962 @@
+[
+      {
+            "Numero": 1,
+            "Question": "Q3. Concernant les dysnatremies, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une transpiration abondante, les pertes liquidiennes sont hypertoniques et favorisent l'hypernatremie.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 2,
+            "Question": "Q3. Concernant les dysnatremies, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'un SIADH chronique, et en absence de prise de diuretiques, l'elimination urinaire quotidienne de Na+ est inferieure aux apports quotidiens de Na+.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 3,
+            "Question": "Q3. Concernant les dysnatremies, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un patient doit eliminer quotidiennement 600 mosmoles urinaires et ses pertes liquidiennes extra-renales sont de 0,5L/j. Dans ces conditions, s'il presente un trouble de dilution de l'urine ne lui permettant pas de descendre en dessous de 250 mosm/kg H20, il developpera une hyponatremie hypo-osmolaire si ses apports hydriques sont superieurs a 2,9L/j.     ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 4,
+            "Question": "Q2. Concernant les surrenales, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une corticotherapie au long cours peut induire une hvoernigmentation cutanee.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 5,
+            "Question": "Q2. Concernant les surrenales, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hyperproduction d'androgenes surrenaliens qui peut se rencontrer dans la maladie de Cushing s'explique par une hyperstimulation de la zone reticulee de la corticosurrenale par l'ACTH.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 6,
+            "Question": "Q2. Concernant les surrenales, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un traitement par corticoides par voie orale, a des doses suppressives et durant une periode d'au moins 3 semaines, induit l'atrophie de la zone fasciculee de la corticosurrenale.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 7,
+            "Question": "Q1. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La capacite vitale est le volume expire apres une inspiration maximale suivie d'une expiration calme.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 8,
+            "Question": "Q1. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les volumes pulmonaires sont dependants du poids et de la taille du sujet mais pas de son sexe.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 9,
+            "Question": "Q1. Concernant les volumes pulmonaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Chez un patient emphysemateux, la CPT, le VR, la CRF sont majores et la DLCO est diminuee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 10,
+            "Question": "Q6. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La vasoconstriction pulmonaire hypoxique est toujours deletere.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 11,
+            "Question": "Q6. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En decubitus dorsal, la perfusion arterielle pulmonaire devient uniforme entre l'apex et la base pulmonaires mais est plus importante dans les regions posterieures (dorsales) qu'anterieures (ventrales).    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 12,
+            "Question": "Q6. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'un incendie, le risque pour les personnes exposees est de developper un oedeme pulmonaire lie a une augmentation de K+ dans l'equation des forces de Starling.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 13,
+            "Question": "Q8. Concernant l'effort physique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors de l'effort physique intense, les muscles respiratoires accessoires inspiratoires et expiratoires sont recrutes.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 14,
+            "Question": "Q8. Concernant l'effort physique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " A l'effort, la pression arterielle pulmonaire augmente ainsi que la resistance vasculaire pulmonaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 15,
+            "Question": "Q8. Concernant l'effort physique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'entrainement physique reduit la frequence cardiaque de repos majorant ainsi la reserve d'augmentation de la frequence cardiaque jusqu'a celle maximale a l'effort.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 16,
+            "Question": "Q5. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En dehors de l'exoneration, le muscle pubo-rectal est relache.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 17,
+            "Question": "Q5. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'accommodation gastrique est un reflexe mixte, vago-vagal et intrinseque, declenche au niveau de la cavite gastrique par la presence du bol alimentaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 18,
+            "Question": "Q5. Concernant la motricite digestive, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les complexes moteurs migrants interdigestifs sont composes de 3 phases dont la derniere, et qui est la plus longue, est une periode de contractions regulieres et intenses.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 19,
+            "Question": "Q7. Concernant le debit de filtration glomerulaire (DFG), caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lorsque le volume circulant effectif est diminue, l'administration d'AINS est contre-indiquee dans la mesure ou les AINS accentuent la vasoconstriction de l'arteriole afferente (AA).    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 20,
+            "Question": "Q7. Concernant le debit de filtration glomerulaire (DFG), caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lorsque la pression de perfusion renale augmente, le reflexe myogenique induit une vasoconstriction de  l'arteriole efferente (AE) pour maintenir stable le DFG.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 21,
+            "Question": "Q7. Concernant le debit de filtration glomerulaire (DFG), caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les dextrans polyanioniques dont la taille est inferieure a 20 A sont librement filtres au niveau de la barriere glomerulaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 22,
+            "Question": "Q4. Concernant l'ECG, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'amplitude de l'activite electrique sur un ECG est plus grande que celle du potentiel d'action d'un cardiomyocvte.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 23,
+            "Question": "Q4. Concernant l'ECG, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une derivation bipolaire permet de mesurer une difference de potentiel entre deux electrodes indifferentes.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 24,
+            "Question": "Q4. Concernant l'ECG, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'ECG est un outil important pour mesurer l'activite contractile du coeur.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 25,
+            "Question": "Q10. Concernant les gaz sanguins, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le transfert alveolo-capillaire du CO est limite par la diffusion car ce gaz a une tres forte affinite pour l'hemoglobine.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 26,
+            "Question": "Q10. Concernant les gaz sanguins, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La diffusion du CO2 dans les tissus est inferieure a celle de l'O2 par suite de sa plus faible solubilite.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 27,
+            "Question": "Q10. Concernant les gaz sanguins, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hypoxemie liee a l'hypoventilation est aisee a corriger par administration d'oxygene (oxygenotherapie avec majoration de la FIO2) mais l'hypercapnie persistera.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 28,
+            "Question": "Q12. Concernant la circulation systemique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La pression arterielle systemique pulsee est la difference entre la pression arterielle systemique moyenne et la pression auriculaire droite.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 29,
+            "Question": "Q12. Concernant la circulation systemique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La pression arterielle systemique moyenne augmente lors d'une augmentation isolee du debit cardiaque.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 30,
+            "Question": "Q12. Concernant la circulation systemique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Avec l'age, la pression arterielle systemique pulsee diminue suite a une diminution de la compliance arterielle systemique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 31,
+            "Question": "Q11. Concernant le metabolisme phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  Un patient de 60 ans se presente a la consultation dans le cadre du suivi d'une insuffisance renale chronique severe (stade G4) avec un DFG estime a 25 ml/min/1,73 m selon le MDRD.  Biologie: uree 100 mg/di (15-40); creatinine 2,2 mg/dl (0,7-1,2) ; Na+ 135 mEq/L (135-145); K+ 4,0 mEq/L (3,5-4,8); CI- 105 mEq/L (97-109); HCO3- 18 mEq/L ; phosphate 1,8 mmol/L (0,8-1,5) ; PTH intacte bioactive 120 ng/L (< 49) ; calcemie 2,1 mmol/L(2,12-2,62) ; albumine 4 g/di (4,0-4,8)  ",
+            "Proposition": " L'hyperparathyroidie est une des causes de l'hyperphosphatemie.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 32,
+            "Question": "Q11. Concernant le metabolisme phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  Un patient de 60 ans se presente a la consultation dans le cadre du suivi d'une insuffisance renale chronique severe (stade G4) avec un DFG estime a 25 ml/min/1,73 m selon le MDRD.  Biologie: uree 100 mg/di (15-40); creatinine 2,2 mg/dl (0,7-1,2) ; Na+ 135 mEq/L (135-145); K+ 4,0 mEq/L (3,5-4,8); CI- 105 mEq/L (97-109); HCO3- 18 mEq/L ; phosphate 1,8 mmol/L (0,8-1,5) ; PTH intacte bioactive 120 ng/L (< 49) ; calcemie 2,1 mmol/L(2,12-2,62) ; albumine 4 g/di (4,0-4,8)  ",
+            "Proposition": " Le dosage du FGF-23 plasmatique donnera une valeur elevee.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 33,
+            "Question": "Q11. Concernant le metabolisme phospho-calcique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  Un patient de 60 ans se presente a la consultation dans le cadre du suivi d'une insuffisance renale chronique severe (stade G4) avec un DFG estime a 25 ml/min/1,73 m selon le MDRD.  Biologie: uree 100 mg/di (15-40); creatinine 2,2 mg/dl (0,7-1,2) ; Na+ 135 mEq/L (135-145); K+ 4,0 mEq/L (3,5-4,8); CI- 105 mEq/L (97-109); HCO3- 18 mEq/L ; phosphate 1,8 mmol/L (0,8-1,5) ; PTH intacte bioactive 120 ng/L (< 49) ; calcemie 2,1 mmol/L(2,12-2,62) ; albumine 4 g/di (4,0-4,8)  ",
+            "Proposition": " Le dosage du calcitriol plasmatique indiquera une valeur basse, s'expliquant notamment par une inhibition de  la 25 hydroxylase renale.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 34,
+            "Question": "Q.  Un patient de 50 ans, porteur d'une insuffisance cardiaque, se presente aux urgences pour des difficultes respiratoires et une prise de poids de 6 kg en 2 jours. Il ne prend pas de diuretique.  Examen clinique: TA 90/70 mmHg et rythme cardiaque 114/min regulier. Il existe egalement une hypotension orthostatique. L'examen pulmonaire revele des epanchements pleuraux bilateraux. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie a l'admission: Na+ 125 mEq/L (135-145); K+ 3,6 mEq/L (3,5-4,8); creatinine 1 mg/dl (0,7-1,2) Recolte des urines de 24h: 1L ; osmolalite 500 mosm/kg; creatinine 100 mg/dl; Na+ 15 mEq/L  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hyponatremie hypo-osmolaire resulte de la secretion non osmotique d'ADH et traduit une reduction importante du volume circulant effectif.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 35,
+            "Question": "Q.  Un patient de 50 ans, porteur d'une insuffisance cardiaque, se presente aux urgences pour des difficultes respiratoires et une prise de poids de 6 kg en 2 jours. Il ne prend pas de diuretique.  Examen clinique: TA 90/70 mmHg et rythme cardiaque 114/min regulier. Il existe egalement une hypotension orthostatique. L'examen pulmonaire revele des epanchements pleuraux bilateraux. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie a l'admission: Na+ 125 mEq/L (135-145); K+ 3,6 mEq/L (3,5-4,8); creatinine 1 mg/dl (0,7-1,2) Recolte des urines de 24h: 1L ; osmolalite 500 mosm/kg; creatinine 100 mg/dl; Na+ 15 mEq/L  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La quantite de sodium excretee est egale a 15 mEq/j",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 36,
+            "Question": "Q.  Un patient de 50 ans, porteur d'une insuffisance cardiaque, se presente aux urgences pour des difficultes respiratoires et une prise de poids de 6 kg en 2 jours. Il ne prend pas de diuretique.  Examen clinique: TA 90/70 mmHg et rythme cardiaque 114/min regulier. Il existe egalement une hypotension orthostatique. L'examen pulmonaire revele des epanchements pleuraux bilateraux. Presence d'ascite et d'oedemes des membres inferieurs.  Biologie a l'admission: Na+ 125 mEq/L (135-145); K+ 3,6 mEq/L (3,5-4,8); creatinine 1 mg/dl (0,7-1,2) Recolte des urines de 24h: 1L ; osmolalite 500 mosm/kg; creatinine 100 mg/dl; Na+ 15 mEq/L  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La fraction excretee de Na+ au niveau urinaire est egale a 0,12%    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 37,
+            "Question": "Q18. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Contrairement a la secretion salivaire, la tonicite du liquide pancreatique est independante du debit secretoire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 38,
+            "Question": "Q18. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La secretion acinaire pancreatique est principalement stimulee par la cholecystokinine.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 39,
+            "Question": "Q18. Concernant les secretions digestives, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En periode interprandiale, la concentration de Na+ du liquide gastrique est basse.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 40,
+            "Question": "Q15. Concernant la pompe cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La tension active developpee par le muscle cardiaque isole (muscle papillaire) depend de sa longueur de repos.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 41,
+            "Question": "Q15. Concernant la pompe cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une augmentation de la frequence cardiaque, lors d'un cycle cardiaque, la duree de la systole est plus reduite que celle de la diastole.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 42,
+            "Question": "Q15. Concernant la pompe cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'ouverture de la valve aortique survient lorsque la pression intraventriculaire gauche devient juste inferieure a la pression diastolique de l'aorte.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 43,
+            "Question": "Q17. Concernant le transport des gaz sanguins, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une modification de la quantite d'hemoglobine dans le sang est associee a une modification du contenu en oxygene dans le sang.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 44,
+            "Question": "Q17. Concernant le transport des gaz sanguins, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le transport sanguin du gaz carbonique se fait principalement en combinaison avec des proteines.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 45,
+            "Question": "Q17. Concernant le transport des gaz sanguins, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'acidose s'associe a une baisse de l'affinite de l'hemoglobine pour l'oxygene et a une augmentation de la P50.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 46,
+            "Question": "Q14. Concernant les troubles de lhydratation, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'un syndrome d'exces apparent en mineralocorticoides, la renine et l'aldosterone plasmatiques sont elevees.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 47,
+            "Question": "Q14. Concernant les troubles de lhydratation, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les oedemes des membres inferieurs font classiquement partie du tableau clinique du syndrome de Conn.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 48,
+            "Question": "Q14. Concernant les troubles de lhydratation, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une maladie d'Addison, le volume du LEC et le volume circulant effectif sont diminues alors que la concentration plasmatique de renine est elevee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 49,
+            "Question": "Q16. Concernant la concentration et la dilution de l'urine, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " L'excretion urinaire d'uree est independante du debit urinaire.      ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 50,
+            "Question": "Q16. Concernant la concentration et la dilution de l'urine, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " En antidiurese, le liquide tubulaire qui quitte la branche large ascendante de l'anse de Henle est deja fortement  hyper-osmotique.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 51,
+            "Question": "Q16. Concernant la concentration et la dilution de l'urine, caracteriser par Vrai ou Faux chacune des propositions suivantes. ",
+            "Proposition": " La circulation a contre-courant est une disposition passive qui limite les pertes de solutes mais qui ne permet pas de generer un gradient d'osmolalite.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 52,
+            "Question": "Q13. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En presence de fibres vegetales, l'index glycemique d'un aliment est augmente.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 53,
+            "Question": "Q13. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une intolerance au lactose, toute prise de lactose est symptomatique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 54,
+            "Question": "Q13. Concernant les macronutriments, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les dipeptides et les tripeptides sont absorbes dans l'enterocyte par un mecanisme de transport actif tertiaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 55,
+            "Question": "Q21. Concernant la cascade de l'oxygene, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'un sejour en altitude, l'hypoxemie liee a l'hypoxie hypobare est limitee en partie par l'hyperventilation adaptative.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 56,
+            "Question": "Q21. Concernant la cascade de l'oxygene, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Chez les patients atteints de fibrose pulmonaire, le temps d'equilibration entre la PO dans le capillaire pulmonaire et la PaO2 peut devenir insuffisant lors des efforts et conduire a une hypoxemie d'effort.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 57,
+            "Question": "Q21. Concernant la cascade de l'oxygene, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le test a l'oxygene pur (FiO2 100%) permet de suspecter la presence d'un shunt par amelioration de la saturation  de l'hemoglobine en oxygene.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 58,
+            "Question": "Q23. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes  ",
+            "Proposition": " Une reduction durable de la synthese d'hepcidine entraine une hyposideremie.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 59,
+            "Question": "Q23. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes  ",
+            "Proposition": " Le PteGlu1 (ou acide pteroylglutamique) est transporte dans les cellules villositaires du grele proximal par un symport apical qui est sodium dependant.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 60,
+            "Question": "Q23. Concernant les mineraux et vitamines, caracteriser par Vrai ou Faux chacune des propositions suivantes  ",
+            "Proposition": " La methylcobalamine est un cofacteur de la methionine synthase qui permet de former de la methionine a partir d''homocysteine.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 61,
+            "Question": "Q20. Concernant la fonction tubulaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'un syndrome de Fanconi acquis, la bicarbonaturie est initiale et transitoire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 62,
+            "Question": "Q20. Concernant la fonction tubulaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Chez un individu dont la fonction renale est normale, la prise de cimetidine peut etre responsable d'une sous- estimation du debit de filtration glomerulaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 63,
+            "Question": "Q20. Concernant la fonction tubulaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'alcalinisation des urines favorise la formation des lithiases d'acide urique.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 64,
+            "Question": "Q22. Concernant l'electrophysiologie cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le systeme nerveux parasympathique regule l'activite du noeud sinusal notamment en diminuant la pente du potentiel pace-maker (ralentissement de la vitesse de depolarisation).    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 65,
+            "Question": "Q22. Concernant l'electrophysiologie cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les cardiomyocytes proches de l'epicarde seront les derniers a se repolariser.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 66,
+            "Question": "Q22. Concernant l'electrophysiologie cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors de la depolarisation d'un cardiomyocyte, il y a une inversion membranaire brusque et transitoire des charges de part et d'autre de la membrane. Les charges sont alors negatives sur le versant intracellulaire et positives sur le versant extracellulaires de la membrane.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 67,
+            "Question": "Q19. Concernant le controle de la ventilation, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Dans les zones pulmonaires hypoventilees, l'hypercapnie alveolaire locale induit une bronchoconstriction.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 68,
+            "Question": "Q19. Concernant le controle de la ventilation, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'intoxication au CO s'associe a une hypoxie cellulaire responsable d'une hyperventilation.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 69,
+            "Question": "Q19. Concernant le controle de la ventilation, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le reflexe de Hering-Breuer est un reflexe d'inhibition de l'inspiration, declenche par la distension pulmonaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 70,
+            "Question": "Q28. Concernant la regulation acide-base, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hypokaliemie favorise le developpement d'une alcalose metabolique en stimulant l'ammoniogenese au niveau des cellules renales du tubule proximal.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 71,
+            "Question": "Q28. Concernant la regulation acide-base, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une acidose metabolique, la valeur du pH urinaire permet de determiner si la production renale de NH4+ est appropriee.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 72,
+            "Question": "Q28. Concernant la regulation acide-base, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Un trou anionique plasmatique augmente signifie, en theorie, que les anions plasmatiques non mesures ont augmente ou que les cations plasmatiques non mesures ont diminue.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 73,
+            "Question": "Q25.  Un patient presente les resultats suivants lors des epreuves fonctionnelles respiratoires : capacite pulmonaire totale (CPT) 6L ; capacite vitale forcee (CVF) 4L ; capacite residuelle fonctionnelle (CRF) 3,2L ; VEMS 3L. Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Ce patient ne presente pas de trouble ventilatoire obstructif.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 74,
+            "Question": "Q25.  Un patient presente les resultats suivants lors des epreuves fonctionnelles respiratoires : capacite pulmonaire totale (CPT) 6L ; capacite vitale forcee (CVF) 4L ; capacite residuelle fonctionnelle (CRF) 3,2L ; VEMS 3L. Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le volume de reserve expiratoire est de 2L.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 75,
+            "Question": "Q25.  Un patient presente les resultats suivants lors des epreuves fonctionnelles respiratoires : capacite pulmonaire totale (CPT) 6L ; capacite vitale forcee (CVF) 4L ; capacite residuelle fonctionnelle (CRF) 3,2L ; VEMS 3L. Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " I! manque le volume de reserve inspiratoire (VRI) pour calculer la capacite inspiratoire de ce patient.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 76,
+            "Question": "Q27. Concernant l'hypophyse et la thyroide, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une section partielle de la tige pituitaire entraine generalement une hypo-prolactinemie transitoire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 77,
+            "Question": "Q27. Concernant l'hypophyse et la thyroide, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une TSH plasmatique elevee correspond le plus souvent a une hyperthyroidie secondaire.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 78,
+            "Question": "Q27. Concernant l'hypophyse et la thyroide, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les cellules somatotropes sont les cellules les plus abondantes de l'hypophyse anterieure.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 79,
+            "Question": "Q26. Concernant le retour veineux, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La pente de la courbe de fonction veineuse correspond a +1/RVS avec RVS = resistance vasculaire systemique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 80,
+            "Question": "Q26. Concernant le retour veineux, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une augmentation de la contractilite myocardique a pour effet que la courbe de debit cardiaque croise celle de fonction veineuse en un point correspondant a un plus haut debit cardiaque et une pression veineuse centrale plus elevee.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 81,
+            "Question": "Q26. Concernant le retour veineux, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hypotension arterielle orthostatique est associee a une baisse de la pression arterielle systemique systolique et/ou diastolique associee a une elevation de la frequence cardiaque lors du passage de la position couchee a celle debout.     ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 82,
+            "Question": "Q24.  Un homme de 30 ans presente une polyurie-polydipsie depuis plusieurs mois. Il n'a pas d'antecedents particuliers et ne prend pas de medicaments. Il ne consomme pas d'alcool.  Examen clinique: TA 110/70 mmHg et rythme cardiaque 72/min regulier. L'hydratation du LEC est cliniquement normale.  Biologie: Na+ 131,5 mmol/L (135-145); K+ 3,6 mmol/L (3,5-4,8); CI- 97 mmol/L (97-109); HCO3- 22 mmol/L (22-26); creatinine 0,6 mg/dl (0,5-1,0); uree 18 mg/dl (15-40); glycemie 72 mg/di (70-100)  Recolte des urines de 24h: 8,2 L ; osmolalite 67,5 mosm/kg  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La determination de la concentration plasmatique d'ADH donnera une valeur basse et appropriee.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 83,
+            "Question": "Q24.  Un homme de 30 ans presente une polyurie-polydipsie depuis plusieurs mois. Il n'a pas d'antecedents particuliers et ne prend pas de medicaments. Il ne consomme pas d'alcool.  Examen clinique: TA 110/70 mmHg et rythme cardiaque 72/min regulier. L'hydratation du LEC est cliniquement normale.  Biologie: Na+ 131,5 mmol/L (135-145); K+ 3,6 mmol/L (3,5-4,8); CI- 97 mmol/L (97-109); HCO3- 22 mmol/L (22-26); creatinine 0,6 mg/dl (0,5-1,0); uree 18 mg/dl (15-40); glycemie 72 mg/di (70-100)  Recolte des urines de 24h: 8,2 L ; osmolalite 67,5 mosm/kg  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Pour preciser le diagnostic, le test de restriction hydrique doit etre suivi de l'injection d'ADH.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 84,
+            "Question": "Q24.  Un homme de 30 ans presente une polyurie-polydipsie depuis plusieurs mois. Il n'a pas d'antecedents particuliers et ne prend pas de medicaments. Il ne consomme pas d'alcool.  Examen clinique: TA 110/70 mmHg et rythme cardiaque 72/min regulier. L'hydratation du LEC est cliniquement normale.  Biologie: Na+ 131,5 mmol/L (135-145); K+ 3,6 mmol/L (3,5-4,8); CI- 97 mmol/L (97-109); HCO3- 22 mmol/L (22-26); creatinine 0,6 mg/dl (0,5-1,0); uree 18 mg/dl (15-40); glycemie 72 mg/di (70-100)  Recolte des urines de 24h: 8,2 L ; osmolalite 67,5 mosm/kg  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La clearance d'eau libre est egale a +6,15 L/j",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 85,
+            "Question": "Q31. Concernant l'hypoxie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hypoxie tissulaire chronique s'associe a une diminution du rayon des fibres musculaires peripheriques.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 86,
+            "Question": "Q31. Concernant l'hypoxie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La polyglobulie est un mecanisme compensateur a une hypoxie chronique associee a des maladies cardiaques ou pulmonaires.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 87,
+            "Question": "Q31. Concernant l'hypoxie, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une intoxication au cyanure, l'hypoxie cellulaire resulte d'une baisse de l'oxemie.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 88,
+            "Question": "Q34. Concernant les diarrhees, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La prise orale d'antibiotiques peut entrainer une diarrhee osmotique par augmentation de la production colique d'acides gras a chaines courtes.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 89,
+            "Question": "Q34. Concernant les diarrhees, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La toxine du cholera CTX peut inhiber le cotransporteur SGLT1.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 90,
+            "Question": "Q34. Concernant les diarrhees, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Dans les conditions normales, l'absorption colique de NaCl est assuree par les echangeurs apicaux Na+/H+ et Cl-/HCO3- qui travaillent en parallele.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 91,
+            "Question": "Q30. Concernant l'insuffisance cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Seule l'insuffisance cardiaque a FEVG diminuee peut s'accompagner d'hypertension pulmonaire post-capillaire (liee a une elevation de la PAPO).    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 92,
+            "Question": "Q30. Concernant l'insuffisance cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Dans l'insuffisance cardiaque a FEVG preservee, la diminution de compliance du ventricule gauche s'accompagne d'une augmentation de la pression tele-diastolique de celui-ci.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 93,
+            "Question": "Q30. Concernant l'insuffisance cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les systemes orthosympathique et renine-angiotensine-aldosterone sont impliques dans la physiopathologie de l'insuffisance cardiaque.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 94,
+            "Question": "Q33. Concernant la regulation de la pompe cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les chemorecepteurs sont influences directement par une baisse du debit cardiaque.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 95,
+            "Question": "Q33. Concernant la regulation de la pompe cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La distension des oreillettes et de la paroi des arteres pulmonaires suite a une augmentation du retour veineux induit une tachycardie.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 96,
+            "Question": "Q33. Concernant la regulation de la pompe cardiaque, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le controle du rythme cardiaque par le systeme nerveux parasympathique debute rapidement et se termine rapidement.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 97,
+            "Question": "Q32. Concernant le potassium, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lorsque les apports en potassium sont eleves, la secretion de potassium est augmentee via les canaux ROMK et BK des cellules principales du tubule connecteur initial et du tubule collecteur cortical.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 98,
+            "Question": "Q32. Concernant le potassium, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les acidoses metaboliques hyperchloremiques s'accompagnent toujours d'hyperkaliemie.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 99,
+            "Question": "Q32. Concernant le potassium, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La prise de sartans peut induire une hyperkaliemie.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 100,
+            "Question": "Q29. Concernant la ventilation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La section d'un nerf phrenique lors d'une chirurgie thoracique s'accompagne d'une dyspnee majoree en position couchee liee a une diminution du volume pulmonaire en inspiration.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 101,
+            "Question": "Q29. Concernant la ventilation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " A la capacite pulmonaire totale, la pression pleurale peut atteindre - 30 cmH20.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 102,
+            "Question": "Q29. Concernant la ventilation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Chez un patient avec une distension colique importante, la CRF sera plus fiablement mesuree par le  plethysmographe corporel que par la methode de dilution a l'helium.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 103,
+            "Question": "Q37. Concernant la circulation systemique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une stenose d'une artere renale peut favoriser le developpement d'une hypertension arterielle systemique par liberation de renine.      ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 104,
+            "Question": "Q37. Concernant la circulation systemique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'equilibre des forces de Starling le long des capillaires systemiques est en faveur au niveau du cote arteriolaire de ceux-ci d'une filtration et au niveau du cote veinulaire de ceux-ci d'une absorption.      ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 105,
+            "Question": "Q37. Concernant la circulation systemique, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lorsque la pression veineuse augmente, la forme des veines devient de plus en plus circulaire et la compliance  veineuse augmente.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 106,
+            "Question": "Q40.  Un patient de 30 ans, sans antecedents particulier est admis en urgence pour polyurie et polydipsie depuis quelques jours.  Examen clinique : le patient est conscient. TA 95/60 mmHg ; rythme cardiaque 120/minute, regulier. Respiration rapide et profonde.  Biologie: Na+ 131 mEq/L (135-145); K+ 4,0 mEq/L (3,5-4,8) ; CI- 93 mEq/L (97-109) ; HCO3- 6 mEq/L (22-26) ; glucose 702 mg/di (70-100) ; uree 42 mg/dl (15-40) ; creatinine 1,3 mg/dl (0,7-1,2).  Gazometrie arterielle (air ambiant): pH 7,10 ; PaCO2 1b8 mm Hg ; PaO2 100 mmHg.  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hyponatremie est notamment favorisee par des pertes urinaires de Na+.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 107,
+            "Question": "Q40.  Un patient de 30 ans, sans antecedents particulier est admis en urgence pour polyurie et polydipsie depuis quelques jours.  Examen clinique : le patient est conscient. TA 95/60 mmHg ; rythme cardiaque 120/minute, regulier. Respiration rapide et profonde.  Biologie: Na+ 131 mEq/L (135-145); K+ 4,0 mEq/L (3,5-4,8) ; CI- 93 mEq/L (97-109) ; HCO3- 6 mEq/L (22-26) ; glucose 702 mg/di (70-100) ; uree 42 mg/dl (15-40) ; creatinine 1,3 mg/dl (0,7-1,2).  Gazometrie arterielle (air ambiant): pH 7,10 ; PaCO2 1b8 mm Hg ; PaO2 100 mmHg.  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La kaliemie normale indique que le pool de potassium reste preserve.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 108,
+            "Question": "Q40.  Un patient de 30 ans, sans antecedents particulier est admis en urgence pour polyurie et polydipsie depuis quelques jours.  Examen clinique : le patient est conscient. TA 95/60 mmHg ; rythme cardiaque 120/minute, regulier. Respiration rapide et profonde.  Biologie: Na+ 131 mEq/L (135-145); K+ 4,0 mEq/L (3,5-4,8) ; CI- 93 mEq/L (97-109) ; HCO3- 6 mEq/L (22-26) ; glucose 702 mg/di (70-100) ; uree 42 mg/dl (15-40) ; creatinine 1,3 mg/dl (0,7-1,2).  Gazometrie arterielle (air ambiant): pH 7,10 ; PaCO2 1b8 mm Hg ; PaO2 100 mmHg.  Caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " L'hyperosmolarite plasmatique s'explique uniquement par l'hyperglycemie.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 109,
+            "Question": "Q36. Concernant les diuretiques, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les diuretiques qui agissent comme inhibiteurs du recepteur aux mineralocorticoides peuvent etre responsables du developpement d'une alcalose metabolique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 110,
+            "Question": "Q36. Concernant les diuretiques, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les diuretiques de l'anse favorisent l'excretion d'une urine fortement hyper-osmotique.   ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 111,
+            "Question": "Q36. Concernant les diuretiques, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La majorite des diuretiques exercent leur action tubulaire apres avoir ete filtres au niveau de la barriere  glomerulaire.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 112,
+            "Question": "Q39. Concernant la mecanique statique du systeme respiratoire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Une diminution de la force des muscles inspiratoires s'associent a une augmentation du volume residuel.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 113,
+            "Question": "Q39. Concernant la mecanique statique du systeme respiratoire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " En cas d'atelectasie pulmonaire associee a un deficit en surfactant, le travail respiratoire peut etre majore suite a une diminution de la compliance pulmonaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 114,
+            "Question": "Q39. Concernant la mecanique statique du systeme respiratoire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Le surfactant permet de prevenir la formation d'un oedeme pulmonaire.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 115,
+            "Question": "Q38. Concernant le foie et les voies biliaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les cellules stellees activees produisent notamment du collagene de type cicatriciel qui participe au developpement de la fibrose hepatique.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 116,
+            "Question": "Q38. Concernant le foie et les voies biliaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Lors d'une hemolyse importante, un patient dont la fonction hepatique est normale presente un ictere franc a bilirubine non conjuguee et des selles decolorees.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 117,
+            "Question": "Q38. Concernant le foie et les voies biliaires, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La cholecystokinine stimule la contraction de la vesicule biliaire par reflexe vago-vagal et par voie endocrine.    ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 118,
+            "Question": "Q35. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les pressions arterielles systemique et pulmonaire diastoliques positives sont liees a la structure elastique des arteres qui emmagasinent du sang pendant la systole et le restituent pendant la diastole (pompe accessoire) alors que les valves aortiques et pulmonaires sont respectivement ouvertes.     ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 119,
+            "Question": "Q35. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " Les resultats du catheterisme cardiaque droit d'un patient sont les suivants : pressions arterielles pulmonaires systolique 25 mmHg et diastolique 12 mmHg, pression arterielle pulmonaire occluse 4 mmHg, pression auriculaire droite 1 mmHg, debit cardiaque 6 L/min, rythme cardiaque 60 battements par minute, pressions arterielles systemiques systolique 110 mmHg et diastolique 60 mmHg. Sur base de ces resultats, la pression motrice de la circulation pulmonaire est de 12,33 mmHg.     ",
+            "Reponse": true,
+            "Justification": "-",
+            "Reference": "-"
+      },
+      {
+            "Numero": 120,
+            "Question": "Q35. Concernant la circulation pulmonaire, caracteriser par Vrai ou Faux chacune des propositions suivantes.  ",
+            "Proposition": " La resistance vasculaire pulmonaire est plus elevee a volume residuel qu'a capacite pulmonaire totale.    ",
+            "Reponse": false,
+            "Justification": "-",
+            "Reference": "-"
+      }
+]
