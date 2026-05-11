@@ -1,0 +1,29 @@
+86. Le traitement hypotenseur vise à réduire la PAS sous 120mmHg et la PA moyenne à 100mmHg. 
+87. Le traitement médical de la dissection aortique aigue comprend des bêta-bloquants et de la morphine en IV. 
+88. Toute dissection aigue de type A est une indication de chirurgie très urgente. 
+89. Seules les dissections de type B avec ischémie sont une indication de traitement chirurgical ou endovasculaire. 
+90. La fenestration consiste à créer une communication entre le vrai et le faux chenal par voie endovasculaire. 
+91. La revascularisation chirurgicale par pontage est une option pour les dissections de type B avec ischémie. 
+92. La pose d’une endoprothèse couverte permet d’ouvrir la brèche intimale en cas de dissection aortique. 
+93. Les dilatations anévrysmales de l’aorte descendante doivent être opérées si leur diamètre devient >55mm. 
+94. Le diamètre anévrysmal nécessitant une intervention est plus petit en cas de maladie du tissu conjonctif 
+(Marfan, Ehlers-Danlos,…) ou d’anomalies valvulaires mitrales congénitales. 
+95. Les dilatations anévrysmales de l’aorte abdominale doivent être opérées si leur diamètre devient >65mm. 
+96. Les dilatations anévrysmales de l’aorte descendante doivent être opérées si leur diamètre devient >60mm. 
+97. Les dilatations anévrysmales de l’aorte ascendante doivent être opérées si leur diamètre devient >55mm. 
+98. Les dissections aortiques chroniques doivent être surveillées 1x/an à partir de la 3ème année par CT ou RMN. 
+99. Les dissections aortiques chroniques doivent être surveillées 4x/an à partir de la 2ème année par CT ou RMN. 86. Faux 
+87. Vrai 
+88. Vrai 
+89. Faux 
+90. Vrai 
+91. Vrai 
+92. Faux 
+93. Faux 
+94. Vrai 
+ 
+95. Faux 
+96. Vrai 
+97. Vrai 
+98. Vrai 
+99. Faux 

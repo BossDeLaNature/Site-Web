@@ -1,0 +1,29 @@
+135. Les statines sont importantes dans le traitement de l'angine de poitrine asymptomatique.  
+136. L'angor instable est trois fois plus fréquent que l'infarctus myocardique avec élévation ST.  
+137. L’infarctus NSTEMI est caractérisé par une ischémie transmurale du myocarde. 
+138. L’ECG de l’infarctus NSTEMI montre une onde Q de nécrose. 
+139. L’angor instable peut se compliquer par une mort subite suite à une arythmie ventriculaire. 
+140. Les patients atteints d'angor instable ont un risque important de réinfarcissement.  
+141. L’infarctus NSTEMI est provoqué par une réduction sévère ou un arrêt permanent de l’apport sanguin. 
+142. Il n’y a pas d’élévation du segment ST et pas d’onde Q à l’ECG en cas d’angor instable.  
+143. Les lésions d’angor instable sont souvent diffuses et ne traversent pas la paroi ventriculaire. 
+144. Les symptômes de l'angine de poitrine instable sont souvent moins sévères mais plus prolongés que ceux 
+de l'angor chronique stable.  
+145. Les symptômes de l’angor instable peuvent durer jusqu’à plus d’une heure. 
+146. L’angor instable est parfois asymptomatique. 
+147. Les dérivés nitrés sublinguaux sont très efficaces pour soulager la douleur dans l'angor instable.  
+148. L'angine de poitrine instable survient principalement pendant l'effort.  135. Vrai 
+136. Vrai 
+137. Faux 
+138. Faux 
+139. Vrai 
+140. Vrai 
+141. Faux 
+142. Vrai  
+143. Vrai 
+144. Faux 
+ 
+145. Faux  
+146. Vrai 
+147. Faux  
+148. Faux  

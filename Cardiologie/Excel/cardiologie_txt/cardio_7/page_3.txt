@@ -1,0 +1,29 @@
+29. L’angio-IRM est inadéquate pour les artères ayant fait l’objet d’un stenting.  
+30. Le traitement de l’ischémie aiguë des membres inférieurs est une urgence thérapeutique.  
+31. L’examen clinique est suffisant pour diagnostiquer l’AOMI dans plus de 80% des cas.  
+32. L’artériographie est une technique d’imagerie non invasive pour évaluer précisément l’extension des lésions 
+artérielles périphériques.  
+33. L’angio-IRM nécessite l’injection IV d’un produit de contraste iodé pour diagnostiquer une AOMI. 
+34. Le rétrécissement des artères dans l’AOMI entraîne une accélération progressive du débit sanguin. 
+35. La circulation collatérale de suppléance devient insuffisante au-delà d’un certain point en cas d’AOMI.   
+36. Les douleurs de repos sont caractéristiques du stade II de l’AOMI.  
+37. La pression d’oxygène transcutanée est une technique d’exploration de la microcirculation.  
+38. Toutes les techniques d’artériographie sont des examens invasifs.  
+39. Les pressions de perfusion augmentent en cas d’AOMI lors d’une épreuve d’hyperhémie.  
+40. Le réentrainement physique est fondamental dans le traitement de l’AOMI.  
+41. Les antiagrégants plaquettaires ne sont pas recommandés dans le traitement de l’AOMI.  
+42. Les statines sont utilisées pour stabiliser les plaques d’athérome chez les patients atteints d’AOMI.  29. Vrai 
+30. Vrai 
+31. Vrai 
+32. Faux 
+ 
+33. Faux 
+34. Faux 
+35. Vrai 
+36. Faux 
+37. Vrai 
+38. Faux 
+39. Faux 
+40. Vrai 
+41. Faux 
+42. Vrai 

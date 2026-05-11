@@ -1,0 +1,29 @@
+190. La tachycardie peut être déclenchée par une hyperthyroïdie. 
+191. Le BAV de 3ème degré de type Mobitz I est caractérisée par une altération stéréotypée et répétée de la 
+conduction auriculo-ventriculaire. 
+192. Toutes les ondes P sont conduites avec retard en cas de BAV de 2ème degré de type Mobitz I. 
+193. Si le BAV est associé à un bloc de branche, le bloc de conduction est situé dans le système His-Purkinje.  
+194. Si le BAV de 2ème degré est accompagné d’un QRS normal, le bloc de conduction est situé dans le NAV et 
+est plus susceptible de progresser rapidement vers un BAV de 3ème degré. 
+195. On parle de BAV de 2ème degré de type « haut degré » si plusieurs ondes P d’affilée sont bloquées. 
+196. Les ondes P ne sont jamais transmises aux ventricules en cas de BAV du 3ème degré. 
+197. Le rythme de contraction des oreillettes est plus lent que celui des ventricules en cas de BAV complet. 
+198. Les ventricules se contractent indépendamment des oreillettes en cas de BAV du 2ème degré. 
+199. Le bloc AV de type Mobitz II peut être associé à une intoxication médicamenteuse. 
+200. La durée normale du complexe QRS est <0,10 secondes. 
+201. La durée du QRS est >0,12 secondes en cas de bloc de branche majeur. 
+202. Le bloc de branche droit est caractérisé par une disparition des ondes R en V1 et des ondes Q en V6.  190. Vrai 
+191. Faux 
+ 
+192. Faux 
+193. Vrai 
+194. Faux 
+ 
+195. Vrai 
+196. Vrai 
+197. Faux 
+198. Faux 
+199. Faux 
+200. Vrai 
+201. Vrai 
+202. Faux 

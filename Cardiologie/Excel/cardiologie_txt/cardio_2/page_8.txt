@@ -1,0 +1,29 @@
+86. L'HTA est souvent asymptomatique jusqu'à ce qu'elle atteigne les organes cibles.  
+87. Pour mesurer la PA, il est recommandé d'attendre au moins 15 minutes après la consommation de café.  
+88. Il est préférable que le patient parle pendant la mesure de la PA pour détendre les muscles. 
+89. Un brassard trop petit surestime la mesure de la pression artérielle.  
+90. Lors de la mesure de la PA, la disparition des bruits correspond à la PAS.  
+91. L'élévation de la PA doit être confirmée par des mesures répétées avant de décider d'un traitement.  
+92. Les contraceptifs oraux peuvent causer une hypertension.  
+93. La mesure de la tension se fait sur le bras pendant pour éviter toute contraction musculaire. 
+94. Un taux de potassium inférieur à 3.5 meq/l sans diurétiques peut indiquer un hyperaldostéronisme.  
+95. L’hypertension « de la blouse blanche » est une cause de variabilité majeure des chiffres tensionnels. 
+96. Le phéochromocytome est une cause fréquente d'HTA qui se manifeste par des palpitations, des céphalées, 
+une transpiration profuse, une HTA labile et une hypotension orthostatique. 
+97. Les patients atteints de coarctation aortique présentent souvent des pouls fémoraux réduits.  
+98. L'HTA essentielle est la cause la plus fréquente d'hypertension.  
+99. Les corticostéroïdes peuvent entraîner une augmentation de la pression artérielle.  86. Vrai  
+87. Faux 
+88. Faux 
+89. Vrai 
+90. Faux  
+91. Vrai 
+92. Vrai 
+93. Faux 
+94. Vrai 
+95. Vrai 
+96. Faux  
+ 
+97. Vrai 
+98. Vrai 
+99. Vrai 

@@ -1,0 +1,29 @@
+43. L'imagerie par résonance magnétique montre un contraste spontané entre la vraie et la fausse lumière.   
+44. L'ischémie aiguë d'un membre est une complication possible de la dissection aortique.  
+45. Le traitement chirurgical n’est jamais nécessaire pour les dissections aortiques chroniques.  
+46. Les hommes ont 5 fois plus de chance de développer une dissection aortique que les femmes. 
+47. Les dissections de type A affectent exclusivement l'aorte descendante.  
+48. Les dissections aortiques de type A surviennent surtout chez les personnes âgées de moins de 40 ans. 
+49. L'échocardiographie transoesophagienne permet de visualiser uniquement la "fausse" lumière de la dissection.  
+50. La mortalité associée à la dissection de type B est plus élevée que celle de type A.  
+51. Les personnes âgées de 60 à 70 ans sont plus sujettes aux dissections de type B.  
+52. La dégénérescence physiologique des artères et l’athérosclérose favorisent les dissections aortiques.  
+53. La dissection aortique n’induit jamais de souffle à l’examen clinique. 
+54. Le remplacement de l'aorte ascendante est un traitement chirurgical des dissections de type A.  
+55. La fenestration est une méthode de traitement endovasculaire pour les dissections aortiques de type B.  
+56. La déchirure survient le plus souvent entre la partie interne de la média et l’intima en cas de dissection. 
+57. La dissection aortique est caractérisée par une déchirure longitudinale de la paroi aortique. 43. Vrai 
+44. Vrai 
+45. Faux 
+46. Vrai 
+47. Faux 
+48. Faux 
+49. Faux 
+50. Faux 
+51. Vrai 
+52. Vrai 
+53. Faux 
+54. Vrai 
+55. Vrai 
+56. Faux 
+57. Vrai 

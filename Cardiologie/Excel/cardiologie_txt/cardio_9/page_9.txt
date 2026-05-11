@@ -1,0 +1,29 @@
+115. La radiographie de l’abdomen à blanc permet de visualiser des calcifications de la paroi vasculaire. 
+116. L’échographie abdominale est l’examen de 1er choix pour le dépistage et la surveillance des AAA. 
+117. Le scanner sans produit de contraste n’est pas utile pour diagnostiquer les anévrysmes aortiques. 
+118. La tomodensitométrie avec contraste est indiquée uniquement pour guider la stratégie thérapeutique en 
+cas d’anévrysme de l’aorte abdominale. 
+119. Les antiagrégants plaquettaires comme l’héparine sont utilisés pour traiter l’AAA asymptomatique. 
+120. Le traitement chirurgical des AAA est associé à une mortalité post-opératoire d’environ 4%. 
+121. Le traitement chirurgical des AAA consiste à retirer le sac anévrysmal et à suturer la paroi artérielle. 
+122. Les complications tardives de la cure chirurgicale classique de l’AAA sont fréquentes. 
+123. Le traitement chirurgical des AAA consiste à mettre une prothèse en Dacron à l’intérieur de l’anévrysme. 
+124. La nécrose colique fait partie des complications les plus fréquentes du traitement endoluminal des 
+anévrysmes de l’aorte abdominal. 
+125. L’IC, la pneumonie, l’infarctus myocardique, l’IR et l’insuffisance respiratoire font partie des complications 
+post-opératoires les plus fréquentes du traitement chirurgical des anévrysmes de l’aorte abdominal. 
+126. Le traitement endoluminal de l’AAA provoque la thrombose complète du sac anévrysmal. 115. Vrai 
+116. Vrai 
+117. Faux 
+118. Vrai 
+ 
+119. Faux 
+120. Vrai 
+121. Faux 
+122. Faux 
+123. Vrai 
+124. Faux 
+ 
+125. Vrai 
+ 
+126. Vrai 

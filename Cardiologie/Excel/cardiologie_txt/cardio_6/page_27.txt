@@ -1,0 +1,29 @@
+351. L’intervalle PR normal est compris entre 0,12 et 0,20 secondes. 
+352. L’onde delta est d’autant moins visible que la voie accessoire est située proche du NAV.  
+353. Les voies accessoires droites ou septales sont mieux visualisées à l’ECG en cas de WPW. 
+354. Un traitement par digitaliques augmente l’onde delta à l’ECG en cas de syndrome de pré-excitation. 
+355. L’onde delta est plus grande si le faisceau accessoire est activée tardivement après le NAV. 
+356. L’inhibition de la conduction AV favorise la dépolarisation ventriculaire par le faisceau accessoire et aggrave 
+la pré-excitation. 
+357. L’augmentation de la conduction du NAV augmente l’onde delta à l’ECG en cas de WPW. 
+358. L’onde delta disparait durant la tachycardie orthodromique en cas de Wolff-Parkinson-White. 
+359. L’onde delta est observée juste après le QRS en rythme sinusal en cas de Wolff-Parkinson-White. 
+360. Les complexes QRS sont normaux pendant la tachycardie orthodromique en cas de WPW.  
+361. La fréquence ventriculaire varie entre 180 et 250bpm dans le Wolff-Parkinson-White. 
+362. L’intervalle PR est plus long que l’intervalle RP en cas de syndrome de pré-excitation. 
+363. La fréquence ventriculaire dépend de la vitesse de conduction à travers la voie accessoire en cas de WPW. 
+364. Une onde P rétrograde est visible dans le segment ST après le QRS en cas de tachycardie orthodromique. 351. Vrai 
+352. Faux 
+353. Vrai 
+354. Vrai 
+355. Faux 
+356. Vrai 
+ 
+357. Faux 
+358. Vrai 
+359. Faux 
+360. Vrai 
+361. Vrai  
+362. Vrai 
+363. Faux 
+364. Vrai 

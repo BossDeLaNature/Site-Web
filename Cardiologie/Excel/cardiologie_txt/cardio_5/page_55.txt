@@ -1,0 +1,29 @@
+691. L’arrêt du traitement par prostacycline IV peut entrainer une hypertension pulmonaire sévère et brutale. 
+692. Les agonistes de l’endothéline sont utilisés dans le traitement de l’hypertension pulmonaire. 
+693. L’endothéline induit une vasoconstriction via son récepteur Etb et une vasodilatation par la libération de 
+NO et de prostacycline via son récepteur Eta. 
+694. L’angioplastie percutanée des artères pulmonaires est possible en cas d’HTP de groupe 4.  
+695. Le riociguat est un activateur de la guanylate cyclase à action vasodilatatrice et antiproliférative. 
+696. Les tumeurs cardiaques primitives sont plus fréquentes que les tumeurs cardiaques secondaires.  
+697. Les sarcomes cardiaques sont généralement bénins chez les enfants.  
+698. Le myxome est la tumeur du cœur la plus fréquente et représente 90% des tumeurs primitives cardiaques. 
+699. Les myxomes sont souvent situés dans l'oreillette droite dans la moitié des cas. 
+700. Les embolies sont une présentation clinique fréquente des myxomes cardiaques.  
+701. Les tumeurs cardiaques peuvent provenir de métastases de cancers pulmonaires ou de mélanomes. 
+702. Le traitement des tumeurs cardiaques est généralement limité à la chirurgie.  
+703. Les myxomes cardiaques peuvent provoquer une sténose mitrale (œdème pulmonaire et syncope).  
+704. Les tumeurs secondaires cardiaques sont 4x plus fréquentes que les tumeurs primitives. 691. Vrai 
+692. Faux 
+693. Faux 
+ 
+694. Vrai 
+695. Vrai 
+696. Faux 
+697. Faux 
+698. Faux 
+699. Faux 
+700. Vrai 
+701. Vrai 
+702. Faux 
+703. Vrai 
+704. Vrai 

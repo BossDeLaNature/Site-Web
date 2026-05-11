@@ -1,0 +1,29 @@
+56. La survenue d'un flux veineux turbulent peut entraîner une inflammation de la paroi veineuse. 
+57. Les altérations de la circulation veineuse sont toujours séquellaires.  
+58. Les fistules artério-veineuses sont une cause d’insuffisance veineuse secondaire. 
+59. Les altérations de la circulation veineuse sont toujours causées par des facteurs génétiques.  
+60. La réduction du flux veineux n'a aucun effet sur les cellules endothéliales de la paroi veineuse. 
+61. Les altérations de la circulation veineuse entrainent une extravasion de globules rouges.  
+62. L'insuffisance valvulaire primaire ne survient jamais après une thrombose veineuse.  
+63. L’hyperpression veineuse dans les membres inférieurs due à la station bipède disparait à la marche. 
+64. La contraction musculaire et les valvules veineuses génèrent un flux sanguin veineux centrifuge. 
+65. L’augmentation de pression intra-thoracique à l’inspiration facilite le retour veineux vers le cœur. 
+66. Le sang veineux ne peut se diriger que vers la cuisse lors de la contraction des muscles jambiers car les 
+valvules préviennent le reflux sanguin dans toutes les autres directions. 
+67. L’incontinence des veines perforantes peut causer une insuffisance veineuse. 
+68. On propose au maximum une contention de classe II en cas d’insuffisance veineuse ou de varices. 
+69. Le flux laminaire a une action pro-inflammatoire sur les cellules endothéliales de la paroi veineuse. 56. Vrai 
+57. Faux 
+58. Vrai 
+59. Faux 
+60. Faux 
+61. Vrai 
+62. Vrai 
+63. Vrai 
+64. Faux 
+65. Faux 
+66. Vrai 
+ 
+67. Vrai 
+68. Vrai 
+69. Faux 

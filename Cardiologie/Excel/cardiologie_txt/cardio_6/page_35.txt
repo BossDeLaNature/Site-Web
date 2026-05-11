@@ -1,0 +1,29 @@
+466. La fibrillation auriculaire induit une perte de l’activité mécanique ventriculaire. 
+467. La FA réduit d’autant plus le débit cardiaque que la fonction ventriculaire est altérée et qu’elle devient 
+tributaire de la contraction auriculaire. 
+468. Le débit cardiaque peut diminuer de 50% suite à la fibrillation auriculaire. 
+469. La fibrillation auriculaire peut entrainer une dyspnée et une insuffisance cardiaque. 
+470. Le remodelage électrique auriculaire augmente le risque de récidives de FA après resinusalisation. 
+471. La perte de la diastole auriculaire augmente le risque de thromboembolie. 
+472. La fibrillation auriculaire paroxystique est caractérisé par des épisodes récurrents de moins de 3 jours. 
+473. Il existe des cas de FA soutenue non-resinusalisable où il n’y a plus d’espoir de rétablir un rythme sinusal. 
+474. La FA soutenue re-sinusalisable est caractérisée par des épisodes récurrents de 7 jours ou plus. 
+475. Les épisodes de FA paroxystique durent maximum une semaine.  
+476. Les symptômes de la FA sont très nombreux : palpitations, agitation, dyspnée, insuffisance cardiaque 
+congestive, angor, embolies, syncopes (associée à la maladie du sinus),… 
+477. La fibrillation auriculaire est toujours symptomatique. 
+478. La FA soutenue re-sinusalisable s’arrête parfois spontanément en plus de 7 jours. 466. Faux 
+467. Vrai 
+ 
+468. Faux 
+469. Vrai 
+470. Vrai 
+471. Faux 
+472. Faux 
+473. Vrai 
+474. Vrai 
+475. Vrai 
+476. Faux 
+ 
+477. Faux 
+478. Faux 

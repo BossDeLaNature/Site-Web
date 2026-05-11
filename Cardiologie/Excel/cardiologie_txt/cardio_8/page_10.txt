@@ -1,0 +1,29 @@
+118. Les lésions carotidiennes sont toujours traitées avant les lésions vertébrobasilaires pour essayer 
+d’améliorer les symptômes.  
+119. L’artère sous-clavière droite est la plus fréquemment touchée par les lésions des troncs supra-aortiques. 
+120. Le tronc artériel brachio-céphalique est plus fréquemment touché que les carotides primitives. 
+121. Une asymétrie de pulsatilité ou de PA doit faire suspecter une lésions des troncs supra-aortiques. 
+122. Les lésions sous-clavières peuvent provoquer des lésions ischémiques distales d’origine embolique. 
+123. Le vol vertébral se produit en cas de sténose de la carotide en amont de l’origine de l’artère vertébrale. 
+124. Les sténoses sous-clavières sont le plus souvent très symptomatiques avec une claudication intermittent 
+du membre supérieur et des nécroses digitales. 
+125. Le syndrome de vol sous-clavier est le plus souvent bien toléré. 
+126. Le vol sous-clavier se manifeste par des symptômes d’insuffisance vertébrobasilaire provoqués par 
+l’utilisation du bras. 
+127. Le syndrome de vol sous-clavier est caractérisée par une inversion du flux dans l’artère vertébrale. 
+128. Les sténoses des troncs supra-aortiques n’entrainent jamais de souffles artériels. 
+129. Les examens complémentaires sont indiqués uniquement pour la sténose sous-clavière symptomatique.  118. Vrai 
+ 
+119. Faux 
+120. Vrai 
+121. Vrai 
+122. Vrai 
+123. Faux 
+124. Faux 
+ 
+125. Vrai 
+126. Vrai 
+ 
+127. Vrai 
+128. Faux 
+129. Vrai 

@@ -1,0 +1,29 @@
+318. Le diltiazem est le seul antagoniste calcique recommandé dans le traitement chronique de l’infarctus. 
+319. Les dérivés nitrés doivent être arrêtés 48h après un infarctus.  
+320. L’administration intra-veineuse d’inhibiteurs de l’enzyme de conversion augmente la mortalité. 
+321. Les arythmies ventriculaires tardives post-infarctus ne sont pas une indication de mise en place d’un 
+défibrillateur implantable. 
+322. La dissection aortique est 3 fois plus fréquente que la rupture d’un anévrysme aortique abdominal. 
+323. La dissection aortique est plus fréquente chez les femmes que chez les hommes. 
+324. L'HTA est un facteur de risque mineur pour la dissection aortique.  
+325. La dissection aortique peut être favorisée par une augmentation très rapide de la pression artérielle, 
+comme lors d’un exercice isométrique ou de la prise de cocaïne.  
+326. La dissection aortique est rare chez les sujets jeunes, sauf s'ils présentent des facteurs de fragilité tissulaire 
+ou des modifications hémodynamiques.  
+327. La dissection aortique touche principalement les hommes entre 40 et 50 ans. 
+328. La dissection aortique survient principalement dans l'aorte descendante.  
+329. Dans la classification de Stanford, le Type A concerne l'aorte ascendante et l'arche aortique.  318. Vrai 
+319. Vrai 
+320. Vrai 
+321. Faux 
+ 
+322. Faux 
+323. Faux 
+324. Faux 
+325. Vrai 
+ 
+326. Vrai 
+ 
+327. Faux 
+328. Faux 
+329. Vrai 

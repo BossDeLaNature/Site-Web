@@ -1,0 +1,29 @@
+318. Le remplacement vasculaire mitral est préférable à l’annuloplastie en cas de prolapsus mitral étendu. 
+319. L’annuloplastie consister à suturer un anneau souple afin de rétrécir l’anneau valvulaire mitral.  
+320. La valve mitrale réparée ne nécessite pas d’anticoagulation à long terme. 
+321. La réparation valvulaire est préférable au remplacement valvulaire pour préserver la fonction ventriculaire.  
+322. L’insuffisance mitrale cause un flux anormal du ventricule gauche vers l'oreillette gauche durant la systole.  
+323. L'annuloplastie est réservée aux patients jeunes asymptomatiques.  
+324. Les formes aiguës d'insuffisance mitrale provoquent une élévation de la pression dans l'oreillette gauche. 
+325. La chirurgie classique doit être évitée tant que possible dans le traitement de l’insuffisance mitrale.  
+326. La réparation de la valve mitrale par annuloplastie nécessite une courte anticoagulation par antivitamines K.  
+327. La tension pariétale du ventricule gauche diminue dans l'insuffisance mitrale.  
+328. Le remplacement valvulaire mitral par une bioprothèse nécessite une anticoagulation de 3 mois par AVK. 
+329. Les anticoagulants directs sont recommandés en cas de FA après pose d’une valve mitrale biologique.  
+330. L'insuffisance mitrale peut être associée aux syndrome de Marfan et à la maladie de Horton. 
+331. La fibrillation auriculaire est peu fréquente dans l'insuffisance mitrale.  
+332. La section des cordages valvulaires lors du remplacement valvulaire mitral altère la fonction auriculaire. 318. Vrai 
+319. Faux 
+320. Vrai 
+321. Vrai 
+322. Vrai 
+323. Faux 
+324. Vrai 
+325. Vrai 
+326. Vrai 
+327. Faux 
+328. Vrai 
+329. Vrai 
+330. Faux 
+331. Faux 
+332. Faux 

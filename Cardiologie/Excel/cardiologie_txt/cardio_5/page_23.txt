@@ -1,0 +1,29 @@
+280. La séquence d’administration des traitements les plus récommandés en cas d’IC à FEVG <40% est : 
+diurétiques > IEC/sacubitril-valsartan > spironolactone > bêta-bloquants > glifozines. 
+281. De manière générale, le traitement de l’IC débute à petites doses et est progressivement augmenté pour 
+atteindre les doses maximales tolérables ou recommandées. 
+282. Les bêta-bloquants doivent être prescrits uniquement quand le patient est stabilisé en cas d’IC. 
+283. Le resynchronisation ventriculaire est indiquée si le patient réunit 4 conditions : FEVG <35%, rythme 
+sinusal, BBG >130ms, symptômes persistants malgré le traitement.  
+284. La resynchronisation ventriculaire vise à stimuler électriquement les ventricules en cas de BAV. 
+285. L’attraction du septum interventriculaire réduit l’efficacité de la contraction retardée du VG en cas de BBG.  
+286. Un bloc de branche gauche suffisamment long peut indirectement impacter l’appareil sous-valvulaire 
+mitral et aggraver une sténose mitrale. 
+287. La resynchronisation ventriculaire vise à stimuler électriquement les 2 ventricules en même temps.  
+288. L’IC est un processus statique et isolé qui dépend peu d'autres facteurs physiologiques. 
+289. Les défibrillateurs implantables sont indiqués en cas d’insuffisance cardiaque uniquement en prévention 
+secondaire d’une mort subite.  280. Faux 
+ 
+281. Vrai 
+ 
+282. Vrai 
+283. Vrai 
+ 
+284. Faux 
+285. Vrai 
+286. Faux 
+ 
+287. Vrai 
+288. Faux 
+289. Faux 
+ 

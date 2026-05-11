@@ -1,0 +1,29 @@
+26. Un accident ischémique vertébrobasilaire peut être déclenché par une compression extrinsèque positionnelle.  
+27. Un mécanisme hémodynamique est rarement à l'origine d'un accident ischémique vertébrobasilaire.  
+28. Les mouvements de tête peuvent diminuer le débit sanguin dans les artères vertébrales.  
+29. Les accidents ischémiques vertébrobasilaires sont toujours causés par un mécanisme thromboembolique.  
+30. Les sténoses sous-clavières sont souvent symptomatiques.  
+31. Les sténoses sous-clavières sont souvent découvertes lors d'une prise de tension artérielle aux deux bras.  
+32. La claudication intermittente du membre supérieur est un symptôme de sténose carotidienne. 
+33. Les sténoses du tronc artériel brachio-céphalique sont toujours asymptomatiques.  
+34. Les sténoses du tronc artériel brachio-céphalique peuvent provoquer des accidents ischémiques transitoires.  
+35. Les dissections artérielles surviennent principalement après un traumatisme cervical.  
+36. Les dissections de la carotide interne provoquent des céphalées et des acouphènes pulsatiles. 
+37. L'échographie-Doppler est l'examen de choix en 1ère intention pour le diagnostic des dissections artérielles.  
+38. L'imagerie par résonance magnétique cérébrale ne permet pas de visualiser l'hématome de paroi dans les 
+dissections artérielles.  
+39. L'angiographie conventionnelle est toujours nécessaire pour diagnostiquer les dissections artérielles.  26. Vrai 
+27. Faux 
+28. Vrai 
+29. Faux 
+30. Faux 
+31. Vrai 
+32. Faux 
+33. Faux 
+34. Vrai 
+35. Faux 
+36. Vrai 
+37. Vrai 
+38. Faux 
+ 
+39. Faux 

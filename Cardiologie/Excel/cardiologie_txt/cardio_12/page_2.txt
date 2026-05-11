@@ -1,0 +1,29 @@
+13. Les artériopathies toxiques sont principalement causées par l'exposition à des métaux lourds.  
+14. Le pseudoxanthome élastique affecte principalement les hommes.  
+15. Les embolies paradoxales se produisent souvent à partir d’une TVP des membres inférieurs.  
+16. La dysplasie fibromusculaire touche principalement les artères rénales, les carotides et les artères iliaques.  
+17. L'endofibrose iliaque externe est spécifique aux personnes âgées.  
+18. Seulement 10% des artériopathies ne sont pas causées par la maladie athérothrombotique.  
+19. Les artériopathies non athéromateuses ne touchent pas uniquement les artères des membres inférieurs.  
+20. Le syndrome de la poplitée piégée est une cause d'artériopathie athéromateuse.  
+21. Le syndrome de la poplitée piégée est caractérisé par une claudication intermittente chez les sujets jeunes 
+sans facteurs de risque d'athérosclérose.  
+22. L'ischémie mésentérique aiguë est une manifestation courante de la maladie kystique adventicielle.  
+23. Les dysplasies fibromusculaires touchent préférentiellement les hommes.  
+24. La dysplasie fibromusculaire peuvent causer une hypertension artérielle en cas d'atteinte des artères rénales. 
+25. Les endofibroses iliaques externes sont spécifiques des sujets sportifs.  
+26. Les endofibroses iliaques externes entraînent généralement une claudication basse. 13. Faux 
+14. Faux 
+15. Vrai 
+16. Vrai 
+17. Faux 
+18. Vrai 
+19. Vrai 
+20. Faux 
+21. Vrai 
+ 
+22. Faux 
+23. Faux 
+24. Vrai 
+25. Vrai 
+26. Faux 

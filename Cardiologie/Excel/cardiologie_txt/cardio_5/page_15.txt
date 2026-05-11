@@ -1,0 +1,29 @@
+180. L’hypoalbuminémie diminue l’effet des diurétiques chez le patient cachectique sous-alimenté. 
+181. Les diurétiques entrainent souvent une hypokaliémie et une hypermagnésémie. 
+182. L’effet des diurétiques sur la kaliémie favorise les arythmies létales et réduit l’effet des digitaliques. 
+183. La spironolactone a des effets myocardiques favorables à la dose de 25mg/h.  
+184. L’adjonction de spironolactone est préférable aux suppléments de K+ pour compenser l’hypokaliémie 
+induite par les diurétiques en cas d’insuffisance cardiaque. 
+185. Les IEC inhibent complètement la production d'angiotensine II et d'aldostérone.  
+186. Les antagonistes du récepteur à l'angiotensine peuvent être utilisés en cas d’intolérance aux IEC.  
+187. Le sacubitril est un antagoniste des récepteurs de l'AGII plus efficace qu’un IEC seul en cas d’IC.   
+188. La spironolactone induit une gynécomastie chez 10% des hommes. 
+189. Les bêta-bloquants préviennent 50 % des morts subites chez les patients atteints d'insuffisance cardiaque.  
+190. Les bêta-bloquants doivent être débutés à haute dose en cas d’insuffisance cardiaque. 
+191. Les bêta-bloquants doivent être administrés après que les inhibiteurs du SRAA et les diurétiques aient été 
+introduits et que leur dose ait été optimalisée et stabilisée.  
+192. Les diurétiques sont utilisés pour lutter contre la surcharge hydrosodée dans l'insuffisance cardiaque.  180. Vrai 
+181. Faux 
+182. Faux 
+183. Faux 
+184. Vrai 
+ 
+185. Faux 
+186. Vrai 
+187. Faux 
+188. Vrai 
+189. Vrai 
+190. Faux 
+191. Vrai 
+ 
+192. Vrai 

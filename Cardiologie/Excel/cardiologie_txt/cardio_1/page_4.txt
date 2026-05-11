@@ -1,0 +1,29 @@
+41. Une pression pulsée inférieure à 60mmHg chez le sujet âgé est un facteur de risque cardiovasculaire.  
+42. L'hypertrophie ventriculaire gauche est associée à un risque accru de maladie cardiovasculaire.  
+43. L'épaississement de l'intima-média de la carotide de 0,5mm est un facteur de risque cardiovasculaire.  
+44. Un indice bras-cheville inférieur à 0,9 est un facteur de risque cardiovasculaire. 
+45. Un patient avec une filtration glomérulaire à 80ml/min/1,73m² est plus à risque de maladie cardiovasculaire. 
+46. Un rapport albumine/créatinine sur échantillon urinaire matinal inférieur à 30 mg/g est un facteur de risque 
+cardiovasculaire.  
+47. Les patients en prévention secondaire ont un risque réduit de présenter une récidive d'accident cardiovasculaire. 
+48. Les mesures diététiques sont importantes pour réduire le risque cardiovasculaire chez les patients à risque élevé. 
+49. Un BMI supérieur à 25 kg/m² est associé à un risque accru de maladie cardiovasculaire.  
+50. Une circonférence abdominale supérieure à 95cm chez la femme n’est pas un facteur de risque cardiovasculaire. 
+51. Les patients ayant présenté un AIT doivent faire l’objet d’une prévention secondaire. 
+52. Des triglycérides à 120mg/dl dans le sang n’augmentent pas le risque cardiovasculaire. 
+53. Une PAD supérieure à 110mmHg est considérée comme une HTA de grade 3. 
+54. Une réduction de cholestérol total de 2% réduit les évènements coronariens de 1%. 41. Faux 
+42. Vrai 
+43. Faux 
+44. Vrai 
+45. Faux 
+46. Faux 
+ 
+47. Faux 
+48. Vrai  
+49. Faux 
+50. Faux 
+51. Vrai 
+52. Vrai 
+53. Vrai 
+54. Faux 

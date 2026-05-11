@@ -1,0 +1,29 @@
+118. L’étude de la viabilité myocardique n’est pas nécessaire dans l’insuffisance cardiaque. 
+119. L’auscultation ne montre jamais de bruits cardiaques supplémentaires en cas d’IC systolique. 
+120. La prise de sang est utilisée pour rechercher une hypernatrémie, un diabète, une insuffisance rénale ou 
+une hypoalbuminémie en cas d’IC.  
+121. Le NT-proBNP peut être dosé à la biologie sanguine en cas d’insuffisance cardiaque systolique. 
+122. L’ECG d’une insuffisance cardiaque secondaire à un infarctus montre un microvoltage. 
+123. L’échographie cardiaque n’est pas une technique utile pour mesurer les régurgitations valvulaires. 
+124. La radiographie de thorax montre une cardiomégalie et une congestion pulmonaire en cas d’IC. 
+125. Une pathologie coronaire peut être détectée à l’ECG en cas d’insuffisance cardiaque systolique. 
+126. Une pathologie congestive hépatique ne montre aucun signes à la biologie sanguine. 
+127. Une VO2 à l’exercice maximal <50% de la valeur prédite révèle une altération fonctionnelle importante en 
+cas d’insuffisance cardiaque systolique. 
+128. Le PET-scan n’est pas utilisé comme examen complémentaire en cas d’insuffisance cardiaque systolique. 
+129. L’ECG est l’examen de choix pour choisir les candidats potentiels à une transplantation cardiaque en cas 
+d’insuffisance cardiaque congestive à dysfonction systolique.  118. Faux 
+119. Faux 
+120. Faux 
+ 
+121. Vrai 
+122. Vrai 
+123. Faux 
+124. Vrai 
+125. Vrai 
+126. Faux 
+127. Vrai 
+ 
+128. Faux 
+129. Faux 
+ 

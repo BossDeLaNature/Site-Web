@@ -1,0 +1,29 @@
+197. L'ECG montre souvent une hypertrophie ventriculaire gauche dans la sténose mitrale.  
+198. La sténose mitrale peut entraîner une augmentation de la durée de l'onde P en D2.  
+199. L’augmentation de pression dans l’oreillette droite secondaire à la sténose mitrale induit une dyspnée, un 
+œdème pulmonaire hémodynamique et des hémoptysies. 
+200. La sténose mitrale se manifeste au début par de la dyspnée et une fatigue d’apparition progressive. 
+201. La sténose mitrale peut se manifester par des symptômes aigus comme la FA et les emboles systémiques. 
+202. La radiographie thoracique peut montrer une dilatation du ventricule droit dans la sténose mitrale.  
+203. Dans la sténose mitrale, la valve mitrale est encore ouverte quand la systole ventriculaire débute. 
+204. L’auscultation de la sténose mitrale montre un B2 claquant et un claquement d’ouverture mitral. 
+205. Le souffle de sténose mitrale est mieux perçu en décubitus dorsal et après l’exercice. 
+206. Le renforcement présystolique du souffle de sténose mitrale disparait en cas de FA.  
+207. L’auscultation d’une sténose mitrale montre un roulement holodiastolique avec un renforcement avant B1. 
+208. Le P2 disparait à l’auscultation en cas d’hypertension pulmonaire.  
+209. L’hypertrophie auriculaire gauche secondaire à la sténose mitrale se manifeste à l’ECG par une 
+augmentation de la durée de l’onde P >0,08s en D2 et une augmentation de sa composante négative en V1.  197. Faux 
+198. Vrai 
+199. Faux 
+ 
+200. Vrai 
+201. Vrai 
+202. Vrai 
+203. Vrai 
+204. Faux 
+205. Faux 
+206. Vrai 
+207. Vrai 
+208. Faux 
+209. Faux 
+ 

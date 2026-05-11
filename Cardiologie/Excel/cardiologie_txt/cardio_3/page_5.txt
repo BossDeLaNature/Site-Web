@@ -1,0 +1,29 @@
+50. La coronarographie est un examen invasif avec un risque d’embolisation de plaques d’athérome aortiques. 
+51. L'OCT est une technique d'imagerie intra-coronaire utilisée pour évaluer la perméabilité des stents coronaires. 
+52. Les antiagrégants plaquettaires sont généralement prescrits dans le traitement de l’angor stable. 
+53. L’aspirine est prescrite en 2ème intention si le patient présente une contre-indication au clopidogrel. 
+54. Les bêta-bloquants sont prescrits à tous les patients angoreux (sauf contre-indications). 
+55. La dilatation coronaire percutanée (PTCA) est utilisée comme traitement curatif pour l’angor chronique stable. 
+56. La dilatation coronaire percutanée est proposée si l’angor persiste malgré un traitement médical optimal. 
+57. La PTCA utilise un ballon gonflé à 2 atmosphères pour écraser la plaque d’athérome et poser un stent. 
+58. Le dinitrate d’isosorbide est utilisé sous forme orale ou transdermique dans le traitement de l’angor stable. 
+59. Une association de 2 antiagrégants plaquettaires (aspirine + clopidogrel) est nécessaire pendant quelques 
+mois après une dilatation coronaire. 
+60. Les pontages coronariens chirurgicaux sont recommandés pour les lésions coronaires monotronculaires.  
+61. Le traitement de l'angine de poitrine chronique stable vise notamment à supprimer les crises d'angor.  
+62. L'arrêt du tabac est recommandé comme traitement de 1ère intention pour l’angor chronique stable.  
+63. La dilatation coronaire percutanée est souvent réalisée en cas d'échec du traitement médical.  50. Vrai 
+51. Faux 
+52. Vrai 
+53. Faux 
+54. Vrai 
+55. Faux  
+56. Vrai 
+57. Faux 
+58. Vrai 
+59. Vrai 
+ 
+60. Faux 
+61. Vrai 
+62. Vrai 
+63. Vrai 

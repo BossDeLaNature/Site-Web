@@ -1,0 +1,29 @@
+717. La fibrillation ventriculaire se manifeste par des oscillations à larges mailles sans complexes QRS à l'ECG. 
+718.  Le myocarde altéré présente des ilots de muscle normal alternés avec des zones de nécrose/fibrose qui 
+conduisent lentement la dépolarisation électrique et génèrent des circuits de réentrée. 
+719. La FV se caractérise par une activité électrique ventriculaire totalement désorganisée. 
+720. La fibrillation ventriculaire s’accompagne d’une activité contractile chaotique des ventricules. 
+721. En cas de cardiomyopathie dilatée, le circuit de réentrée à l’origine de la TV passe par les branches de 
+conduction et le septum interventriculaire dans 50% des cas.  
+722. Les symptômes dépendent de l’adéquation de la réponse du système nerveux autonome à la TV. 
+723. La TV lente est caractérisée par un rythme ventriculaire <200 bpm. 
+724. La tachycardie ventriculaire n’entraine jamais d’œdème pulmonaire. 
+725. La TV rapide et soutenue avec dysfonction ventriculaire entraine une syncope ou une mort subite. 
+726. L’examen physique révère une tachycardie irrégulière et un B1 de tonalité variable en cas de TV. 
+727. Le rythme de la fibrillation ventriculaire varie entre 150 et 300 bpm. 
+728. Le circuit de réentrée à l’origine de la TV monomorphe est situé à la frontière entre le myocarde malade et 
+le myocarde sain en cas de cardiopathie ischémique. 717. Vrai 
+718. Vrai 
+ 
+719. Vrai 
+720. Faux 
+721. Vrai 
+ 
+722. Vrai 
+723. Faux 
+724. Faux 
+725. Vrai 
+726. Faux 
+727. Vrai 
+728. Vrai 
+ 

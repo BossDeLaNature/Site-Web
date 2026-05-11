@@ -1,0 +1,29 @@
+451. Le rythme de l’activité électrique auriculaire varie généralement entre 150 et 250bpm lors de la FA.  
+452. La péricardite, l’embolie pulmonaire, le diabète et l’apnée du sommeil favorisent la FA. 
+453. 20% des patients atteints d’une cardiopathie dilatée sont en fibrillation auriculaire. 
+454. L’abus d’alcool favorise la FA uniquement en présence de cardiomyopathie. 
+455. La cardiomyopathie ischémique peut être associée à la fibrillation auriculaire.  
+456. 20 à 40% des patients présentent une FA entre le 2ème et le 8ème jour après une chirurgie cardiothoracique. 
+457. Il faut généralement cardioverser les FA secondaires à une chirurgie cardiothoracique. 
+458. Les pathologies valvulaires et en particulier la sténose mitrale favorisent la FA. 
+459. La FA se resinusalise généralement spontanément 10-14 jours après une chirurgie cardiothoracique. 
+460. Il ne faut pas cardioverser les FA secondaires à une hyperthyroïdie. 
+461. Les pathologies pulmonaires ne causent jamais de fibrillation auriculaire. 
+462. La dilatation auriculaire prédispose à la FA mais pas l’hypertrophie auriculaire. 
+463. Une infiltration graisseuse ou amyloïde du myocarde peut induire de la FA. 
+464. La fibrose, la nécrose et l’inflammation myocardique prédisposent à la fibrillation auriculaire. 
+465. La FA est souvent accompagnée d’un rythme ventriculaire régulier. 451. Faux 
+452. Vrai 
+453. Vrai 
+454. Faux 
+455. Vrai 
+456. Vrai 
+457. Faux 
+458. Vrai 
+459. Vrai 
+460. Vrai 
+461. Faux 
+462. Faux 
+463. Vrai 
+464. Vrai 
+465. Faux 

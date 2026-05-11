@@ -1,0 +1,29 @@
+393. L’esmolol est réservé aux cas hémodynamiquement stable sans insuffisance cardiaque décompensée. 
+394. Le vérapamil ou le diltiazem IV peuvent être administrés en cas de tachycardie ventriculaire. 
+395. Le vérapamil ou le diltiazem IV sont contre-indiqués en cas de FA avec pré-excitation. 
+396. Le vérapamil IV peut être administré si le patient a un traitement oral chronique par bêta-bloquants.  
+397. Le vérapamil ou le diltiazem IV sont réservés aux cas hémodynamiquement stable avec FEVG <40%. 
+398. La manœuvre de Valsalva est le traitement de 1ere intention de la tachycardie jonctionnelle ou du WPW. 
+399. L’esmolol, le vérapamil et le diltiazem ne sont utilisés qu’en cas d’échec du traitement par adénosine. 
+400. L’ablation du circuit de réentrée par radiofréquence présente un haut risque de complications. 
+401. La mortalité associée à l’ablation du circuit de réentrée par radiofréquence est de 1/1000. 
+402. L’ablation du circuit de réentrée par radiofréquence entraine un bloc AV dans 1% des cas. 
+403. L’ablation du circuit de réentrée par radiofréquence n’entraine jamais une tamponnade. 
+404. L’ablation du circuit de réentrée nécessite l’introduction de cathéters dans les cavités cardiaques droites et 
+dans le sinus coronaire. 
+405. La voie rapide est éliminée par radiofréquence pour traiter la tachycardie jonctionnelle. 
+406. Le faisceau accessoire est éliminé par radiofréquence pour traiter le syndrome de pré-excitation. 393. Vrai 
+394. Faux 
+395. Vrai 
+396. Faux 
+397. Faux 
+398. Faux 
+399. Vrai 
+400. Faux 
+401. Vrai 
+402. Vrai 
+403. Faux 
+404. Vrai 
+ 
+405. Faux 
+406. Vrai 

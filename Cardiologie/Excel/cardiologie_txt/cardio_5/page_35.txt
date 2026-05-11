@@ -1,0 +1,29 @@
+427. La cardiomyopathie hypertrophique est généralement asymptomatique.  
+428. Le septum interventriculaire hypertrophié crée un obstacle à l’éjection et provoque donc une 
+augmentation de la pression intra-ventriculaire en cas de cardiomyopathie hypertrophique. 
+429. Les symptômes de la cardiomyopathie hypertrophique comprennent de l’asthénie, de la dyspnée, des 
+palpitations, de l’angor et des syncopes.  
+430. Un souffle para-sternal droit est souvent entendu en cas de cardiomyopathie hypertrophique.  
+431. Le souffle de cardiomyopathie hypertrophique est aggravée par une augmentation du retour veineux. 
+432. La diminution de retour veineux diminue la taille du VG et aggrave l’obstruction intraventriculaire. 
+433. Un souffle de régurgitation mitral est rarement associé à la cardiomyopathie hypertrophique.  
+434. La cardiomyopathie hypertrophique se manifeste par un souffle éjectionnel para-sternal gauche. 
+435. La cardiomyopathie hypertrophique se manifeste par une diminution de l’amplitude des complexes QRS. 
+436. L’ECG montre une altération de la repolarisation en cas de cardiomyopathie hypertrophie. 
+437. L'échographie cardiaque est peu utile dans le diagnostic de la cardiomyopathie hypertrophique.  
+438. Les potentiels tardifs sont recherchés par des ECG moyennés en cas de cardiopathie hypertrophique. 
+439. Le cathétérisme cardiaque est souvent nécessaire pour diagnostiquer la cardiomyopathie hypertrophique.  427. Vrai 
+428. Vrai 
+ 
+429. Vrai 
+ 
+430. Faux 
+431. Faux 
+432. Vrai 
+433. Faux 
+434. Vrai 
+435. Faux 
+436. Vrai 
+437. Faux 
+438. Vrai 
+439. Faux 

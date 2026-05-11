@@ -1,0 +1,29 @@
+130. Les sténoses asymptomatiques des sous-clavières ne nécessitent pas de traitement  
+131. L’écho-Doppler permet d’objectiver le sens du flux sanguin en cas de vol vertébral. 
+132. Les lésions du tronc brachio-céphalique entraine une insuffisance artérielle du membre supérieur gauche. 
+133. Le traitement endoluminal est le traitement de choix pour les sténoses sous-clavières asymptomatiques. 
+134. Des greffes veineuses carotido-sous-clavières sont utilisées pour traiter les sténoses sous-clavières. 
+135. Les lésions du tronc brachio-céphalique peuvent provoquer des AVC dans le territoire vertébrobasilaire. 
+136. Les lésions du tronc brachio-céphalique peuvent provoquer des AVC dans le territoire carotidien. 
+137. Le traitement endovasculaire des lésions du tronc artériel brachio-céphalique présente des risques 
+d’emboles cérébraux.  
+138. Les dissections artérielles surviennent rarement spontanément. 
+139. La dissection de la carotide interne entraine des AIT/AVC dans le territoire de la cérébrale antérieure. 
+140. La déchirure de la paroi artérielle survient toujours entre la média et l’intima. 
+141. Les dissections artérielles sont favorisés par la dysplasie fibromusculaire et le syndrome de Marfan. 
+142. L’hématome sous-intimal provoque une augmentation du diamètre de l’artère disséquée. 
+143. La dissection artérielle peut évoluer vers un pseudo-anévrysme. 130. Vrai 
+131. Vrai 
+132. Faux 
+133. Faux 
+134. Vrai 
+135. Vrai 
+136. Vrai 
+137. Vrai 
+ 
+138. Faux 
+139. Faux 
+140. Faux 
+141. Vrai 
+142. Faux 
+143. Vrai 

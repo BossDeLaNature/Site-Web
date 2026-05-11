@@ -1,0 +1,28 @@
+705. Les tumeurs cardiaques secondaires proviennent rarement de métastases de cancers mammaires.  
+706. La chimiothérapie est utilisée dans le traitement des tumeurs cardiaques.  
+707. Les tumeurs cardiaques primitives concernent uniquement le myocarde.  
+708. Les myxomes cardiaques peuvent se manifester par une augmentation de la vitesse de sédimentation.  
+709. Les myxomes cardiaques peuvent induire de nombreux signes généraux : fièvre, perte de poids, anémie, 
+hypogammaglobulinémie, hyperleucocytose,… 
+710. Les myxomes cardiaques sont souvent des tumeurs pédiculées situées près de la fosse ovale dans l’OG. 705. Faux 
+706. Vrai 
+707. Faux 
+708. Vrai 
+709. Faux 
+ 
+710. Vrai 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

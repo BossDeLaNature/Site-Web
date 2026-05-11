@@ -1,0 +1,29 @@
+231. La névrite optique est associée à la maladie de Horton mais pas à la maladie de Behçet. 
+232. La maladie de Behçet provoque des thromboses veineuses du membre inférieur dans la majorité des cas. 
+233. La maladie de Behçet peut rarement causer des anévrysmes ou des thromboses artérielles. 
+234. La maladie de Behçet est plus fréquente en Asie et autour du Bassin méditerranéen. 
+235. L’atteinte digestive est peu fréquente dans la maladie de Behçet. 
+236. La maladie de Behçet ne touche jamais le système nerveux central. 
+237. L’érythème noueux est caractérisée par de multiples nodules sous-cutanées rouges, chauds et sensibles.  
+238. Plus de 3 épisodes d’ulcérations orales en 12 mois peuvent faire suspecter une maladie de Behçet. 
+239. La capillaroscopie montre une microvascularite épidermique dans 60% des cas de maladie de Behçet. 
+240. La maladie de Behçet augmente le risque de formation anévrysmale au point de ponction en cas 
+d’artériographie ou d’autre acte invasif. 
+241. La colchicine est utilisée dans le traitement des formes graves de maladie de Behçet. 
+242. Toutes les thromboses artérielles liées à la maladie de Behçet doivent être traitées en endovasculaire.  
+243. La corticothérapie est utilisée dans le traitement des formes graves de maladie de Behçet. 
+244. Le méthotrexate est utilisée dans le traitement des formes cutanéo-muqueuses de la maladie de Behçet. 231. Faux 
+232. Faux 
+233. Vrai 
+234. Faux 
+235. Vrai 
+236. Faux 
+237. Vrai 
+238. Vrai 
+239. Faux 
+240. Vrai 
+ 
+241. Faux 
+242. Faux 
+243. Vrai 
+244. Faux 

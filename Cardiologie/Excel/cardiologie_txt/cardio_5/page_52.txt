@@ -1,0 +1,29 @@
+653. Les symptômes d’HTP sont souvent aspécifiques : dyspnée, douleur thoracique, asthénie,… 
+654. L’hypertension pulmonaire avancée provoque un P2 claquant et un souffle de régurgitation tricuspide. 
+655. L’hypertension artérielle pulmonaire n’est jamais héréditaire.  
+656. L’hypertension pulmonaire avancée entraine des œdèmes pulmonaires, une turgescence jugulaire, des 
+palpitations et des syncopes. 
+657. Le phénomène de Raynaud est caractérisé par un spasme artériolaire avec une pâleur et une cyanose 
+cutanée intermittente. 
+658. L'hypertrophie auriculaire droite est un signe typique à l'ECG de l'hypertension pulmonaire.  
+659. L’hypertension pulmonaire provoque une dilatation des cavités cardiaques gauches. 
+660. La scintigraphie pulmonaire de ventilation et de perfusion permet de rechercher une embolie pulmonaire.  
+661. L'échographie cardiaque est utilisée pour mesurer les pressions pulmonaires dans le diagnostic de l’HTP.  
+662. Le cathétérisme cardiaque permet de déterminer les résistances pulmonaires et leur réversibilité en 
+réponse à l'inhalation d'oxyde nitrique.  
+663. La résonance magnétique est rarement utilisée dans le diagnostic de l'hypertension pulmonaire.  
+664. La gazométrie montre une hypoxémie en cas de shunt gauche-droite.  653. Vrai 
+654. Vrai 
+655. Faux 
+656. Faux 
+ 
+657. Vrai 
+ 
+658. Vrai 
+659. Faux 
+660. Vrai 
+661. Vrai 
+662. Vrai 
+ 
+663. Faux 
+664. Faux 

@@ -1,0 +1,29 @@
+153. Le signe de Corrigan consiste en une diminution de l’intensité des pouls dans l’insuffisance aortique. 
+154. La PAD peut théoriquement s’abaisser jusqu’à 0mmHg dans l’insuffisance aortique mais est en réalité 
+rarement <30mmHg. 
+155. L'auscultation fémorale montre un pouls artériel normal dans l'insuffisance aortique.  
+156. Le B1 est souvent diminué à l’auscultation dans l’insuffisance aortique. 
+157. Le B2 aortique est souvent absent à l’auscultation dans l’insuffisance aortique. 
+158. La compression fémorale en amont du site de l’auscultation induit un double souffle crural en cas 
+d’insuffisance aortique. 
+159. L’auscultation d’une insuffisance aortique montre un flux diastolique décrescendo régurgitant après le B1.  
+160. Le souffle d’insuffisance aortique est d’autant plus long que l’insuffisance est sévère. 
+161. Le B2 aortique est souvent augmenté en cas de sténose aortique car la valve est calcifiée. 
+162. L’auscultation d’une insuffisance aortique montre un flux diastolique crescendo régurgitant après le B2. 
+163. La valve mitrale se ferme avant la systole ventriculaire en cas d’insuffisance aortique sévère. 
+164. L’auscultation de l’insuffisance aortique montre un souffle parasternal gauche et un souffle dans le 2ème 
+espace intercostal droit. 153. Faux 
+154. Vrai 
+ 
+155. Faux 
+156. Vrai 
+157. Vrai 
+158. Vrai 
+ 
+159. Faux 
+160. Faux 
+161. Faux 
+162. Faux 
+163. Vrai 
+164. Vrai 
+ 

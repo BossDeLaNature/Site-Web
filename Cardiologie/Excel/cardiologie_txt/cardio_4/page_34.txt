@@ -1,0 +1,29 @@
+402. La sténose pulmonaire est une affection rare chez les adultes.  
+403. Le syndrome carcinoïde est caractérisé par la production de substance P par des métastases hépatiques 
+avec une inflammation et une sténose de la valve tricuspide. 
+404. L’endocardite infectieuses est 2x plus fréquente chez les hommes. 
+405. L’incidence de l’endocardite diminue avec l’âge car les angines à Strepto A surviennent dans l’enfance.  
+406. L’endocardite  affecte le cœur gauche dans 85% des cas (plus souvent la valve mitrale que l’aortique). 
+407. Les végétations composées de fibrine, de globules rouges, de cellules inflammatoires et d’agrégats de 
+microorganismes peuvent s’étendre dans les cavités cardiaques. 
+408. Les végétations peuvent emboliser dans plusieurs organes, y compris les reins, la rate, le foie et le cerveau.  
+409. Les enzymes protéolytiques des germes peuvent provoquer des ruptures de cordage en cas d’endocardite.  
+410. Les végétations infectieuses sont responsables de déchirures, d’ulcérations et de perforations valvulaires. 
+411. Les abcès cardiaques sont souvent limités à l’anneau valvulaire en cas d’endocardite.  
+412. Les abcès cardiaques peuvent induire une fistule entre les ventricules ou entre les cavités gauches. 
+413. Les anévrismes mycotiques sont toujours induits par une invasion directe de la paroi artérielle. 
+414. Les anévrismes mycotiques peuvent se former dans les artères cérébrales et les artères mésentériques. 402. Vrai 
+403. Faux 
+ 
+404. Vrai 
+405. Faux 
+406. Faux 
+407. Faux 
+ 
+408. Vrai 
+409. Vrai 
+410. Vrai 
+411. Faux 
+412. Faux 
+413. Faux 
+414. Vrai 

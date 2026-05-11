@@ -1,0 +1,29 @@
+47. La bicuspidie aortique nécessite un dépistage familial au 2ème degré de parenté. 
+48. La bicuspidie aortique est associée à la coarctation aortique et à la dissection aortique. 
+49. La sténose aortique touche 5% des personnes de plus de 65 ans. 
+50. Les patients atteints de sténose aortique deviennent rapidement symptomatiques.  
+51. La pronostic de la sténose aortique est de 50% après 2 ans chez le patient symptomatique. 
+52. L'hypertrophie ventriculaire gauche réduit la tension pariétale.  
+53. L'élévation de la pression dans l'oreillette gauche favorise la fibrillation auriculaire en cas de sténose aortique. 
+54. L’hypertrophie ventriculaire gauche réduit l’élasticité ventriculaire, augmente la consommation en O2 et réduit 
+le flux coronaire épicardique. 
+55. Un ventricule hypertrophié ne se laisse remplir qu’au prix d’une pression systolique augmentée. 
+56. La sténose aortique peut être congénitale. 
+57. La perfusion coronaire sous-endocardique se fait d’autant mieux durant la diastole que la pression intra-
+ventriculaire est basse. 
+58. La sténose aortique peut causer une angine de poitrine en l'absence de lésion coronaire épicardique.  
+59. Le souffle de la sténose aortique est holosystolique.  47. Faux 
+48. Vrai 
+49. Faux 
+50. Faux 
+51. Vrai 
+52. Vrai 
+53. Vrai 
+54. Faux 
+ 
+55. Faux 
+56. Vrai 
+57. Vrai 
+ 
+58. Vrai  
+59. Faux 

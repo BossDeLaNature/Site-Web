@@ -1,0 +1,29 @@
+57. Les anévrismes thoraco-abdominaux impliquent uniquement l’aorte ascendante. 
+58. Les anévrismes de l'aorte thoracique sont rarement asymptomatiques.  
+59. La rupture d’un anévrysme de l’aorte thoracique peut se manifester par une hématémèse. 
+60. La tomodensitométrie thoracique est un examen utile pour évaluer les anévrismes de l'aorte thoracique.  
+61. Les anévrismes de l'aorte thoracique ne nécessitent jamais de traitement chirurgical.  
+62. La mortalité postopératoire est plus élevée avec les endoprothèses qu'avec les prothèses en Dacron après le 
+traitement chirurgical d’un anévrysme thoraco-abdominal. 
+63. La paraplégie est une complication des traitements des anévrysme de l’aorte abdominale. 
+64. Les anévrismes iliaques sont souvent asymptomatiques et causés par une athérosclérose.  
+65. Les anévrismes poplités sont plus fréquents chez les femmes que chez les hommes.  
+66. Les anévrismes poplités sont rarement bilatéraux.  
+67. Les anévrismes poplités sont souvent associés à l'anévrisme de l'aorte abdominale.  
+68. La rupture est la présentation clinique la plus fréquente des anévrismes poplités.  
+69. Les faux anévrismes fémoraux sont souvent iatrogènes post-ponction artérielle. 
+70. Le traitement des faux anévrismes fémoraux implique toujours une intervention chirurgicale.  57. Faux 
+58. Faux 
+59. Vrai 
+60. Vrai 
+61. Faux 
+62. Faux 
+ 
+63. Faux 
+64. Vrai 
+65. Faux 
+66. Faux 
+67. Vrai 
+68. Faux 
+69. Vrai 
+70. Faux 

@@ -1,0 +1,29 @@
+310. Les palpitations régulières et rapides sont accompagnés d’oligourie en cas de tachycardie jonctionnelle. 
+311. Les contractions auriculaires contre une valve mitrale fermée entraine des « ondes de canon » dans les 
+veines jugulaires ressenties comme une pulsatilité au niveau du cou en cas de tachycardie jonctionnelle. 
+312. La tachycardie jonctionnelle a un début et une fin brutale. 
+313. La tachycardie sinusale est caractérisée par des QRS larges à l’ECG. 
+314. Les accès de tachycardie jonctionnelle sont favorisés par l’exercice, la caféine, la cigarette et l’alcool. 
+315. Le syndrome de Wolff-Parkinson-White est très souvent symptomatique. 
+316. La tachycardie par réentrée orthodromique est impossible dans la majorité des voies accessoires. 
+317. Moins de 10% des voies accessoires ne sont pas capables de conduction rétrograde. 
+318. Les palpitations sont toujours dues au Wolff-Parkinson-White chez les patients avec une voie accessoire. 
+319. La tachycardie jonctionnelle a un début brutal et une fin progressive. 
+320. Certaines voies accessoires ne sont pas capables de conduire l’influx de l’oreillette vers le ventricule.  
+321. Moins de 50% des voies accessoires sont uniquement capables de conduction rétrograde. 
+322. Une onde delta est visible en rythme sinusal si la voie accessoire ne fait que la conduction rétrograde. 
+323. La tachycardie orthodromique est impossible si la voie accessoire ne fait que la conduction rétrograde. 310. Faux 
+311. Faux 
+ 
+312. Vrai 
+313. Faux 
+314. Vrai 
+315. Faux 
+316. Faux 
+317. Vrai 
+318. Faux 
+319. Faux 
+320. Vrai 
+321. Vrai 
+322. Faux 
+323. Faux 

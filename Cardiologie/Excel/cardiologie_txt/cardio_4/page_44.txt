@@ -1,0 +1,29 @@
+529. Le ventricule droit est naturellement plus compliant que le ventricule gauche. 
+530. La pression est de l’ordre de 0 mmHg dans l’oreillette gauche et de 5 mmHg dans l’oreillette droite. 
+531. Dans les cas sévères de communication inter-auriculaires, l’entièreté de l’arbre vasculaire pulmonaire peut 
+être dilaté et comprimer les bronches. 
+532. Les patients atteints de communication inter-auriculaire sont souvent asymptomatiques.  
+533. Un dédoublement large et fixe de B2 (P2 retardé) est caractéristique de la communication inter-auriculaire. 
+534. Les communications inter-auriculaire sont trop faibles pour induire un souffle à l’auscultation. 
+535. L’hypertension artérielle pulmonaire survient dans les cas avancés de CIA car il faut que la pression 
+auriculaire droite augmente et inverse le shunt pour augmenter la pression vasculaire pulmonaire. 
+536. L’éjection auriculaire droite est retardée à cause de la surcharge en volume en cas de CIA.  
+537. L’auscultation d’une CIA montre 2 souffles éjectionnels : un souffle systolique pulmonaire au bord latéral 
+gauche du sternum et un souffle diastolique tricuspide au 2ème espace intercostal droit. 
+538. La radiographie de thorax montre une dilatation auriculaire droite et des artères pulmonaires dilatées en 
+cas de communication inter-auriculaire. 
+539. L’ECG montre fréquemment des blocs de branche en cas de communication inter-auriculaire. 529. Vrai 
+530. Faux 
+531. Vrai 
+ 
+532. Vrai 
+533. Vrai 
+534. Faux 
+535. Vrai 
+ 
+536. Faux 
+537. Faux 
+ 
+538. Vrai 
+ 
+539. Vrai 

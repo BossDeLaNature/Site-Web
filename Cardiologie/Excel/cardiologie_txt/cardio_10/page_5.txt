@@ -1,0 +1,29 @@
+58. On parle de dissection aortique aigue quand le diagnostic est posé <7 jours après le début des symptômes. 
+59. La fausse lumière est le plus souvent située entre la média et l’adventice. 
+60. Le pic d’incidence pour la dissection aortique de type A survient vers 50-60 ans. 
+61. On parle de dissection aortique chronique quand le diagnostic est posé >14 jours après le début des 
+symptômes ou en absence de symptômes. 
+62. La tricuspidie aortique est un facteur de risque de dissection aortique 
+63. La fin de la grossesse est une période à risque de dissection aortique. 
+64. La canulation aortique et les traumatismes thoraciques ouverts sont à risque de dissection aortique. 
+65. La dissection peut uniquement s’étendre en amont (dissection rétrograde). 
+66. La déchirure de la paroi aortique est le plus souvent due à une poussée d’hypertension artérielle. 
+67. Le flux à travers le « vrai » et le « faux » chenal est variable en cas de dissection aortique. 
+68. L’insuffisance valvulaire aortique aigue est généralement bien tolérée en cas de dissection aortique. 
+69. La dissection aortique n’entraine jamais d’ischémie viscérale. 
+70. La dissection aortique entraine une douleur extrême progressive, spontanée et migrante. 
+71. L’insuffisance aortique aigue provoquée par la dissection aortique induit une dyspnée soudaine par OPH. 58. Faux 
+59. Vrai 
+60. Vrai 
+61. Vrai 
+ 
+62. Faux 
+63. Vrai 
+64. Faux 
+65. Faux 
+66. Vrai 
+67. Vrai 
+68. Faux 
+69. Faux 
+70. Faux 
+71. Vrai 

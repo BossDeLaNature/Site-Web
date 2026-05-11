@@ -1,0 +1,29 @@
+166. La rupture d’un anévrysme iliaque provoque un hématome péritonéal aigu. 
+167. Les anévrysmes iliaques asymptomatiques de >4cm doivent être opérés. 
+168. Les anévrysmes poplités représentent 70% des anévrysmes périphériques. 
+169. Les anévrysmes iliaques <55mm doivent uniquement être surveillés par échographie. 
+170. La majorité des cas d’anévrysmes poplités sont unilatéraux. 
+171. La thrombose est la manifestation clinique la plus fréquente des anévrysmes poplités. 
+172. Les anévrysmes poplités entrainent des embolisations périphériques et une ischémie chronique du MI. 
+173. Les anévrysmes poplités asymptomatiques de >2cm de diamètre doivent être opérés. 
+174. Les anévrysmes iliaques sont le plus souvent traités par exclusion par greffe veineuse. 
+175. Le pontage est le traitement de choix des anévrysmes fémoraux symptomatiques ou évoluant rapidement. 
+176. Les faux anévrysmes poplités sont traités par compression et injection de thrombine sous contrôle écho. 
+177. Les anévrysmes des artères viscérales ne touchent jamais le tronc coeliaque. 
+178. Les anévrysmes des artères viscérales peuvent provoquer une HTA et une hématurie. 
+179. La rupture des anévrysmes des artères viscérales peut entrainer une hémobilie ou un hémothorax. 
+180. Les anévrysmes asymptomatiques de l’artère splénique doivent être traités chez la femme jeune. 166. Faux 
+167. Vrai 
+168. Vrai 
+169. Faux 
+170. Faux 
+171. Vrai 
+172. Faux 
+173. Vrai 
+174. Faux 
+175. Vrai 
+176. Faux 
+177. Faux 
+178. Vrai 
+179. Faux 
+180. Vrai 

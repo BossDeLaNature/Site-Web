@@ -1,0 +1,29 @@
+43. L’acrorhigose est liée à une vasoconstriction de la microvascularisation des extrémités. 
+44. Le livedo est liée à une vasodilatation de la microvascularisation des extrémités. 
+45. L’acrocholose est liée à une vasoconstriction de la microvascularisation des extrémités. 
+46. Les érythermalgies sont des acrosyndromes vasculaires paroxystiques. 
+47. Le livedo est lié à une hyperhémie du réseau vasculaire du derme. 
+48. L’acrorhigose est plus fréquente chez la femme jeune. 
+49. L’acrorhigose est un acrosydrome vasculaire permanent lié à une hypertonie parasympathique. 
+50. L’acrorhigose est une affection bénigne parfois associée à l’hypothyroïdie. 
+51. Le phénomène de Raynaud primaire est généralement associé à des anomalies artérielles. 
+52. L’acrocyanose est caractérisée par une cyanose permanente des extrémités sans modification de température. 
+53. L’acrorhigose est souvent associée à une hyperhidrose de la paume des mains et de la sole plantaire.  
+54. Les érythermalgies peuvent révéler un syndrome myéloprolifératif. 
+55. Les symptômes de l’acrocyanose sont accentués à l’exposition au froid. 
+56. La plupart des cas d’acrocyanose sont secondaires à une pathologie hématologique (cryoglobulinémie, 
+maladie des agglutinines froides, syndrome myéloprolifératif,…). 43. Vrai 
+44. Faux 
+45. Faux 
+46. Vrai 
+47. Faux 
+48. Vrai 
+49. Faux 
+50. Vrai 
+51. Faux 
+52. Faux 
+53. Faux 
+54. Vrai 
+55. Vrai 
+56. Faux 
+ 

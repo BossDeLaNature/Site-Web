@@ -1,0 +1,29 @@
+115. Les antagonistes calciques sont déconseillés chez les patients atteints de décompensation cardiaque.  
+116. Les antagonistes de l'angiotensine II et les sartans sont contre-indiqués chez les patients souffrant de 
+néphropathie diabétique.  
+117. Les vasodilatateurs directs sont recommandés en cas de résistance aux autres classes thérapeutiques.  
+118. L'augmentation de la consommation de potassium peut réduire la tension artérielle.  
+119. Un traitement combiné est recommandé dès le début du traitement pharmacologique.  
+120. Les antagonistes de l'angiotensine II sont prescrits en cas d'intolérance aux inhibiteurs de l'enzyme de 
+conversion.  
+121. Les diurétiques thiazidiques sont recommandés en cas d'hypertension systolique isolée.  
+122. L’hyperkaliémie n’est pas une contre-indication à la prise d’inhibiteurs de l'enzyme de conversion.  
+123. Les antagonistes de l'angiotensine II peuvent être associés aux inhibiteurs de l'enzyme de conversion.  
+124. Les patients hypertendus doivent éviter les activités physiques intenses.  
+125. Les diurétiques de l’anse sont des médicaments de choix en cas de décompensation cardiaque.  
+126. Les antagonistes calciques sont contre-indiqués chez les patients souffrant de bloc auriculo-ventriculaire.  
+127. Les inhibiteurs de l'enzyme de conversion sont recommandés en cas de dysfonction ventriculaire gauche.  115. Vrai 
+116. Faux 
+ 
+117. Vrai 
+118. Vrai 
+119. Vrai 
+120. Vrai 
+ 
+121. Vrai 
+122. Faux 
+123. Faux 
+124. Faux 
+125. Vrai 
+126. Vrai 
+127. Vrai 

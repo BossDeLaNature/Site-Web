@@ -1,0 +1,29 @@
+233. Les marqueurs biologiques sont plus fiables que l'ECG pour diagnostiquer un infarctus myocardique.  
+234. Le diagnostic de l’infarctus est avant tout clinique car 10% des patients ont un ECG normal. 
+235. Le sous-décalage du segment ST est un signe spécifique de réduction de la perfusion myocardique 
+transmurale.  
+236. L'infarctus antérieur se manifeste par un sus-décalage du segment ST en D2, aVF et D3.  
+237. L’infarctus antéro-septal se manifeste par un sus-décalage du segment ST de V1 à V3. 
+238. Le segment ST peut être sous-décalé dans certaines dérivations en cas d’infarctus STEMI. 
+239. Le sus-décalage du segment ST <1mm dans 2 dérivations adjacentes est le signe le plus spécifique et 
+sensible de la réduction de la perfusion myocardique transmurale. 
+240. La nécrose atteint toute l’épaisseur du myocarde en cas d’infarctus NSTEMI. 
+241. L’infarctus antéro-latéral se manifeste par un sus-décalage du segment ST en V5, V6, D1 et aVR. 
+242. L’infarctus inférieur se manifeste par un sus-décalage du segment ST en D2, aVF et D3. 
+243. L’infarctus antérieur étendu se manifeste par un sous-décalage du segment ST de V1 à V6, en D1 et en aVL. 
+244. L’infarctus apical se manifeste par un sus-décalage en V4.  
+245. L’infarctus latéral haut se manifeste par un sus-décalage en aVR. 233. Faux  
+234. Vrai 
+235. Faux 
+ 
+236. Faux  
+237. Vrai 
+238. Vrai 
+239. Faux  
+ 
+240. Faux 
+241. Faux  
+242. Vrai 
+243. Faux 
+244. Vrai 
+245. Faux  

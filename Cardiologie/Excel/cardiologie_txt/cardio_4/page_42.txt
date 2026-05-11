@@ -1,0 +1,29 @@
+506. Les endocardites sur valves prothétiques sont toujours aiguës.  
+507. La communication inter-auriculaire est responsable d'un passage sanguin pathologique de l'oreillette droite 
+vers l'oreillette gauche.  
+508. La communication est généralement située dans la portion latérale du septum inter-auriculaire. 
+509. Les communications inter-auriculaires sont deux fois plus fréquentes chez les femmes.  
+510. La communication inter-auriculaire représente 30% des anomalies congénitales cardiaques.  
+511. Le diagnostic de la communication inter-auriculaire est souvent fait à l'âge adulte.  
+512. La communication inter-auriculaire est généralement familiale. 
+513. Un foramen ovale perméable est une communication inter-ventriculaire normale dans la vie fœtale.  
+514. Le foramen ovale perméable reste perméable chez 30 % des adultes.  
+515. La pression auriculaire gauche plus élevée collabe les deux feuillets du foramen ovale perméable donc le 
+shunt gauche-droit est généralement faible. 
+516. L’élévation de la pression auriculaire droite augmente le risque d’embolie paradoxale. 
+517. L’embolie paradoxale est caractérisée par le passage d’un thrombus ou de bulles d’air à travers le foramen 
+ovale perméable de la circulation systémique vers la circulation veineuse.  506. Faux 
+507. Faux 
+ 
+508. Faux 
+509. Vrai 
+510. Faux 
+511. Vrai 
+512. Faux 
+513. Faux 
+514. Vrai 
+515. Vrai 
+ 
+516. Vrai 
+517. Faux 
+ 

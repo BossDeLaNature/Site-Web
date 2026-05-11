@@ -1,0 +1,29 @@
+493. Les anti-arythmiques de classe 2 sont des bêta-bloquants. 
+494. Les anti-arythmiques de classe 1 sont des antagonistes calciques bradycardisants. 
+495. L’amiodarone et le sotalol allongent le temps de repolarisation. 
+496. Les anti-arythmiques de classe 1 bloquent les canaux sodiques. 
+497. Une FA consécutive à une sténose mitrale modérée à sévère doit être anticoagulée par AVK.  
+498. Les anticoagulants directs sont indiqués pour les patients porteurs d'une valve mécanique.  
+499. Le score CHA 2DS2-VASc calcule le besoin d’anticoagulation d’une FA consécutive à une pathologie mitrale. 
+500. Un score CHA 2DS2-VASc = 1 pour une femme indique qu'un anticoagulant direct est préférable à un AVK.  
+501. Le Score HAS-BLED permet de prédire le risque thrombotique chez les patients atteints de FA.  
+502. Le traitement visant à ralentir la réponse ventriculaire à la FA est principalement symptomatique et ne 
+modifie pas le pronostic du patient.  
+503. La digoxine est un bon choix pour ralentir le rythme ventriculaire chez les patients insuffisants cardiaques.  
+504. Les bêta-bloquants sont contre-indiqués chez les patients présentant une pré-excitation.  
+505. L'ablation du NAV est envisagée en dernier recours pour le traitement de la fibrillation auriculaire. 
+506. 80% des FA récentes se résolvent spontanément dans les 48 heures.  493. Vrai 
+494. Faux 
+495. Vrai 
+496. Vrai 
+497. Vrai 
+498. Faux 
+499. Faux 
+500. Faux 
+501. Faux 
+502. Vrai 
+ 
+503. Vrai 
+504. Faux 
+505. Vrai 
+506. Vrai 

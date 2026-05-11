@@ -1,0 +1,29 @@
+468. Les végétations infectieuses disparaissent généralement complètement avec le traitement antibiotique.  
+469. La chirurgie n'est pas recommandée pour les patients atteints d'endocardite infectieuse.  
+470. Il faut toujours attendre la désinfection par antibiotiques avant d’opérer une endocardite. 
+471. L'antibioprophylaxie est recommandée avant toute intervention dentaire chez les patients à haut risque 
+d'endocardite.  
+472. Un traitement dentaire est nécessaire avant tout remplacement valvulaire. 
+473. L’endocardite s’accompagne de modifications de la biologie sanguine : élévation de la CRP, anémie 
+monochrome normocytaire, leucocytose, hyperplaquettose, hypocomplémentarité,… 
+474. 2g d’ampicilline sont administrés en IV une heure avant une chirurgie ORL chez les patients à haut risque 
+d’endocardite. 
+475. L'antibioprophylaxie est recommandée avant une chirurgie orthopédique chez les patients à haut risque 
+d'endocardite.  
+476. Tous les prélèvements bactériologiques doivent être effectués avant de débuter les antibiotiques en cas de 
+suspicion d’endocardite infectieuse. 
+477. L’endocardite infectieuse est traitée par des antibiotiques per os pour une longue durée.  468. Faux 
+469. Faux 
+470. Faux 
+471. Vrai 
+ 
+472. Vrai 
+473. Faux 
+ 
+474. Faux 
+ 
+475. Faux 
+ 
+476. Vrai 
+ 
+477. Faux 

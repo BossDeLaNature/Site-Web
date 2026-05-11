@@ -1,0 +1,29 @@
+100. Le stade IIa de la classification de Fontaine-Leriche est caractérisée par une claudication intermittente avec 
+un périmètre de marche <200m de marche. 
+101. La claudication intermittente est caractérisée par l’apparition d’une douleur crampoïde après une certaine 
+durée de marche, obligeant à l’arrêt et cédant après 1 à 2 minutes. 
+102. La localisation de la douleur d’AOMI donne une information sur la localisation des lésions artérielles. 
+103. La claudication d’origine articulaire débute dès les premiers pas et cède rapidement à l’arrêt. 
+104. La claudication d’origine artérielle apparait toujours après la même distance. 
+105. Le syndrome de Leriche associe une claudication intermittente et une impuissance. 
+106. La douleur de l’AOMI de stade III est aggravée par la station debout. 
+107. Le stade IIIc d’AOMI correspond à une ischémie critique où la viabilité du membre est menacée. 
+108. Le patient au stade III d’AOMI est réveillé la nuit par la douleur et finit par dormir au fauteuil. 
+109. La gangrène est caractéristique de l’AOMI de classe V. 
+110. Tout traumatisme, même minime, peut entrainer une gangrène sur un terrain d’artérite. 
+111. Le faux stade IV est un mal perforant plantaire causé par l’atteinte nerveuse et pas artérielle du diabète.  
+112. La mesure des pressions de perfusion au Doppler permet de calculer l’indice bras-cheville. 100. Faux 
+ 
+101. Faux 
+ 
+102. Vrai 
+103. Faux 
+104. Vrai 
+105. Vrai 
+106. Faux 
+107. Faux 
+108. Vrai 
+109. Faux 
+110. Vrai 
+111. Vrai 
+112. Faux 

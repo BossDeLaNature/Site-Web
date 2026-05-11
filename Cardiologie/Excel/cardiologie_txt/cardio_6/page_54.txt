@@ -1,0 +1,29 @@
+729. Le VG est généralement indemne en cas de cardiomyopathie arythmogène ventriculaire droite. 
+730. Le ventricule droit est dilaté et hypokinétique en raison d’une infiltration amyloïde en cas de 
+cardiomyopathie arythmogène ventriculaire droite 
+731. L’ECG montre des ondes T positives dans les dérivations précordiales droites en cas de cardiomyopathie 
+arythmogène ventriculaire droite. 
+732. L’arythmie répond bien au sotalol en cas de cardiomyopathie arythmogène ventriculaire droite. 
+733. Chez le patient sain de <50 ans, la TV a le plus souvent un aspect de bloc de branche gauche. 
+734. Le foyer arythmogène à l’origine de la TV est situé dans la chambre de chasse du VG dans un cœur sain. 
+735. La TV peut être guérie par une ablation par radiofréquence chez le sujet sain de <50 ans. 
+736. La TV fasciculaire survient chez le patient âgé atteint d’une cardiomyopathie sous-jacente. 
+737. Le syndrome de Brugada, le syndrome du QT long et le prolapsus valvulaire mitral sont des causes 
+fréquentes de tachycardie ventriculaire. 
+738. Les cardiopathies ischémique, dilatée et hypertrophique sont les 3 causes les plus fréquentes de TV. 
+739. La fibrillation ventriculaire entraine un collapsus circulatoire endéans les 2-3 minutes. 
+740. La fibrillation ventriculaire entraine le décès en l’absence de cardioversion électrique. 729. Vrai 
+730. Faux 
+ 
+731. Faux 
+ 
+732. Vrai 
+733. Vrai 
+734. Faux 
+735. Vrai 
+736. Faux 
+737. Faux 
+ 
+738. Vrai 
+739. Faux 
+740. Vrai 

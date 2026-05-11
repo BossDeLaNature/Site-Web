@@ -1,0 +1,29 @@
+641. Les thrombo-embolies pulmonaires sont une cause d'HTP du groupe 4.  
+642. La sarcoïdose, les leucémies et la drépanocytose peuvent provoquer une hypertension pulmonaire. 
+643. Quel que soit l’étiologie, l’hypertension artérielle pulmonaire du groupe 1 est caractérisée par une 
+prolifération des cellules endothéliales et une atrophie de la média. 
+644. Les artères pulmonaires ont une propension accrue à la vasoconstriction en cas d’HTP du groupe 3.  
+645. La synthèse de NO et de prostacycline est réduite en cas d’HTAP du groupe 1. 
+646. Les taux de sérotonine sont abaissés en cas de d’HTAP du groupe 1. 
+647. L’HTAP du groupe 1 est caractérisée par une accumulation de protéines extra-cellulaires et une thrombose 
+des veinules et des artérioles pulmonaires.  
+648. Les shunts gauche-droite congénitaux augmentent le débit pulmonaire et les forces de cisaillement 
+exercées sur les cellules musculaires lisses. 
+649. Les pathologies pulmonaires qui augmentent la taille de l’arbre vasculaire pulmonaire favorisent l’HTP. 
+650. L’hypertension pulmonaire peut être causée par une pathologie valvulaire gauche.  
+651. L’hypoxie chronique induit une vasoconstriction artériolaire pulmonaire irréversible. 
+652. Les symptômes d’hypertension artérielle pulmonaire apparaissent dès le début de la maladie. 641. Vrai 
+642. Vrai 
+643. Faux 
+ 
+644. Faux 
+645. Vrai 
+646. Faux 
+647. Vrai 
+ 
+648. Faux 
+ 
+649. Faux 
+650. Vrai 
+651. Faux 
+652. Faux 

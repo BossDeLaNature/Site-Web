@@ -1,0 +1,29 @@
+549. Les anticoagulants oraux directs nécessitent un suivi plus fréquent que les antivitamines K.  
+550. Le traitement resinusalisant est autorisé chez les patients présentant une FA depuis plus de 48 heures s'ils 
+ont bénéficié d'une échographie transœsophagienne montrant l'absence de thrombus auriculaire.  
+551. Les antiarythmiques de classe IV sont contre-indiqués en cas d’insuffisance cardiaque.  
+552. Les anticoagulants directs sont recommandés en cas de sténose mitrale modérée à sévère. 
+553. Les porteurs d’une valve mécanique doivent toujours être anticoagulés par antivitamines K. 
+554. L’insuffisance cardiaque vaut pour 2 points dans le score CHA 2DS2-VASc. 
+555. Le sexe masculin vaut pour 1 point dans le score CHA 2DS2-VASc. 
+556. L’hypertension artérielle vaut pour 1 point dans le score CHA 2DS2-VASc. 
+557. Le diabète de type 1 ou de type 2 vaut pour 1 point dans le score HAS-BLED. 
+558. Un antécédent d’AIT vaut pour 2 points dans le score CHA 2DS2-VASc. 
+559. Un antécédent d’AVC vaut pour 3 points dans le score CHA 2DS2-VASc. 
+560. Un antécédent d’infarctus du myocarde vaut pour 2 points dans le score CHA 2DS2-VASc. 
+561. Un antécédent de maladie vasculaire comme l’AOMI vaut pour 1 point dans le score CHA 2DS2-VASc. 
+562. Un âge supérieur à 75 ans vaut pour 1 point dans le score CHA 2DS2-VASc. 549. Faux 
+550. Vrai 
+ 
+551. Vrai 
+552. Faux 
+553. Vrai 
+554. Faux 
+555. Faux 
+556. Vrai 
+557. Faux 
+558. Vrai 
+559. Faux 
+560. Faux 
+561. Vrai 
+562. Faux 

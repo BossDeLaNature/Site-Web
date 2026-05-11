@@ -1,0 +1,29 @@
+533. La diminution du pouls à l’inspiration est un signe de tamponnade. 
+534. La pression artérielle est normalement réduite de moins de 10mmHg lors de l’inspiration.  
+535. La réduction de la PA à l’inspiration s’explique par une diminution du retour veineux à l’inspiration.  
+536. Le pouls paradoxal est caractérisée par une diminution de la PA <10mmHg à l’inspiration. 
+537. La péricardite aigue peut survenir dans le cadre d’une maladie auto-immune ou inflammatoire : lupus 
+érythémateux, maladie de Crohn, arthrite rhumatoïde, maladie de Behçet, artérite de Horton, RAA,… 
+538. La radiothérapie et les médicaments (phénytoïne, isoniazide,…) sont des causes de péricardite aigue. 
+539. Le pouls paradoxal est caractérisée par une diminution de la PA >10cmH2O à l’inspiration.  
+540. L’urémie et certains cancers peuvent provoquer une péricardite aigue. 
+541. La péricardite aigue se caractérise par une douleur sévère d’apparition progressive de type pleurale. 
+542. La douleur de péricardite aigue est aggravé par les mouvements respiratoires, la toux et la position assise.  
+543. La douleur de péricardite aigue est irradiée vers le dos et les omoplates. 
+544. La péricardite aigue est souvent associée à un syndrome grippal et une fièvre modérée. 
+545. La douleur thoracique est réduite par la position penchée en avant en cas de péricardite aigue. 
+546. L’auscultation cardiaque révèle un frottement péricardique parasternal en cas de péricardite aigue. 533. Vrai 
+534. Vrai 
+535. Faux 
+536. Faux 
+537. Vrai 
+ 
+538. Vrai 
+539. Faux 
+540. Vrai 
+541. Faux 
+542. Faux 
+543. Faux 
+544. Vrai 
+545. Vrai 
+546. Vrai 

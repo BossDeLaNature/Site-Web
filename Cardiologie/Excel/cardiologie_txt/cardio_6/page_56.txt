@@ -1,0 +1,29 @@
+755. Un aspect de bloc de branche droit ou gauche atypique est un signe en faveur d’une TV. 
+756. La concordance précordiale (+ ou -) est un signe en faveur d’une tachycardie supra-ventriculaire. 
+757. On parle de « complexe de capture » si le complexe QRS est généré par l’activité supra-ventriculaire. 
+758. Un aspect de bloc de branche gauche ou droit atypique inchangé par rapport à celui d’un ECG précédent 
+est un signe en faveur d’une tachycardie ventriculaire. 
+759. Dans le doute, on considère toujours que le patient a une tachycardie ventriculaire. 
+760. L’étude électrophysiologique permet de reproduire l’arythmie chez 90% des rescapés de mort subite. 
+761. L’étude électrophysiologique permet de reproduire l’arythmie chez 25% des cas de syncopes inexpliquées 
+dans un contexte de cardiopathie ischémique. 
+762. L’étude électrophysiologique est peu sensible dans certaines conditions. 
+763. L’étude électrophysiologique permet de reproduire l’arythmie chez 50% des patients dont la TV/FV n’a pas 
+pu être documentée.  
+764. La cardioversion électrique nécessite une anesthésie locale si le patient est conscient. 
+765. La procaïnamide IV permet de réduire la fréquence de la TV puis de resinusaliser le rythme. 
+766. La procaïnamide IV risque d’induire une hypotension et un allongement de l’intervalle QT. 755. Vrai 
+756. Faux 
+757. Vrai 
+758. Faux 
+ 
+759. Vrai 
+760. Faux 
+761. Vrai 
+ 
+762. Vrai 
+763. Faux 
+ 
+764. Faux 
+765. Vrai 
+766. Faux 

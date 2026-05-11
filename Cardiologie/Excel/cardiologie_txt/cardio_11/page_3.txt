@@ -1,0 +1,29 @@
+26. La thrombose veineuse mésentérique est toujours secondaire à une maladie inflammatoire ou néoplasique. 
+27. La sigmoïdoscopie avec insufflation est recommandée pour le diagnostic de la colite ischémique.  
+28. Le traitement chirurgical est souvent nécessaire dans la colite ischémique pour prévenir les complications. 
+29. L'angio-scanner permet de visualiser les calcifications volumineuses dans les sténoses des troncs viscéraux.  
+30. L’angio-scanner a tendance à surestimer les sténoses serrés lors de l’examen des artères. 
+31. Le traitement médicamenteux des lésions sténosantes des troncs viscéraux comprend des antiagrégants.  
+32. Les douleurs abdominales après le repas sont un symptôme spécifique de l'ischémie mésentérique aiguë.  
+33. Les patients atteints de colite ischémique sont généralement jeunes et en bonne santé.  
+34. La colite ischémique est la 2ème cause d’hémorragie digestive basse. 
+35. Le traitement chirurgical est souvent nécessaire en cas de thrombose veineuse mésentérique. 
+36. L’ischémie mésentérique aiguë se manifeste par une alcalose métabolique et une élévation des LDH.  
+37. La tomodensitométrie montre un épaississement de la paroi veineuse en cas d'ischémie mésentérique aiguë.  
+38. L'antibiothérapie à large spectre est souvent utilisée dans le traitement de la colite ischémique. 
+39. Les thromboses veineuses mésentériques primaires sont souvent associées à des anomalies de l'hémostase. 
+40. L’administration prolongée de catécholamines favorise l’ischémie mésentérique non-occlusive.  26. Faux 
+27. Faux 
+28. Faux 
+29. Faux 
+30. Faux 
+31. Vrai 
+32. Faux 
+33. Faux 
+34. Vrai 
+35. Faux 
+36. Faux 
+37. Faux 
+38. Vrai 
+39. Vrai 
+40. Vrai 

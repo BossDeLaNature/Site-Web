@@ -1,0 +1,29 @@
+81. Le scanner cérébral sans contraste permet de détecter une rupture de la barrière hémato-méningée. 
+82. L’angiographie par résonance magnétique ne permet pas de visualiser le polygone de Willis. 
+83. L’angiographie par résonance magnétique permet d’étudier le parenchyme cérébral. 
+84. L’écho-Doppler a tendance à surestimer la sévérité des sténoses serrées. 
+85. Le scanner cérébral sans contraste permet de visualiser les lésions ischémiques, hémorragiques et tumorales. 
+86. L’angio-scanner permet de mesurer précisément le pourcentage des sténoses artérielles. 
+87. Un contrôle strict des facteurs de risque et un traitement anti-agrégant plaquettaire par aspirine est 
+nécessaire en cas de lésions sténosantes de la carotide. 
+88. La thromboendartériectomie consiste à retirer la plaque d’athérome et l’intima par chirurgie. 
+89. Le traitement endoluminal des sténoses carotidiennes nécessitent une anesthésie générale. 
+90. Le traitement chirurgical des sténoses carotidiennes présente des complications : AVC/AIT, infarctus du 
+myocarde, lésions de nerfs crâniens, hématome cervical compressif,… 
+91. Une bifurcation carotidienne haute est une contre-indication au traitement chirurgical des sténoses.  
+92. Le traitement endoluminal des sténoses carotidiennes sera préféré en cas de récidive ou de sténose radique. 
+93. La morbi-mortalité du traitement endoluminal des sténoses carotidiennes est inférieure à la chirurgie. 81. Faux 
+82. Faux 
+83. Vrai 
+84. Faux 
+85. Vrai 
+86. Faux 
+87. Vrai 
+ 
+88. Vrai 
+89. Faux 
+90. Vrai 
+ 
+91. Vrai 
+92. Vrai 
+93. Faux 

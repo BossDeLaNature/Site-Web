@@ -1,0 +1,29 @@
+136. Les médicaments anti-arythmiques risquent d’aggraver les bradycardies en cas de « syndrome bradycardie-
+tachycardie » sans stimulateur cardiaque. 
+137. Le type Mobitz II du bloc AV du deuxième degré montre une constance dans l'espace PR.  
+138. La durée de l’intervalle PR normal est compris entre 0,12 et 0,20 msec pour un RC de 60-100bpm. 
+139. La propagation de l’influx électrique à travers le NAV est rapide. 
+140. Le ralentissement de l’influx nerveux au NAV permet aux oreillettes de se contracter avant les ventricules. 
+141. Le nœud auriculo-ventriculaire est irrigué par l’artère coronaire droite dans 90% des cas. 
+142. La conduction au sein du NAV est ralentie par le système orthosympathique. 
+143. Le faisceau de His traverse l’anneau fibreux auriculo-ventriculaire puis se divise en 2 branches. 
+144. La branche droite du faisceau de His se divise en une branche antérieure et une branche postérieure. 
+145. Les fibres de Purkinje sont des branches sous-endocardiques diffuses du faisceau de His. 
+146. La contraction des ventricules débute à la base du cœur et se dirige vers l’apex. 
+147. Les blocs AV de type Mobitz I et II accompagnés d'un complexe QRS normal ont un pronostic favorable.  
+148. Le type de bloc AV du deuxième degré 2/1 montre une onde P conduite sur 2 au niveau des ventricules.  
+149. Le bloc AV du 3ème degré se caractérise par une absence de transmission des ondes P aux ventricules.  136. Vrai 
+ 
+137. Vrai 
+138. Faux 
+139. Faux 
+140. Vrai 
+141. Vrai 
+142. Faux 
+143. Vrai 
+144. Faux 
+145. Vrai 
+146. Faux 
+147. Vrai 
+148. Vrai 
+149. Vrai 

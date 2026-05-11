@@ -1,0 +1,29 @@
+165. La thérapie compressive immédiate doit être débutée dans les 12 heures après une TVP proximale. 
+166. La thérapie compressive immédiate contribue à la régression des symptômes.  
+167. La thérapie compressive immédiate ne réduit pas l’incidence du syndrome post-thrombotique. 
+168. La thérapie compressive utilise des bandages adhésifs en cas d’œdème important suite à une TVP. 
+169. Les bas de prévention de la thrombose exercent une pression de 15-18mmHg au niveau de la cheville. 
+170. Les bas de maintien sans règlementation exercent généralement une pression de 10mmHg. 
+171. Les bas de maintien sans règlementation ont généralement un nombre de deniers entre 30 et 50. 
+172. Les bas de compression médicaux de classe III (forte) exercent une pression de 23-32mmHg. 
+173. Les bas de compression médicaux de classe IV (très forte) exercent une pression de >49mmHg. 
+174. Les bas de compression médicaux de classe A exercent une pression de 15-21mmHg. 
+175. Les bas de compression médicaux de classe II (moyenne) exercent une pression de 34-46mmHg. 
+176. La mobilisation est recommandé dès que le patient est correctement anti-coagulé après une TVP. 
+177. Toutes les TVP distales doivent être recevoir une anticoagulation pendant au moins 3 mois. 
+178. Les TVPs proximales survenant après une chirurgie sous anesthésie générale de >30min sont à faible 
+risque de récidive. 165. Faux 
+166. Vrai 
+167. Faux 
+168. Vrai 
+169. Vrai 
+170. Faux 
+171. Faux 
+172. Faux 
+173. Vrai 
+174. Faux 
+175. Faux 
+176. Vrai 
+177. Faux 
+178. Vrai 
+ 

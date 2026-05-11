@@ -1,0 +1,29 @@
+415. Les anévrismes mycotiques surviennent souvent dans le sinus de Valsalva.  
+416. La myocardite est une complication fréquente de l'endocardite infectieuse. 
+417. Un embole septique peut provoquer un infarctus myocardique en cas d’endocardite. 
+418. L’endocardite aortique peut se compliquer d’une péricardite infectieuse. 
+419. L'endocardite infectieuse survient généralement sur une structure endocardique saine.  
+420. Les lésions endothéliales sont initialement stériles mais peuvent être colonisées par des bactéries.  
+421. Les lésions endothéliales se forment principalement sur le versant ventriculaire gauche de la valve mitrale.  
+422. Les végétations infectées embolisent le plus souvent dans les poumons.  
+423. L’endothélium sain résiste à la greffe microbienne.  
+424. L'endocardite peut survenir même en l'absence de lésion cardiaque préexistante.  
+425. Les turbulences engendrées par un shunt cardiaque favorisent les endocardites en cas de bactériémie. 
+426. L’endocardite survient sur le versant ventriculaire gauche d’une communication inter-ventriculaire. 
+427. Les végétations infectieuses embolisent chez la majorité des patients. 
+428. Les végétations infectieuses sont souvent vascularisées, ce qui protège les germes contre l'immunité. 
+429. L’endocardite peut entrainer des désinsertions complètes de prothèses valvulaires. 415. Vrai 
+416. Faux 
+417. Vrai 
+418. Vrai 
+419. Faux 
+420. Vrai 
+421. Faux 
+422. Faux 
+423. Vrai 
+424. Vrai 
+425. Vrai 
+426. Faux 
+427. Faux 
+428. Faux 
+429. Vrai 

@@ -1,0 +1,29 @@
+43. Les douleurs de repos sont caractéristiques du stade III de l’AOMI.  
+44. Les troubles trophiques dans l’artérite diabétique sont habituellement localisés aux mains et aux bras.  
+45. L’angio-CT permet une bonne visualisation des artères très calcifiées.  
+46. Les emboles passent souvent inaperçus dans l’ischémie aiguë des membres inférieurs.  
+47. Les lésions trophiques dans l’AOMI peuvent être très minimes. 
+48. Les pouls périphériques disparaissent dans l’ischémie aiguë des membres inférieurs.  
+49. Les lésions neurologiques surviennent dès la 6e heure dans l’ischémie aiguë des membres inférieurs.  
+50. Les emboles dans l’ischémie aiguë des membres inférieurs sont toujours d’origine cardiaque.  
+51. L’angio-IRM est une technique d’imagerie nécessitant l’injection IV d’un produit peu néphrotoxique.  
+52. L’examen clinique est insuffisant pour diagnostiquer l’AOMI dans la majorité des cas.  
+53. L’angio-IRM est une technique non invasive pour évaluer l’extension des lésions artérielles périphériques.  
+54. L’angio-IRM permet une visualisation précise des artères périphériques sans utiliser de rayons X.  
+55. Lors d’une épreuve d’hyperhémie, les pressions de perfusion diminuent et la PA augmente en cas d’AOMI. 
+56. Le réentrainement physique est très efficace dans le traitement de la claudication intermittente.  
+57. Les troubles trophiques dans l’artérite diabétique affectent principalement les membres inférieurs.  43. Vrai 
+44. Faux 
+45. Faux 
+46. Faux 
+47. Vrai 
+48. Vrai 
+49. Faux 
+50. Faux 
+51. Vrai 
+52. Faux 
+53. Vrai 
+54. Vrai 
+55. Vrai 
+56. Vrai 
+57. Vrai 

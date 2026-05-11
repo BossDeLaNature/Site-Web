@@ -1,0 +1,29 @@
+444. Le faux panaris d’Osler est caractérisé par des nodules sous-cutanés rouge-bleutés non douloureux sur les 
+doigts et les orteils. 
+445. Les tâches de Roth sont des hémorragies rétiniennes à centre foncé visibles au fond d’œil. 
+446. L’endocardite subaiguë provoque une pyrexie fluctuante et persistante <39°C. 
+447. Les emboles septiques provoquent des pétéchies buccales, conjonctivales et sur les extrémités et de petites 
+hémorragies sous-unguéales en cas d’endocardite. 
+448. L’endocardite cause une glomérulonéphrite avec insuffisance rénale chronique, hématurie et protéinurie. 
+449. Le souffle de régurgitation valvulaire diminue à cause des végétations en cas d’endocardite subaiguë. 
+450. L’endocardite subaiguë peut provoquer une splénomégalie et un syndrome grippal. 
+451. L’endocardite subaiguë est due à un germe virulent comme le staphylocoque doré ou le pseudomonas. 
+452. L’échographie permet de différencier des végétations infectieuse, ancienne et non infectieuse. 
+453. Le risque emboligène est accru quand les végétations infectieuses mesurent >5mm. 
+454. L’endocardite aigue se manifeste par un début brutal, une T° <39°C, des frissons, une splénomégalie et un 
+purpura nécrotique. 
+455. La destruction valvulaire induit l’apparition rapide d’un souffle en cas d’endocardite aigue. 444. Faux 
+ 
+445. Faux 
+446. Vrai 
+447. Vrai 
+ 
+448. Faux 
+449. Faux 
+450. Vrai 
+451. Faux 
+452. Faux 
+453. Faux 
+454. Faux 
+ 
+455. Vrai 

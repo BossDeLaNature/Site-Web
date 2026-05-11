@@ -1,0 +1,29 @@
+127. Le traitement endoluminal de l’AAA est associée à une mortalité plus importante que la chirurgie. 
+128. Le traitement endoluminal de l’AAA provoque moins de complications cardiaques ou pulmonaires. 
+129. Le traitement endoluminal de l’AAA exclut l’anévrysme de la circulation. 
+130. Les anévrysmes de l’aorte abdominale <55mm sont traités par chirurgie. 
+131. Les endofuites sont détectés par échographie abdominale après le traitement endoluminal des AAA. 
+132. Le traitement endoluminal des AAA est plus bénéfique que la chirurgie sur la mortalité à long terme.  
+133. Un AAA de >55cm ou qui augmente de >5mm en 6 mois est une indication opératoire. 
+134. L’espérance de vie et les comorbidités sont prises en compte dans les indications de traitement d’AAA. 
+135. Une coronaropathie doit être recherchée en cas de signes d’appel dans le bilan d’opérabilité d’un AAA. 
+136. Une altération de la fonction hépatique est associée à un risque hémorragique lors d’une opération. 
+137. La fonction rénale est un facteur pronostique dans le traitement des AAA. 
+138. Le bilan d’opérabilité des AAA inclut un CT-scanner des vaisseaux du cou. 
+139. Les AAA de <55mm nécessitent uniquement une surveillance échographique tous les 6 mois. 
+140. Les AAA asymptomatiques de >55mm ne doivent pas être opérés. 
+141. Le traitement de l’anévrysme rompu se fait le plus souvent pas l’interposition d’une prothèse en Dacron. 127. Faux 
+128. Vrai 
+129. Vrai 
+130. Faux 
+131. Faux 
+132. Faux 
+133. Faux 
+134. Vrai 
+135. Vrai 
+136. Vrai 
+137. Vrai 
+138. Faux 
+139. Vrai 
+140. Faux 
+141. Vrai 

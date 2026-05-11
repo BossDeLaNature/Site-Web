@@ -1,0 +1,29 @@
+389. L'ECG montre généralement une bradycardie chez les patients atteints de myocardite.  
+390. La conduction auriculo-ventriculaire ou intra-ventriculaire peut être altérée en cas de myocardite. 
+391. Les enzymes cardiaques sont généralement augmentées en cas de myocardite.  
+392. L'échographie cardiaque est généralement normale chez les patients atteints de myocardite.  
+393. La biopsie endomyocardique est souvent nécessaire pour confirmer le diagnostic de myocardite.  
+394. Les immunosuppresseurs sont toujours bénéfiques dans le traitement de la myocardite.  
+395. Les patients atteints de myocardite peuvent reprendre une activité sportive dès le début du traitement. 
+396. Le traitement de la myocardite repose uniquement sur la gestion des symptômes de l’IC congestive. 
+397. L'ECG peut montrer des altérations du segment ST et de l’onde T en cas de myocardite.  
+398. La biologie montre généralement un syndrome inflammatoire en cas de myocardite. 
+399. L'arrêt de l'activité sportive est recommandé jusqu'à la normalisation de la FEVG en cas de myocardite.  
+400. Les immunosuppresseurs sont peuvent favoriser l’infection virale en cas de myocardite.  
+401. La cardiomyopathie hypertrophique est une affection génétique autosomique dominante. 
+402. Les mutations des gènes contrôlant les protéines du sarcomère sont responsables de la cardiomyopathie 
+hypertrophique.  389. Faux 
+390. Vrai 
+391. Vrai 
+392. Faux 
+393. Faux 
+394. Faux 
+395. Faux 
+396. Faux 
+397. Vrai 
+398. Vrai 
+399. Vrai 
+400. Vrai 
+401. Vrai 
+402. Vrai 
+ 

@@ -1,0 +1,29 @@
+306. Les bêta-bloquants sont utilisés pour augmenter la fréquence cardiaque après un infarctus myocardique. 
+307. Les inhibiteurs de l'enzyme de conversion ne sont pas recommandés pour les patients avec une fraction 
+d'éjection ventriculaire gauche < 40 %.  
+308. Il faut réduire le LDL-cholestérol sous 55mg/dl le plus rapidement possible après un infarctus STEMI. 
+309. Les anticoagulants sont recommandés uniquement en présence de certaines conditions spécifiques après 
+un infarctus myocardique.  
+310. La radiographie du thorax est utile pour évaluer la taille du cœur après un infarctus myocardique.  
+311. Les antagonistes calciques sont recommandés pour le traitement aigu de l'infarctus myocardique.  
+312. Les inhibiteurs de l'enzyme de conversion sont administrés par voie intraveineuse dans le traitement aigu 
+de l’infarctus myocardique. 
+313. La prise chronique de bêta-bloquants réduisent la mortalité de 50% après un infarctus STEMI. 
+314. Les hypocholestérolémiants sont recommandés pour réduire le HDL-cholestérol après un infarctus STEMI.  
+315. Le LDL-cholestérol est faussement abaissé en post-infarctus. 
+316. La réduction de la fonction ventriculaire gauche nécessite des inhibiteurs de l'enzyme de conversion.  
+317. La prise chronique d’inhibiteurs de l’enzyme de conversion réduisent la mortalité de 25% post-infarctus. 306. Faux 
+307. Faux 
+ 
+308. Vrai 
+309. Vrai 
+ 
+310. Vrai 
+311. Faux 
+312. Faux 
+ 
+313. Faux 
+314. Faux 
+315. Vrai 
+316. Vrai 
+317. Vrai 

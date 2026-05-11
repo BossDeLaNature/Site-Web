@@ -1,0 +1,29 @@
+12. Les patients atteints de lésions sténosantes des troncs viscéraux doivent recevoir une anticoagulation.  
+13. Les douleurs abdominales après le repas sont un symptôme courant de l'ischémie mésentérique chronique.  
+14. La sitophobie est une crainte vis-à-vis de l'alimentation observée en cas d'ischémie mésentérique chronique.  
+15. Le souffle systolique épigastrique est étendu à l’auscultation en cas d'ischémie mésentérique chronique.  
+16. Les lésions sténosantes des troncs viscéraux surviennent généralement chez les moins de 50 ans.  
+17. La thrombose veineuse mésentérique est une cause d'ischémie mésentérique aiguë. 
+18. Des lésions cellulaires irréversibles surviennent après 2h en cas d’ischémie mésentérique totale et aiguë. 
+19. L’ischémie mésentérique aigue entraine d’abord des lésions muqueuses avec une nécrose de l’épithélium. 
+20. Les emboles dans l'artère mésentérique inférieure sont une cause fréquente d'occlusion artérielle aiguë.  
+21. Les patients atteints d'ischémie mésentérique aiguë peuvent présenter des douleurs abdominales violentes et 
+d’emblée continues, généralement localisées dans la région épigastrique.  
+22. L'examen clinique est souvent riche en informations au stade précoce de l'ischémie mésentérique aiguë.  
+23. La leucocytose est un signe biologique précoce de l'ischémie mésentérique aiguë.  
+24. La distension des anses intestinales est un signe d'ischémie mésentérique aiguë à la tomodensitométrie.  
+25. L'héparinothérapie est le traitement de choix pour l'ischémie occlusive mésentérique aiguë.  12. Faux 
+13. Vrai 
+14. Vrai 
+15. Vrai 
+16. Faux 
+17. Vrai 
+18. Faux 
+19. Vrai 
+20. Faux 
+21. Faux 
+ 
+22. Faux 
+23. Vrai 
+24. Vrai 
+25. Vrai 

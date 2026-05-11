@@ -1,0 +1,29 @@
+150. Les pansements adéquats sont essentiels pour traiter les ulcères variqueux.  
+151. L'examen clinique est réalisé en position assise pour détecter les varices.  
+152. Le test de Schwartz évalue la continence des valvules dans les veines saphènes. 
+153. Les varices sont souvent idiopathiques.  
+154. L'œdème péri-malléolaire peut être causée par un lymphoedème ou une origine cardiaque ou rénale. 
+155. L'examen clinique est réalisé en position debout pour détecter les varices.  
+156. L'échographie-Doppler peut poser le diagnostic d'insuffisance veineuse de façon formelle.  
+157. Le décubitus et la surélévation des membres inférieurs sont des moyens de lutter contre la stase veineuse.  
+158. Les bas de contention doivent exercer une pression plus forte à la cheville qu'en proximal pour éviter un 
+effet garrot (bas de contention dégressive). 
+159. Les douches d'eau froide matin et soir entraînent une vasoconstriction veineuse. 
+160. Il existe un consensus clair sur le traitement des varices.  
+161. Des greffes cutanées sont parfois proposées dans le traitement des ulcères veineux.  
+162. L’éviction des sources de chaleur est recommandée pour les personnes atteintes d'insuffisance veineuse. 
+163. La turgescence des varices augmente si le patient réalise une manœuvre de Valsalva. 150. Vrai 
+151. Faux 
+152. Vrai 
+153. Vrai 
+154. Vrai 
+155. Vrai 
+156. Faux 
+157. Vrai 
+158. Vrai 
+ 
+159. Vrai 
+160. Faux 
+161. Vrai 
+162. Vrai 
+163. Vrai 

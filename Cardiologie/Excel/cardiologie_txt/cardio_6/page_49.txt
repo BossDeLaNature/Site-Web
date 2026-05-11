@@ -1,0 +1,29 @@
+660. Les médicaments antiarythmiques de classe II peuvent induire une conduction AV 1/1 en cas de flutter. 
+661. Plusieurs traitements peuvent être utilisés pour réduire la fréquence ventriculaire pendant un accès de 
+tachycardie en cas de flutter : digoxine, bêta-bloquants, amlodipine, amiodarone (si IC),… 
+662. La cardioversion électrique resinusalise facilement le flutter avec une énergie faible de 25 à 100 joules. 
+663. L’adénosine peut induire une conduction 1/1 ou une FA rapide et ne doit pas être donnée en cas de flutter. 
+664. Les antiarythmiques de classe I doivent toujours être associés à un médicament qui bloque la conduction 
+auriculo-ventriculaire en cas de flutter. 
+665. Les bêta-bloquants, l’amiodarone (si IC) et le diltiazem sont utilisés pour traiter une récidive de flutter. 
+666. La prévention pharmacologique des récidives de flutter risque de ralentir le rythme ventriculaire.  
+667. Les antiarythmiques de classe I ne sont jamais donnés sans blocage de la conduction AV en cas de flutter.  
+668. L’amiodarone est très efficace pour resinusaliser les accès de flutter auriculaire. 
+669. L’ablation par radiofréquence du circuit de réentrée est moins favorable en cas de flutter atypique. 
+670. 10% des patients en flutter ont un thrombus dans l’auricule gauche à l’échographie transoesophagienne. 
+671. L’anticoagulation n’est jamais nécessaire en cas de flutter typique. 
+672. Les extrasystoles ventriculaires sont des dépolarisations ventriculaires spontanées et récurrentes. 660. Faux 
+661. Faux 
+ 
+662. Vrai 
+663. Vrai 
+664. Vrai 
+ 
+665. Vrai 
+666. Faux 
+667. Vrai 
+668. Faux 
+669. Vrai 
+670. Vrai 
+671. Faux 
+672. Faux 

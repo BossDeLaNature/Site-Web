@@ -1,0 +1,29 @@
+257. La spironolactone, les IPP, beaucoup d’antiarythmiques et certains antibiotiques diminuent les taux 
+plasmatiques de digoxine. 
+258. La cardioversion électrique est le traitement de choix pour les arythmies induites par les digitaliques. 
+259. Les anticorps anti-digoxine, la phénytoïne et la lidocaïne sont utilisées pour traiter les bradycardies 
+induites par les digitaliques. 
+260. L’atropine est utile pour traiter les tachycardies ou la FV induites par les digitaliques. 
+261. La stimulation cardiaque externe temporaire est utile en cas de bradycardie induite par les digitaliques. 
+262. Les vasodilatateurs directs sont un traitement de dernière intention en cas d’insuffisance cardiaque. 
+263. L’hydralazine (vasodilatateur direct) associée à un dérivé nitré ou à l’amlodipine (antagoniste calcique) 
+peut parfois être utilisée en cas d’angor ou d’HTA associée à l’insuffisance cardiaque. 
+264. La dobutamine est un bêta-bloquant utilisé pour améliorer la contractilité myocardique dans l’IC aigue. 
+265. La dobutamine exerce un effet inotrope positif en augmentant le GMPc et le Ca2+ intracellulaire. 
+266. Les inhibiteurs de la phosphodiestérase III comme le milrinone augmente la contractilité myocardique. 
+267. Le lévosimandan améliore la contraction en stabilisant le Ca2+ sur la troponine. 
+268. Un traitement anti-thrombotique n’est pas nécessaire dans le traitement de l’insuffisance cardiaque. 257. Faux  
+ 
+258. Faux 
+259. Faux 
+ 
+260. Faux 
+261. Vrai 
+262. Vrai 
+263. Vrai 
+ 
+264. Faux 
+265. Faux 
+266. Vrai 
+267. Vrai 
+268. Faux 

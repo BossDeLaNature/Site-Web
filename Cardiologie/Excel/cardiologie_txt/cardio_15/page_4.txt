@@ -1,0 +1,29 @@
+43. Les moyens thérapeutiques utilisés pour traiter la TVP incluent uniquement l'anticoagulation.  
+44. La fibrinolyse est un moyen thérapeutique couramment utilisé pour traiter la TVP.  
+45. Les indications de la chirurgie dans le traitement de la TVP sont très limitées. 
+46. Une TVP située sous le genou est considérée comme distale.  
+47. Les facteurs de risque de récidive de la TVP distale comprennent le cancer actif et l'âge >50 ans.  
+48. La mobilisation est recommandée avant le début du traitement anticoagulant pour la TVP proximale. 
+49. La TVP distale nécessite uniquement une anticoagulation de 3 mois si le risque de récidive est faible.  
+50. La thérapie compressive immédiate (<24h) fait partie intégrante du traitement de la TVP proximale.  
+51. La compression recommandée en cas de TVP proximale comprend uniquement des bandages adhésifs.  
+52. L'anticoagulation est recommandée pendant au moins 6 mois pour les patients présentant une TVP proximale 
+isolée et un risque intermédiaire de récidive. 
+53. Les anticoagulants oraux directs ne nécessitent pas de contrôle sanguin ni d'ajustement de la dose.  
+54. Le dosage des D-dimères est utile uniquement pour exclure une TVP si un autre test très sensible est normal. 
+55. La contention et la mobilisation font partie du traitement de la TVP distale. 
+56. L'interruption partielle de la veine cave inférieure est recommandée pour tous les patients atteints de TVP.  43. Faux 
+44. Faux 
+45. Vrai 
+46. Vrai 
+47. Vrai 
+48. Faux 
+49. Faux 
+50. Vrai 
+51. Faux 
+52. Faux 
+ 
+53. Vrai 
+54. Vrai 
+55. Faux 
+56. Faux 

@@ -1,0 +1,29 @@
+155. L’hypernatrémie a une valeur pronostique négative en cas d’insuffisance cardiaque systolique. 
+156. Certains cas d’IC doivent être traités par un défibrillateur implantable ou une revascularisation coronaire. 
+157. La teneur corporelle en Na+ diminue en cas d’IC systolique et la natrémie est souvent <130mEq/L. 
+158. L’alcool est à éviter dans tous les cas d’insuffisance cardiaque systolique. 
+159. Il faut contrôler l’obésité et la diabète et lutter contre la cachexie et la carence en fer en cas d’IC. 
+160. L’exercice physique améliore la dyspnée et les paramètres hémodynamiques en cas d’IC systolique. 
+161. Des exercices physiques dynamiques et résistifs à 90% de la consommation maximale en oxygène 
+améliorent la tolérance à l’effort et la qualité de vie et apportent un bénéfice psychologique en cas d’IC.  
+162. L’exercice physique permet de réduire l’activation neuro-humorale en cas d’insuffisance cardiaque. 
+163. L’augmentation du poids du patient en IC systolique est un signe d’aggravation de la congestion. 
+164. Les diurétiques thiazidiques sont préférables en cas d’insuffisance cardiaque car ils restent efficaces 
+jusqu’à une filtration glomérulaire très basse. 
+165. Les diurétiques de l’anse sont sécrétés activement dans les tubules rénaux. 
+166. Les diurétiques de l’anse perdent leur efficacité quand la clearance de créatinine devient <30ml/min. 
+167. Les thiazides ont une action plus soudaine et moins prolongée que les diurétiques de l’anse. 155. Faux 
+156. Vrai 
+157. Faux 
+158. Vrai 
+159. Vrai 
+160. Faux 
+161. Faux 
+ 
+162. Vrai 
+163. Vrai 
+164. Faux 
+ 
+165. Vrai 
+166. Faux 
+167. Faux 

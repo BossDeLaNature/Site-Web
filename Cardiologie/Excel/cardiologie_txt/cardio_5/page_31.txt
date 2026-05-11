@@ -1,0 +1,29 @@
+377. L’infection chronique à Trypanosoma Cruzi survient après une période de latence de quelques mois. 
+378. L’infection chronique à Trypanosoma Cruzi ne survient que chez 10 à 30% des patients. 
+379. La myocardite auto-immunitaire survient après une affection bactérienne. 
+380. De très nombreux agents infectieux peuvent causer une myocardite : Coxsackie, influenza, adénovirus, 
+fièvre Q, brucellose, toxoplasmose, leptospirose, rougeole, rubéole, aspergillose, méningocoque, chlamydia,… 
+381. La myocardite se manifeste toujours par des symptômes évidents d'insuffisance cardiaque.  
+382. Les symptômes de la myocardite peuvent imiter ceux d'un infarctus du myocarde.  
+383. La cardiomyopathie liée à la maladie de Chagas est caractérisée par une dilatation ventriculaire et des 
+parois amincies par de la fibrose. 
+384. La myocardite survient généralement plusieurs mois après une infection virale.  
+385. La myocardite subaiguë se caractérise par une douleur précordiale typique, des palpitations, une asthénie 
+et une dyspnée à l’effort. 
+386. La myocardite se résout souvent dans les 4 à 12 semaines suivant l’apparition des symptômes. 
+387. L’inflammation peut devenir chronique et provoquer une cardiomyopathie dilatée après une myocardite. 
+388. La myocardite est souvent asymptomatique. 377. Faux 
+378. Vrai 
+379. Faux 
+380. Vrai 
+ 
+381. Faux 
+382. Vrai 
+383. Vrai 
+ 
+384. Faux 
+385. Faux 
+ 
+386. Vrai 
+387. Vrai 
+388. Vrai 

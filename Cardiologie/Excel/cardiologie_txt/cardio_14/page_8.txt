@@ -1,0 +1,29 @@
+97. L’insuffisance veineuse peut provoquer des crampes musculaires nocturnes et un prurit au niveau des jambes. 
+98. La classification C1 de l’insuffisance veineuse désigne les sujets sans signe clinique visible ou palpable. 
+99. La durée médiane d’un ulcère veineux avant cicatrisation complète est de 3 mois. 
+100. Les télangiectasies sont des dilatations intradermiques des plexus veineux sous-papillaires. 
+101. Les télangiectasies de 0,4 à 1mm ont généralement une couleur rouge. 
+102. La classification C2 de l’insuffisance veineuse désigne les sujets qui présentent des varices non palpables. 
+103. Les télangiectasies de 0,1 à 0,4mm ont généralement une couleur bleue. 
+104. Des varices réticulaires, de petit calibre (<3mm), hypodermiques et non palpables sont caractéristiques du 
+stade C1 de la classification CEAP.  
+105. La classification C3 de l’insuffisance veineuse désigne les sujets qui présentent des oedèmes. 
+106. La dermatite de stase est caractérisée par des placards suintants et non prurigineux. 
+107. La dermite ocre est une manifestation de l'insuffisance veineuse causé par une hypoperfusion.  
+108. L'hypodermite est une réaction inflammatoire fibrosante du tissu sous-cutané causée par des épisodes 
+infectieux répétés. 
+109. L'atrophie blanche est causée par une occlusion d’artérioles du derme superficiel. 97. Vrai 
+98. Faux 
+99. Faux 
+100. Vrai 
+101. Faux 
+102. Faux 
+103. Faux 
+104. Vrai 
+ 
+105. Vrai 
+106. Faux 
+107. Faux 
+108. Vrai 
+ 
+109. Vrai 

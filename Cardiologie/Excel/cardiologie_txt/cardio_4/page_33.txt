@@ -1,0 +1,29 @@
+388. L’hypertrophie auriculaire gauche est caractérisée par des ondes P >2,5mm en D2, D3 et aVF.  
+389. La projection de la valve tricuspide sur le thorax est du côté gauche du sternum. 
+390. L’annuloplastie tricuspide nécessite 3 mois d’anticoagulation par antivitamines K. 
+391. Le souffle holosystolique parasternal gauche est un signe de sténose tricuspide.  
+392. Le souffle de sténose tricuspide diminue à l’inspiration à cause d’une diminution du retour veineux. 
+393. La sténose pulmonaire touche principalement les enfants. 
+394. La sténose tricuspide est caractérisée par un roulement diastolique parasternal gauche. 
+395. La valvuloplastie par ballonnet est envisagée si le traitement de la sténose tricuspide par des diurétiques est 
+insuffisant.  
+396. La surcharge volémique peut induire une sténose tricuspide.  
+397. L'ECG dans la sténose tricuspide révèle généralement une hypertrophie auriculaire droite.  
+398. La sténose tricuspide est généralement associée à un rhumatisme articulaire.  
+399. La régurgitation tricuspide est souvent associée à une hypertension pulmonaire.  
+400. La sténose tricuspide est souvent due à une endocardite droite associée à la toxicomanie intraveineuse. 
+401. L'ascite est rarement observée chez les patients atteints de sténose tricuspide.  388. Faux 
+389. Vrai 
+390. Vrai 
+391. Faux 
+392. Faux 
+393. Vrai 
+394. Vrai 
+395. Vrai 
+ 
+396. Faux 
+397. Vrai 
+398. Vrai 
+399. Vrai 
+400. Faux 
+401. Faux 

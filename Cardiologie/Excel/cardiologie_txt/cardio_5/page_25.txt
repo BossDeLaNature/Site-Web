@@ -1,0 +1,29 @@
+300. Une fuite rapide de plasma à travers les capillaires pulmonaires vers les espaces interstitiels et les alvéoles 
+se produit lorsque la pression télédiastolique ventriculaire gauche devient >10mmHg. 
+301. La clinique de l’OPH comprend généralement une détresse respiratoire sévère sans toux ni expectorations.  
+302. Tout traitement inotrope négatif est susceptible de provoquer la décompensation d’une IC contrôlée. 
+303. L'auscultation montre des râles humides, des ronchis, du wheezing et des sibilances en cas d’OPH.  
+304. L’œdème pulmonaire hémodynamique n’est pas visible à la radiographie de thorax.  
+305. Le traitement de l’OPH vise à améliorer rapidement les symptômes et à traiter le facteur déclenchant.  
+306. L'administration d'oxygène est généralement évitée chez les patients atteints d’œdème pulmonaire 
+hémodynamique pour prévenir une aggravation de l'état respiratoire.  
+307. Le furosémide per os est souvent utilisé dans le traitement de l’œdème pulmonaire hémodynamique. 
+308. L’œdème pulmonaire hémodynamique se manifeste par une bradypnée et une orthopnée. 
+309. Le patient atteint d’OPH crache souvent des expectorations mousseuses et rosées. 
+310. Les dérivés nitrés peuvent être administrés par voie sublinguale ou intraveineuse en cas d’OPH.  
+311. Tous les médicaments inotropes négatifs doivent être stoppés en cas d’OPH. 
+312. Le patient est souvent cyanosé, anxieux et avec des signes de désaturation en cas d’OPH. 300. Faux 
+ 
+301. Faux 
+302. Vrai 
+303. Vrai 
+304. Faux 
+305. Vrai 
+306. Faux 
+ 
+307. Faux 
+308. Faux 
+309. Vrai 
+310. Vrai 
+311. Vrai 
+312. Vrai 

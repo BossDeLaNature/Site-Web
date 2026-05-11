@@ -1,0 +1,29 @@
+586. L’anticoagulation diminue le risque d’épanchement péricardique ou de tamponnade. 
+587. Un cancer peut entrainer un épanchement péricardique par compression des lymphatiques médiastinaux. 
+588. La tamponnade est toujours une urgence médicale. 
+589. La tamponnade peut survenir suite à un épanchement brutal de 150ml. 
+590. La tamponnade peut survenir suite à un épanchement très lentement progressif de 2L. 
+591. L’augmentation de pression péricardique comprime d’abord les cavités droites à basse pression. 
+592. Le débit cardiaque est augmenté en cas de tamponnade suite à la tachycardie réflexe. 
+593. La tamponnade induit une tachycardie réflexe, une vasodilatation et une réduction du débit urinaire. 
+594. Le patient atteint de tamponnade est souvent dyspnéique, tachypnéique et hypotendu. 
+595. La turgescence veineuse jugulaire est un signe de tamponnade. 
+596. Le pouls paradoxal est une exagération de la réduction expiratoire normale de la pression artérielle. 
+597. La tamponnade est caractérisée par une augmentation des bruits cardiaques. 
+598. Le flux mitral inspiratoire augmente de >25% à l’échographie cardiaque par rapport à la valeur expiratoire 
+en cas de tamponnade. 
+599. La péricardiotomie sous-xyphoïdienne chirurgicale est une option dans le traitement de la tamponnade. 586. Faux 
+587. Vrai 
+588. Vrai 
+589. Faux 
+590. Vrai 
+591. Vrai 
+592. Faux 
+593. Faux 
+594. Vrai 
+595. Vrai 
+596. Faux 
+597. Faux 
+598. Faux 
+ 
+599. Vrai 

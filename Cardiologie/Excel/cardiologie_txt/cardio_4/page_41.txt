@@ -1,0 +1,29 @@
+492. L’endocardite valvulaire droite est le plus souvent causée par des streptocoques. 
+493. L’endocardite valvulaire droite touche le plus souvent la valve pulmonaire. 
+494. Les endocardites prothétiques précoces surviennent <60 jours près l’opération. 
+495. Les endocardites prothétiques tardives sont souvent causées par des staphylocoques.  
+496. Les anévrisme mycotiques cérébraux sont responsables d’hémorragies cérébrales parfois des années après 
+l’infection. 
+497. L’AVC chez le sujet jeune qui présente de la fièvre doit faire suspecter une endocardite. 
+498. Les endocardites compliquées peuvent entraîner des embolies coronaires.  
+499. Les endocardites non infectieuses peuvent être causées par des traumatismes cardiaques. 
+500. Les endocardites valvulaires droites surviennent principalement chez les personnes âgées.  
+501. Les endocardites infectieuses sont associées à une hypercoagulabilité ou à des néoplasies. 
+502. Les endocardites valvulaires droites peuvent causer des embolies pulmonaires.  
+503. Les endocardites non infectieuses peuvent être causées par des complexes immuns circulants.  
+504. Les endocardites droites sont souvent associées à une consommation de drogues intraveineuses. 
+505. Les abcès annulaires sont caractéristiques des endocardites sur valves prothétiques.  492. Faux 
+493. Faux 
+494. Vrai 
+495. Faux 
+496. Vrai 
+ 
+497. Vrai 
+498. Vrai 
+499. Vrai 
+500. Faux 
+501. Faux 
+502. Vrai 
+503. Vrai 
+504. Vrai 
+505. Vrai 

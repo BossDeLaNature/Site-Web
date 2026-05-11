@@ -1,0 +1,29 @@
+503. Les corticoïdes sont souvent utilisés dans le traitement de la péricardite aiguë sévère.  
+504. Le syndrome de Dressler se caractérise par des douleurs articulaires.  
+505. La résonance magnétique nucléaire est l'examen de choix pour diagnostiquer la péricardite aigue.  
+506. Le traitement de la constriction péricardique implique généralement l'utilisation de diurétiques.  
+507. La tamponnade péricardique peut survenir même avec un épanchement lentement progressif.  
+508. L'élévation du segment ST est un signe typique de la péricardite aiguë à l'ECG.  
+509. Le traitement de la péricardite aiguë inclut souvent l'utilisation de colchicine pour prévenir les récidives.  
+510. L'épanchement péricardique asymptomatique nécessite toujours un traitement.  
+511. La présence d'un épanchement péricardique peut être détectée par l'échographie cardiaque.  
+512. La turgescence jugulaire est un signe clinique de la tamponnade péricardique.  
+513. Le traitement de la tamponnade péricardique implique généralement un drainage péricardique urgent.  
+514. La péricardite post-infarctus peut se manifester par une ré-élévation du segment ST dans la même région. 
+515. Le pouls paradoxal est un signe clinique de la péricardite aiguë.  
+516. Le traitement de la constriction péricardique peut nécessiter une exérèse chirurgicale du péricarde.  
+517. L'épanchement péricardique peut être secondaire à une insuffisance cardiaque.  503. Vrai 
+504. Vrai 
+505. Faux 
+506. Vrai 
+507. Vrai 
+508. Vrai 
+509. Vrai 
+510. Faux 
+511. Vrai 
+512. Vrai 
+513. Vrai 
+514. Vrai 
+515. Faux 
+516. Vrai 
+517. Vrai 

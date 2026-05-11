@@ -1,0 +1,29 @@
+110. La perte de connaissance est provoquée par une asystolie prolongée en cas de syncope vaso-vagale. 
+111. Le patient passe en rythme jonctionnel si la fréquence du nœud sinusal devient inférieure à celle du NAV. 
+112. Le nœud auriculo-ventriculaire a une fréquence d’environ 40bpm. 
+113. L’arythmie sinusale bénigne du sportif est une variation cyclique du temps entre 2 ondes P de <10%.  
+114. L’arythmie sinusale bénigne du sportif est liée aux variations de la balance ortho- et parasympathique. 
+115. Le temps entre 2 ondes P est accéléré à l’inspiration et ralenti à l’expiration chez le sportif. 
+116. La bradycardie sinusale se manifeste par une augmentation de la durée de l’onde P à l’ECG. 
+117. Le bloc sino-auriculaire est caractérisé par une absence de transmission électrique entre l’oreillette et le 
+nœud auriculo-ventriculaire. 
+118. L’arrêt sinusal est caractérisé par un arrêt progressif de l’activité électrique sinusale. 
+119. La maladie du nœud sinusal coexiste souvent avec des tachycardies atriales (FA ou flutter).  
+120. La prévalence de la maladie du nœud sinusal diminue avec le vieillissement.  
+121. La maladie du sinus coexiste souvent avec des altération de la conduction auriculo-ventriculaire.  
+122. Le « syndrome bradycardie-tachycardie » est caractérisé par des accès de tachycardie souvent suivis par de 
+longues pauses sinusales. 110. Vrai 
+111. Vrai 
+112. Faux 
+113. Faux 
+114. Vrai 
+115. Vrai 
+116. Faux 
+117. Faux 
+ 
+118. Faux 
+119. Vrai 
+120. Faux 
+121. Vrai 
+122. Vrai 
+ 

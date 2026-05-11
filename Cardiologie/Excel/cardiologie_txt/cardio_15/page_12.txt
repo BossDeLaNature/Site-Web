@@ -1,0 +1,29 @@
+150. L’écho-Doppler des membres inférieurs à une excellente sensibilité et spécificité pour les TVP proximales. 
+151. Le traitement des TVP vise à prévenir les embolies pulmonaires et le syndrome post-thrombotique. 
+152. Le traitement des TVP comprend essentiellement une anticoagulation et une contention veineuse. 
+153. Le traitement des TVP ne permet pas d’améliorer les symptômes. 
+154. Par définition, une TVP située sous le genou est une TVP proximale. 
+155. Les TVP proximales à faible risque de récidive nécessitent juste une courte anticoagulation par HBPM. 
+156. Les TVP distales à faible risque de récidive nécessitent une surveillance échographique. 
+157. Les TVP affectant la trifurcation poplitée et/ou plus d’une veine du mollet sont à risque élevé de récidive. 
+158. Le sexe féminin est un facteur de risque élevé de récidive de TVP distale. 
+159. Les TVP bilatérales sont à risque élevé de récidive. 
+160. Les TVP distales à risque de récidive élevé nécessite uniquement une anticoagulation pendant 3 mois. 
+161. Les TVP distales à risque de récidive faible nécessite une anticoagulation par héparine non fractionnée. 
+162. Les TPV distales idiopathiques sont à faible risque de récidive. 
+163. Toutes les TVP proximales doivent être recevoir une anticoagulation pendant au moins 3 mois.  
+164. Le syndrome post-thrombotique est causée par l’absence de dissolution complète des thrombus veineux. 150. Vrai  
+151. Vrai 
+152. Vrai 
+153. Faux 
+154. Faux 
+155. Faux 
+156. Vrai 
+157. Vrai 
+158. Faux 
+159. Vrai 
+160. Vrai 
+161. Faux 
+162. Faux 
+163. Vrai 
+164. Vrai 

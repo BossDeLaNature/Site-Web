@@ -1,0 +1,29 @@
+121. Le syndrome d’Elhers-Danlos est une maladie héréditaire du tissu conjonctif qui peut provoquer une 
+dilatation de l’anneau valvulaire et entrainer une insuffisance aortique. 
+122. L’insuffisance aortique est induite par une pathologie congénitale comme la bicuspidie aortique ou 
+l’anévrysme du sinus de Valsalva dans 10% des cas. 
+123. La dissection ou un anévrysme de l’aorte ascendante ou l’aortite peuvent entrainer une sténose aortique. 
+124. L'insuffisance aortique aiguë peut être induite par une endocardite ou une dissection aortique. 
+125. L’insuffisance aortique aigue provoque un œdème pulmonaire hémodynamique par une augmentation 
+importante du niveau de pression en amont.  
+126. L’insuffisance aortique aigue est caractérisée par une fermeture retardée de la valve mitrale. 
+127. L’insuffisance aortique chronique est le plus souvent due à l’adaptation du cœur à une insuffisance aigue. 
+128. L'insuffisance aortique chronique est caractérisée par une dilatation progressive du ventricule gauche.  
+129. La fonction contractile du ventricule gauche reste normale dans l'insuffisance aortique chronique.  
+130. La pression diastolique du VG reste longtemps normale en cas d’insuffisance aortique chronique. 
+131. Tout comme la sténose aortique, l’insuffisance aortique chronique entraine une dilatation progressive du 
+ventricule gauche sans augmentation de l’épaisseur pariétale. 121. Vrai 
+ 
+122. Vrai 
+ 
+123. Faux 
+124. Vrai 
+125. Vrai 
+ 
+126. Faux 
+127. Faux 
+128. Vrai 
+129. Faux 
+130. Vrai 
+131. Faux 
+ 

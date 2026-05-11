@@ -1,0 +1,29 @@
+13. Le risque de rupture d'un anévrisme augmente quand le diamètre de l’artère augmente. 
+14. La rupture d'un anévrisme est généralement asymptomatique.  
+15. Les anévrismes symptomatiques peuvent provoquer des douleurs abdominales aiguës.  
+16. Les épreuves fonctionnelles respiratoires ne sont pas nécessaires pour évaluer l’opérabilité d’un anévrysme 
+aortique abdominal.  
+17. La surveillance par échographie est recommandée pour tous les anévrismes de l'aorte peu importe leur taille.  
+18. Les anévrismes inflammatoires sont traités par des corticostéroïdes à dose élevée puis dégressive.  
+19. Les anévrismes inflammatoires ne nécessitent jamais de traitement chirurgical. 
+20. Les anévrismes infectieux présentent un risque élevé de rupture.  
+21. Les anévrismes infectieux ne sont jamais associés à des douleurs abdominales ou lombaires.  
+22. Le dépistage des anévrismes est recommandé uniquement pour les hommes de plus de 65 ans.  
+23. Les anévrismes de l'aorte sont souvent découverts de manière fortuite lors d'un examen échographique.  
+24. Le traitement endoluminal est toujours préférable à la chirurgie classique pour les anévrismes de l'aorte.  
+25. L'endofuite est une complication courante après un traitement endoluminal des anévrismes.  
+26. La tomodensitométrie est plus efficace que l'échographie pour évaluer le diamètre maximal d'un anévrisme.  13. Vrai 
+14. Faux 
+15. Vrai 
+16. Faux 
+ 
+17. Vrai 
+18. Vrai 
+19. Faux 
+20. Vrai 
+21. Faux 
+22. Faux  
+23. Vrai 
+24. Faux 
+25. Vrai 
+26. Vrai 

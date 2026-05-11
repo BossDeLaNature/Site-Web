@@ -1,0 +1,29 @@
+222. Le patient asymptomatique atteint de sténose mitrale doit être opéré si il présente une hypertension pré-
+capillaire pour éviter l’évolution vers une hypertension pulmonaire. 
+223. Les patients atteints de sténose mitrale ont un risque embolique très élevé. 
+224. La sténose mitrale peut être asymptomatique.  
+225. Un souffle holodiastolique au niveau du 2è espace intercostal droit est un signe typique de sténose mitrale.  
+226. La sténose mitrale peut entraîner une insuffisance cardiaque droite.  
+227. La digoxine est utilisée pour ralentir la fréquence cardiaque et la conduction auriculo-ventriculaire dans la 
+sténose mitrale.  
+228. L'hypertension pulmonaire est un signe fréquent de sténose tricuspide avancée.  
+229. Les symptômes de sténose mitrale peuvent être causés par une thyrotoxicose.  
+230. La restriction hydrique et sodée est recommandée dans le traitement médical de la sténose mitrale.  
+231. La dilatation ventriculaire gauche est un signe radiologique de sténose mitrale.  
+232. La commissurotomie percutanée est réservée aux patients âgés avec une sténose mitrale modérée.  
+233. L'épaississement de la paroi des capillaires pulmonaires est un signe de sténose mitrale avancée.  
+234. L'hypertrophie auriculaire gauche est un signe électrocardiographique de sténose mitrale.  222. Faux 
+ 
+223. Vrai 
+224. Vrai 
+225. Faux 
+226. Vrai 
+227. Vrai 
+ 
+228. Faux 
+229. Vrai 
+230. Vrai 
+231. Faux 
+232. Faux 
+233. Vrai 
+234. Vrai 

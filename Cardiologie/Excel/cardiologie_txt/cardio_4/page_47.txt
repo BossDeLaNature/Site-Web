@@ -1,0 +1,29 @@
+566. La fermeture spontanée des petites communications inter-ventriculaires se produit généralement au cours 
+des 2 premières années de vie.  
+567. La communication inter-ventriculaire découverte à l'âge adulte a un mauvais pronostic à long terme.  
+568. Les communications inter-ventriculaires découvertes à l’âge adulte ne présentent aucun risque de 
+développer une hypertension artérielle pulmonaire et ne doivent pas être opérées. 
+569. Un rapport des débits pulmonaire et aortique ≥2 est une indication chirurgicale en cas de CIV.  
+570. Les patients atteints de CIV dont les pressions ou les résistances pulmonaires s’élèvent doivent être opérés 
+même si le rapport des débits pulmonaire et aortique est <2. 
+571. Une résistance pulmonaire trop élevée contre-indique une chirurgie correctrice de CIV. 
+572. Un souffle holosystolique important est audible à droite du sternum en cas de CIV. 
+573. Les shunts inter-ventriculaires sont situés principalement dans le septum membraneux.  
+574. La seule complication de la dilatation cardiaque est l'hypertension artérielle pulmonaire.  
+575. L'ECG montre souvent des anomalies chez les patients atteints de communication inter-ventriculaire. 566. Vrai 
+ 
+567. Faux 
+568. Vrai 
+ 
+569. Vrai 
+570. Vrai 
+ 
+571. Vrai 
+572. Faux 
+573. Vrai 
+574. Faux 
+575. Faux 
+ 
+ 
+ 
+ 

@@ -1,0 +1,29 @@
+327. Le traitement initial de l’OPH est surtout composé d’O2, de dérivés nitrés et de diurétiques de l’anse. 
+328. Les inotropes positifs comme la dobutamine sont souvent utilisés pour augmenter la contractilité 
+cardiaque en cas d'insuffisance cardiaque aiguë en stimulant les récepteurs bêta-adrénergiques. 
+329. Les inhibiteurs des SGLT2 sont efficaces même chez les insuffisants cardiaques sans diabète de type 2.  
+330. La resynchronisation cardiaque peut être bénéfique en cas d’IC avec bloc de branche droit.  
+331. L’aspirine est un anti-agrégant plaquettaire recommandé en cas d’insuffisance cardiaque pour réduire le 
+risque d’évènements cardiovasculaires. 
+332. La transplantation cardiaque est indiquée si l’espérance de vie du patient atteint d’insuffisance cardiaque 
+est inférieure à 50% endéans les 6 à 12 mois avec une qualité de vie inacceptable. 
+333. L'assistance mécanique peut être utilisée en attendant la transplantation cardiaque en cas d’IC sévère.  
+334. La dilatation des cavités cardiaques est un signe typique d’insuffisance cardiaque.  
+335. L’œdème des membres supérieurs est un symptôme courant d’insuffisance cardiaque systolique. 
+336. L’IC peut entraîner une réduction de la perfusion tissulaire en raison d'une diminution du débit cardiaque.  
+337. Les diurétiques sont utilisés pour augmenter l’excrétion d’eau et de potassium en cas d’IC.  
+338. Les diurétiques de l’anse sont préférables chez les patients avec une altération de la fonction rénale. 327. Vrai 
+328. Vrai 
+ 
+329. Vrai 
+330. Faux 
+331. Vrai 
+ 
+332. Vrai 
+ 
+333. Vrai 
+334. Vrai 
+335. Faux 
+336. Vrai 
+337. Faux 
+338. Vrai 

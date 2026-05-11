@@ -1,0 +1,29 @@
+106. La colite ischémique a une étiologie multifactorielle associée à l’HTA, le diabète et les pathologies CV. 
+107. L’incidence de la colite ischémique est en diminution dans la population générale. 
+108. La colite ischémique est toujours due à une cause occlusive des artères mésentériques.  
+109. Les causes non-occlusives de colite ischémique sont nombreuses : choc (hypovolémique, septique, 
+cardiogénique, anaphylactique), cocaïne, effort physique intense et prolongé, IC, déshydratation,… 
+110. Une vasodilatation soudaine peut entrainer une colite ischémique. 
+111. L’angle splénique et le sigmoïde sont les 2 zones du colon les plus sensibles à l’ischémie. 
+112. L’aortographie peut entrainer des thromboses ou des embolies des artères mésentériques. 
+113. Une obstruction colique par un cancer ou un fécalome peut provoquer une colite ischémique. 
+114. La drépanocytose n’est jamais une cause de colite ischémique occlusive. 
+115. Le sepsis intra-abdominal, la cirrhose et la pancréatite aigue sont des causes de colite ischémique. 
+116. La colite ischémique peut être provoquée par des syndromes myéloprolifératifs ou une CIVD. 
+117. La colite ischémique entraine des douleurs abdominales sévères dans le flanc et la fosse iliaque gauche. 
+118. La colite ischémique peut entrainer des rectorragies, des diarrhées sanglantes ou une péritonite. 
+119. La présence d’un ulcère colique hémorragique n’est pas une contre-indication aux anticoagulants.  106. Vrai 
+107. Faux 
+108. Faux 
+109. Vrai 
+ 
+110. Faux 
+111. Vrai 
+112. Vrai 
+113. Vrai 
+114. Faux 
+115. Vrai 
+116. Vrai 
+117. Faux 
+118. Vrai 
+119. Faux 

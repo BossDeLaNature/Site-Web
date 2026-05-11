@@ -1,0 +1,29 @@
+203. L’axe du complexe QRS est situé entre 0° et -30° en cas de bloc de branche gauche. 
+204. Le bloc de branche gauche se manifeste par une onde Q large en V1 et une onde R large en V6 à l’ECG. 
+205. La durée normale du complexe QRS est comprise entre 0,12 et 0,20 secondes.  
+206. Le segment ST et l’onde T sont en opposition avec le signe du QRS en cas de bloc de branche gauche.  
+207. Un bloc de branche gauche mineur est caractérisé par une durée du complexe QRS entre 0,10 et 0,12 
+secondes et une dépolarisation septale normale. 
+208. La dépolarisation septale normale s’effectue de la droite vers la gauche. 
+209. Les ondes R en V1 et Q en V6 sont normales en cas de bloc de branche droit. 
+210. Le bloc de branche droit est caractérisée par un RSR’ en V6 à l’ECG.  
+211. L’axe du complexe QRS reste normal en cas de bloc de branche droit. 
+212. Les ondes T sont négatives en V1 et V2 en cas de bloc de branche droit. 
+213. Le bloc de branche gauche est caractérisée par un RSR’ en V1 à l’ECG.  
+214. Les complexes QRS ne sont pas élargis en cas d’hémibloc gauche. 
+215. Le bloc bifasciculaire est parfois associé à un bloc AV du 1er degré.  
+216. L’axe du complexe QRS est fortement dévié vers la droite en cas d’hémibloc antérieur gauche. 203. Faux 
+204. Vrai 
+205. Faux 
+206. Vrai 
+207. Vrai 
+ 
+208. Faux 
+209. Vrai 
+210. Faux 
+211. Vrai 
+212. Vrai 
+213. Faux 
+214. Vrai 
+215. Vrai 
+216. Faux 

@@ -1,0 +1,29 @@
+57. Le traitement chirurgical est souvent nécessaire pour traiter la TVP.  
+58. Le syndrome post-thrombotique survient 6 mois à 2 ans après une TVP.   
+59. Le diagnostic du syndrome post-thrombotique dépend principalement de l'imagerie médicale.  
+60. La thrombose de la veine cave inférieure entraine généralement des symptômes unilatéraux. 
+61. La TVP des membres supérieurs peut être causée par une compression extrinsèque par une tumeur. 
+62. La thrombose veineuse jugulaire est toujours associée à une thrombophilie.  
+63. La thrombose veineuse jugulaire se manifeste par des douleurs cervicales et un gonflement. 
+64. Le traitement anticoagulant est nécessaire pour éviter l'extension de la TVP et prévenir les récidives..  
+65. Les anticoagulants directs sont éliminés essentiellement par voie rénale. 
+66. La thrombolyse est recommandée comme traitement de première intention pour la TVP.  
+67. Le syndrome post-thrombotique peut survenir jusqu’à 5 ans après une TVP.  
+68. La thrombose de la veine cave inférieure est rarement liée à une origine néoplasique.  
+69. La TVP des membres supérieurs est toujours causée par des cathéters.  
+70. Le traitement anticoagulant est recommandé uniquement pour les TVP proximales.  
+71. Les anticoagulants directs présentent un risque d'interaction médicamenteuse.  57. Faux 
+58. Vrai 
+59. Faux 
+60. Faux 
+61. Vrai 
+62. Faux 
+63. Vrai 
+64. Vrai 
+65. Vrai 
+66. Faux 
+67. Faux 
+68. Vrai 
+69. Faux 
+70. Faux 
+71. Vrai 

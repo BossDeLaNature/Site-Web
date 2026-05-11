@@ -1,0 +1,29 @@
+96. Les patients atteints de syncope vaso-vagale doivent se coucher dès le début des symptômes. 
+97. Une hydratation et des apports sodés adéquats sont nécessaires pour éviter les syncopes vaso-vagales. 
+98. La bradycardie sinusale est caractérisée par une fréquence cardiaque supérieure à 60 bpm en raison d’une 
+dysfonction du nœud sinusal. 
+99. Le nœud auriculo-ventriculaire conditionne le rythme cardiaque chez le sujet sain. 
+100. Le nœud sinusal est vascularisé par une branche de l’artère gauche dans 60% des cas. 
+101. La fréquence cardiaque de repos est conditionnée par une inhibition vagale permanente du nœud sinusal. 
+102. La fréquence cardiaque de repos serait de 120 bpm sans l'inhibition vagale permanente du nœud sinusal. 
+103. La bradycardie sinusale peut être d'origine intrinsèque ou extrinsèque.  
+104. Le remplacement du nœud sinusal par du tissu fibreux est une cause de tachycardie sinusale. 
+105. Le nœud sinusal est le plus souvent vascularisé par une branche de l’artère coronaire droite. 
+106. La bradycardie sinusale est normale et bénigne chez le sportif ou durant le sommeil. 
+107. L’hyperthyroïdie, l’hypertension intracrânienne et l’hypothermie sont des causes de bradycardie sinusale.  
+108. Un tonus vagal accru diminue la fréquence cardiaque par une stimulation du nœud sinusal. 
+109. La clonidine, les anti-arythmiques et les inotropes négatifs sont parfois responsables de bradycardie. 96. Vrai 
+97. Vrai 
+98. Faux 
+ 
+99. Faux 
+100. Faux 
+101. Vrai 
+102. Faux 
+103. Vrai 
+104. Faux 
+105. Vrai 
+106. Vrai 
+107. Faux 
+108. Faux 
+109. Vrai 

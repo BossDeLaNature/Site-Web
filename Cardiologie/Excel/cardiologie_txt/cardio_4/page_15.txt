@@ -1,0 +1,29 @@
+165. La pression artérielle systolique est très élevée dans l’insuffisance aortique. 
+166. Le flux régurgitant de l’insuffisance aortique impacte la portion proximale de la branche gauche du faisceau 
+de His et entraine un bloc de branche gauche mineur à l’ECG. 
+167. L’ECG montre une dilatation du VG avec altération de la repolarisation en cas d’insuffisance aortique. 
+168. La radiographie de thorax permet de mesurer la sévérité du reflux en cas d’insuffisance aortique. 
+169. L'échographie cardiaque est inutile dans le diagnostic de l'insuffisance aortique.  
+170. Le moment optimal pour proposer le remplacement valvulaire chirurgical en cas d’insuffisance aortique est 
+au tout début des symptômes. 
+171. L’échographie permet de déterminer la sévérité du reflux, de rechercher une altération de la fonction 
+ventriculaire et une augmentation du diamètre télésystolique du VG en cas d’insuffisance aortique. 
+172. Le traitement de l'insuffisance aortique vise surtout à supprimer les symptômes. 
+173. Les bêtabloquants sont recommandés chez les patients atteints du syndrome de Marfan. 
+174. La chirurgie valvulaire est recommandée pour tous les patients atteints d'insuffisance aortique.  
+175. La réparation de la valve aortique est possible dans certains cas d’insuffisance aortique.  
+176. L'intervention de Bentall est utilisée pour remplacer l'aorte ascendante si elle est dilatée à >55mm. 165. Vrai 
+166. Vrai 
+ 
+167. Faux 
+168. Faux  
+169. Faux 
+170. Faux 
+ 
+171. Vrai 
+ 
+172. Faux 
+173. Vrai 
+174. Faux 
+175. Vrai 
+176. Vrai 

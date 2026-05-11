@@ -1,0 +1,29 @@
+436. La correction des facteurs de risque cardiovasculaires permet de prévenir les récidives de FA.  
+437. Les antivitamines K sont toujours préférés aux  anticoagulants directs chez les patients atteints de FA.  
+438. Le Score HAS-BLED permet de prédire le risque hémorragique sous anticoagulation.  
+439. La cardioversion électrique est inefficace pour traiter une FA causée par une hyperthyroïdie. 
+440. Les palpitations sont un symptôme fréquent de la fibrillation auriculaire.  
+441. Un score CHA 2DS2-VASc de 0 indique un risque élevé de thromboembolie chez les patients atteints de FA. 
+442. La fibrillation auriculaire peut être traitée avec succès par une cardioversion pharmacologique.  
+443. La fibrillation auriculaire peut être diagnostiquée par un électrocardiogramme.  
+444. Les anticoagulants directs sont toujours moins efficaces que les antivitamines K en cas de FA.  
+445. Les médicaments antiarythmiques de classe I sont sans danger pour les patients atteints de FA.  
+446. La prise en charge de la fibrillation auriculaire nécessite toujours un traitement antithrombotique.  
+447. La FA est due à de multiples petites vagues de réentrée auriculaire. 
+448. La prévalence de la FA est de 25% après 80 ans. 
+449. La prévalence de la FA augmente avec le vieillissement. 
+450. 1/3 des cas de fibrillation auriculaire sont idiopathiques. 436. Vrai 
+437. Faux 
+438. Vrai 
+439. Vrai 
+440. Vrai 
+441. Faux 
+442. Vrai 
+443. Vrai 
+444. Faux 
+445. Faux 
+446. Faux 
+447. Vrai 
+448. Faux 
+449. Vrai 
+450. Vrai 

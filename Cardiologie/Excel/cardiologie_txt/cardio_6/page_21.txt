@@ -1,0 +1,29 @@
+271. L’influx électrique passe d’abord par la voie lente et remonte vers l’oreillette par la voie rapide dans la 
+forme typique de la tachycardie jonctionnelle par réentrée intranodale. 
+272. L’onde P rétrograde est parfois masquée par le QRS dans la forme typique de la maladie de Bouveret. 
+273. L’ECG peut distinguer la maladie de Bouveret et un syndrome de pré-excitation pendant la tachycardie.  
+274. Une onde P rétrograde est parfois observée avant le QRS dans la forme typique de la TPSV. 
+275. Une onde P rétrograde négative est bien visible en D2, aVF, D3 et V6 dans la forme atypique de la TPSV. 
+276. Une onde P rétrograde négative est visible en V1 dans la forme atypique de la TPSV. 
+277. Une onde P rétrograde est présente en rythme sinusal en cas de maladie de Bouveret. 
+278. La tachycardie paroxystique supra-ventriculaire est déclenchée par une extrasystole auriculaire. 
+279. L’extrasystole auriculaire ne déclenche un accès de tachycardie paroxystique supra-ventriculaire que si elle 
+survient lors de la période réfractaire de la voie lente.  
+280. L’extrasystole auriculaire ne déclenche un accès de TPSV que si le temps de conduction de la voie lente est 
+assez long pour que la voie rapide soit sortie de sa période réfractaire et prête à conduire l’influx nerveux. 
+281. L’extrasystole auriculaire induit une dépolarisation de la voie lente à période réfractaire courte. 
+282. Le faisceau de Kent est un faisceau électrique anormal entre le NAV et le ventricule. 271. Vrai 
+ 
+272. Vrai 
+273. Faux 
+274. Faux 
+275. Vrai 
+276. Faux 
+277. Faux 
+278. Vrai 
+279. Faux 
+ 
+280. Vrai 
+ 
+281. Vrai 
+282. Faux 

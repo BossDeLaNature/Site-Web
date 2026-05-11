@@ -1,0 +1,29 @@
+741. La TV est définie par plus de 5 battements consécutifs d’origine ventriculaire.  
+742. La tachycardie ventriculaire non soutenue dure entre 3 battements et 30 secondes. 
+743. La TV de morphologie de type bloc de branche droit est caractérisée par des complexes QRS positifs en V1. 
+744. La TV d’axe inférieur est caractérisée par des complexes QRS positifs en D2, D3 et aVR.  
+745. La TV de morphologie de type bloc de branche gauche est caractérisé par des QRS négatifs en V1. 
+746. La TV d’axe supérieur est caractérisée par des complexes QRS négatifs en D2, D3 et aVF. 
+747. On parle de tachycardie ventriculaire monomorphe si les complexes QRS sont uniformes. 
+748. Une tachycardie supra-ventriculaire ressemble à une TV en l’absence d’un bloc de branche. 
+749. Un QRS très large (>0,14s si BBD et >0,16s si BBG) est un signe en faveur d’une tachycardie ventriculaire. 
+750. Une cardiopathie ischémique avec séquelle d’infarctus est un signe en faveur d’une tachycardie supra-
+ventriculaire. 
+751. Un aspect de bloc de branche droit ou gauche typique est un signe en faveur d’une TV. 
+752. Un aspect Rr’ en V1 ou R<S en V6 est un signe en faveur d’une TV. 
+753. Un intervalle RR irrégulier est un signe en faveur d’une tachycardie supra-ventriculaire. 
+754. Un QRS <0,14s si BBD et <0,16s si BBG est un signe en faveur d’une tachycardie supra-ventriculaire. 741. Faux 
+742. Vrai 
+743. Vrai 
+744. Faux 
+745. Vrai 
+746. Vrai 
+747. Vrai 
+748. Faux 
+749. Vrai 
+750. Faux 
+ 
+751. Faux 
+752. Vrai 
+753. Vrai 
+754. Vrai 

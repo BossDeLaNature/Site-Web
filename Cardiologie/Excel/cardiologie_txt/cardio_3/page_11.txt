@@ -1,0 +1,29 @@
+125. Les statines ne sont pas utiles dans le traitement de l'angine de poitrine asymptomatique.  
+126. Les dérivés nitrés sont administrés en continu pour éviter les épisodes d’ischémie asymptomatique.  
+127. Les bêta-bloquants suppriment totalement l'ischémie chez 60% des patients atteints d'angine de poitrine 
+asymptomatique.  
+128. Les antagonistes calciques à longue durée d’action sont à éviter dans le traitement de l’angine de poitrine 
+silencieuse car ils induisent une tachycardie réflexe. 
+129. Les antiagrégants plaquettaires sont nécessaires dans le traitement de l'angor asymptomatique.  
+130. Les patients diabétiques sont plus susceptibles de présenter une angine de poitrine asymptomatique.  
+131. Le Holter enregistre des sous-décalages >1mm du segment ST de plus d’une minute et séparé de 1 minute 
+de l’évènement précédent en cas d’angine de poitrine silencieuse.  
+132. L’ischémie silencieuse peut être confirmée par la scintigraphie myocardique de perfusion ou par 
+l’échographie cardiaque de stress sous dobutamine.  
+133. Les dérivés nitrés doivent être administrés avec une fenêtre thérapeutique de 10 à 12 heures pour éviter 
+une perte d’efficacité par un phénomène de tolérance.  
+134. Certains antagonistes calciques peuvent être associés avec des bêta-bloquants.  125. Faux 
+126. Faux  
+127. Vrai 
+ 
+128. Faux 
+ 
+129. Vrai 
+130. Vrai 
+131. Vrai 
+ 
+132. Vrai 
+ 
+133. Vrai 
+ 
+134. Vrai 

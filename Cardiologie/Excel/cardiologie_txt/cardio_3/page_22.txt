@@ -1,0 +1,29 @@
+258. La réduction de l’amplitude de l’onde T persiste des mois après l’infarctus myocardique. 
+259. Le diagnostic de l’infarctus à l’ECG est difficile en cas de bloc de branche droit. 
+260. La radiographie du thorax est inutile dans le diagnostic de l'infarctus myocardique.  
+261. L’échographie cardiaque permet le diagnostic différentiel de l’infarctus STEMI et de la péricardite. 
+262. La présentation clinique ne permet pas de différencier des infarctus STEMI et NSTEMI.  
+263. Les troponines I et T et la CPK (créatine phosphokinase) sont très spécifiques pour le myocarde. 
+264. Les troponines s’élèvent en 3 à 12 heures après l’infarctus et se normalisent en 2 à 3 jours. 
+265. Les CPK augmentent plus rapidement que les troponines et diminuent plus rapidement en cas de 
+reperfusion coronaire précoce. 
+266. L'échographie cardiaque permet d’évaluer l'altération de la contractilité myocardique après un infarctus.  
+267. Des ondes R amples en V1-V2 à l’ECG peuvent être l’image en miroir d’un infarctus postérieur.  
+268. L’aspartate aminotransférase (SGOT) et la lactate déshydrogénase (LDH) sont d’autres marqueurs 
+biologiques de l’infarctus myocardique avec une cinétique plus lente. 
+269. La morphine est administrée en intra-musculaire pour soulager la douleur de l’infarctus myocardique. 
+270. La douleur de l’infarctus STEMI ne cède pas aux dérivés nitrés. 258. Faux 
+259. Faux 
+260. Faux 
+261. Vrai 
+262. Vrai 
+263. Faux 
+264. Faux 
+265. Vrai 
+ 
+266. Vrai 
+267. Vrai 
+268. Vrai 
+ 
+269. Faux 
+270. Vrai 

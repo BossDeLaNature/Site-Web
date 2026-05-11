@@ -1,0 +1,28 @@
+CARDIO 
+Chapitre 15 : Thrombose veineuse profonde et superficielle 
+ 
+1. La TVP est toujours définie comme une thrombose complète du réseau veineux profond des MI. 
+2. La TVP distale est limitée à l'étage poplité. 
+3. La TVP proximale affecte uniquement le réseau veineux superficiel.  
+4. La TVP est souvent associée à l'embolie pulmonaire.  
+5. Environ 40-60% des patients atteints de TVP proximale ont une embolie pulmonaire symptomatique.  
+6. L'incidence de la TVP dans la population générale est d'environ 1 cas par 1000 par an.  
+7. Les facteurs de risque de TVP sont tous réversibles. 
+8. La connaissance des facteurs de risque n’est pas nécessaire pour estimer la probabilité clinique de TVP.  
+9. Le score de Wells est un outil utilisé pour estimer la probabilité clinique de TVP.  
+10. Un score de Wells élevé indique une probabilité clinique faible de TVP.  
+11. Le dosage des D-dimères est un test spécifique pour diagnostiquer la TVP.  
+12. Un résultat normal de D-dimères est utilisé pour exclure une TVP quand le score de Wells vaut 2.  
+13. L'échographie-Doppler des membres inférieurs est l'examen de premier choix pour diagnostiquer la TVP.  1. Faux 
+2. Faux 
+3. Faux 
+4. Vrai 
+5. Faux 
+6. Vrai 
+7. Faux 
+8. Faux 
+9. Vrai 
+10. Faux 
+11. Faux 
+12. Faux 
+13. Vrai 

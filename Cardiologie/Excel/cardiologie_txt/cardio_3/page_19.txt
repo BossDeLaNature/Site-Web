@@ -1,0 +1,29 @@
+220. Les symptômes sont généralement plus sévères en cas d’infarctus STEMI qu’en cas de NSTEMI. 
+221. L’infarctus STEMI touche plus souvent les femmes de >55 ans. 
+222. Des nausées, une dyspnée et une transpiration abondante peuvent être associés à l’infarctus. 
+223. Le principal symptôme de l’infarctus myocardique est une douleur rétro-sternale violente et non irradiée. 
+224. L’infarctus est la 1ère manifestation de la pathologie coronaire chez 50% des patients. 
+225. La douleur thoracique dans l’infarctus dure généralement une vingtaine de minutes. 
+226. L’infarctus inférieur peut être confondu avec une simple indigestion avec nausées, vomissements et 
+manifestations vagales. 
+227. Le système de collatérales développé suite à l’ischémie myocardique chronique n’est généralement pas 
+suffisamment fonctionnel pour limiter la nécrose dans l’infarctus. 
+228. La pression thoracique ressentie est de la même intensité dans l’infarctus et dans l’angor stable. 
+229. L’examen physique peut parfois montrer une PA et des bruits cardiaques normaux en cas d’infarctus. 
+230. L'infarctus peut se compliquer d’une communication interventriculaire ou d’un œdème pulmonaire. 
+231. L'ECG est le seul test nécessaire pour diagnostiquer un infarctus myocardique.  
+232. La péricardite fait partie du diagnostic différentiel de l’infarctus myocardique. 220. Faux  
+221. Faux  
+222. Vrai 
+223. Faux 
+224. Vrai 
+225. Faux 
+226. Vrai 
+ 
+227. Faux 
+ 
+228. Faux 
+229. Vrai 
+230. Vrai 
+231. Faux  
+232. Vrai 

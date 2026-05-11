@@ -1,0 +1,29 @@
+540. La communication inter-auriculaire peut se manifester par de la FA à l’ECG.  
+541. L’échographie cardiaque externe ne permet pas diagnostiquer une communication inter-auriculaire. 
+542. Le cathétérisme cardiaque est utile pour quantifier le shunt en cas de communication inter-auriculaire. 
+543. La fermeture percutanée est recommandée pour les CIA de type ostium secundum.  
+544. La communication inter-auriculaire doit être fermée si le débit pulmonaire droit est 2x plus important que 
+le débit aortique et si le patient est symptomatique. 
+545. La fermeture percutanée est indiquée en cas de communication inter-auriculaire de type ostium primum. 
+546. La résistance pulmonaire élevée contre-indique la fermeture d'une communication inter-auriculaire.  
+547. Un souffle diastolique pulmonaire est caractéristique de la communication inter-auriculaire à l'auscultation.  
+548. La fermeture chirurgicale est la seule option de traitement pour les communications inter-auriculaires de 
+type ostium secundum. 
+549. Le syndrome d’Eisenmenger est une indication à la fermeture chirurgicale ou percutanée d’une CIA. 
+550. La communication inter-ventriculaire est responsable d'un passage de sang du ventricule gauche vers le 
+ventricule droit.  
+551. La maladie de Roger est causée par une anomalie chromosomique.  540. Vrai 
+541. Faux 
+542. Vrai 
+543. Vrai 
+544. Faux 
+ 
+545. Faux 
+546. Vrai 
+547. Faux 
+548. Faux 
+ 
+549. Faux 
+550. Vrai 
+ 
+551. Faux 

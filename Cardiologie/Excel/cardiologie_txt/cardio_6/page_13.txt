@@ -1,0 +1,29 @@
+164. L'étude électrophysiologique, l‘ECG et l’enregistrement ambulatoire du rythme cardiaque sont les seuls 
+examens complémentaires nécessaires pour diagnostiquer les BAV et les blocs de branche. 
+165. Les blocs AV proximaux ont généralement un meilleur pronostic. 
+166. Le traitement des blocs AV peut inclure l'utilisation d'isoprénaline pour accélérer la fréquence cardiaque.  
+167. Un stimulateur cardiaque externe temporaire peut être utilisé en attendant la mise en place d'un 
+stimulateur interne permanent pour traiter les blocs AV. 
+168. La bradycardie sinusale est toujours symptomatique.  
+169. Le BAV du 3ème degré est accompagné de contractions auriculaires contre une valve tricuspide fermée.  
+170. Le bloc de branche gauche se caractérise par une onde R en V1 et une onde S en V6.  
+171. Le syndrome de Brugada est une cause fréquente de bradycardie sinusale. 
+172. Le traitement des blocs AV comprend uniquement l'utilisation de médicaments antiarythmiques.  
+173. Un bloc de branche droit est associé à un segment ST surélevé et décroissant et d’une onde T positive en 
+V1-V2 en cas de syndrome de Brugada. 
+174. Le traitement des bradyarythmies peut inclure la mise en place d'un stimulateur cardiaque permanent.  
+175. Les bradyarythmies peuvent être causées par une hypothyroïdie. 164. Vrai 
+ 
+165. Vrai 
+166. Vrai 
+167. Vrai 
+ 
+168. Faux 
+169. Vrai 
+170. Faux 
+171. Faux 
+172. Faux 
+173. Faux 
+ 
+174. Vrai 
+175. Vrai 

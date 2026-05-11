@@ -1,0 +1,29 @@
+522. L'isolation des veines pulmonaires par radiofréquence est recommandée après au moins 3 tentatives de 
+traitement pharmacologique inefficaces.  
+523. Les anticoagulants directs sont préférables aux antivitamines K chez les hommes avec CHA 2DS2-VASc = 2.  
+524. La digoxine est contre-indiquée chez les patients insuffisants cardiaques.  
+525. Le pourcentage de résolution spontanée est plus élevé chez les patients ayant une FA chronique.  
+526. Les antagonistes calciques sont contre-indiqués chez les patients insuffisants cardiaques. 
+527. L'automédication en cas d'accès de FA est sûre et efficace sans surveillance médicale.  
+528. L’isolation des veines pulmonaires est recommandé en 1ère intention chez tous les cas de FA.  
+529. La cardioversion pharmacologique est contre-indiquée en présence d’une altération de la conduction AV.  
+530. L'isolation des veines pulmonaires est associée à un risque accru de thrombose veineuse profonde.  
+531. La CEE est toujours efficace pour restaurer le rythme sinusal chez les patients atteints de FA. 
+532. Le traitement de la fibrillation auriculaire vise uniquement à supprimer les symptômes.  
+533. Les anticoagulants oraux directs sont plus efficaces que les antivitamines K pour prévenir les accidents 
+thromboemboliques chez les hommes avec un CHA 2DS2-VASc = 1.  
+534. Le traitement resinusalisant est interdit chez les patients présentant une FA depuis plus de 48 heures.  522. Faux 
+ 
+523. Faux 
+524. Faux 
+525. Faux 
+526. Vrai 
+527. Faux  
+528. Faux 
+529. Vrai 
+530. Faux 
+531. Faux 
+532. Faux 
+533. Vrai 
+ 
+534. Vrai 

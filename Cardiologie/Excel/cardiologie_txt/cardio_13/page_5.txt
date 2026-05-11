@@ -1,0 +1,29 @@
+57. L’acrocyanose est essentielle dans la majorité des cas. 
+58. L’acrocyanose est plus fréquente chez la femme de <30 ans et débute souvent à l’adolescence. 
+59. L’acrocyanose est plus fréquente chez les sujets obèses. 
+60. L’acrocyanose se manifeste par des extrémités froides, bleues-violettes, oedémateuses et moites. 
+61. Aucun examen complémentaires n’est habituellement requis pour diagnostiquer une acrocyanose. 
+62. La capillaroscopie est un examen qui étudie les capillaires au niveau de la pulpe de l’index  
+63. L’arrêt du tabagisme et la prévention contre le froid sont nécessaires en cas d’acrocyanose. 
+64. L’hyperhidrose peut être traitée par ionophorèse en cas d’acrocyanose. 
+65. La sympathectomie endoscopique transthoracique est réservée aux cas d’hyperhidrose palmaire sévère et 
+invalidante. 
+66. Le livedo racemosa est une réaction physiologique à l’exposition au froid. 
+67. Le livedo est une érythrocyanose en réseau d’origine neurologique. 
+68. Le livedo reticularis montre un réseau complet en maille de filet et le livedo racemosa a un aspect ramifié. 
+69. Le livedo est causée par une désoxygénation ou une stase sanguine des plexus dermiques sous-papillaires. 
+70. Une augmentation du flux artériolaire dans le derme peut causer un livedo. 57. Vrai 
+58. Vrai 
+59. Faux 
+60. Vrai 
+61. Vrai 
+62. Faux 
+63. Vrai 
+64. Vrai 
+65. Vrai 
+ 
+66. Faux 
+67. Faux 
+68. Vrai 
+69. Vrai 
+70. Faux 

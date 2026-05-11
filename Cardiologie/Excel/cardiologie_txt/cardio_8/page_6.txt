@@ -1,0 +1,29 @@
+69. La dissection artérielle est responsable de 20% des AVC chez les <50 ans. 
+70. Les accidents vasculaires lacunaires correspondent l’obstruction d’un vaisseau de petit calibre. 
+71. La dysplasie fibromusculaire est une cause rare d’AVC ischémique chez les hommes de 30-40 ans. 
+72. Les thrombophilies, la maladie de Horton et les vasculites cérébrales sont des causes rares d’AVC ischémique. 
+73. L’écho-Doppler est l’examen de 1er choix pour diagnostiquer les lésions carotidiennes sténosantes. 
+74. L’écho-Doppler est un examen efficace en cas de calcifications artérielles ou chez le sujet obèse. 
+75. Une accélération du flux sanguin dans la carotide interne est le signe d’une sténose carotidienne. 
+76. Le dépistage des sténoses carotidiennes est indiqué en cas d’AOMI ou d’anévrysme de l’aorte. 
+77. L’écho-Doppler est réalisé après auscultation d’un souffle cervical ou après une chirurgie cardiaque pour 
+rechercher une sténose carotidienne. 
+78. L’angiographie par résonance magnétique est l’examen de référence pour les sténoses carotidiennes. 
+79. L’angiographie conventionnelle permet une étude complète de la vascularisation par l’injection intraveineuse 
+d’un produit de contraste iodé. 
+80. L’angiographie conventionnelle peut entrainer des complications neurologiques par embolisation des 
+plaques athéromateuses aortiques mobilisées par le cathéter. 69. Vrai 
+70. Vrai 
+71. Faux 
+72. Vrai 
+73. Vrai 
+74. Faux 
+75. Vrai 
+76. Vrai 
+77. Faux 
+ 
+78. Faux 
+79. Faux 
+ 
+80. Vrai 
+ 

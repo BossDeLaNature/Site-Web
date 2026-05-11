@@ -1,0 +1,29 @@
+646. Le flutter auriculaire typique ne peut pas être traité par ablation par radio-fréquence.  
+647. L'ablation par radio-fréquence est plus favorable en cas de flutter auriculaire atypique que typique.  
+648. Les antiarythmiques de classe I sont les médicaments de choix pour le traitement du flutter auriculaire.  
+649. Le flutter auriculaire typique alterne toujours avec des périodes de fibrillation auriculaire.  
+650. Les « dents de scie » du flutter sont mieux visualisées dans les dérivations inférieures (D2, D3, aVF) à l'ECG. 
+651. Le flutter est caractérisé par une activité électrique irrégulière auriculaire à une fréquence de 300bpm. 
+652. Le rythme ventriculaire est toujours d’environ 150bpm en cas de flutter. 
+653. On peut observer un flutter auriculaire avec une fréquence cardiaque normale. 
+654. Les antiarythmiques de classe 1 risquent d’induire un collapsus hémodynamique en cas de flutter. 
+655. Le flutter atypique emprunte le même circuit de réentrée que le flutter typique dans un sens opposé. 
+656. La conduction auriculaire 4/1 donne un rythme ventriculaire à 100bpm en cas de flutter. 
+657. Le massage du sinus carotidien permet de visualiser les ondes de flutter en altérant transitoirement la 
+conduction auriculo-ventriculaire (surtout utile pour le flutter 1/1 ou 2/1).  
+658. Le flutter atypique peut prendre l’aspect d’une FA organisée dont la fréquence est à >300bpm. 
+659. L’électrophysiologie précise le mécanisme responsable de l’arythmie en cas de flutter atypique. 646. Faux 
+647. Faux 
+648. Faux 
+649. Faux 
+650. Vrai 
+651. Faux 
+652. Faux 
+653. Vrai 
+654. Vrai 
+655. Faux 
+656. Faux 
+657. Vrai 
+ 
+658. Vrai 
+659. Vrai 

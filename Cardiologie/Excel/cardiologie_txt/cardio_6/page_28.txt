@@ -1,0 +1,29 @@
+365. Les QRS sont très élargis en cas de tachycardie antidromique car la dépolarisation n’emprunte pas le 
+système de conduction spécialisé intra-ventriculaire. 
+366. Les études électrophysiologiques précisent le mécanismes de la tachycardie en cas TPSV ou de WPW. 
+367. Les études électrophysiologiques ne précisent pas le site de la tachycardie en cas de TPSV ou de WPW. 
+368. Certains cas de TPSV ou de WPW ne nécessitent pas de traitement. 
+369. L’ablation du circuit de réentrée par radiofréquence se fait via un cathéter inséré dans l’artère fémorale.  
+370. L’abstention thérapeutique est la meilleure option en cas de TPSV ou de WPW si les accès sont rares et 
+spontanément résolutifs. 
+371. Le traitement curatif invasif est très efficace pour traiter la tachycardie jonctionnelle et le WPW.  
+372. Eviter les excitants permet de diminuer le nombre d’accès de tachycardie jonctionnelle. 
+373. Les cas de TPSV ou de WPW hémodynamiquement instable nécessite une CEE immédiate. 
+374. L’hémodynamique instable est définie par une pression artérielle <120/80 mmHg. 
+375. Les cas de TPSV ou de WPW sont le plus souvent hémodynamiquement instables lors de la tachycardie. 
+376. Les manœuvres vagales doivent être évitées pour les cas de TPSV ou de WPW atteints de FA. 
+377. La tachycardie jonctionnelle et la tachycardie antidromique sont caractérisées par des QRS fins à l’ECG. 365. Vrai 
+ 
+366. Vrai 
+367. Faux 
+368. Vrai 
+369. Faux 
+370. Vrai 
+ 
+371. Vrai 
+372. Vrai 
+373. Vrai 
+374. Faux 
+375. Faux 
+376. Vrai 
+377. Faux 

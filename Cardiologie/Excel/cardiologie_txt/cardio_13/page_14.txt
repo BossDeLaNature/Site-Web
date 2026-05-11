@@ -1,0 +1,29 @@
+170. Les paresthésies surviennent dans le territoire de C7 en cas de syndrome du défilé thoraco-brachial. 
+171. La douleur est le signe le plus fréquent du syndrome du défilé thoraco-brachial quelle qu’en soit la cause. 
+172. La compression neurologique peut entrainer une hypoesthésie et une atrophie des muscles de la main en 
+cas de syndrome du défilé thoraco-brachial. 
+173. L’examinateur explore surtout l’axe veineux lors des manœuvres dynamiques pour diagnostiquer un 
+syndrome du défilé thoraco-brachial. 
+174. La manœuvre d’hyperabduction est le meilleur moyen de repérer un syndrome du défilé thoraco-brachial. 
+175. L’apparition d’un souffle sus-claviculaire lors du mouvement permet de diagnostiquer un syndrome du 
+défilé thoraco-brachial. 
+176. La chirurgie est le traitement de choix pour le syndrome du défilé thoraco-brachial. 
+177. La disparition du pouls ulnaire lors du mouvement permet de diagnostiquer un syndrome du défilé 
+thoraco-brachial. 
+178. Le traitement du syndrome du défilé thoraco-brachial repose sur une rééducation adaptée. 
+179. La manœuvre d’hyperabduction fait souvent disparaitre le pouls radial même chez le sujet sain. 
+180. Il faut éviter le port de charges lourdes en cas de syndrome du défilé thoraco-brachial. 170. Faux 
+171. Vrai 
+172. Vrai 
+ 
+173. Faux 
+ 
+174. Faux 
+175. Vrai 
+ 
+176. Faux 
+177. Faux 
+ 
+178. Vrai 
+179. Vrai 
+180. Vrai 

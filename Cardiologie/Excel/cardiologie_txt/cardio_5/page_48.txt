@@ -1,0 +1,29 @@
+600. La péricardite constrictive survient surtout après une péricardite idiopathique ou une chirurgie cardiaque. 
+601. La constriction péricardique se manifeste par une fibrose dense, des calcifications et des adhérences entre 
+les 2 feuillets péricardiques. 
+602. La fibrose ne s’étend jamais au ventricule en cas de constriction péricardique. 
+603. La tamponnade peut survenir suite à un épanchement péricardique brutal >200ml. 
+604. Une hypothyroïdie peut entrainer un épanchement péricardique. 
+605. La constriction péricardique augmente le débit cardiaque via une augmentation du rythme cardiaque. 
+606. La constriction péricardique se manifeste par un tableau d’insuffisance cardiaque gauche.  
+607. La fonction systolique ventriculaire est proche de la normale en cas de constriction péricardique. 
+608. Le signe de Küssmaul correspond à une augmentation de la turgescence jugulaire à l’inspiration. 
+609. Le pouls paradoxal est retrouvé chez 90% des patients atteints de constriction péricardique. 
+610. Les OMI, l’hépatomégalie et l’orthopnée sont des symptômes de constriction péricardique. 
+611. L’auscultation cardiaque est normale en cas de constriction péricardique. 
+612. L’ECG montre un QRS de faible voltage et une altération de l’onde T en cas de constriction péricardique. 
+613. La constriction péricardique entraine souvent une hypertension pulmonaire. 600. Vrai 
+601. Vrai 
+ 
+602. Faux 
+603. Vrai 
+604. Vrai 
+605. Faux 
+606. Faux 
+607. Vrai 
+608. Vrai 
+609. Faux 
+610. Vrai 
+611. Faux 
+612. Vrai 
+613. Faux 

@@ -1,0 +1,29 @@
+40. Les tumeurs du glomus carotidien se développent généralement dans l’intima du vaisseau. 
+41. Les paragangliomes sont généralement des tumeurs malignes qui évoluent lentement. 
+42. Les tumeurs du glomus carotidien peuvent être asymptomatiques.  
+43. Les tumeurs du glomus carotidien se manifestent par une tuméfactation battante au niveau du cou.  
+44. L'athérosclérose est la principale étiologie des accidents ischémiques vertébrobasilaires.  
+45. Les dissections artérielles sont la 1ère cause d’ischémie cérébrale chez les patients de moins de 50 ans. 
+46. Les tumeurs du glomus carotidiens sont des tumeurs très vascularisées.  
+47. Les paragangliomes surviennent généralement chez les personnes âgées de plus de 70 ans.  
+48. La majorité des dissections artérielles surviennent spontanément sans cause apparente. 
+49. Les signes d'ischémie cérébrale secondaire se développent immédiatement après une dissection carotidienne.  
+50. L'échographie-Doppler n'est pas fiable pour diagnostiquer les dissections artérielles.  
+51. La radiothérapie peut induire des sténoses cicatricielles des troncs supra-aortiques.   
+52. Les lésions sténosantes carotidiennes sont la cause d’environ 15% des AVC. 
+53. Les lésions carotidiennes siègent surtout au niveau de la bifurcation carotidienne ou du siphon carotidien. 
+54. Les sténoses carotidiennes n’entrainent généralement pas de souffle à l’auscultation des vaisseaux du cou. 40. Faux 
+41. Faux 
+42. Vrai 
+43. Vrai 
+44. Vrai 
+45. Vrai 
+46. Vrai 
+47. Faux 
+48. Vrai 
+49. Faux 
+50. Faux 
+51. Vrai 
+52. Vrai 
+53. Vrai 
+54. Faux 

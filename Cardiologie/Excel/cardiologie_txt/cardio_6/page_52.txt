@@ -1,0 +1,29 @@
+702. Un défibrillateur implantable est indiqué pour la TV non soutenue en cas de cardiopathie ischémique. 
+703. L'ablation par radiofréquence est peu utile dans le traitement de la tachycardie ventriculaire.  
+704. La cardioversion électrique est le traitement de choix pour la fibrillation ventriculaire aiguë.  
+705. La mort arythmique est supprimée par le défibrillateur implantable.  
+706. La classe NYHA est un facteur prédictif de la survie après l'implantation d'un défibrillateur interne.  
+707. La tachycardie ventriculaire est rarement associée à une cardiopathie ischémique. 
+708. La tachycardie ventriculaire peut être induite par l'exercice physique et l'isoprotérénol chez les <50 ans.  
+709. La TV induite par l'exercice physique a un aspect de bloc de branche gauche.  
+710. Les cardiomyopathies dilatée et hypertrophique sont associées à la tachycardie ventriculaire.  
+711. La cardiomyopathie arythmogène ventriculaire droite est caractérisée par un VD atrophié et hypokinétique.  
+712. La cardiomyopathie arythmogène ventriculaire droite répond bien au traitement par la digoxine.  
+713. L'ECG dans la TV montre des oscillations à larges mailles sans complexe QRS discernable.  
+714. L'étude électrophysiologique permet toujours de reproduire l'arythmie chez les patients atteints de TV.  
+715. Le défibrillateur implantable est indiqué pour la TV non soutenue avec dysfonction ventriculaire gauche.  
+716. L'utilisation de plusieurs antiarythmiques différents est recommandée pour le traitement de la TV.  702. Vrai 
+703. Faux 
+704. Vrai 
+705. Vrai 
+706. Vrai 
+707. Faux 
+708. Vrai 
+709. Vrai 
+710. Vrai 
+711. Faux 
+712. Faux 
+713. Faux 
+714. Faux 
+715. Vrai 
+716. Faux 

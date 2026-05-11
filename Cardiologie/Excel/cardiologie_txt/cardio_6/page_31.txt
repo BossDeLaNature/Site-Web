@@ -1,0 +1,29 @@
+407. Le diltiazem ou le vérapamil remplace l’ablation par radiofréquence si le patient refuse l’intervention. 
+408. Si la voie accessoire conduit lentement, elle ne doit pas être enlevée par radiofréquence. 
+409. Le traitement médicamenteux est préféré à l’ablation en cas de tachycardie antidromique. 
+410. Le traitement médicamenteux est préféré à l’ablation si le patient pratique un métier à risque. 
+411. Le traitement par diltiazem ou vérapamil est préféré à l’ablation en l’absence de FA pré-excitée. 
+412. Le vérapamil ou le diltiazem sont remplacés par des bêta-bloquants en cas d’insuffisance cardiaque. 
+413. La fibrillation auriculaire est caractérisée par une activité électrique auriculaire chaotique. 
+414. Le rythme de l’activité électrique auriculaire varie généralement entre 350 et 600 bpm lors de la FA.  
+415. La fibrillation auriculaire s'accompagne toujours d'une activité contractile auriculaire.  
+416. La prévalence de la fibrillation auriculaire diminue avec le vieillissement.  
+417. La fibrillation auriculaire est idiopathique chez un patient sur trois.  
+418. L'hypertension artérielle n’est pas une cause de fibrillation auriculaire.  
+419. La chirurgie cardiothoracique peut induire la fibrillation auriculaire. 
+420. La fibrillation auriculaire peut être causée par une hyperthyroïdie.  
+421. La présence d'un thrombus dans l'oreillette gauche est rare chez les patients atteints de FA. 407. Vrai 
+408. Vrai 
+409. Faux 
+410. Faux 
+411. Vrai 
+412. Vrai 
+413. Vrai 
+414. Vrai 
+415. Faux 
+416. Faux 
+417. Vrai 
+418. Faux 
+419. Vrai 
+420. Vrai 
+421. Faux  

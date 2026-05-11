@@ -1,0 +1,29 @@
+100. L’anévrysme est défini par un diamètre antéropostérieur de l’aorte abdominale de >35mm chez l’homme. 
+101. Le signe de De Bakey est caractéristique d’un anévrysme aortique sus-rénal. 
+102. Une augmentation rapide du diamètre <1cm/an est un facteur de risque de rupture d’anévrysme. 
+103. La palpation de l’abdomen montre une masse pulsatile refoulant les mains à chaque systole en cas d’AAA. 
+104. Un anévrysme de l’aorte abdominale douloureux est une indication de chirurgie peu urgente. 
+105. La tomodensitométrie permet de diagnostiquer un AAA en cas de symptômes non spécifiques. 
+106. Le signe de De Bakey est positif si on peut introduire la main entre l’anévrysme de l’AA et le rebord costal. 
+107. Des douleurs thoraciques ou lombaires aigues doivent faire suspecter la fissuration d’un AAA. 
+108. La rupture intrapéritonéale d’un anévrysme est généralement mieux toléré que la rupture rétropéritonéale.  
+109. Un anévrysme de l’aorte abdominale  peut se rompre dans un organe creux comme le colon ou la VCI. 
+110. La rupture rétropéritonéale d’un AAA provoque un collapsus sévère et brutal. 
+111. Une compression de la veine cave supérieure par un AAA provoque un œdème du membre supérieur. 
+112. Les AAA peuvent se manifester par la migration d’emboles provoquant des ischémies de membre. 
+113. Les « orteils bleus » ne sont jamais associés aux anévrysmes de l’aorte abdominale. 
+114. La radiographie de l’abdomen à blanc est l’examen de 1er choix pour diagnostiquer les AAA.  100. Vrai 
+101. Faux 
+102. Faux 
+103. Vrai 
+104. Faux 
+105. Vrai 
+106. Vrai 
+107. Faux 
+108. Faux 
+109. Vrai 
+110. Faux 
+111. Faux 
+112. Vrai 
+113. Faux 
+114. Faux 

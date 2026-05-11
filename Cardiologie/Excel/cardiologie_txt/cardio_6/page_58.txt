@@ -1,0 +1,29 @@
+779. Le défibrillateur implantable permet de réduire la mortalité non-arythmique en cas de TV. 
+780. La classe NHYA et la FEVG sont des facteurs importants de survie après l’implantation d’un défibrillateur. 
+781. Les pathologies de la repolarisation cardiaque peuvent augmenter le risque de mort subite due à une 
+tachycardie ventriculaire rapide polymorphe.  
+782. Le syndrome du QT long congénital est beaucoup plus fréquent que le syndrome du QT long acquis. 
+783. Le syndrome du QT long congénital est caractérisé par des anomalies de l'onde T et U.  
+784. Les symptômes du syndrome du QT long congénital surviennent lors d'une activation orthosympathique.  
+785. La syncope et la mort subite sont des symptômes caractéristiques du syndrome du QT long acquis.  
+786. Les bradycardie et les BAV sont des facteurs favorisants de la syncope dans le syndrome du QT long acquis.  
+787. L'hyperkaliémie est un facteur favorisant de la mort subite dans le syndrome du QT long congénital.  
+788. L'intervalle QT corrigé pour la fréquence cardiaque est <0,48 sec dans le syndrome du QT long congénital.  
+789. Les bêta-bloquants sont un traitement de choix pour le syndrome du QT long congénital.  
+790. Le sulfate de magnésium est le traitement de choix pour les tachycardies ventriculaires non soutenues dans 
+le syndrome du QT long acquis.  
+791. Une kaliémie en dessous de 4.5 meq/l est recommandé dans le traitement du syndrome du QT long acquis.  779. Faux 
+780. Vrai 
+781. Vrai 
+ 
+782. Faux 
+783. Vrai 
+784. Vrai 
+785. Vrai 
+786. Vrai 
+787. Faux 
+788. Faux 
+789. Vrai 
+790. Vrai 
+ 
+791. Faux 

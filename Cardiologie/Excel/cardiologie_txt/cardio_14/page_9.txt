@@ -1,0 +1,29 @@
+110. L'eczéma variqueux est caractérisé par une peau suintante, vésiculeuse et rougeâtre.  
+111. Les varices peuvent parfois se compliquer d'une thrombose veineuse superficielle. 
+112. L'atrophie blanche est une plaque scléro-atrophique causée par une occlusion veineuse.  
+113. La classification C2 de l’insuffisance veineuse désigne les sujets qui présentent des varices sous-cutanées 
+palpables de >3mm. 
+114. La classification C6 de l’insuffisance veineuse désigne les sujets qui présentent un ulcère cicatrisé. 
+115. La classification C4 de l’insuffisance veineuse désigne les sujets qui présentent des troubles trophiques 
+d’origine veineuse (dermite ocre, eczéma variqueux, hypodermite, lipodermatosclérose,…). 
+116. La classification C1 de l’insuffisance veineuse désigne les sujets qui présentent des télangiectasies. 
+117. Les signes physiques de l’insuffisance veineuse sont classés sur une échelle de gravité croissante en tenant 
+compte de la sévérité de la dysfonction veineuse et de son ancienneté. 
+118. L’œdème vespéral de la cheville est une manifestation tardive de l’insuffisance veineuse. 
+119. La dilatation des veines de l’arche plantaire interne et des régions malléolaires (corona phlebectatica) sont 
+les premières manifestations de l’insuffisance veineuse des membres inférieurs.  
+120. La dermite ocre est une complication trophique de la stase veineuse. 110. Vrai 
+111. Vrai 
+112. Faux 
+113. Vrai 
+ 
+114. Faux 
+115. Vrai 
+ 
+116. Vrai 
+117. Vrai 
+ 
+118. Faux 
+119. Vrai 
+ 
+120. Vrai 

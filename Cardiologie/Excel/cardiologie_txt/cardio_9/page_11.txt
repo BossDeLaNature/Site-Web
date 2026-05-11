@@ -1,0 +1,28 @@
+142. La mortalité péri-opératoire est de 70% dans le traitement de l’anévrysme aortique rompu. 
+143. Le dépistage et le traitement précoce permet une réduction de la mortalité liée aux AAA de 45%. 
+144. Les anciennes fumeuses doivent être dépistées pour l’AAA entre 65 et 75 ans. 
+145. Les AAA de 30 à 40mm doivent être surveillés par échographie tous les 6 à 12 mois. 
+146. Les anévrysmes inflammatoires représentent 5 à 10% de tous les anévrysmes de l’aorte. 
+147. Les AAA de 40 à 54mm doivent être surveillés par échographie tous les mois. 
+148. Les anévrysmes aortiques atteignent le plus souvent l’aorte descendante intra-thoracique. 
+149. La chirurgie est indiquée pour les anévrysmes inflammatoires <55mm en cas d’échec du traitement 
+médical par méthylprednisolone. 
+150. Les AAA de 30 à 40mm doivent être surveillés par échographie tous les 1 à 3 ans.  
+151. Les anévrysmes infectieux sont toujours secondaires à une contamination par voie hématogène. 
+152. La tomodensitométrie montre une couronne inflammatoire hyperdense dans la paroi aortique calcifiée en 
+cas d’anévrysme inflammatoire. 
+153. Les anévrysmes isolés de l’aorte thoracique peuvent entrainer des douleurs interscapulaires. 142. Faux 
+143. Vrai 
+144. Vrai 
+145. Faux 
+146. Vrai 
+147. Faux 
+148. Faux 
+149. Vrai 
+ 
+150. Vrai 
+151. Faux 
+152. Faux 
+ 
+153. Vrai 
+154. Faux 

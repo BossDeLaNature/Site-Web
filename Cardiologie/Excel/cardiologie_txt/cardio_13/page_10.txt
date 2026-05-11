@@ -1,0 +1,29 @@
+124. Les télangiectasies sont des taches cutanées qui ne disparaissent pas à la vitropression. 
+125. La forme CREST du lupus associe des calcifications sous-cutanées, un Raynaud, des troubles de la motilité 
+œsophagienne, une sclérodactylie et des télangiectasies. 
+126. La phénomène de Raynaud peut être associée à la maladie de Buerger ou à des emboles. 
+127. Les bêta-bloquants sont recommandés dans le traitement du phénomène de Raynaud. 
+128. Le syndrome du défilé thoraco-brachial est une cause de phénomène de Raynaud. 
+129. La compression neurologique du syndrome du canal carpien peut provoquer un phénomène de Raynaud. 
+130. Il n’existe aucun traitement médicamenteux susceptible d’améliorer le phénomène de Raynaud. 
+131. Des microtraumatismes répétés et des vibrations peuvent engendrer un phénomène de Raynaud. 
+132. Les chocs répétés sur le poignet peuvent engendrer un anévrysme cubital emboligène et un phénomène 
+de Raynaud chez les joueurs de volley-ball. 
+133. Les dérivés de l’ergot er certains promitotiques peuvent provoquer un phénomène de Raynaud. 
+134. Les bêta-bloquants sont les médicaments les plus souvent incriminés dans la genèse ou l’exacerbation 
+d’un phénomène de Raynaud. 
+135. L’arrêt du tabac et la protection contre le froid sont recommandés en cas de phénomène de Raynaud. 124. Faux 
+125. Faux 
+ 
+126. Vrai 
+127. Faux 
+128. Vrai 
+129. Vrai 
+130. Faux 
+131. Vrai 
+132. Vrai 
+ 
+133. Faux 
+134. Vrai 
+ 
+135. Vrai 

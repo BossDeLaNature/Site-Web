@@ -1,0 +1,29 @@
+507. Une anticoagulation et une CEE sont recommandés en cas de FA avec instabilité hémodynamique.  
+508. La cardioversion électrique externe est recommandée pour les FA <48h avec stabilité hémodynamique. 
+509. Si la FA persiste depuis plus de 48 heures, l'administration d'un traitement resinusalisant est autorisée.  
+510. L'efficacité de la CEE dépend uniquement de la durée de la FA et de la gravité de la pathologie cardiaque.  
+511. La cardioversion pharmacologique est envisageable en cas de FA récente avec stabilité hémodynamique. 
+512. Le vernakalant est contre-indiqué en cas de sténose aortique serrée.  
+513. La flecainide peut être utilisé même en présence de flutter auriculaire.  
+514. La dysthyroïdie est une contre-indication absolue au traitement de la FA par amiodarone. 
+515. L’ibutilide est contre-indiqué en cas de QT prolongé.  
+516. L'automédication en cas d'accès de FA est possible après une hospitalisation. 
+517. Les mesures hygiéno-diététiques ne sont pas efficaces pour prévenir les récidives de FA.  
+518. Il est recommandé d'associer différents antiarythmiques pour un meilleur contrôle de la FA.  
+519. La flecainide est contre-indiquée en cas de cardiopathie ischémique ou de FEVG réduite. 
+520. L’amiodarone est le traitement le plus efficace pour la FA, mais aussi le plus toxique à long terme.  
+521. Il existe un risque de décès procédural associé à l'isolation des veines pulmonaires.  507. Vrai 
+508. Vrai 
+509. Faux 
+510. Faux 
+511. Vrai 
+512. Vrai 
+513. Faux 
+514. Faux 
+515. Vrai 
+516. Vrai 
+517. Faux 
+518. Faux 
+519. Faux 
+520. Vrai 
+521. Vrai 

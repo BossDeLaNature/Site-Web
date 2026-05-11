@@ -1,0 +1,29 @@
+535. La prise de flecainide est recommandée chez les patients ayant une cardiopathie ischémique. 
+536. L'automédication en cas d'accès de FA est recommandée sans consultation médicale préalable.  
+537. L'administration d'amiodarone est déconseillée chez les patients présentant une FEVG réduite. 
+538. La digoxine augmente l'activité sympathique.  
+539. Les bêta-bloquants peuvent être utilisés en association avec les antagonistes calciques pour ralentir le 
+rythme ventriculaire chez les patients atteints de fibrillation auriculaire.  
+540. L'amiodarone est le traitement le moins toxique parmi les antiarythmiques.  
+541. La cardioversion pharmacologique est contre-indiquée en cas d'allongement du QTc > 500ms. 
+542. L'ablation du NAV est associée à un risque accru de bloc auriculo-ventriculaire complet.  
+543. Le traitement resinusalisant est autorisé chez les patients présentant une FA depuis moins de 24 heures.  
+544. Les anticoagulants oraux directs ont un profil de sécurité similaire aux antivitamines K.  
+545. L'isolation des veines pulmonaires est contre-indiquée en cas de tachycardiomyopathie réfractaire. 
+546. L’amiodarone et le sotalol sont des anti-arythmiques de classe 3.   
+547. L'administration d'amiodarone est contre-indiquée en cas de torsades de pointes.  
+548. L'automédication en cas d'accès de FA est aussi efficace qu’une resinusalisation en milieu hospitalier. 535. Faux 
+536. Faux 
+537. Faux 
+538. Faux 
+539. Faux 
+ 
+540. Faux 
+541. Vrai 
+542. Vrai 
+543. Vrai 
+544. Faux 
+545. Faux 
+546. Vrai 
+547. Vrai 
+548. Faux 

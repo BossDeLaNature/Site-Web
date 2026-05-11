@@ -1,0 +1,29 @@
+339. L'utilisation prolongée de diurétiques peut entrainer une perte excessive de K+ et de Mg2+ et des 
+troubles électrolytiques.  
+340. L'IC avec FEVG préservée est caractérisée par une diminution de l'élasticité auriculaire gauche.  
+341. Le diagnostic de l’IC avec fonction systolique ventriculaire gauche préservée est souvent facile à établir.  
+342. On considère que la fonction systolique est préservée si la FEVG est >40%. 
+343. Un VG rigide ne peut être rempli qu’au prix d’une augmentation de pression dans l’oreillette gauche. 
+344. Toutes les affections qui réduisent l'élasticité myocardique peuvent induire une dysfonction diastolique.  
+345. L’augmentation de la séquestration diastolique du Ca2+ dans le réticulum sarcoplasmique altère le 
+processus actif de relaxation myocardique et induit une dysfonction diastolique. 
+346. L’insuffisance cardiaque à FEVG préservée est fréquente chez la femme âgée. 
+347. L’IC à FEVG préservée entraine une hypertension auriculaire gauche et veineuse pulmonaire. 
+348. Le pronostic de l’IC à FEVG préservée est généralement meilleur que celui de l’IC à FEVG réduite.  
+349. Le diagnostic de l’IC diastolique est posé grâce à l’échographie cardiaque et au dosage du NT-proANP. 
+350. La présentation clinique de l’IC est similaire peu importe si la FEVG est réduite ou préservée.  
+351. Le diagnostic d’insuffisance cardiaque à fonction préservée nécessite des examens complémentaires.  339. Vrai 
+ 
+340. Faux 
+341. Faux 
+342. Faux 
+343. Vrai 
+344. Vrai 
+345. Faux 
+ 
+346. Vrai 
+347. Vrai 
+348. Vrai 
+349. Faux 
+350. Vrai 
+351. Vrai 

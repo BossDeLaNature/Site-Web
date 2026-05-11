@@ -1,0 +1,29 @@
+151. La maladie de Buerger évolue par poussées suivies de périodes de rémissions. 
+152. L’artériographie montre des collatérales spiralées « en tire-bouchon » dans la maladie de Buerger. 
+153. Le test d’Allen est inutile dans le diagnostic de la thromboangéite oblitérante. 
+154. La biologie montre souvent des signes très spécifiques en cas de maladie de Buerger. 
+155. La biopsie est rarement possible dans la maladie de Buerger sauf en cas de TVS. 
+156. La biopsie montre une panvascularite avec thombus frais hypercellulaire comprenant des polynucléaires 
+neutrophiles, des macrophages et des cellules multinuclées en cas de maladie de Buerger. 
+157. L’arrêt du tabac est un élément salvateur en cas de thromboangéite oblitérante. 
+158. Les bêta-bloquants font partie du traitement de la maladie de Buerger. 
+159. Le traitement de la thromboangéite oblitérante comprend des antiagrégants plaquettaires, des 
+anticoagulants, des antagonistes calciques et de la prostacycline (iloprost). 
+160. La chirurgie de revascularisation est un traitement de choix dans la maladie de Buerger. 
+161. Certains cas de maladie de Buerger peuvent bénéficier d’une sympathectomie. 
+162. Des amputations limitées sont parfois nécessaires en cas de maladie de Buerger. 
+163. L’artérite à cellules géantes prédomine au niveau de l’intima en cas de maladie de Horton. 151. Vrai 
+152. Vrai 
+153. Faux 
+154. Faux 
+155. Vrai 
+156. Vrai 
+ 
+157. Vrai 
+158. Faux 
+159. Vrai 
+ 
+160. Faux 
+161. Vrai 
+162. Vrai 
+163. Faux 

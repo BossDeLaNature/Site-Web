@@ -1,0 +1,29 @@
+128. Les antagonistes calciques sont prescrits en cas d'hypertension diastolique isolée pour réduire la précharge. 
+129. Les inhibiteurs de l'enzyme de conversion peuvent être prescrits post-infarctus myocardique.  
+130. Les bêta-bloquants sont évités chez les athlètes car ils peuvent réduire les performances dynamiques.  
+131. Les inhibiteurs de l'enzyme de conversion sont recommandés en cas de néphropathie diabétique.  
+132. Les médicaments qui agissent sur le SRAA sont tératogènes.  
+133. Les antagonistes calciques sont recommandés en cas de bloc auriculo-ventriculaire.  
+134. La vasoconstriction artériolaire protège les organes en maintenant une perfusion constante pour des 
+élévations modérées de PA.  
+135. L’auto-régulation artériolaire normale se met en place en cas d’élévation très importantes de la PA. 
+136. L’hypertension maligne entraine généralement une perfusion des organes proportionnelle à la PA, ce qui 
+entraine des lésions endothéliales et une oblitération/nécrose fibrinoïde artériolaire. 
+137. L’HTA maligne se caractérise par un œdème cérébral avec une barrière hémato-méningée intacte. 
+138. Les céphalées sont le symptôme le plus fréquent de l’HTA maligne. 
+139. Les nausées, les vomissements et les convulsions sont des signes courants d'encéphalopathie hypertensive.  
+140. Le traitement de l'hypertension maligne nécessite généralement une intervention chirurgicale.  128. Faux 
+129. Vrai 
+130. Vrai 
+131. Vrai 
+132. Vrai 
+133. Faux 
+134. Vrai 
+ 
+135. Faux 
+136. Vrai 
+ 
+137. Faux 
+138. Faux 
+139. Vrai 
+140. Faux 

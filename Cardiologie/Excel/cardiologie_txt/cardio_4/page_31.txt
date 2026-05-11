@@ -1,0 +1,29 @@
+361. La réparation mitrale par annuloplastie est le traitement de 1ère intention pour les cas d’insuffisance mitrale 
+secondaire à une insuffisance cardiaque.  
+362. L'implantation percutanée d'un clip mitral est une option pour les patients inopérables présentant une 
+insuffisance mitrale sévère.  
+363. La régurgitation mitrale contribue à la progression de l'insuffisance cardiaque par la surcharge en volume.  
+364. Les symptômes de l'insuffisance cardiaque comprennent souvent une dyspnée et une toux persistante.  
+365. L’implantation percutanée d’un clip sert à solidariser la partie centrale des 2 feuillets mitraux. 
+366. L'insuffisance tricuspide est plus souvent congénitale que secondaire à d'autres affections cardiaques.  
+367. L’insuffisance tricuspide peut être due à la surcharge volémique induite par un shunt intracardiaque. 
+368. La dilatation ventriculaire droite peut contribuer à l'induction de l'insuffisance mitrale.  
+369. Les muscles papillaires sont présents uniquement dans le ventricule gauche. 
+370. L'endocardite est une cause rare d'insuffisance tricuspide associée à la toxicomanie par voie intraveineuse.  
+371. La maladie d'Ebstein est caractérisée par une implantation trop haute de la valve tricuspide.  
+372. L’insuffisance tricuspide est généralement secondaire à une hypertension pulmonaire due à une pathologie 
+du cœur droit ou de la valve pulmonaire.  361. Faux 
+ 
+362. Vrai 
+ 
+363. Vrai 
+364. Faux 
+365. Vrai 
+366. Faux 
+367. Vrai 
+368. Faux 
+369. Faux 
+370. Vrai 
+371. Faux 
+372. Faux 
+ 

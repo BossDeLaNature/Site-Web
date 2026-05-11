@@ -1,0 +1,29 @@
+348. L'échographie cardiaque est inutile dans le diagnostic du prolapsus valvulaire mitral. 
+349. L’hypertension artérielle légère doit être traitée en cas de prolapsus valvulaire mitral.  
+350. La réparation valvulaire est le seul traitement curatif du prolapsus valvulaire mitral. 
+351. Le prolapsus valvulaire mitral peut être diagnostiqué par un souffle télésystolique. 
+352. La dilatation ventriculaire dans l'insuffisance cardiaque entraîne une dilatation de l'anneau mitral.  
+353. La fibrillation auriculaire peut être responsable d’insuffisance mitrale sans dilatation importante du VG. 
+354. La régurgitation mitrale atténue la surcharge en volume de l'insuffisance cardiaque.  
+355. Le souffle holosystolique à l'apex est un signe caractéristique de l'insuffisance mitrale. 
+356. L’échographie et le scanner thoracique sont utilisés pour diagnostiquer les cardiopathies dilatées avec 
+insuffisance mitrale secondaire.  
+357. À la radiographie thoracique, une cardiomégalie est typique de l'insuffisance cardiaque.  
+358. Le traitement de l’insuffisance cardiaque inclut différents médicaments à la dose minimale efficace. 
+359. Une réparation mitrale peut être envisagée si le patient reste symptomatique malgré un traitement médical 
+maximal. 
+360. L'implantation percutanée d'un clip mitral est réservée aux patients dont le VG est sévèrement dilaté.  348. Faux 
+349. Vrai 
+350. Vrai 
+351. Vrai 
+352. Vrai 
+353. Vrai 
+354. Faux 
+355. Vrai 
+356. Faux 
+ 
+357. Vrai 
+358. Faux 
+359. Vrai 
+ 
+360. Faux 

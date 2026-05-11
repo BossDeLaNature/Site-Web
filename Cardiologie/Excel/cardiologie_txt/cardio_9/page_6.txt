@@ -1,0 +1,29 @@
+71. Les anévrismes des artères viscérales sont fréquents.  
+72. Les anévrysmes des artères viscérales atteignent le plus souvent l’artère splénique. 
+73. Les anévrismes de l'artère splénique présentent un risque élevé de rupture lors de la grossesse.  
+74. Les anévrismes de l'artère splénique sont toujours traités par embolisation percutanée.  
+75. Les anévrismes de l'artère hépatique nécessitent rarement un traitement chirurgical.  
+76. Les anévrismes iliaques sont le plus souvent situés sur les iliaques externes.  
+77. Les anévrismes iliaques présentent un risque de rupture dans la veine iliaque.  
+78. Les anévrismes poplités sont souvent traités par la mise en place d’une prothèse en Dacron. 
+79. Une augmentation du diamètre artériel de 40% n’est pas considéré comme un anévrysme. 
+80. L’anévrysme vrai comprend toutes les tuniques de la paroi. 
+81. Le faux anévrysme correspond à un hématome sous-intimal encapsulé contenu par la média. 
+82. Les anévrysmes des artères rénales ou carotides sont plus rares. 
+83. Le diamètre de l’aorte abdominale normal est d’environ 20mm. 
+84. L’anévrysme est défini par un diamètre antéropostérieur de l’aorte abdominale de >35mm chez la femme. 
+85. Le tabagisme est un facteur de risque majeur d’anévrysme de l’aorte abdominale. 71. Faux 
+72. Vrai 
+73. Vrai 
+74. Vrai 
+75. Faux 
+76. Faux 
+77. Vrai 
+78. Faux 
+79. Vrai 
+80. Vrai 
+81. Faux 
+82. Vrai 
+83. Vrai 
+84. Faux 
+85. Vrai 

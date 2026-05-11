@@ -1,0 +1,29 @@
+217. La durée du QRS est <0,10 secondes en cas d’hémibloc antérieur gauche. 
+218. L’axe du complexe QRS est situé entre -45° et -90° en cas d’hémibloc antérieur gauche. 
+219. La transition précordiale est déplacée vers la droite en cas d’hémibloc antérieur gauche. 
+220. La transition précordiale correspond à la dérivation où l’onde R devient une onde S. 
+221. L’axe du complexe QRS est dévié vers la droite en cas d’hémibloc postérieur gauche. 
+222. L’axe du complexe QRS est généralement situé entre +90° et +120° en cas d’hémibloc postérieur gauche. 
+223. La durée du QRS est >0,12 secondes en cas d’hémibloc postérieur gauche. 
+224. Les blocs AV et les blocs de branche sont généralement plus symptomatiques chez le sujet âgé sédentaire. 
+225. Le BAV de type Mobitz II avec QRS large précède la syncope de Stockes-Adams. 
+226. Le BAV de 3ème degré est associé à une disparition du B1 à l’auscultation cardiaque. 
+227. Le BAV de 3ème degré est associé à des « ondes de canons » au niveau du pouls jugulaire. 
+228. Le degré d’ouverture de la valve mitrale au moment de la systole est variable en cas de BAV du 3ème degré. 
+229. Un bloc de branche gauche associé à un segment ST surélevé et décroissant et d’une onde T négative en 
+V1-V2 doit faire suspecter un syndrome de Brugada. 
+230. Le syndrome de Brugada est causé par une mutation du gène codant pour le canal Na+. 217. Vrai 
+218. Vrai 
+219. Faux 
+220. Vrai 
+221. Vrai 
+222. Faux 
+223. Faux 
+224. Vrai 
+225. Vrai 
+226. Faux 
+227. Vrai 
+228. Vrai 
+229. Faux 
+ 
+230. Vrai 

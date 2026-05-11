@@ -1,0 +1,29 @@
+430. Les abcès para-valvulaires peuvent provoquer des métastases infectieuses à distance en cas d’endocardite. 
+431. L’immunité humorale est efficace contre les végétations infectieuses mais pas l’immunité cellulaire. 
+432. L’endocardite infectieuse provoque une immunosuppression généralisée. 
+433. Le TAVI présente un risque d’endocardite moins élevé que les valves prothétiques. 
+434. Un risque augmenté d’endocardite persiste durant les 6 premiers mois après l’intervention correctrice en 
+cas de pathologie congénitale non cyanogène. 
+435. Les patients avec un antécédent d’endocardite sont à haut risque de refaire une endocardite. 
+436. Les interventions dentaires sont une source courante d'infection pour les endocardites.  
+437. Les streptocoques viridans sont responsables des endocardites associées à des interventions digestives.  
+438. Les staphylocoques sont rarement associés aux infections cardiaques après des interventions dentaires.  
+439. Les entérocoques et certains bacilles Gram- peuvent provoquer des endocardites sur valve native. 
+440. Les symptômes d’endocardite surviennent généralement dans les 7 jours suivant la bactériémie. 
+441. La fièvre de l’endocardite subaiguë est absente chez le sujet âgé ou en cas d’insuffisance rénale chronique. 
+442. L’endocardite est toujours mortelle en l’absence de traitement. 
+443. L’érythème de Janeway est caractérisée par des lésions palmo-plantaires douloureuses. 430. Vrai 
+431. Faux 
+432. Faux 
+433. Faux 
+434. Vrai 
+ 
+435. Vrai 
+436. Vrai 
+437. Faux 
+438. Vrai 
+439. Vrai 
+440. Faux 
+441. Vrai 
+442. Vrai 
+443. Faux 

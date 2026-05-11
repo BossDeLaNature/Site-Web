@@ -1,0 +1,29 @@
+183. Les patients atteints d’infarctus sont généralement hospitalisés pendant 2 semaines. 
+184. On administre de l’oxygène nasal à tous les patients atteints d’angor instable. 
+185. La fibrillation auriculaire est un facteur associé à un mauvais pronostic dans l'angor instable.  
+186. Les troponines augmentent plus de 3 heures après l'infarctus NSTEMI.  
+187. Des diurétiques et des inhibiteurs de l’enzyme de conversion peuvent être administrés en cas d’infarctus 
+NSTEMI pour agir contre l’insuffisance cardiaque. 
+188. Une coronarographie est effectuée 48h après un infarctus NSTEMI chez les patients à risque élevé. 
+189. Des fluctuations du segment ST au repos sont associés à un mauvais pronostic en cas d’angor instable. 
+190. Les anti-thrombotiques sont indispensables dans le traitement de l’angor instable.  
+191. Le retour à domicile dans les 3 à 7 jours est possible dans 95% des cas après un infarctus NSTEMI.  
+192. Les bêta-bloquants sont contre-indiqués si la PAS est >100 mmHg et le RC <60 bpm. 
+193. Les dihydropyridines peuvent être associés aux bêta-bloquants dans le traitement aigu de l’angor instable. 
+194. La morphine est utilisée pour réduire la douleur dans l'angor instable.  
+195. Le clopidogrel est un agoniste des récepteurs à l’ADP plaquettaire et exerce une action anti-thrombotique. 
+196. Le traitement médical permet de limiter la mortalité aigue de l’infarctus NSTEMI à <1%. 183. Faux 
+184. Faux 
+185. Vrai 
+186. Vrai 
+187. Vrai 
+ 
+188. Faux  
+189. Vrai 
+190. Vrai 
+191. Vrai  
+192. Faux 
+193. Vrai 
+194. Vrai 
+195. Faux 
+196. Faux 

@@ -1,0 +1,29 @@
+210. La radiographie de thorax montre un double contour droit du cœur en cas de sténose mitrale. 
+211. L'échographie cardiaque transthoracique est inutile dans le diagnostic de la sténose mitrale.  
+212. L’échographie cardiaque transoesophagienne permet de rechercher un thrombus dans l’auricule gauche 
+avant une dilatation percutanée en cas de sténose mitrale. 
+213. Le souffle de sténose mitrale est caractérisé par un renforcement présystolique dû à la contraction 
+auriculaire gauche. 
+214. Le cathétérisme cardiaque n’est pas indiqué en cas de sténose mitrale. 
+215. La commissurotomie percutanée permet de traiter une sténose mitrale par voie veineuse. 
+216. Le traitement médical de l’insuffisance mitrale comprend une restriction hydrique et sodée. 
+217. La cardioversion électrique ou pharmacologique est parfois indiquée en cas de sténose mitrale. 
+218. Les bêta-bloquants sont contre-indiqués dans le traitement de la sténose mitrale.  
+219. Les anticoagulants directs sont recommandés pour les patients avec une fibrillation auriculaire et une 
+sténose mitrale modérée à sévère.  
+220. La chirurgie de remplacement valvulaire mitral est la seule option pour traiter la sténose mitrale.  
+221. Les dihydropyridines sont indiquées dans le traitement de la sténose mitrale. 210. Vrai 
+211. Faux 
+212. Vrai 
+ 
+213. Vrai 
+ 
+214. Faux 
+215. Vrai 
+216. Faux 
+217. Vrai 
+218. Faux 
+219. Faux 
+ 
+220. Faux 
+221. Faux 

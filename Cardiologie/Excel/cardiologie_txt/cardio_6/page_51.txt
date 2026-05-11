@@ -1,0 +1,29 @@
+687. La symptomatologie de la tachycardie ventriculaire dépend uniquement de la fréquence cardiaque.  
+688. La tolérance hémodynamique à la TV est toujours excellente si la fonction cardiaque est normale.  
+689. La TV lente peut entraîner de la dyspnée, des palpitations et des œdèmes pulmonaires et périphériques.  
+690. La tachycardie ventriculaire rapide peut induire un collapsus hémodynamique.  
+691. Les « ondes de canon » jugulaires irégulières sont un signe typique de la tachycardie ventriculaire.  
+692. La fibrillation ventriculaire entraîne un collapsus circulatoire endéans 3 à 10 secondes. 
+693. La fibrillation ventriculaire peut être traitée par une cardioversion électrique. 
+694. L'ECG dans la tachycardie ventriculaire montre des complexes QRS uniformes. 
+695. La TV de morphologie de type bloc de branche gauche montre des complexes QRS positifs en V1.  
+696. Une tachycardie supra-ventriculaire avec un bloc de branche ressemble toujours à une TV à l'ECG.  
+697. L'axe du complexe QRS dans la tachycardie ventriculaire est généralement compris entre -60° et -180°.  
+698. La dissociation auriculo-ventriculaire est un signe en faveur de la tachycardie supra-ventriculaire.  
+699. La lidocaïne est le traitement de choix pour la tachycardie ventriculaire aiguë.  
+700. La cardioversion électrique est préférable au traitement pharmacologique pour la TV instable.  
+701. Les bêta-bloquants sont le traitement de choix pour la TV précoce dans l'infarctus myocardique aigu.  687. Faux  
+688. Faux 
+689. Vrai 
+690. Vrai 
+691. Vrai 
+692. Vrai 
+693. Vrai 
+694. Vrai 
+695. Faux 
+696. Vrai 
+697. Vrai 
+698. Faux 
+699. Faux 
+700. Vrai 
+701. Vrai 

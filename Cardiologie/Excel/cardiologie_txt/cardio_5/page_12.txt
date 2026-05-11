@@ -1,0 +1,29 @@
+142. Aucun traitement ne peut améliorer l’altération du contrôle de la respiration associée à l’IC systolique.  
+143. Le sacubitril n’agit pas sur le remodelage ventriculaire dans le traitement de l’insuffisance cardiaque. 
+144. Les IEC, les alpha-bloquants et la spironolactone permettent de prolonger la survie en cas d’IC systolique.  
+145. Un régime sans sel avec moins de 10g NaCl/jour est recommandé en cas d’insuffisance cardiaque.  
+146. Les apports hydriques d’un patient en insuffisance cardiaque ne doivent pas dépasser 1,5L/jour. 
+147. Les diurétiques peuvent diminuer l'importance du régime hyposodé strict en cas d'IC légère ou modérée. 
+148. L’insuffisance cardiaque systolique n’est jamais une indication à la transplantation cardiaque.  
+149. 50% des patients en insuffisance cardiaque décèdent subitement, souvent par fibrillation ventriculaire. 
+150. Les bêta-bloquants permettent de réduire l’incidence de la fibrillation ventriculaire. 
+151. Les IEC sont recommandés en prévention pour tous les patient en insuffisance cardiaque. 
+152. L’endothéline, l’aldostérone et l’AGII font partie des molécules qui favorisent la dysfonction et l’apoptose 
+myocytaire ainsi que la fibrose interstitielle en cas d’insuffisance cardiaque. 
+153. Les apports de NaCl doivent être réduits à 3-4g par jour en cas d’insuffisance cardiaque systolique sévère 
+nécessitant de hautes doses de diurétiques. 
+154. L’hyperactivation du SRAA et de la vasopressine en cas d’IC peuvent provoquer une hyponatrémie. 142. Faux 
+143. Faux 
+144. Faux 
+145. Faux 
+146. Vrai 
+147. Vrai 
+148. Faux 
+149. Vrai 
+150. Vrai 
+151. Faux 
+152. Vrai 
+ 
+153. Vrai 
+ 
+154. Vrai 

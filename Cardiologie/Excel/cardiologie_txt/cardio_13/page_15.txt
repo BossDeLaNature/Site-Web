@@ -1,0 +1,29 @@
+181. La manœuvre d’Adson consiste en une position de garde-à-vous exagérée en inspiration profonde pour 
+diagnostiquer un syndrome du défilé thoraco-brachial. 
+182. Les engelures font partie des acrosyndromes vasculaires. 
+183. Les engelures surviennent à la fin de l’automne et en hiver (saisons froides et humides). 
+184. Les engelures sont des lésions cutanées inflammatoires liées au froid et à l’humidité. 
+185. Les engelures consistent en une vraie congélation tissulaire. 
+186. Les engelures surviennent uniquement en hiver lorsqu’il gèle. 
+187. Les engelures sont des lésions bénignes et fréquentes à caractère saisonnier. 
+188. Les engelures sont favorisées par un terrain familial, l’acrorhigose et un phénomène de Raynaud. 
+189. L’engelure est une plaque ou une papule oedémateuse, prurigineuse, algique et érythrocyanotique. 
+190. Les engelures peuvent survenir sur n’importe quelle partie du corps. 
+191. Les engelures sont des lésions douloureuses qui grattent beaucoup. 
+192. Les engelures n’évoluent jamais vers une ulcération (aspect de trouble trophique ischémique). 
+193. Les engelures sont plus fréquentes chez les jeunes hommes avec un BMI bas. 
+194. L’évolution des engelures se fait par poussées de 2 à 4 semaines. 181. Faux 
+ 
+182. Faux  
+183. Faux 
+184. Vrai 
+185. Faux 
+186. Faux 
+187. Vrai 
+188. Faux 
+189. Vrai 
+190. Vrai 
+191. Vrai 
+192. Faux 
+193. Faux 
+194. Vrai 

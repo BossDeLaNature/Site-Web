@@ -1,0 +1,29 @@
+111. Les anomalies artérielles sont toujours absentes en cas de maladie de Raynaud. 
+112. Les troubles trophiques sont rarissimes en cas de syndrome de Raynaud. 
+113. La capillaroscopie est parfois anomale en cas de maladie de Raynaud. 
+114. Le pronostic de la maladie de Raynaud est excellent. 
+115. Le syndrome de Raynaud peut débuter à tout âge. 
+116. Les analyses de laboratoire ne sont jamais anormales en cas de phénomène de Raynaud. 
+117. La maladie de Raynaud touche autant les hommes que les femmes. 
+118. La maladie de Raynaud touche 2 fois plus souvent les femmes que les hommes. 
+119. La sclérodermie est fréquemment associée à un phénomène de Raynaud. 
+120. Le lupus, la polyarthrite rhumatoïde, le syndrome de Sjogren et la dermatomyosite sont plus souvent 
+associés au phénomène de Raynaud que la sclérodermie. 
+121. La forme CREST de la sclérodermie est associée à des troubles de la motilité intestinale. 
+122. La forme CREST de la sclérodermie est associée au phénomène de Raynaud dans >90% des cas. 
+123. La forme CREST de la sclérodermie est associée à des calcifications sous-cutanées, des télangiectasies et 
+une sclérodactylie. 111. Vrai 
+112. Faux 
+113. Faux 
+114. Vrai 
+115. Vrai 
+116. Faux 
+117. Faux 
+118. Faux 
+119. Vrai 
+120. Faux 
+ 
+121. Faux 
+122. Vrai 
+123. Vrai 
+ 

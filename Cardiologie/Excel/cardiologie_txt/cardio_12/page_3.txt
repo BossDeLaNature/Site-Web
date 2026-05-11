@@ -1,0 +1,29 @@
+27. Les dissections artérielles touchent surtout l’aorte et peuvent s’étendre vers les carotides ou les artères du MI. 
+28. Certains médicaments anti-migraineux conteniennent des dérivés de l'ergot de seigle.  
+29. La maladie de Buerger touche principalement les femmes.  
+30. La maladie de Buerger est associée à un risque accru de thrombophlébites superficielles migrantes. 
+31. La maladie de Horton affecte principalement les jeunes adultes. 
+32. La maladie de Horton est également appelée artérite à cellules géantes.  
+33. La maladie de Takayasu affecte principalement les hommes.  
+34. La maladie de Takayasu touche principalement les artères de gros et moyen calibre.  
+35. La maladie de Takayasu est plus fréquente en Europe occidentale qu'en Orient.  
+36. La maladie de Behçet est caractérisée par des ulcérations buccales et génitales récurrentes.  
+37. Les artères sont les seules structures vasculaires touchées par la maladie de Behçet.  
+38. Les kystes adventiciels peuvent provoquer une claudication intermittente chez les sujets jeunes.  
+39. Les dysplasies fibromusculaires touchent principalement les artères coronaires. 
+40. Le pseudoxanthome élastique est une maladie non héréditaire du tissu conjonctif.  
+41. Les artérites inflammatoires n'affectent que les gros vaisseaux.  27. Vrai 
+28. Vrai 
+29. Faux 
+30. Vrai 
+31. Faux 
+32. Vrai 
+33. Faux 
+34. Vrai 
+35. Faux 
+36. Vrai 
+37. Faux 
+38. Vrai 
+39. Faux 
+40. Faux 
+41. Faux 

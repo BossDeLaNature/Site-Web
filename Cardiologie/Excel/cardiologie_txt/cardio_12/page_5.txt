@@ -1,0 +1,29 @@
+57. Les artérites inflammatoires touchent uniquement les vaisseaux de petit calibre. 
+58. La maladie de Horton est plus fréquente chez les hommes que chez les femmes.  
+59. Les ulcérations buccales ou génitales sont un critère diagnostique de la maladie de Behçet.  
+60. La thromboangéite oblitérante est une maladie vasculaire non inflammatoire.  
+61. La prévalence de la maladie de Buerger est plus élevée en Asie et en Europe centrale.  
+62. La maladie de Horton affecte les branches de la carotide externe mais pas celles de la carotide interne. 
+63. La fièvre est un symptôme courant de la maladie de Horton.  
+64. La maladie de Horton touche quasi exclusivement les personnes âgées de plus de 60 ans. 
+65. L’inflammation de la maladie de Horton est traitée par corticoïdes car les AINS sont souvent insuffisants. 
+66. Les artères sous-clavières sont rarement affectées dans la maladie de Takayasu.  
+67. La maladie de Behçet est souvent plus sévère chez les femmes. 
+68. La maladie de Behçet début souvent après 55 ans. 
+69. La biopsie est souvent nécessaire pour confirmer le diagnostic de la maladie de Behçet.  
+70. Les corticoïdes sont utilisés dans le traitement des formes graves de la maladie de Behçet.  
+71. Les anticoagulants sont utilisés en cas de thrombose veineuse profonde dans la maladie de Behçet.  57. Faux 
+58. Faux 
+59. Vrai 
+60. Faux 
+61. Vrai 
+62. Faux 
+63. Vrai 
+64. Vrai 
+65. Vrai 
+66. Faux 
+67. Faux 
+68. Faux 
+69. Faux 
+70. Vrai 
+71. Vrai 

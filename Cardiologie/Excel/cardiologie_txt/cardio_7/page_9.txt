@@ -1,0 +1,29 @@
+113. La mesure des pressions de perfusion au Doppler complète systématiquement l’examen clinique pour le 
+diagnostic d’AOMI.  
+114. Le Doppler mesure les pressions de perfusion des artères pédieuses, tibiales antérieures et humérales. 
+115. L’indice bras-cheville se situe normalement entre 1 et 0,9.  
+116. Un ABI >1,4 témoigne d’artères incompressibles et suggère une médiacalcose. 
+117. L’indice bras-cheville est calculée à partir des pressions diastoliques les plus élevées. 
+118. L’ABI chute en-dessous de 0,9 en cas d’artérite des membres inférieurs. 
+119. Le test de Strandness permet de déceler une AOMI qui ne devient symptomatique qu’à l’effort. 
+120. L’épreuve d’hyperhémie inclut une mesure des pressions de perfusion avant et pendant l’effort. 
+121. La pression est plus élevée dans l’artère humérale que dans l’artère tibiale car elle est située plus proche du 
+site de réflexion du courant sanguin. 
+122. L’épreuve d’hyperhémie est stoppée quand la douleur apparait ou après maximum 15 minutes. 
+123. Les pressions de perfusion à l’effort diminuent à l’effort au lieu d’augmenter en cas d’AOMI.  
+124. La remontée de la pression de perfusion après un effort est d’autant plus lente que l’AOMI est légère. 
+125. Le duplex scan des membres inférieurs permet de diagnostiquer des anévrismes aortiques et poplités. 113. Vrai 
+ 
+114. Faux 
+115. Faux 
+116. Vrai 
+117. Faux 
+118. Vrai 
+119. Vrai 
+120. Faux 
+121. Faux 
+ 
+122. Faux 
+123. Vrai 
+124. Faux 
+125. Vrai 

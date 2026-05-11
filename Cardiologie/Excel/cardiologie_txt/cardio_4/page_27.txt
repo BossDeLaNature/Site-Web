@@ -1,0 +1,29 @@
+305. L’annuloplastie est une opération qui consiste à suturer les commissures des feuillets valvulaires mitraux. 
+306. Le remplacement valvulaire mitral est préférable à l’annuloplastie s’il y a une forte probabilité de succès à 
+long terme dans le traitement de l’insuffisance mitrale. 
+307. La maladie de Barlow est responsable d’un prolapsus mitral en milieu de systole.  
+308. En cas d’insuffisance mitrale, le débit cardiaque aortique chute alors que la FEVG est augmentée.  
+309. Le remplacement valvulaire mitral est la seule option chirurgicale pour l'insuffisance mitrale.  
+310. L'échographie cardiaque peut montrer une valve mitrale épaissie dans l'insuffisance mitrale.  
+311. La régurgitation aiguë de l'insuffisance mitrale est souvent traitée par réduction de la RVP.   
+312. La réparation valvulaire mitrale est préférable au remplacement valvulaire pour préserver la fonction 
+ventriculaire en cas d’insuffisance mitrale. 
+313. La réparation valvulaire mitrale nécessite une anticoagulation par aspirine pendant 3 mois. 
+314. La prothèse valvulaire mitrale mécanique nécessite une anticoagulation par AVK à vie. 
+315. L'échographie peut aider le chirurgien à choisir la technique chirurgicale pour l'insuffisance mitrale.  
+316. La réparation valvulaire mitrale avec annuloplastie est indiquée pour les valves calcifiées. 
+317. Les cordages sous-valvulaires sont préservés lors d'une annuloplastie.  305. Faux 
+306. Faux 
+ 
+307. Vrai 
+308. Vrai 
+309. Faux 
+310. Vrai 
+311. Vrai 
+312. Vrai 
+ 
+313. Faux 
+314. Vrai 
+315. Vrai 
+316. Faux 
+317. Vrai 

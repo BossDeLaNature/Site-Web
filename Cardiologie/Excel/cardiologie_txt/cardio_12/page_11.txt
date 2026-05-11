@@ -1,0 +1,29 @@
+139. Le pseudoxanthome élastique ne conduit jamais à la cécité. 
+140. Le pseudoxanthome élastique induit des hémorragies digestives dans 50% des cas. 
+141. Le fond d’œil montre des stries angioïdes à partir de la papille en cas de pseudoxanthome élastique. 
+142. Les stries angioïdes sont des craquelures/déchirures sombres de la membrane de Bruch qui entrainent 
+l’émergence de néovaisseaux en provenance de la choroïde. 
+143. L’aspirine est utilisée dans le traitement du pseudoxanthome élastique. 
+144. La fragmentation des fibres élastiques des vaisseaux entraine une multitude de complications 
+thrombotiques en cas de pseudoxanthome élastique. 
+145. La thromboangéite oblitérante atteint les artères distales de grand calibre >3mm. 
+146. La maladie de Buerger constitue 0,5 à 5% des artériopathies des membres inférieurs. 
+147. La thromboangéite oblitérante atteint exclusivement les artères et les veines des membres inférieurs. 
+148. Le tabac est un facteur protecteur contre la maladie de Buerger. 
+149. La maladie de Buerger est associée à la consommation de tabac et probablement de cannabis. 
+150. La maladie de Buerger est fréquemment caractérisée par une triade associant claudication du membre 
+atteint, phénomène de Raynaud et thrombophlébites profondes migrantes. 139. Faux 
+140. Vrai 
+141. Vrai 
+142. Vrai 
+ 
+143. Faux 
+144. Faux 
+ 
+145. Faux 
+146. Vrai 
+147. Faux 
+148. Faux 
+149. Vrai 
+150. Faux 
+ 

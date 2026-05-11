@@ -1,0 +1,29 @@
+83. Les emboles responsables d’une occlusion aigue de l’AMS sont le plus souvent d’origine cardiaque. 
+84. Les emboles de microcristaux de cholestérol sont souvent trop petits pour occlure un tronc viscéral. 
+85. L’atteinte de la musculeuse peut entrainer un infarctus transmural, une perforation intestinale et une 
+péritonite en cas d’ischémie mésentérique aigue. 
+86. L’occlusion artérielle aigue peut être causée par une thrombose in situ sur une sténose athéroscléreuse. 
+87. L’extension des lésions à la sous-muqueuse entraine un œdème et des hémorragies de la paroi intestinale en 
+cas d’ischémie mésentérique aigue.  
+88. La dissection aortique n’entraine jamais d’occlusion artérielle mésentérique aigue. 
+89. Les traumatismes, les vasculites, la dysplasie fibromusculaire et la thrombocytose sont des causes plus rares 
+d’ischémie mésentérique aigue par occlusion veineuse aigue. 
+90. L’ischémie mésentérique aigue provoque des douleurs abdominales violentes et crampoïdes. 
+91. L’ischémie mésentérique aigue est parfois paucisymptomatique chez le sujet âgé. 
+92. L’ischémie mésentérique aigue entraine une douleur péri-ombilicale irradiée dans la fosse iliaque gauche. 
+93. L’examen clinique révèle une légère sensibilité abdominale et une douleur qui semble disproportionnée au 
+stade précoce d’une ischémie mésentérique aigue. 83. Vrai 
+84. Faux 
+85. Vrai 
+ 
+86. Vrai 
+87. Vrai 
+ 
+88. Faux 
+89. Faux 
+ 
+90. Vrai 
+91. Vrai 
+92. Faux 
+93. Vrai 
+ 

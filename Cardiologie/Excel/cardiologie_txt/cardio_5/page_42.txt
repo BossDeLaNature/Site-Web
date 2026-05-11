@@ -1,0 +1,29 @@
+518. L'épanchement péricardique peut être détecté par la radiographie thoracique.  
+519. La présence de calcifications péricardiques à la radio thoracique est un signe de constriction péricardique.  
+520. La péricardite post-infarctus nécessite toujours l'arrêt de l'héparine.  
+521. Le pouls paradoxal est un signe clinique de la constriction péricardique.  
+522. L'élévation du segment ST est un signe typique de la constriction péricardique à l'ECG.  
+523. Le traitement de la péricardite aiguë implique toujours l'utilisation de diurétiques.  
+524. L'épanchement péricardique peut être détecté par la résonance magnétique nucléaire.  
+525. Le péricarde normale est très élastique lors de variations extrêmes du volume cardiaque. 
+526. Lorsque le volume cardiaque augmente de façon trop importante, le péricarde normal devient rigide.  
+527. Le volume du ventricule gauche est réduit à l’inspiration si le volume péricardique est fixe. 
+528. Le septum interventriculaire est déplacé vers la droite à l’inspiration pour augmenter le volume du VG.  
+529. Le pouls paradoxal s’explique par l’interdépendance des volumes ventriculaires dans un péricarde rigide. 
+530. Le pouls paradoxal est caractérisée par une augmentation de la PA >10mmHg à l’inspiration. 
+531. 80% des péricardites virales sont dus aux virus Coxsackie. 
+532. Les bactéries et les champignons sont aussi capables de causer des péricardites aigues. 518. Vrai 
+519. Vrai 
+520. Faux 
+521. Vrai 
+522. Faux 
+523. Faux 
+524. Vrai 
+525. Faux 
+526. Vrai 
+527. Vrai 
+528. Faux 
+529. Vrai 
+530. Faux 
+531. Faux 
+532. Vrai 

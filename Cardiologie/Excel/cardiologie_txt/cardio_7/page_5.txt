@@ -1,0 +1,29 @@
+58. Les artériographies donnent une cartographie précise de la microcirculation dans les membres inférieurs.  
+59. L’angio-CT est une d’imagerie par tomodensitométrie nécessitant l’injection IV d’un produit de contraste iodé.  
+60. Les lésions neurologiques surviennent dans les 3 premières heures de l’ischémie aiguë des membres inférieurs.  
+61. L’angio-CT est une technique d’imagerie invasive pour évaluer l’extension des lésions artérielles périphériques.  
+62. Les pressions de perfusion augmentent lors d’une épreuve d’hyperhémie chez le sujet normal. 
+63. Le temps de recoloration unguéale normal est inférieur à 5 secondes. 
+64. Il est recommandé de prendre les pouls périphériques à l’aide de la pulpe des doigts. 
+65. La bifurcation de l’aorte abdominale est localisée au-dessus de l’ombilic. 
+66. Le pouls de l’artère pédieuse est pris à la face latérale du 2ème os métatarsien. 
+67. L’insuffisance veineuse sévère peut se manifester par un œdème à godet. 
+68. L’intensité d’un souffle vasculaire est souvent un bon indicateur du degré de sténose de l’artère.  
+69. La peau mal oxygénée est souvent rouge, fine, fragile et sans poils. 
+70. Le follicule pileux est l’une des 1ères structures à souffrir du manque d’oxygène. 
+71. Les patients artéritiques sont très souvent diabétiques et ont peu de sensation au niveau des extrémités. 
+72. L’érythrocyanose déclive est caractérisée par une coloration rouge/violet du pied en position couchée. 58. Faux 
+59. Vrai 
+60. Faux 
+61. Faux 
+62. Vrai 
+63. Faux 
+64. Faux 
+65. Vrai 
+66. Faux 
+67. Vrai 
+68. Faux 
+69. Faux 
+70. Vrai 
+71. Vrai 
+72. Faux 

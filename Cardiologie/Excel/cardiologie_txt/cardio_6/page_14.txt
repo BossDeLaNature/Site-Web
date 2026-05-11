@@ -1,0 +1,29 @@
+176. Le bloc de branche droit est associé à un axe du complexe QRS dévié vers la droite.  
+177. Le syndrome bradycardie-tachycardie est souvent associé à la maladie du nœud sinusal.  
+178. Le bloc AV du deuxième degré de type Mobitz I est caractérisé par une constance dans l'espace PR.  
+179. Le bloc AV du deuxième degré de type Mobitz II est caractérisé par un allongement progressif du PR.   
+180. Le traitement des bradyarythmies peut comprendre l'utilisation de médicaments anti-inflammatoires.  
+181. Le syndrome de Brugada est une cause génétique rare de mort subite. 
+182. Le bloc AV du 1er degré est toujours situé dans le nœud auriculo-ventriculaire. 
+183. Le BAV du 1er degré est caractérisé par un allongement de la conduction entre l’oreillette et le ventricule. 
+184. L’intervalle PR est supérieur à 200ms en cas de bloc AV du 1er degré. 
+185. Le nœud auriculo-ventriculaire est le plus souvent vascularisé par l’artère interventriculaire antérieure. 
+186. Les branches du faisceau de His sont isolées électriquement du myocarde. 
+187. L’ischémie, la sarcoïdose et les traumatismes chirurgicaux peuvent altérer le tissu de conduction. 
+188. Le BAV du 2ème degré est caractérisé par une absence de conduction des ondes P aux ventricules. 
+189. Le BAV du 2ème degré est caractérisé par une alternance d’ondes P conduites et non-conduites aux 
+ventricules en présence d’un rythme sinusal irrégulier. 176. Faux 
+177. Vrai 
+178. Faux 
+179. Faux 
+180. Faux 
+181. Vrai 
+182. Faux 
+183. Vrai 
+184. Vrai 
+185. Faux 
+186. Vrai 
+187. Vrai 
+188. Faux 
+189. Faux 
+ 

@@ -1,0 +1,29 @@
+271. Une dose de charge d’aspirine et de clopidogrel est administrée en urgence en cas d’infarctus STEMI. 
+272. Le traitement de l'infarctus aigu vise principalement à rétablir la perméabilité de l'artère thrombosée.  
+273. La thrombolyse est toujours préférée à la dilatation percutanée dans le traitement de l'infarctus aigu. 
+274. La dilatation percutanée est plus efficace que la thrombolyse pour traiter un infarctus aigu du myocarde. 
+275. L’administration d’un activateur du plasminogène permet de rouvrir 70% des artères thrombosées en cas 
+d’infarctus. 
+276. La dilatation percutanée permet de rouvrir 90% des artères thrombosées en cas d’infarctus. 
+277. La thrombolyse est associée à un risque d’hémorragie cérébrale. 
+278. La thrombolyse est parfois préférable à la dilatation percutanée si les symptômes durent depuis >3h. 
+279. Le traitement médicamenteux aigu de l’infarctus STEMI est composé de bêta-bloquants, d’héparine de bas 
+poids moléculaire, d’inhibiteurs de l’enzyme de conversion, de statines et d’antagonistes calciques. 
+280. Les bêta-bloquants sont contre-indiqués dans le traitement aigu de l'infarctus myocardique.  
+281. La thrombolyse peut être efficace si le traitement est très précoce et le caillot pas encore consolidé. 
+282. Le meilleur traitement de l’infarctus STEMI est la chirurgie coronaire en urgence.  
+283. Le risque de décès est très important avant le transfert à l’hôpital dans la phase aigüe de l’infarctus. 271. Vrai 
+272. Vrai 
+273. Faux  
+274. Vrai 
+275. Faux 
+ 
+276. Vrai 
+277. Vrai 
+278. Faux 
+279. Faux 
+ 
+280. Faux 
+281. Vrai 
+282. Faux 
+283. Vrai 

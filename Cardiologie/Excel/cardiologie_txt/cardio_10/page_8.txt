@@ -1,0 +1,29 @@
+100. Les dissections aortiques chroniques doivent être surveillées 2x/an la 1ère année par CT ou RMN. 
+101. Les ulcères pénétrants de l’aorte sont situés au niveau d'une plaque athéromateuse de l’aorte abdominale.  
+102. L'ulcère pénétrant de l’aorte entraîne souvent une rupture de la limitante élastique interne.  
+103. L'extension de l'ulcère dans la média et au-delà peut causer un faux-anévrysme et un hématome de paroi. 
+104. La présentation clinique typique d'un ulcère pénétrant de l’aorte est une douleur abdominale.  
+105. Les patients présentant un ulcère pénétrant de l’aorte sont généralement âgé et sévèrement athéromateux. 
+106. L'imagerie par tomodensitométrie avec contraste ou la RMN montrent un cratère ulcéreux sur la paroi 
+vasculaire en cas d’ulcère pénétrant de l’aorte.  
+107. Un anévrisme de plus de 5,5 à 6 cm nécessite généralement un traitement chirurgical ou endovasculaire.  
+108. Le traitement chirurgical est souvent nécessaire pour les ulcères pénétrants de l'aorte ascendante. 
+109. Le traitement médical est toujours préféré à la chirurgie pour les ulcères pénétrants de l’aorte descendante.  
+110. Un traitement chirurgical est envisagé pour un ulcère de l’aorte descendante si la douleur persiste.  
+111. Un traitement chirurgical est toujours nécessaire en cas d’ulcère aortique avec instabilité hémodynamique.  
+112. L'expansion de l'hémothorax est une indication chirurgicale pour l'ulcère pénétrant de l’aorte descendante.  
+113. Les ulcères pénétrants de l’aorte sont rarement associés à des plaques athéromateuses.  100. Faux 
+101. Faux 
+102. Vrai 
+103. Vrai 
+104. Faux 
+105. Vrai 
+106. Vrai 
+ 
+107. Vrai 
+108. Vrai 
+109. Faux 
+110. Vrai 
+111. Vrai 
+112. Vrai 
+113. Faux 

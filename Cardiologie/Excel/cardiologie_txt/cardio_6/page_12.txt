@@ -1,0 +1,29 @@
+150. Les bradycardies sinusales ne nécessitent jamais de traitement.  
+151. Les ondes P sont toujours normales à l’ECG en cas de bradycardie sinusale.  
+152. Le traitement de la bradycardie sinusale extrinsèque est principalement étiologique.  
+153. Un stimulateur cardiaque est nécessaire pour les bradycardies sinusales asymptomatiques intrinsèques.  
+154. Le bloc AV du premier degré est caractérisé par un espace PR < 0,20 secondes.  
+155. Le BAV du 2ème degré de type Mobitz II associé à un bloc de branche risque de progresser rapidement vers 
+un BAV de 3ème degré.  
+156. Le BAV du troisième degré peut entraîner une mort subite en l'absence de rythme d'échappement.  
+157. La dépolarisation septale s'effectue de droite à gauche en cas de bloc de branche gauche.  
+158. Dypsnée, fatigue, palpitations, lipothymies et syncopes sont des symptômes de bradycardie sinusale.  
+159. Le bloc de branche droit est caractérisé par une onde R large en V1 et une onde S en V6.  
+160. Le bloc bifasciculaire est une combinaison d’un bloc de branche droit et d’un bloc de branche gauche.  
+161. Le BAV de type Mobitz I accompagne souvent l'infarctus myocardique inférieur.  
+162. Le BAV de type Mobitz II avec QRS fin précède généralement le bloc AV du troisième degré.  
+163. Les blocs de branche sont plus souvent asymptomatiques chez le sujet âgé. 150. Faux 
+151. Vrai 
+152. Vrai 
+153. Faux 
+154. Faux 
+155. Vrai 
+ 
+156. Vrai 
+157. Vrai 
+158. Vrai 
+159. Faux 
+160. Faux 
+161. Vrai 
+162. Faux 
+163. Faux 

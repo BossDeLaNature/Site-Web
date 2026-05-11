@@ -1,0 +1,29 @@
+96. La bicuspidie aortique est une contre-indication absolue au TAVI.  
+97. Les valves mécaniques sont recommandées pour les patients âgés de plus de 65 ans.  
+98. Les valves mécaniques ont une durée de vie limitée.  
+99. La valve aortique sténosée ne peut pas être remplacée par une valve mécanique si le patient présente une 
+contre-indication aux vitamines K.  
+100. Les valves mécaniques ont une longue durée de vie mais nécessitent une anticoagulation orale par 
+antivitamines K à vie.  
+101. Après le remplacement d’une valve aortique par une valve mécanique, l’INR doit être compris entre 2 et 3 
+ou entre 2,5 et 3,5 si le patient présente d’autres facteurs de risque thrombo-emboliques.  
+102. Le TAVI nécessite une ouverture chirurgicale minimale du thorax. 
+103. Le TAVI est impossible si la taille de l’anneau aortique est incompatible avec les prothèses existantes. 
+104. Le TAVI consiste à placer une prothèse mécanique par voie artérielle dans la valve aortique sténosée. 
+105. Le TAVI nécessite la prise de petites doses d’aspirine (ou de clopidogrel en cas d’allergie) à vie. 
+106. Le TAVI est contre-indiqué en l'absence d'accès artériel ou si les artères coronaires sont implantées à 
+proximité de la valve.  96. Vrai 
+97. Faux 
+98. Faux 
+99. Faux 
+ 
+100. Vrai 
+ 
+101. Vrai 
+ 
+102. Faux 
+103. Vrai 
+104. Faux 
+105. Vrai 
+106. Vrai 
+ 

@@ -1,0 +1,29 @@
+144. L’hématome sous-adventitiel peut entrainer une sténose de l’artère disséquée. 
+145. L’ischémie cérébrale secondaire survient quelques heures à 1 mois après une dissection carotidienne. 
+146. La dissection artérielle peut entrainer des douleurs par compression des structures avoisinantes. 
+147. La dissection de l’artère vertébrale peut provoquer une atteinte des nerfs crâniens. 
+148. La dissection intracrânienne de l’artère vertébrale peut provoquer une hémorragie méningée. 
+149. L’angiographie par résonance magnétique ne permet pas de visualiser une artère disséquée. 
+150. L’écho-Doppler montre une occlusion “en flamme de bougie” en cas de dissection artérielle. 
+151. L’angiographie conventionnelle montre une sténose longue et irrégulière en cas de dissection artérielle. 
+152. L’angiographie conventionnelle permet de diagnostiquer une dysplasie fibro-musculaire. 
+153. L’écho-Doppler est l’examen de référence en cas de dissection artérielle. 
+154. L’écho-Doppler permet de voir un décollement intimal, une double lumière et un hématome de paroi en 
+cas de dissection artérielle. 
+155. Un traitement antiplaquettaire est suffisant en cas de dissection artérielle sans signes d’ischémie cérébrale. 
+156. L’AVC secondaire à une dissection artérielle doit être traité par thrombolytique ou thrombectomie.  
+157. Les tumeurs du glomus carotidien touche préférentiellement les femmes entre 40 et 60 ans. 144. Faux 
+145. Vrai 
+146. Vrai 
+147. Faux 
+148. Vrai 
+149. Vrai 
+150. Faux 
+151. Vrai 
+152. Vrai 
+153. Faux 
+154. Vrai 
+ 
+155. Vrai 
+156. Vrai 
+157. Faux 

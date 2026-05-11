@@ -1,0 +1,29 @@
+678. L'oxygénothérapie permet d’améliorer la survie des patients atteints d'hypertension pulmonaire.  
+679. L'administration excessive de diurétiques est nocive pour les patients atteints d'hypertension pulmonaire.  
+680. La radiographie de thorax ne permet pas de visualiser une dilatation de l’artère pulmonaire. 
+681. L’HTP est de bon pronostic si les résistances pulmonaires sont réduites par l’inhalation de NO. 
+682. Le test de tolérance à l’effort est contre-indiqué en cas d’hypertension artérielle pulmonaire. 
+683. L’ergospirométrie permet de calculer la VO2 max pour envisager une transplantation pulmonaire. 
+684. L’epoprosterol est une prostacycline intraveineuse utilisée dans le traitement de l’HTAP. 
+685. Les dérivés nitrés sublinguaux sont le traitement le plus efficace en cas d’HTAP. 
+686. La PGI2 IV induit un phénomène de tolérance progressive nécessitant l’augmentation des doses. 
+687. L’arrêt brutal du traitement par PGI2 IV peut entrainer une hypertension pulmonaire fatale. 
+688. L’iloprost IV est utilisé comme traitement et pour évaluer la réversibilité de l’augmentation des résistances 
+pulmonaires en cas d’hypertension artérielle pulmonaire. 
+689. Les inhibiteurs de la PDE5 et les activateurs de la guanylate cyclase sont couramment associés dans le 
+traitement de l’hypertension artérielle pulmonaire. 
+690. Tous les patients souffrant d’HTP de groupe 4 doivent être anti-coagulés par des antivitamines K. 678. Faux 
+679. Vrai 
+680. Faux 
+681. Vrai 
+682. Faux 
+683. Vrai 
+684. Vrai 
+685. Faux 
+686. Vrai 
+687. Vrai 
+688. Faux 
+ 
+689. Faux 
+ 
+690. Vrai 

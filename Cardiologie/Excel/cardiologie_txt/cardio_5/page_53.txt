@@ -1,0 +1,29 @@
+665. Les antagonistes calciques ont un effet favorable dans le traitement de l’HTAP de groupe 1.  
+666. Les bêta-bloquants sont recommandés dans le traitement de l’HTAP de groupe 1.  
+667. L'oxygène nasal est inefficace pour améliorer la survie des patients atteints d'hypertension pulmonaire.  
+668. Les inhibiteurs de la phosphodiestérase 5 comme le sildénafil ne sont pas utilisés dans le traitement de 
+l'hypertension pulmonaire.  
+669. Les antagonistes de l'endothéline peuvent augmenter la distance de marche en cas d’HTP.  
+670. La transplantation pulmonaire est un traitement courant pour l'hypertension pulmonaire du groupe 4.  
+671. L’ECG montre une onde P pointue en D2 et une déviation de l’axe du QRS en cas d’HTAP.  
+672. La thromboendartériectomie chirurgicale est utilisée pour traiter l'hypertension pulmonaire du groupe 4. 
+673. L'hypertension artérielle pulmonaire est caractérisée par une pression pulmonaire supérieure de 
+>20mmHg par rapport la moyenne au repos.  
+674. Les infections par le VIH sont la principale cause d'hypertension pulmonaire du groupe 1.  
+675. Les thrombo-embolies pulmonaires sont une cause fréquente d'hypertension pulmonaire du groupe 2.  
+676. L'hypertrophie ventriculaire droite est un signe typique à l'ECG de l'hypertension pulmonaire.  
+677. L’association d’inhibiteurs de la PDE5 et d’activateurs de la guanylate cyclase est contre-indiquée. 665. Vrai 
+666. Faux 
+667. Vrai 
+668. Faux 
+ 
+669. Vrai 
+670. Faux 
+671. Vrai 
+672. Vrai 
+673. Faux 
+ 
+674. Faux 
+675. Faux 
+676. Vrai 
+677. Vrai 

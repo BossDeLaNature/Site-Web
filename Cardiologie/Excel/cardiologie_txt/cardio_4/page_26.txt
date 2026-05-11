@@ -1,0 +1,29 @@
+294. Le traitement de l’insuffisance mitrale aigue consiste à diminuer les résistances vasculaires centrales avec 
+des vasodilatateurs pour favoriser le flux vers l’aorte. 
+295. Le nitroprussiate est un antihypertenseur puissant utilisé dans le traitement de l’insuffisance mitrale aigue.  
+296. Le B3 est un bruit cardiaque supplémentaire entendu en début de diastole, juste après la fermeture des 
+valves aortique et pulmonaire.  
+297. Toutes les insuffisances mitrale aigues doivent être opérées même si elle n’entraine pas de troubles 
+hémodynamiques significatifs pour éviter l’évolution vers une forme chronique. 
+298. Le remplacement valvulaire mitral est la seule option chirurgicale pour l'insuffisance mitrale.  
+299. Le patient asymptomatique atteint d’insuffisance mitrale chronique doit être opéré si la fraction d’éjection 
+ventriculaire droite diminue. 
+300. La chirurgie est indiquée pour tous les patients symptomatiques atteints d’insuffisance mitrale importante. 
+301. La fibrillation auriculaire est une contre-indication à la chirurgie en cas d’insuffisance mitrale. 
+302. La chirurgie est indiquée si le diamètre télésystolique du VG augmente en cas d’insuffisance mitrale. 
+303. La chirurgie est indiquée si la PA diastolique pulmonaire augmente en cas d’insuffisance mitrale. 
+304. L'annuloplastie est une option de traitement pour la sténose mitrale.  294. Faux 
+ 
+295. Vrai 
+296. Vrai 
+ 
+297. Faux 
+ 
+298. Faux 
+299. Vrai 
+ 
+300. Vrai 
+301. Faux 
+302. Vrai 
+303. Faux 
+304. Faux 

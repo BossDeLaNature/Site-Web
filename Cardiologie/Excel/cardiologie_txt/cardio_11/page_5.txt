@@ -1,0 +1,29 @@
+56. Les thromboses veineuses mésentériques peuvent être associées à la contraception orale.  
+57. La colite ischémique atteint le plus souvent le colon ascendant et le colon sigmoïde. 
+58. Il existe des anastomoses entre l’artère mésentérique supérieure et les artères hypogastriques. 
+59. Il existe des anastomoses entre le tronc coeliaque et l’artère mésentérique supérieure. 
+60. Les lésions sténosantes des troncs viscéraux siègent le plus souvent à l’ostium ou sur les 1ers cm du vaisseau. 
+61. La maladie de Takotsubo est une cause très rare de lésions sténosantes des troncs viscéraux. 
+62. La plupart des lésions sténosantes des troncs viscéraux sont rapidement symptomatiques. 
+63. Une sténose serrée sur 1 des 3 troncs suffit à provoquer des symptômes d’ischémie mésentérique chronique. 
+64. Les patients atteints de sténoses des troncs viscéraux ont souvent d’autres atteintes athéroscléreuses. 
+65. Des douleurs abdominales surviennent souvent précocement dans les 15-30 minutes après le repas en cas 
+d'ischémie mésentérique chronique.  
+66. L’ischémie mésentérique chronique entraine très souvent une prise de poids. 
+67. L’écho-Doppler ne permet pas de visualiser correctement les sténoses des troncs viscéraux chez l’obèse.  
+68. L’angiographie par résonance magnétique est un examen très précis pour les sténoses des troncs viscéraux. 
+69. L’angiographie conventionnelle nécessite l’injection d’un produit de contraste. 56. Vrai 
+57. Faux 
+58. Faux 
+59. Vrai 
+60. Vrai 
+61. Faux 
+62. Faux 
+63. Faux 
+64. Vrai 
+65. Vrai 
+ 
+66. Faux 
+67. Vrai 
+68. Faux 
+69. Vrai 

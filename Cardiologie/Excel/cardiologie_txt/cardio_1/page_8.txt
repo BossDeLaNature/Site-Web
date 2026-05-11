@@ -1,0 +1,28 @@
+90. Le LDL-cholestérol doit être inférieur à 115 mg/L. 
+91. Les femmes ont un taux de HDL-cholestérol naturellement plus élevé. 
+92. Les facteurs de risque cardiovasculaires cumulés ont un effet multiplicatif sur le risque global. 
+93. Les patients qui présentent une rétinopathie avancée doivent faire l’objet d’une prévention secondaire. 
+94. Les patients souffrant d’HTA de grade 3 ont un risque élevé de maladies cardiovasculaires même sans aucun 
+autre facteur de risque. 
+95. Les patients qui cumulent 3 facteurs de risque ou qui présentent une atteinte des organes cibles ont d’office un 
+risque élevé à très élevé de maladies cardiovasculaires peu importe leur niveau de tension artérielle. 
+96. Pour convertir le risque cardiovasculaire fatal en risque cardiovasculaire total (fatal et non fatal), il faut multiplier 
+le risque obtenu par la table SCORE par 3 chez les femmes et par 4 chez les hommes (moins chez le sujet âgé). 
+97. La table SCORE peut être utilisée chez les sujets diabétique car elle prend en compte le taux de glucose à jeun. 
+98. L’arrêt du tabac entraine une disparition de l’excès de risque cardiovasculaire après 3-4 ans. 
+99. Un risque élevé de décès cardiovasculaire correspond à 5-10% de mortalité à 10 ans en l’absence de traitement. 
+100. Un risque moyen de décès cardiovasculaire correspond à <1% de mortalité à 10 ans en l’absence de 
+traitement. 90. Faux 
+91. Vrai 
+92. Vrai 
+93. Vrai 
+94. Vrai 
+ 
+95. Vrai  
+ 
+96. Faux 
+ 
+97. Faux 
+98. Vrai 
+99. Vrai  
+100. Faux 

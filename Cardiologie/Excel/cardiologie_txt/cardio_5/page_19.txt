@@ -1,0 +1,29 @@
+233. Les bêta-bloquants réduisent la mortalité de 50% si administré en plus des IEC et des diurétiques dans les 
+cas d’insuffisance cardiaque de stade II, III ou IV stabilisée et sans surcharge volémique. 
+234. Les bêta-bloquants font partie du traitement aigue de l’insuffisance cardiaque décompensée. 
+235. L’asthme, le bloc auriculo-ventriculaire et la bradycardie sont des contre-indications aux bêta-bloquants. 
+236. Les bêta-bloquants sont contre-indiqués en cas d’IC récente, déstabilisée ou réfractaire.  
+237. Les bêta-bloquants induisent une aggravation transitoire de l’IC chez la majorité des patients. 
+238. Les bêta-bloquants doivent être débutés à très faibles doses puis augmentés toutes les semaines. 
+239. La dose à atteindre si possible est de 2x25mg/j pour le bisoprolol et 10mg/j pour le carvédilol. 
+240. Une aggravation transitoire de l’IC au début du traitement par bêta-bloquants nécessite une 
+augmentation des diurétiques et des IEC et une diminution des bêta-bloquants ou des autres hypotenseurs. 
+241. Les bêta-bloquants sont préférables à l’ivabradine dans le traitement de l’insuffisance cardiaque. 
+242. L’ivabradine inhibe le canal If dans le nœud sinusal si le rythme sinusal reste >70 bpm. 
+243. Les glifozines agissent au niveau du tubule distal.  
+244. Les glifozines sont efficaces dans le traitement de l’IC à FEVG réduite indépendamment de la présence du 
+diabète de type 2. 233. Faux 
+ 
+234. Faux 
+235. Vrai 
+236. Vrai 
+237. Faux 
+238. Faux 
+239. Faux 
+240. Faux 
+ 
+241. Vrai 
+242. Vrai 
+243. Faux 
+244. Vrai 
+ 

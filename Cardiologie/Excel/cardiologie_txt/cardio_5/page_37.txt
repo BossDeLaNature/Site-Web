@@ -1,0 +1,29 @@
+453. La cardiomyopathie hypertrophique idiopathique du sujet >60 ans est moins sévère que la forme 
+classique de la maladie mais se situe également dans le septum interventriculaire. 
+454. Une angulation se forme entre l’aorte et les ventricules avec le vieillissement. 
+455. La mort subite est une complication rare de la cardiomyopathie hypertrophique.  
+456. Les enfants et les jeunes atteints de cardiomyopathie hypertrophique sont plus à risque de mort subite. 
+457. La fibrillation auriculaire est rarement associée à la cardiomyopathie hypertrophique. 
+458. Les emboles systoliques touchent 15% des patients atteints de cardiomyopathie hypertrophique par an. 
+459. L'examen familial est inutile dans la prise en charge de la cardiomyopathie hypertrophique.  
+460. La fibrillation auriculaire paroxystique ou persistante est traitée par cardioversion électrique ou par 
+antivitamines K dans le cadre de la cardiomyopathie hypertrophique.  
+461. L’amiodarone augmente le risque de récidive de FA en cas de cardiomyopathie hypertrophique. 
+462. Les bêta-bloquants ou le diltiazem ralentissent la réponse ventriculaire à la fibrillation auriculaire. 
+463. L'amiodarone est administrée chez tous les patients atteints de cardiomyopathie hypertrophique.  
+464. Les sports de compétition doivent être évités en cas de cardiomyopathie hypertrophique. 
+465. Les diurétiques peuvent aggraver l’obstruction en cas de cardiomyopathie hypertrophique. 453. Vrai 
+ 
+454. Vrai 
+455. Faux 
+456. Vrai 
+457. Faux 
+458. Faux 
+459. Faux 
+460. Vrai 
+ 
+461. Faux 
+462. Vrai 
+463. Faux 
+464. Vrai 
+465. Vrai 

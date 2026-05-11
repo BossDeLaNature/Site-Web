@@ -1,0 +1,29 @@
+121. La dermite ocre correspond à une coloration bleutée de la peau due à des dépôts d’hémosidérine.  
+122. La dermite ocre est la conséquence de l’hyperpression veineuse et de l’extravasion des GR. 
+123. La lipodermatosclérose donne aux jambes un aspect typique « en guêtre de cheval ». 
+124. La lipodermatosclérose correspond à une fibrose progressive du tissu sous-cutané au niveau des cuisses. 
+125. L’eczéma variqueux correspond à des manifestations cutanées localisées en regard d’une varice. 
+126. L’eczéma variqueux est une dermatose non prurigineuse et érythémato-vésiculeuse en nappes/placards. 
+127. Le siège préférentiel des ulcères variqueux est la région péri-malléolaire interne. 
+128. Les ulcères veineux sont le plus souvent peu douloureux. 
+129. Les ulcères d’origine veineuse sont à bords fibreux, suitants ou rouges et bourgeonnant sans nécrose.  
+130. Les varices se compliquent très souvent d’une thrombose veineuse profonde. 
+131. Les varices des MI peuvent se rompre lors d’un traumatisme et provoquer une hémorragie. 
+132. L’insuffisance veineuse altère peu la qualité de vie des patients. 
+133. La classification C5 de l’insuffisance veineuse désigne les sujets qui présentent un ulcère actif. 
+134. La durée médiane d’un ulcère veineux avant cicatrisation complète est de 9 mois. 
+135. 2/3 des ulcères veineux restent actifs pendant plus de 5 ans. 121. Faux 
+122. Vrai 
+123. Vrai 
+124. Faux 
+125. Vrai 
+126. Faux 
+127. Vrai 
+128. Vrai 
+129. Vrai 
+130. Faux 
+131. Vrai 
+132. Faux 
+133. Faux 
+134. Vrai 
+135. Vrai 

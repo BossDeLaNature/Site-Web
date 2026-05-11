@@ -1,0 +1,29 @@
+149. L’angor instable survient suite à l’embolisation distale d’un thrombus formé par la fissuration d’une plaque 
+athéro-sclérotique. 
+150. Les symptômes surviennent souvent la nuit dans l’angor stable. 
+151. L'ECG montre un sous-décalage du segment ST dans l'angine de poitrine instable.  
+152. L’angor instable est caractérisé par des symptômes d’apparition récente, en aggravation ou de repos. 
+153. Les infections, la fièvre et l’hypoxémie favorisent les crises d’angor instable. 
+154. L’amplitude de l’onde R augmente après quelques heures/jours en cas d’infarctus NSTEMI. 
+155. Le sous-décalage du segment ST est accompagné par des ondes T positives, symétriques et profondes à 
+l’ECG en cas d’infarctus NSTEMI. 
+156. La nécrose est uniquement sous-endocardique dans les lésions NSTEMI.  
+157. L’examen clinique est souvent banal en cas d’angine de poitrine instable. 
+158. Le sous-décalage du segment ST persiste après un infarctus STEMI.  
+159. En cas d’angor instable, la présence de séquelles anciennes d’infarctus avec onde Q à l’ECG témoignent de 
+la présence d’une cardiopathie hypertrophique. 
+160. Il est impossible d’exclure un syndrome coronarien aigu sur base des marqueurs biologiques. 149. Vrai 
+ 
+150. Faux 
+151. Vrai 
+152. Vrai 
+153. Vrai 
+154. Faux 
+155. Faux 
+ 
+156. Vrai 
+157. Vrai 
+158. Faux 
+159. Faux  
+ 
+160. Vrai 

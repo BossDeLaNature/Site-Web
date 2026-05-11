@@ -1,0 +1,29 @@
+107. Le TAVI est contre-indiqué en présence d'un thrombus auriculaire gauche. 
+108. Le TAVI consiste à placer une prothèse biologique par voie artérielle dans la valve aortique sténosée. 
+109. Les valves mécaniques nécessitent une anticoagulation orale par clopidogrel.  
+110. Les patients atteints de sténose aortique restent asymptomatiques pendant une longue période.  
+111. La sténose aortique se manifeste par un angor en l’absence de lésions coronaires, par des syncopes et par 
+une dyspnée. 
+112. Le TAVI est réservé aux patients <75 ans ou quand la chirurgie cardiaque est impossible ou trop risquée.  
+113. L'insuffisance aortique peut être causée par une endocardite.  
+114. La surcharge en volume du ventricule gauche est commune à toutes les causes d’insuffisance aortique.  
+115. L’insuffisance aortique est causée par une altération valvulaire dans 30% des cas. 
+116. Un traumatisme thoracique majeur peut causer une insuffisance aortique. 
+117. L’insuffisance aortique est causée dans la majorité des cas par une dilatation de l’anneau aortique. 
+118. Le syndrome de Marfan est une maladie autosomique récessive.  
+119. Le syndrome de Marfan augmente le risque d’insuffisance aortique et de prolapsus mitral. 
+120. L'insuffisance aortique chronique est bien tolérée même à l'effort.  107. Faux 
+108. Vrai 
+109. Faux 
+110. Vrai 
+111. Vrai 
+ 
+112. Faux 
+113. Vrai 
+114. Vrai 
+115. Vrai 
+116. Vrai 
+117. Faux 
+118. Faux  
+119. Vrai 
+120. Vrai 

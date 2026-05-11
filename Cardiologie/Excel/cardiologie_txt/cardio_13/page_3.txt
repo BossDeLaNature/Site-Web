@@ -1,0 +1,29 @@
+29. Le livedo primaire apparait et disparait indépendamment de la température ambiante. 
+30. Le traitement du syndrome de Raynaud est principalement chirurgical.  
+31. Les pré-gelures surviennent lorsque la température reste basse pendant plusieurs heures ou jours.  
+32. Les gelures touchent principalement la partie distale des membres, le nez et les oreilles. 
+33. Les gelures sont plus fréquentes chez les personnes sans abri. 
+34. L'apoplexie digitale disparait spontanément en quelques semaines. 
+35. L'acrorhigose se manifeste par une sensation de froid permanente et douloureuse des extrémités.  
+36. L'apoplexie digitale est caractérisée par une rupture brutale d’une artère digitale.  
+37. L'acrorhigose est plus fréquente chez les hommes jeunes. 
+38. Les acrosyndromes vasculaires désignent toute condition vasospastique ou obstructive qui induit des 
+perturbations dans le réseau microvasculaire des extrémités. 
+39. Les acrosyndromes vasculaires sont des pathologies extrêmement rares dans la population générale. 
+40. Le phénomène de Raynaud est rarement observé en consultation médicale.  
+41. Les gelures peuvent souvent être confondues avec des mycoses.  
+42. L’acrocyanose est liée à une vasodilatation de la microvascularisation des extrémités. 29. Vrai 
+30. Faux 
+31. Vrai 
+32. Vrai 
+33. Vrai 
+34. Faux 
+35. Faux 
+36. Faux 
+37. Faux 
+38. Vrai 
+ 
+39. Faux 
+40. Vrai 
+41. Faux 
+42. Faux 

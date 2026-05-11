@@ -1,0 +1,29 @@
+14. L’AOMI est associée à une atteinte des coronaires dans 50% des cas. 
+15. L’AOMI est associée à des lésions des carotides et/ou des vertébrale dans 25% des cas. 
+16. L’AOMI est associée à un anévrisme de l’aorte abdominale dans 10% des cas. 
+17. L’artérite sénile est responsable d’environ 50% des cas d’AOMI.  
+18. L’AOMI se localise le plus souvent dans l’artère fémorale profonde au niveau du genou. 
+19. L’AOMI est un processus progressif qui induit le développement d’une circulation collatérale de suppléance. 
+20. L’artérite emboligène est liée à la migration de caillots de fibrine ou de cholestérol.  
+21. Le stade III de l’AOMI se manifeste par des douleurs de repos.  
+22. Les pressions de perfusion chez les patients atteints de stade IIIb de l’AOMI sont supérieures à 50 mm Hg.  
+23. Le diagnostic d’AOMI se base surtout sur l’anamnèse et l’examen clinique.  
+24. La classification de Fontaine-Leriche permet de classer les symptômes de l’ischémie aigue du membre inférieur.  
+25. La thromboaspiration est un traitement utilisé dans l’ischémie aiguë des membres inférieurs.  
+26. Les emboles dans l’ischémie aiguë des membres inférieurs sont d’origine artérielle dans 80% des cas.  
+27. Les signes cliniques caractéristiques de l’ischémie aiguë des membres inférieurs suivent la règle des 5P.  
+28. Les signes neurologiques ne sont pas pertinents dans l’évaluation de l’ischémie aiguë des membres inférieurs.  14. Vrai 
+15. Faux 
+16. Vrai 
+17. Faux 
+18. Faux 
+19. Vrai 
+20. Vrai 
+21. Vrai 
+22. Faux 
+23. Vrai 
+24. Faux 
+25. Vrai 
+26. Faux 
+27. Vrai 
+28. Faux 

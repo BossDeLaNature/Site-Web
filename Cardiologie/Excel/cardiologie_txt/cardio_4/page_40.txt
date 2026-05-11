@@ -1,0 +1,29 @@
+478. La réponse au traitement antibiotique est souvent rapide en cas d’endocardite et la fièvre disparait en 24h.   
+479. Les antivitamines K doivent être stoppés dans le traitement de l’endocardite. 
+480. Une fièvre prolongée en cas d’endocardite traitée doit faire suspecter un foyer extra-cardiaque ou un abcès.  
+481. Les paramètres inflammatoires se normalisent en plusieurs semaines après une endocardite traitée. 
+482. Le traitement chirurgical de l’endocardite réduit la durée de l’antibiothérapie. 
+483. L’endocardite sur valve prothétique doit être opérée si elle est due à Streptococcus viridans. 
+484. L’endocardite mycotique est une indication chirurgicale même sur valve native. 
+485. Le traitement chirurgical est indiqué dans de nombreux cas d’endocardite : insuffisance cardiaque sur 
+dysfonction valvulaire, sepsis prolongé, embolies récurrentes, abcès, fistules, récidives tardives,… 
+486. Le remplacement valvulaire par une valve mécanique est préférable après une endocardite. 
+487. L’endocardite est une affection sévère qui cause environ 25% de mortalité 
+488. La chirurgie valvulaire doit parfois être retardée en cas d’infarctus myocardique récent. 
+489. Les valves sont souvent trop abimées pour être réparées après une endocardite infectieuse. 
+490. L’endocardite valvulaire droite atteint 5x plus les hommes que les femmes, de préférence avant 40 ans. 
+491. Les antivitamines K doivent être remplacées par de l’héparine en cas d’endocardite infectieuse. 478. Faux 
+479. Vrai 
+480. Vrai 
+481. Vrai 
+482. Faux 
+483. Faux 
+484. Vrai 
+485. Faux 
+ 
+486. Faux 
+487. Vrai 
+488. Faux 
+489. Faux 
+490. Vrai 
+491. Vrai 

@@ -1,0 +1,29 @@
+55. Les ulcérations et les fragmentations de la plaque d’athérome sont à l’origine d’emboles fibrino-plaquettaires. 
+56. Les déficits neurologiques focaux peuvent être provoqués par un épisode d’hypotension ou de bas débit 
+cardiaque en cas de sténose peu serrée avec une suppléance vasculaire insuffisante. 
+57. L’amaurose fugace, c’est-à-dire la perte transitoire de la vision, peut être la manifestation d’un AVC. 
+58. Un AVC peut se manifester par une hémiplégie à prédominance brachio-faciale. 
+59. Un AVC peut se manifester par une paraplégie des 2 membres inférieurs. 
+60. Les AVC et les AIT peuvent se manifester par des troubles du langage.  
+61. L’hémi-parésie ou l’hémiparesthésie sont situés du même côté que la lésion carotidienne à l’origine de l’AIT. 
+62. La perte de vision transitoire est située du même côté que la lésion carotidienne à l’origine de l’AIT. 
+63. L’hémianopsie, l’hémi-anesthésie et la monoplégie sont des symptômes d’AVC. 
+64. Un déficit neurologique aigu non latéralisé est compatible avec un accident ischémique. 
+65. L’épilepsie, la migraine et l’hyperglycémie font partie du diagnostic différentiel des AIT. 
+66. L’hémorragie cérébrale, les tumeurs et l’encéphalite font partie du diagnostic différentiel des AVC.  
+67. L’AVC ischémique est causé par un embole d’origine cardiaque dans 50% des cas. 
+68. L’AVC ischémique est causé par l’athérosclérose dans 15 à 20% des cas. 55. Vrai 
+56. Faux 
+ 
+57. Faux 
+58. Vrai 
+59. Faux 
+60. Vrai 
+61. Faux 
+62. Vrai 
+63. Vrai 
+64. Faux 
+65. Faux 
+66. Vrai 
+67. Faux 
+68. Vrai 

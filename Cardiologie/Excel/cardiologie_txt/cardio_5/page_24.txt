@@ -1,0 +1,29 @@
+290. La prévention primaire de la mort subite concerne les patients symptomatiques (NYHA II-III) malgré les 
+traitements avec une FEVG <35% et une cardiopathie ischémique survenue >40j après un infarctus. 
+291. La prévention secondaire de la mort subite concerne les rescapés d’une arythmie ventriculaire avec 
+instabilité hémodynamique survenue moins de 48h après un infarctus myocardique. 
+292. Une VO2 maximale <5ml/kg/min à l’exercice est une indication pour la transplantation cardiaque. 
+293. Une VO2 maximale <50% de la valeur prédite est une indication pour la transplantation cardiaque. 
+294. La présence d’autres affections irréversibles significatives ou la mauvaise compliance thérapeutique sont 
+des contre-indications à la transplantation cardiaque. 
+295. Une insuffisance cardiaque compensée peut subitement s’aggraver à cause de la prise d’AINS. 
+296. Les causes de décompensation cardiaque sont très nombreuses : ischémie myocardique, HTA non 
+contrôlée, surinfection, hyper/hypothyroïdie, abus d’alcool, apports hydriques et sodés excessifs,…  
+297. Les antagonistes calciques ne sont jamais responsables de décompensation cardiaque. 
+298. Une augmentation brutale de la pression de remplissage ventriculaire gauche peut entraîner une 
+hypertension auriculaire gauche et artérielle pulmonaire.  
+299. La radiographie de thorax montre des stries de Kerley en cas d’œdème pulmonaire hémodynamique. 290. Vrai 
+ 
+291. Faux 
+ 
+292. Faux 
+293. Vrai 
+294. Vrai 
+ 
+295. Vrai 
+296. Vrai 
+ 
+297. Faux 
+298. Faux 
+ 
+299. Vrai 

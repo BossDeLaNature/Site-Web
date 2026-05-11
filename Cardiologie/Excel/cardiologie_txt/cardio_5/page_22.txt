@@ -1,0 +1,29 @@
+269. Des agents activateurs de la myosine ou augmentant la sensibilité de la guanylate cyclase soluble au NO 
+sont à l’étude pour le traitement de l’insuffisance cardiaque. 
+270. Une anticoagulation doit être prescrite en cas de FA, d’ATCD d’embolie ou de thrombus ventriculaire. 
+271. Les anticoagulants oraux comme le dabigatran sont recommandés en cas de sténose mitrale modérée. 
+272. Les antivitamines K sont toujours préférables si le patient est porteur d’une valve mécanique. 
+273. L’aspirine à haute dose est recommandée chez les insuffisants cardiaques qui ont de l’athérosclérose. 
+274. La resynchronisation ventriculaire est recommandée chez les patients atteints d'insuffisance cardiaque et 
+présentant un bloc de branche gauche <130 ms. 
+275. Les gliflozines réduisent les hospitalisations pour insuffisance cardiaque et les décès cardiovasculaires 
+uniquement chez les patients diabétiques. 
+276. La FA chronique ou paroxystique est une indication d'anticoagulation en cas d’insuffisance cardiaque.  
+277. La transplantation cardiaque est une option pour les insuffisants cardiaques dont l'espérance de vie est 
+estimée à moins de 50 % dans les 2 ans avec une qualité de vie inacceptable.  
+278. L'assistance mécanique peut être utilisée comme traitement chirurgical en cas d'insuffisance cardiaque.  
+279. L'aspirine à faible dose est recommandée chez les patients atteints d’IC et d'athérosclérose.  269. Vrai 
+ 
+270. Vrai 
+271. Faux 
+272. Vrai 
+273. Faux 
+274. Faux 
+ 
+275. Faux 
+ 
+276. Vrai 
+277. Faux 
+ 
+278. Vrai 
+279. Vrai 

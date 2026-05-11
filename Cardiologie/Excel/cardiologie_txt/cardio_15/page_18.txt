@@ -1,0 +1,29 @@
+232. Le syndrome post-thrombotique est lié à plusieurs facteurs : obstruction veineuse persistante, 
+incontinence valvulaire, perte de la fonction veineuse, hypertension veineuse et microcirculatoire,… 
+233. Le Doppler est inutile dans le diagnostic du syndrome post-thrombotique. 
+234. La thrombose veineuse des membres supérieurs donne une clinique similaire à une TVP. 
+235. La thrombose veineuse des membres supérieurs peut parfois s’étendre à la veine cave supérieure. 
+236. La TVS est très souvent d’origine iatrogène suite à un cathéterisme veineux.  
+237. La TVS survient le plus souvent sur le trajet de la veine saphène externe. 
+238. Une thrombophlébite sur une veine saine doit faire suspecter une néoplasie ou une maladie de Buerger. 
+239. La maladie de Behçet est associée aux TVP mais pas aux TVS.  
+240. Une pathologie auto-immunitaire, une pathologie hématologique ou une anomalie de l’hémostase 
+peuvent provoquer des thrombophlébites sur une veine saine. 
+241. La TVS entraine une hyperthermie locale, une rougeur et une douleur sur un trajet veineux. 
+242. La TVS a parfois un aspect « en battant de cloche » à la jonction entre la crosse de la saphène interne et 
+de la veine fémorale superficielle. 
+243. Les AVK sont parfois utilisés dans le traitement des TVS étendues pros de la jonction saphéno-fémorale. 232. Vrai 
+ 
+233. Faux 
+234. Vrai 
+235. Vrai 
+236. Vrai 
+237. Faux 
+238. Vrai 
+239. Faux 
+240. Vrai 
+ 
+241. Vrai 
+242. Faux 
+ 
+243. Faux 

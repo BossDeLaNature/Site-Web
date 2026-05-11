@@ -1,0 +1,29 @@
+283. L’insuffisance mitrale chronique se manifeste par de la fatigue, des signes de bas débit cardiaque et une 
+insuffisance cardiaque gauche dans les formes avancées. 
+284. L’insuffisance mitrale chronique peut se manifester par des signes d’hypertension pulmonaire avec un P2 
+claquant à l’auscultation. 
+285. L’insuffisance mitrale prédispose à la fibrillation auriculaire et aux embolies. 
+286. Le souffle d’insuffisance mitrale commence après le B1 et s’arrête avant le B2.  
+287. L’ECG montre une hypertrophie des cavités gauches et une FA en cas d’insuffisance mitrale. 
+288. La radiographie de thorax permet de visualiser la congestion pulmonaire en cas d’insuffisance mitrale. 
+289. L’échographie cardiaque externe permet de visualiser la valve mitrale mais pas l’appareil sous-valvulaire. 
+290. La radiographie de thorax permet de visualiser des végétations mitrales en cas d’endocardite. 
+291. Le cathétérisme cardiaque est utilisé pour faire des mesures hémodynamiques en cas d’insuffisance mitrale 
+et surtout pour confirmer une hypertension pulmonaire. 
+292. Les diurétiques sont utilisés dans le traitement de l'insuffisance mitrale aigue pour diminuer la stase 
+pulmonaire et la tension artérielle. 
+293. Une insuffisance mitrale aigue avec hypotension artérielle nécessite une chirurgie urgente. 283. Faux 
+ 
+284. Vrai 
+ 
+285. Vrai 
+286. Faux 
+287. Vrai 
+288. Vrai 
+289. Faux 
+290. Faux 
+291. Vrai 
+ 
+292. Vrai 
+ 
+293. Vrai 

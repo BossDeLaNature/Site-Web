@@ -1,0 +1,29 @@
+125. Les ulcères siègent souvent dans la région sus-malléolaires en cas de syndrome post-thrombotique. 
+126. La phlegmatia alba dolens est caractérisée par un arrêt de l’apport artériel et une ischémie aigue du MI. 
+127. Un antécédent de cancer dans les 6 mois précédent confère un point dans le score de Wells simplifié. 
+128. Un gonflement du mollet est à déterminer au niveau de la tubérosité tibiale. 
+129. Un alitement récent de 2 jours confère un point dans le score de Wells simplifié. 
+130. La TVP est probable si le score de Wells simplifié vaut 0 ou 1.  
+131. Il faut soustraire un point au score de Wells simplifié si un diagnostic différentiel au moins aussi probable 
+que la TVP est présent. 
+132. Une douleur localisée sur un trajet veineux profond confère un point dans le score de Wells simplifié. 
+133. Une chirurgie majeure au cours des 4 dernières semaines confère un point dans le score de Wells simplifié.  
+134. Les antécédents de TVP ne sont pas pris en compte dans le score de Wells simplifié. 
+135. Un gonflement généralisé du membre inférieur ou un gonflement du mollet >3cm confèrent un point 
+dans le score de Wells simplifié. 
+136. Les varices ne sont pas prises en compte dans le score de Wells simplifié.  
+137. Un œdème prenant le godet confère un point dans le score de Wells simplifié. 125. Vrai 
+126. Faux 
+127. Vrai 
+128. Faux 
+129. Faux 
+130. Faux 
+131. Faux 
+ 
+132. Vrai 
+133. Vrai 
+134. Faux 
+135. Vrai 
+ 
+136. Vrai 
+137. Vrai 

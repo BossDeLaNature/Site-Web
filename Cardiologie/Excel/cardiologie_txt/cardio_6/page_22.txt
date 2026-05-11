@@ -1,0 +1,29 @@
+283. Le faisceau de Kent équivaut à la voie rapide à période réfractaire courte de la maladie de Bouveret.  
+284. Le faisceau de Kent ne participe pas à la dépolarisation du ventricule en dehors des accès de tachycardie. 
+285. L’influx électrique est plus rapide à travers le faisceau de Kent qu’à travers le NAV en cas WPW. 
+286. La voie accessoire dépolarise une partie du ventricule avant le NAV en cas de syndrome de pré-excitation. 
+287. Les connexions électriques anormales autres que le faisceau de Kent représente 10% des cas de WPW. 
+288. Le syndrome de Lown-Gonong-Levine est caractérisé par une voie atrio-nodale avec un PR court à l’ECG.  
+289. Le faisceau de Manheim est composé de fibres nodo-ventriculaires. 
+290. L’accès de tachycardie orthodromique est déclenché par une extra-systole auriculaire qui descend 
+uniquement par le NAV en cas de syndrome de Wolff-Parkinson-White. 
+291. L’accès de tachycardie peut être déclenché par une extra-systole ventriculaire en cas de WPW.  
+292. La tachycardie antidromique est la plus commune en cas de syndrome de Wolff-Parkinson-White. 
+293. La tachycardie orthodromique est caractérisée par un influx rétrograde par le faisceau de His et le NAV.  
+294. La tachycardie antidromique est caractérisée par un influx rétrograde par le faisceau accessoire anormal. 
+295. La tachycardie antidromique est plus rare en cas de syndrome de pré-excitation. 
+296. L’ECG ne permet pas de distinguer la maladie de Bouveret et un syndrome de pré-excitation au repos.  283. Faux 
+284. Faux 
+285. Vrai 
+286. Vrai 
+287. Faux 
+288. Vrai 
+289. Vrai 
+290. Vrai 
+ 
+291. Vrai 
+292. Faux 
+293. Faux 
+294. Faux 
+295. Vrai 
+296. Faux  

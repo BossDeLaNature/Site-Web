@@ -1,0 +1,29 @@
+132. L’hypertrophie ventriculaire gauche est de type concentrique dans l’insuffisance aortique chronique. 
+133. La fraction d’éjection du ventricule gauche dilaté reste longtemps normale en cas d’insuffisance aortique. 
+134. L’insuffisance aortique chronique est bien tolérée à l’effort car l’augmentation de la fréquence cardiaque 
+raccourcit la durée de la systole et réduit l’importance de la fuite. 
+135. La dysfonction myocardique dans l'insuffisance aortique chronique est irréversible.  
+136. L'insuffisance aortique peut être asymptomatique pendant longtemps.  
+137. Le patient asymptomatique atteint d’insuffisance cardiaque ne doit pas être opéré si la contraction 
+myocardique est intacte. 
+138. Le ventricule normal peu élastique supporte très mal une insuffisance aortique aigue mais le ventricule 
+progressivement dilaté et rendu élastique supporte très bien une insuffisance aortique chronique. 
+139. Selon Frank-Starling, plus le cœur est étiré pendant la diastole, plus la force de contraction est faible.  
+140. La dyspnée est souvent un symptôme précoce de l'insuffisance aortique.  
+141. L’augmentation importante et rapide de la pression télédiastolique du ventricule gauche entraine une 
+fermeture prématurée de la valve mitrale en cas d’insuffisance aortique aigue.  
+142. Il y a une augmentation de la précharge et de la postcharge en cas d’insuffisance aortique. 132. Faux 
+133. Vrai 
+134. Faux 
+ 
+135. Faux 
+136. Vrai 
+137. Faux 
+ 
+138. Vrai 
+ 
+139. Faux 
+140. Faux 
+141. Vrai 
+ 
+142. Vrai 

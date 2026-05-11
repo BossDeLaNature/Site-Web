@@ -1,0 +1,28 @@
+CARDIO 
+Chapitre 6 : Arythmies cardiaques 
+ 
+1. La syncope est une perte transitoire de la conscience associée à une perte du tonus postural. 
+2. Les épisodes de syncope sont généralement prédictibles.  
+3. La syncope est souvent d'origine neuro-cardiogénique chez les adolescents et les jeunes adultes.  
+4. Les convulsions sont fréquemment observées lors d'une syncope en cas d’hypotension prolongée.  
+5. La syncope peut être déclenchée par une hypersensibilité sino-carotidienne.  
+6. Le massage bilatéral du sinus carotidien est un test diagnostique fiable pour les syncopes.  
+7. La syncope vaso-vagale est souvent déclenchée par la position debout immobile prolongée. 
+8. Les prodromes sont caractéristiques de la syncope vaso-vagale. 
+9. L'hypertension orthostatique sévère est un facteur de risque de syncope.  
+10. Les syncopes arythmiques sont généralement précédées de prodromes.  
+11. L'ECG est un examen complémentaire essentiel pour le diagnostic des syncopes.  
+12. Le Holter du rythme cardiaque peut détecter des arythmies asymptomatiques sans rapport avec la syncope. 
+13. Le "tilt-test" est un permet de reproduire la syncope due à une hypotension orthostatique sévère. 1. Vrai  
+2. Faux 
+3. Vrai 
+4. Vrai 
+5. Vrai 
+6. Faux 
+7. Vrai 
+8. Vrai 
+9. Vrai 
+10. Faux 
+11. Vrai 
+12. Vrai 
+13. Faux 

@@ -1,0 +1,28 @@
+CARDIO 
+Chapitre 1 : Athéromatose et prévention de la maladie cardiovasculaire 
+ 
+1. L'athérosclérose affecte uniformément toutes les artères.  
+2. Les plaques athéromateuses se forment principalement à proximité des bifurcations artérielles.  
+3. L’HTA et le diabète favorise l’athérosclérose en augmentant la perméabilité de l’endothélium aux lipoprotéines. 
+4. L'intima est principalement infiltrée de lipides et de cellules inflammatoires dans l'athérosclérose. 
+5. Les cellules musculaires lisses se transforment en macrophages dans l'athérosclérose.  
+6. La média des artères est atrophiée à cause de la disparition des cellules musculaires lisses dans l'athérosclérose. 
+7. Les symptômes aigus de l'athéromatose sont dus à une réduction importante de la lumière artérielle. 
+8. L'oxyde nitrique (NO) est un gaz vasodilatateur produit par les plaquettes.  
+9. L’endothélium est une surface adhérente pour les leucocytes. 
+10. Le NO est produit en permanence dans le système cardiovasculaire.  
+11. Les macrophages s’organisent en stries graisseuses dans les lésions d’athéromatose de type I. 
+12. Les plaques athéromateuses de type II sont caractérisées par des dépôts lipidiques situés sous l'intima.  
+13. On retrouve des lésions thrombotiques dans les plaques d’athérome de type VI.  1. Faux  
+2. Vrai  
+3. Vrai  
+4. Vrai  
+5. Faux 
+6. Vrai 
+7. Faux  
+8. Faux 
+9. Faux  
+10. Vrai 
+11. Faux 
+12. Faux 
+13. Vrai  

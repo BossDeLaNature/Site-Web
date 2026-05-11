@@ -1,0 +1,29 @@
+330. Les sujets atteints de dissection aortique de type A sont souvent hypertendus.  
+331. La douleur brutale et très sévère est le symptôme le plus fréquent de la dissection aortique. 
+332. La grossesse augmente le risque de dissection aortique. 
+333. La tricuspidie aortique est un facteur de risque de dissection aortique chez les sujets jeunes. 
+334. Dans la dissection aortique, une fausse lumière se crée entre la média et l’adventice.  
+335. La déchirure de l’intima touche l’aorte ascendante dans 2/3 des cas de dissection aortique. 
+336. La fausse lumière créée par la dissection s’étend au moins sur la moitié de la circonférence aortique. 
+337. Les branches de division de l’aorte peuvent parfois être alimentées par la fausse lumière en cas de 
+dissection aortique. 
+338. La dissection aortique peut parfois entreprendre la valve mitrale ou les artères coronaires. 
+339. La dissection aortique de type A de Stanford touche plus souvent les jeunes sans affection prédisposante. 
+340. Dans la classification de Stanford, le type B touche les vaisseaux après l’artère sous-clavière, c’est-à-dire 
+l’aorte ascendante et l’aorte abdominale. 
+341. La dissection aortique n’entraine pas toujours de rupture de l’aorte. 
+342. Les sujets atteints de dissection aortique de type B sont souvent âgés et hypertendus.  330. Faux 
+331. Vrai 
+332. Vrai 
+333. Faux 
+334. Faux 
+335. Vrai 
+336. Vrai 
+337. Vrai 
+ 
+338. Faux 
+339. Faux 
+340. Faux 
+ 
+341. Vrai 
+342. Vrai 

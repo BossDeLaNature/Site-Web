@@ -1,0 +1,29 @@
+126. Le duplex scan correspond à un scanner couplé à un examen Doppler en couleur et pulsé. 
+127. Le duplex scan est un examen chronophage et partiellement examinateur-dépendant mais il permet parfois 
+de définir la thérapeutique optimale sans avoir recours à l’artériographie. 
+128. Le duplex scan est utile pour évaluer la sévérité des lésions étendues et pour le suivi de certains pontages. 
+129. Les valeurs normales de tc pO2 au dos du pied chez le sujet sain debout se situent entre 40 et 60 mmHg. 
+130. La tc pO2 devient pathologique à partir de 35 mmHg et signale une hypoxémie tissulaire marquée. 
+131. La mesure de la pression d’oxygène transcutanée explore la macrocirculation. 
+132. La tc pO2 est utile pour évaluer le retentissement tissulaire des AOMI sévères quand les PP sont 
+d’interprétation difficiles (surélévation liée à la médiacalcose chez les diabétiques et les alcooliques). 
+133. La pression maximale d’oxygène au niveau de la peau dépend de l’âge du patient, de la PaO2, du débit 
+sanguin local et de la diffusion de l’oxygène à travers la peau.  
+134. On considère que la tc pO2 au dos du pied en décubitus est anormale à partir d’une valeur de 20mmHg.  
+135. L’angio-IRM est un excellent examen de première approche pour le diagnostic de l’AOMI.  
+136. L’angio-IRM a tendance à sous-estimer la sévérité des sténoses. 
+137. L’angio-CT ne permet pas de visualiser correctement les artères très calcifiées.  126. Faux 
+127. Vrai 
+ 
+128. Faux 
+129. Faux 
+130. Vrai 
+131. Faux 
+132. Faux 
+ 
+133. Faux 
+ 
+134. Faux 
+135. Vrai 
+136. Faux 
+137. Vrai 

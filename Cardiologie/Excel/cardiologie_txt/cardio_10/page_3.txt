@@ -1,0 +1,29 @@
+29. Le traitement chirurgical est nécessaire pour toutes les dissections aortiques aigues de type A. 
+30. Les patients présentant une dissection aortique peuvent se plaindre de douleurs dorsales ou lombaires.  
+31. L'infarctus myocardique est une complication possible de la dissection aortique.  
+32. La dissection aortique se manifeste par une diminution symétrique des pouls périphériques.  
+33. La fenestration est une méthode de traitement endovasculaire pour les dissections aortiques de type A.  
+34. L'hémopéritoine est une complication possible de la dissection aortique.  
+35. L'ischémie myocardique est une complication courante de la dissection aortique.  
+36. Les dissections aortiques de type B sont plus graves que celles de type A.  
+37. La rupture de l'adventice est une complication courante de la phase chronique de la dissection aortique.  
+38. Les patients avec une dissection aortique peuvent présenter des signes d'accident vasculaire cérébral.  
+39. L'ischémie mésentérique est une complication possible de la dissection aortique.  
+40. L'hémorragie cérébrale est une complication possible de la dissection aortique.  
+41. La radiographie de thorax ne permet pas de diagnostiquer une dissection aortique. 
+42. La création d'une communication entre le vrai et le faux chenal est une méthode de traitement chirurgical pour 
+les dissections aortiques de type B.  29. Vrai 
+30. Vrai 
+31. Vrai 
+32. Faux 
+33. Faux 
+34. Vrai 
+35. Vrai 
+36. Faux 
+37. Faux  
+38. Vrai 
+39. Vrai 
+40. Faux 
+41. Faux 
+42. Faux 
+ 

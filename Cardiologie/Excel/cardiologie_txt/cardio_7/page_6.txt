@@ -1,0 +1,29 @@
+73. Le test d’Allen doit être réalisée systématiquement avant une coronarographie en prévision de l’impact des 
+lésions potentielles sur l’artère cubitale. 
+74. La pression de perfusion des membres inférieurs augmente en position debout ou assise. 
+75. La calcifications des artères périphériques survient surtout en cas de diabète ou d’insuffisance rénale aigue. 
+76. L’artérite des membres inférieurs représente 90% des artériopathies. 
+77. Le risque d’évènement coronarien ou cérébro-vasculaire est 6x plus élevé en cas d’AOMI. 
+78. La prévalence de l’AOMI symptomatique est de 1% avant 50 ans. 
+79. La sévérité des symptômes d’AOMI n’est pas corrélée à l’importance de l’hypoxémie des membres inférieurs. 
+80. L’athérosclérose est responsable de 70% des AOMI. 
+81. L’AOMI secondaire à l’athérosclérose est généralement généralisée et d’évolution relativement lente. 
+82. Les troubles trophiques sont souvent extensifs en cas d’AOMI secondaire à l’athérosclérose. 
+83. Les artères les plus touchées par l’AOMI secondaire à l’athérosclérose sont l’aorte, les iliaques, les fémorales 
+communes et superficielles et les poplitées. 
+84. L’AOMI secondaire à l’athérosclérose touche principalement les sujets âgés et les hommes. 
+85. L’artérite diabétique est présente chez 1/3 des artéritiques. 73. Faux 
+ 
+74. Vrai 
+75. Faux 
+76. Vrai 
+77. Faux 
+78. Vrai 
+79. Faux 
+80. Vrai 
+81. Faux 
+82. Vrai 
+83. Vrai 
+ 
+84. Vrai 
+85. Faux 

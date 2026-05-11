@@ -1,0 +1,29 @@
+138. L’insuffisance rénale et l’allergie aux produits iodés sont des contre-indications à l’angio-CT. 
+139. L’angio-CT nécessite l’injection d’un produit de contraste iodé dans l’artère fémorale. 
+140. L’aorto-artériographie des membres inférieurs est un examen invasif qui nécessite un cathétérisme artériel. 
+141. L’aorto-artériographie des membres inférieurs ne nécessite pas l’utilisation d’un produit de contraste iodé. 
+142. L’amélioration du confort de vie du patient n’est pas le but principal du traitement de l’AOMI.  
+143. Le traitement interventionnel est réservé uniquement aux AOMI de stade III et IV. 
+144. La modification des facteurs de risque permet de diminuer la mortalité cardio-vasculaire globale. 
+145. Le traitement de 1ère intention de l’AOMI devrait toujours être le réentrainement physique supervisé. 
+146. Le réentrainement physique permet d’augmenter significativement le périmètre de marche et d’éviter un 
+traitement complémentaire dans de nombreux cas d’AOMI. 
+147. Le réentrainement doit suivre plusieurs règles pour être efficace : au moins 5x30 minutes par semaine, au 
+moins 6 mois, à une vitesse de 3,2km/h sur un tapis incliné à 10% et jusqu’à la douleur quasi maximale. 
+148. L’aspirine à haute dose doit être administré à tout patient souffrant d’AOMi (sauf contre-indication). 
+149. La majorité des patients atteints d’AOMI adhère au traitement par réentrainement physique. 
+150. Les drogues vasoactives sont très efficaces pour augmenter le périmètre de marche en cas d’AOMI. 138. Vrai 
+139. Faux 
+140. Vrai 
+141. Faux 
+142. Vrai 
+143. Faux 
+144. Vrai 
+145. Vrai 
+146. Vrai 
+ 
+147. Faux 
+ 
+148. Faux 
+149. Faux 
+150. Faux 

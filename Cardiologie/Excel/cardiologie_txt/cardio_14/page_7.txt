@@ -1,0 +1,29 @@
+83. L’insuffisance veineuse est caractérisée par un œdème péri-malléolaire qui diminue au cours de la journée.  
+84. Le système CEAP prend en compte la clinique, l'étiologie, le siège anatomique de la lésion et la pathogénie.  
+85. La classification clinique du CEAP va de 1 à 5 selon la gravité des signes cliniques.  
+86. Les télangiectasies sont des varices non palpables de petit calibre.  
+87. L’œdème rétromalléolaire positionnel est caractéristique du stade C4 de la classification CEAP.  
+88. L'eczéma variqueux est une conséquence de la stase veineuse. 
+89. L'atrophie blanche est une plaque scléro-atrophique correspondant à une zone d’ischémie cutanée. 
+90. Les télangiectasies sont des dilatations hypodermiques des plexus veineux sous-papillaires. 
+91. Les ulcères veineux sont généralement très douloureux.  
+92. Les ulcères veineux sont souvent localisés dans la région péri-malléolaire externe. 
+93. Les manifestations de l’insuffisance veineuse vont d’une simple pesanteur jambière à des ulcères veineux. 
+94. Les perles variqueuses sont des dilatations des veines profondes visibles à la surface de la peau. 
+95. L’insuffisance veineuse se manifeste souvent pas une sensibilité le long des veines inflammatoires dilatées. 
+96. Une lourdeur des jambes, une fatigue et une sensation désagréable à l’orthostatisme prolongé sont les 
+premiers symptômes de l’insuffisance veineuse. 83. Faux 
+84. Vrai 
+85. Faux 
+86. Faux 
+87. Faux 
+88. Vrai 
+89. Vrai 
+90. Faux 
+91. Faux 
+92. Faux 
+93. Vrai 
+94. Faux 
+95. Vrai 
+96. Vrai 
+ 

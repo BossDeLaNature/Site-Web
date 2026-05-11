@@ -1,0 +1,29 @@
+195. Les engelures évoluent vers une guérison spontanée progressive et généralement ne récidivent pas. 
+196. Il n’existe pas de traitement vraiment efficace contre les engelures. 
+197. Les vasoconstricteurs et les antagonistes calciques peuvent être utiles dans le traitement des engelures. 
+198. Les engelures récidivantes ont généralement un mauvais pronostic. 
+199. Les gelures sont caractérisées par la formation de cristaux de glace dans les tissus superficiels et profonds. 
+200. Les gelures sont rares en Belgique. 
+201. Les pré-gelures surviennent souvent quand la température reste à -0,5°C pendant plusieurs heures. 
+202. Le réchauffement des pré-gelures provoquent des signes de neuropathies sensitives localisées. 
+203. Les pré-gelures sont diagnostiquées sur base de signes objectifs. 
+204. L’exposition prolongée au froid et à l’humidité sans possibilité de se sécher correctement augmente le 
+risque de pré-gelures. 
+205. L’aspirine et l’ibuprofène sont utilisés dans le traitement des gelures. 
+206. Un réchauffement rapide est nécessaire pour traiter les pré-gelures. 
+207. L’apoplexie digitale est caractérisée par un hématome digital spontanée par rupture d’une veine. 
+208. L’apoplexie digitale est un processus très douloureux de début progressif. 195. Faux 
+196. Vrai 
+197. Faux 
+198. Faux 
+199. Vrai 
+200. Vrai 
+201. Vrai 
+202. Vrai 
+203. Faux 
+204. Vrai 
+ 
+205. Vrai 
+206. Faux 
+207. Vrai 
+208. Faux 

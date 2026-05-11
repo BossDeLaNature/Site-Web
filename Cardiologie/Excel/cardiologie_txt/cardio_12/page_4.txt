@@ -1,0 +1,29 @@
+42. La maladie de Buerger est plus fréquente chez les hommes jeunes de <40 ans et fumeurs. 
+43. La maladie de Behçet n'entraîne pas de manifestations cutanées.  
+44. Les embolies de cholestérol sont un exemple de cause emboligène d'artériopathies non athéromateuses.  
+45. Le syndrome du défilé thoraco-brachial est associé à des emboles dans les membres inférieurs.  
+46. Le syndrome de la poplitée piégée est souvent associé à une douleur du membre inférieur au repos.  
+47. Les maladies kystiques adventicielles affectent souvent les artères poplitées. 
+48. Les artérites post-radique surviennent généralement dans un territoire irradié.  
+49. L’ergot de seigle provoque une vasoconstriction centrale et des effets hallucinogènes. 
+50. Le pseudoxanthome élastique affecte principalement la peau, la rétine et les parois artérielles. 
+51. La maladie de Buerger est associée à un risque accru de maladies cardiaques.  
+52. La maladie de Takayasu touche principalement les artères des membres inférieurs.  
+53. La maladie de Behçet provoque souvent une atteinte oculaire (iritis, uvéite, conjonctivite,…). 
+54. Les artérites post-radiques affectent principalement les artères iliaques et carotides.  
+55. Les artériopathies toxiques sont principalement causées par des toxines alimentaires.  
+56. Le pseudoxanthome élastique est une maladie rare à prédominance féminine. 42. Vrai 
+43. Faux 
+44. Vrai 
+45. Faux 
+46. Faux 
+47. Vrai 
+48. Vrai 
+49. Faux 
+50. Vrai 
+51. Faux 
+52. Faux 
+53. Vrai 
+54. Vrai 
+55. Faux 
+56. Vrai 

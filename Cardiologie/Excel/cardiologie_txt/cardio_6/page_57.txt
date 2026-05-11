@@ -1,0 +1,29 @@
+767. La lidocaïne, le sotalol ou l’amiodarone IV sont utilisés pour traiter la TV avec stabilité hémodynamique. 
+768. Le traitement de la TV ne doit pas abaisser la PA diastolique sous 70 mmHg. 
+769. Le passage en fibrillation ventriculaire est une indication de cardioversion électrique. 
+770. Il faut éviter d’administrer simultanément plusieurs antiarythmiques différents. 
+771. L’arrêt cardiaque suite à la TV/FV n’est pas une indication de mise en place d’un défibrillateur implantable. 
+772. La TV asymptomatique inductible à l’épreuve électrophysiologique est une indication de mise en place d’un 
+défibrillateur implantable. 
+773. La syncope d’origine indéterminée n’est pas une indication de mise en place d’un défibrillateur implantable. 
+774. La pathologie cardiaque familiale avec risque élevé de TV/FV est une indication de mise en place d’un 
+défibrillateur implantable. 
+775. La revascularisation myocardique a un effet favorable sur la TV secondaire à une cardiopathie ischémique. 
+776. Le traitement aigu de la fibrillation auriculaire comprend une cardioversion électrique à 300 joules, un 
+massage cardiaque externe, une ventilation assistée et une réanimation. 
+777. Une chirurgie du foyer arythmogène peut être utile dans certains cas sélectionnés de TV. 
+778. Le pronostic de la TV est celui de la maladie sous-jacente.  767. Vrai 
+768. Faux 
+769. Vrai 
+770. Vrai 
+771. Faux 
+772. Vrai 
+ 
+773. Faux 
+774. Vrai 
+ 
+775. Vrai 
+776. Faux 
+ 
+777. Vrai 
+778. Vrai 

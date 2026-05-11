@@ -1,0 +1,29 @@
+136. Les ulcères veineux prennent énormément de temps à guérir et récidivent très fréquemment. 
+137. L'anamnèse comprend la recherche de facteurs de risque de varices primitives et d’antécédents de 
+thrombose veineuse profonde en cas d’insuffisance veineuse. 
+138. L'examen clinique est souvent réalisé en position couchée pour détecter les varices.  
+139. Le test de Schwartz évalue la continence des valvules dans les veines fémorales et poplitées. 
+140. Les varices sont toujours secondaires à une thrombose veineuse profonde ou à une compression. 
+141. L'œdème péri-malléolaire est un signe spécifique de l’insuffisance veineuse. 
+142. Le bilan complémentaire de l’insuffisance veineuse inclut toujours une phlébographie.  
+143. L'échographie Doppler est utile pour confirmer le diagnostic d'insuffisance veineuse.  
+144. Les médications veinotropes sont le traitement principal de l'insuffisance veineuse.  
+145. L'exercice physique permet de diminuer de 2/3 la pression veineuse. 
+146. La contention des membres inférieurs diminue la pression tissulaire.  
+147. Les bas de contention doivent exercer une pression plus forte en proximal qu'à la cheville.  
+148. Les stations debout prolongées sont bénéfiques pour les patients atteints d'insuffisance veineuse.  
+149. Le traitement des varices est toujours chirurgical.  136. Vrai 
+137. Vrai 
+ 
+138. Faux 
+139. Faux 
+140. Faux 
+141. Faux 
+142. Faux 
+143. Vrai 
+144. Faux 
+145. Vrai 
+146. Faux 
+147. Faux 
+148. Faux 
+149. Faux 

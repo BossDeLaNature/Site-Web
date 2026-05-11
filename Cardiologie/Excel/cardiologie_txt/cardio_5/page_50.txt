@@ -1,0 +1,29 @@
+627. Les infections par le VIH peuvent causer de l'hypertension pulmonaire dans environ 0,5 % des cas.  
+628. L'hypertension portale est la première cause d'hypertension artérielle pulmonaire du groupe 1.  
+629. Les shunts gauche-droite congénitaux sont une cause d’hypertension pulmonaire du groupe 1.  
+630. Le groupe 5 d'hypertension pulmonaire est secondaire à des mécanismes non élucidés ou multifactoriels.  
+631. L’hypertension pulmonaire est définie par une pression pulmonaire moyenne >20 mmHg au repos. 
+632. Les connectivites (lupus, sclérodermie, polyarthrite rhumatoïde,….) sont la 2ème cause d’HTAP du groupe 1. 
+633. L’hypertension portale provoque une HTAP chez 25% des patients. 
+634. L’hypertension artérielle pulmonaire du groupe 1 est rarement idiopathique et généralement consécutive 
+à une affection cardiaque gauche ou pulmonaire. 
+635. 80% des cas d’HTAP ont une mutation dans le gène Bone Morphogenic Protein Receptor type 2. 
+636. L’hypertension portale est la 3ème cause d’HTAP du groupe 1 à cause d’une toxicité sérotininerique. 
+637. Les pathologies du cœur droit sont une cause très fréquente d’hypertension artérielle pulmonaire.  
+638. Les métamphétamines sont responsables d’hypertension artérielle pulmonaire du groupe 1. 
+639. L’hypoxie chronique en altitude (>2500m) est un facteur favorisant d’HTP du groupe 3.  
+640. L’asthme, l’emphysème et la fibrose pulmonaire idiopathique provoquent une HTP du groupe 3. 627. Vrai 
+628. Faux 
+629. Vrai 
+630. Vrai 
+631. Vrai 
+632. Vrai 
+633. Faux 
+634. Faux 
+ 
+635. Vrai 
+636. Vrai 
+637. Faux 
+638. Vrai 
+639. Vrai 
+640. Faux 

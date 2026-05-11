@@ -1,0 +1,29 @@
+313. La dobutamine est un inotrope négatif utilisé dans le traitement de l’OPH pout augmenter la PAS.  
+314. Tous les patients atteints d’œdème pulmonaire hémodynamique doivent être intubés. 
+315. Le pronostic de l’oedème pulmonaire hémodynamique est meilleur si le patient est hypotendu.  
+316. On administre de l’oxygène en cas d’OPH si la saturation est <80% ou si la PaO2 est <60mmHg. 
+317. La ventilation non invasive est souvent recommandée comme traitement initial en cas d’OPH.  
+318. L'intubation trachéale et la ventilation assistée sont nécessaires en cas de détresse respiratoire sévère. 
+319. Le vérapamil est utilisé en cas d’œdème aigu du poumon pour améliorer la fonction cardiaque. 
+320. Un suivi rapproché de l'ionogramme urinaire et de la diurèse est nécessaire en cas d’OPH.  
+321. On administre de l’oxygène dès que la saturation devient inférieure à 95% en cas d’OPH.  
+322. Les diurétiques thiazidiques font partie du traitement de l’œdème pulmonaire hémodynamique. 
+323. Les diurétiques de l'anse sont généralement préférés aux diurétiques thiazidiques chez les patients 
+atteints d'insuffisance cardiaque en raison de leur puissance et de leur action rapide.  
+324. La spironolactone peut induire une hyperkaliémie surtout en association avec un IEC ou un sartan. 
+325. L'hyponatrémie dans l’IC résulte de la rétention hydrosodée et de la sécrétion trop faible d’ADH.  
+326. La norépinéphrine est contre-indiquée dans le traitement de l’œdème pulmonaire hémodynamique. 313. Faux 
+314. Faux 
+315. Faux 
+316. Faux 
+317. Vrai 
+318. Vrai 
+319. Faux 
+320. Vrai 
+321. Faux 
+322. Faux 
+323. Vrai 
+ 
+324. Vrai 
+325. Faux 
+326. Faux 

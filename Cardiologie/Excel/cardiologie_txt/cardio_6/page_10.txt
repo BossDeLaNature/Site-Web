@@ -1,0 +1,29 @@
+123. La maladie du sinus représente 50% des indications de stimulateur cardiaque. 
+124. Le « syndrome bradycardie-tachycardie » provoque des embolies périphériques. 
+125. La bradycardie sinusale pathologique est le plus souvent asymptomatique. 
+126. L'ECG montre un allongement constant du temps de conduction AV dans le bloc AV du premier degré.  
+127. L’enregistrement ambulatoire du RC dure toujours 24h en cas de bradycardie sinusale. 
+128. L’enregistrement ambulatoire du RC permet de rechercher des pauses sinusales symptomatiques de >3s. 
+129. Une épreuve d’effort prouve une altération de l’accélération physiologique du rythme cardiaque en cas de 
+bradycardie sinusale. 
+130. La prévalence de la maladie du sinus augmente avec le vieillissement. 
+131. Le bloc AV du 2ème degré de type Mobitz I est caractérisé par un allongement progressif de l'espace PR.  
+132. L’épreuve électrophysiologie est réalisée en cas de bradycardie sinusale d’origine extrinsèque. 
+133. L’épreuve électrophysiologie guide le choix du stimulateur cardiaque en cas de bradycardie sinusale. 
+134. Le stimulateur cardiaque possède toujours une sonde auriculaire et une sonde ventriculaire en cas de 
+bradycardie sinusale. 
+135. Un défibrillateur implantable est indiqué dans le traitement du « syndrome bradycardie-tachycardie ». 123. Vrai 
+124. Vrai 
+125. Faux 
+126. Vrai 
+127. Faux 
+128. Vrai 
+129. Vrai 
+ 
+130. Vrai 
+131. Vrai 
+132. Faux 
+133. Vrai 
+134. Faux 
+ 
+135. Faux 

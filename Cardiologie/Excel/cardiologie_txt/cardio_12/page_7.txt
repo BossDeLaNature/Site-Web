@@ -1,0 +1,29 @@
+86. Le syndrome de la poplitée piégée provoque une insuffisance circulatoire artérielle lors de la flexion de la 
+jambe et de la dorsiflexion du pied.  
+87. Le syndrome de la poplitée piégée est diagnostiqué par une disparition des pouls à la dorsiflexion du pied. 
+88. L’artériographie dynamique permet de visualiser la compression poplitée lors de certains mouvements. 
+89. L’artériographie statique est inutile dans le diagnostic du syndrome de la poplitée piégée. 
+90. L’échographie permet de visualiser les anomalies d’insertion des structures musculo-tendineuses en cas de 
+syndrome de la poplitée piégée. 
+91. La RMN est utilisée dans le diagnostic du syndrome de la poplitée piégée. 
+92. Les maladies kystiques adventitielles affectent principalement les artères fémorales profondes. 
+93. La maladie kystique adventitielle est due à une dégénérescence kystique ou mucoïde de la paroi artérielle. 
+94. La maladie kystique adventitielle entraine une ischémie du membre supérieur en aval du kyste. 
+95. La maladie kystique adventitielle entraine une claudication intermittente persistante du sujet d’âge moyen. 
+96. Les kystes adventitiels se remplissent progressivement de mucus et obstruent la lumière artérielle. 
+97. Les kystes adventitiels se vident habituellement dans la lumière veineuse par une fistule artério-veineuse. 
+98. La vidange du kyste adventitiel normalise le flux artériel et fait disparaitre la claudication.  86. Faux 
+ 
+87. Vrai 
+88. Vrai 
+89. Faux 
+90. Faux 
+ 
+91. Vrai 
+92. Faux 
+93. Vrai 
+94. Faux 
+95. Faux 
+96. Vrai 
+97. Faux 
+98. Vrai 

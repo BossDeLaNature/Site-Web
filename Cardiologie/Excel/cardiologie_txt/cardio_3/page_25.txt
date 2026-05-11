@@ -1,0 +1,29 @@
+294. L’aspirine doit être prise pendant 1 an après un infarctus STEMI.  
+295. Le clopidogrel doit être associé à l’aspirine pendant au moins 3 à 6 mois après la mise en place d’un stent 
+par angioplastie coronaire. 
+296. Les bêta-bloquants doivent être pris à vie après un infarctus aigu du myocarde. 
+297. On observe un remodelage ventriculaire après un infarctus STEMI. 
+298. L’anticoagulation par antivitamine K est recommandée chez tous les patients après un infarctus STEMI. 
+299. Les héparines de bas poids moléculaire et les bas de contention sont utilisés en prévention de la thrombose 
+veineuse profonde après un infarctus du myocarde. 
+300. Les inhibiteurs de l’enzyme de conversion doivent être pris à vie après un infarctus aigu du myocarde. 
+301. Les dérivés nitrés sont utilisés dans le traitement chronique de l'infarctus myocardique.  
+302. Les programmes de réhabilitation cardiaque sont aussi importants que les bêta-bloquants ou les 
+hypocholestérolémiants pour améliorer la survie après un infarctus myocardique.  
+303. L'arrêt du tabac ne réduit pas les risques après un infarctus myocardique.  
+304. Le vérapamil est recommandé dans le traitement chronique de l’infarctus myocardique. 
+305. La prise chronique d’aspirine réduit la mortalité de 25% après un infarctus STEMI. 294. Faux 
+295. Vrai 
+ 
+296. Faux 
+297. Vrai 
+298. Faux 
+299. Vrai 
+ 
+300. Vrai 
+301. Faux 
+302. Vrai 
+ 
+303. Faux 
+304. Faux 
+305. Vrai 

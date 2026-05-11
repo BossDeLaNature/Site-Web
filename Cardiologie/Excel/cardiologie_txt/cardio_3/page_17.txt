@@ -1,0 +1,29 @@
+197. Le LDL-cholestérol doit être réduit <115mg/dl avec des statines (±ézétimibe) après un infarctus NSTEMI. 
+198. 1/4 des patients doivent bénéficier d’une revascularisation coronaire dans l’année après un épisode d’angor 
+instable. 
+199. Le clopidogrel doit être associé à l’aspirine pendant un an après un infarctus NSTEMI. 
+200. L’aspirine à petite dose inhibe l’agrégation des plaquettes par une acétylation réversible de la 
+cyclooxygénase plaquettaire.  
+201. L’aspirine inhibe la production de thromboxane A2 et réduit le thrombus au niveau des lésions 
+athéromateuses. 
+202. La prise d’aspirine réduit le risque relatif de décès et d’infarcissement de >70% après un épisode d’angor 
+instable. 
+203. Les bêta-bloquants sont administrés par voie orale dans le traitement aigu de l’angor instable. 
+204. Les héparines de bas poids moléculaire inhibent surtout le facteur de coagulation Xa.  
+205. L’héparine non fractionnée à une relation dose-réponse plus fiable que les héparines de bas poids 
+moléculaire. 
+206. Les héparines de bas poids moléculaire sont administrées par voie sous-cutanée. 197. Faux  
+198. Vrai 
+ 
+199. Vrai 
+200. Faux 
+ 
+201. Vrai 
+ 
+202. Faux  
+ 
+203. Faux 
+204. Vrai 
+205. Faux 
+ 
+206. Vrai 

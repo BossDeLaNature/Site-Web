@@ -1,0 +1,29 @@
+65. Beaucoup de myocytes meurent par un processus d’apoptose et sont remplacés par de la fibrose au cours du 
+remodelage ventriculaire de l’insuffisance cardiaque systolique. 
+66. L’insuffisance cardiaque active la sécrétion d’ADH et de peptides natriurétiques. 
+67. L’activation du système orthosympathique et du SRAA et l’ADH permettent à court terme d’augmenter la 
+post-charge, de maintenir la PA et la perfusion cérébrale et d’augmenter la contractilité myocardique. 
+68. Les cathécholamines ont une toxicité myocardique directe à long terme et favorisent les arythmies. 
+69. L’activation du système orthosympathique et du SRAA ont un effet défavorable à long terme en cas d’IC 
+systolique : congestion pulmonaire, anasarque, augmentation de la consommation myocardique d’O2,… 
+70. L’ANP et le BNP sont produits en réponse à une augmentation de la pression diastolique.  
+71. L’ANP et le BNP sont produits en réponse à une diminution de la tension pariétale.  
+72. L’ANP et le BNP induisent une natriurèse, une diurèse et une vasoconstriction. 
+73. Le sacubitril favorise l’action de la néprilysine qui dégrade l’ANP et le BNP. 
+74. La détresse respiratoire est un symptôme fréquent de l'insuffisance cardiaque.  
+75. La détresse respiratoire de l’IC est multifactorielle : œdème alvéolaire, spasme bronchique, hypoxémie,… 
+76. La dyspnée d'effort est classée selon la classification fonctionnelle NYHA.  65. Vrai 
+ 
+66. Vrai 
+67. Faux 
+ 
+68. Vrai 
+69. Vrai 
+ 
+70. Vrai 
+71. Faux 
+72. Faux 
+73. Faux 
+74. Vrai 
+75. Faux 
+76. Vrai 

@@ -1,0 +1,29 @@
+820. L’échographie cardiaque recherche une hypertrophie ventriculaire gauche en cas de syndrome du QT long. 
+821. L’ECG montre une onde U et une tachycardie sinusale en cas de syndrome du QT long. 
+822. Le sulfate de magnésium est contre-indiquée dans le traitement du syndrome de QT long acquis en 
+présence de taux sériques normaux de magnésium.   
+823. La sympathectomie cervico-thoracique est indiquée pour traiter un syndrome de QT long congénital. 
+824. Le défibrillateur implantable est indiqué dans certains cas de syndrome du QT long congénital. 
+825. Le maintien de la kaliémie >4,5mEq/L fait partie du traitement du syndrome du QT long acquis.  
+826. 1 à 2g de sulfate de magnésium doivent être administrés en 20-30 minutes en cas de tachycardie 
+ventriculaire non soutenue ou de torsades de pointe chez un patient atteint de syndrome du QT long acquis. 
+827. Les bêta-bloquants sont utilisés dans le traitement du syndrome de QT long acquis. 
+828. L’augmentation de la fréquence cardiaque est recommandée pour les arythmies résistantes au sulfate de 
+magnésium en cas de syndrome du QT long acquis. 
+829. L’hypertrophie ventriculaire gauche et l’insuffisance cardiaque prolongent le temps de repolarisation. 
+830. La « torsade de pointe » est une tachycardie supra-ventriculaire rapide polymorphe. 820. Vrai 
+821. Faux 
+822. Faux 
+ 
+823. Vrai 
+824. Vrai 
+825. Vrai 
+826. Faux 
+ 
+827. Faux 
+828. Vrai 
+ 
+829. Vrai 
+830. Faux 
+ 
+ 

@@ -1,0 +1,29 @@
+614. Un B3 précoce est entendu à l’apex ou au bord sternal gauche en cas de constriction péricardique. 
+615. Le B3 précoce correspond à un arrêt brutal du flux systolique en cas de constriction péricardique. 
+616. Le flux mitral expiratoire augmente de >25% à l’échographie cardiaque par rapport au flux inspiratoire en 
+cas de constriction péricardique 
+617. Le flux dans les veines pulmonaires est réduit lors de l’inspiration en cas de constriction péricardique. 
+618. Les diurétiques sont contre-indiqués en cas de constriction péricardique. 
+619. La péricardectomie est une chirurgie risquée avec un taux de mortalité de 10%. 
+620. La péricardite post-infarctus se manifeste quelques jours après un infarctus NSTEMI. 
+621. La péricardite post-infarctus est souvent localisée au niveau de la zone infarcie. 
+622. Le syndrome de Dressler est une péricardite auto-immune qui survient après <1% des cas d’infarctus. 
+623. Le syndrome de Dressler atteint le myocarde de manière diffuse ainsi que la plèvre. 
+624. Le syndrome de Dressler est souvent accompagné de fièvre. 
+625. L’hypertension artérielle pulmonaire est défini par une pression pulmonaire moyenne >5 mmHg au repos. 
+626. Le groupe 1 d'hypertension pulmonaire est caractérisé par des lésions des petites artérioles pulmonaires 
+musculaires.  614. Vrai 
+615. Faux 
+616. Vrai 
+ 
+617. Vrai 
+618. Faux 
+619. Vrai 
+620. Faux 
+621. Vrai 
+622. Faux 
+623. Faux 
+624. Vrai 
+625. Faux 
+626. Vrai 
+ 

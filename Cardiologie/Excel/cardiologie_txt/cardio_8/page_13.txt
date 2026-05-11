@@ -1,0 +1,28 @@
+158. Les symptômes des tumeurs du glomus carotidien sont liés à une compression locale ou à l’atteinte d’un 
+nerf : douleurs cervicales ou dans l’oreille, raucité de la voix, dysphagie,… 
+159. L’imagerie permet de détecter les tumeurs du glomus carotidien comme des lésions hypoperfusées. 
+160. Les tumeurs du glomus carotidien sont traités par exérèse chirurgicale. 
+161. L’angio-IRM, l’écho-Doppler ou l’artériographie détecte un « blush tumoral » en cas de paragangliome. 
+162. La morbi-mortalité doit être inférieure à 6% pour opérer une sténose carotidienne asymptomatique. 
+163. Les sténoses carotidiennes doivent être supérieures à 80% pour être opérées. 
+164. L’espérance de vie du patient doit être >5 ans pour opérer une sténose carotidienne asymptomatique. 
+165. La morbi-mortalité doit être inférieure à 3% pour opérer une sténose carotidienne symptomatique. 158. Vrai 
+ 
+159. Faux 
+160. Vrai 
+161. Vrai 
+162. Faux 
+163. Faux 
+164. Vrai 
+165. Faux 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,29 @@
+606. L’automédication consiste à s’administre une dose de charge de vernakalant au début d’un accès de FA. 
+607. L’automédication en cas de FA est administrée par voie intramusculaire. 
+608. La correction des facteurs de risque cardiovasculaires ne modifient pas l’incidence des récidives de FA. 
+609. L’exercice physique d’intensité modérée est recommandé pour éviter les récidives de FA. 
+610. Les symptômes de la FA doivent être très sévères pour justifier un traitement antiarythmique chronique. 
+611. La flecainide prévient les récidives de FA. 
+612. La flecainide est contre-indiquée uniquement en cas d’altération de la fonction rénale ou hépatique. 
+613. La flecainide est indiquée dans le traitement de la FA en cas de cardiopathie ischémique à FEVG réduite. 
+614. Le traitement de la FA par flecainide doit être arrêté si le complexe QRS s’élargit ou si des altérations de la 
+conduction auriculo-ventriculaire apparaissent. 
+615. La flecainide a l’avantage d’entrainer peu d’interactions médicamenteuses.  
+616. L’amiodarone provoque une toxicité rénale, pulmonaire et thyroïdienne. 
+617. L’amiodarone allonge le QT mais provoque rarement des torsades de pointe. 
+618. L’amiodarone peut être administrée en cas de FEVG réduite. 
+619. Le traitement par amiodarone doit être arrêté si l’intervalle QT dépasse 300ms. 606. Faux 
+607. Faux 
+608. Faux 
+609. Vrai 
+610. Vrai 
+611. Vrai 
+612. Faux 
+613. Faux 
+614. Vrai 
+ 
+615. Faux 
+616. Faux 
+617. Vrai 
+618. Vrai 
+619. Faux 

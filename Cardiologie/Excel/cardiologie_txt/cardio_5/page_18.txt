@@ -1,0 +1,29 @@
+220. Les sartans sont prescrits en 2ème intention dans le traitement de l’insuffisance cardiaque. 
+221. Les sartans induisent un blocage plus complet de l’angiotensine II que les IEC.  
+222. Les antagonistes des récepteurs à l’angiotensine II provoquent aussi une accumulation de bradykinine. 
+223. Le sacubitril-valsartan (Entresto®) est le traitement de 1er choix en cas d’insuffisance cardiaque. 
+224. Le valsartan est un inhibiteur des récepteurs AT2 à l’angiotensine II. 
+225. L’inhibition de la néprilysine par le sacubitril favorise l’accumulation de bradykinine et de peptides 
+natriurétiques qui favorisent vasodilatation, réduction de l’effet orthosympathique et natriurèse/diurèse.  
+226. Le sacubitril-valsartan a un effet légèrement défavorable sur le remodelage cardiaque. 
+227. Le sacubitril-valsartan permet de réduire la fibrose, l’hypertrophie cardiaque et le risque d’arythmies. 
+228. Le taux d’aldostérone est efficacement abaissée par les IEC en cas d’insuffisance cardiaque. 
+229. La spironolactone peut remplacer les diurétiques de l’anse en cas d’effets secondaires importants. 
+230. 25mg/j de spironolactone réduisent la mortalité de 35% en cas d’IC sévère de classe III ou IV avec des 
+dosées élevée des diurétiques de l’anse et d’IEC. 
+231. Les suppléments de K+ sont à préférer à la spironolactone en cas d’hypokaliémie. 
+232. Les bêta-bloquants luttent contre les effets orthosympathiques délétères dans l’insuffisance cardiaque. 220. Vrai 
+221. Vrai 
+222. Faux 
+223. Vrai 
+224. Faux 
+225. Vrai 
+ 
+226. Faux 
+227. Vrai 
+228. Faux 
+229. Faux 
+230. Vrai 
+ 
+231. Faux 
+232. Vrai 

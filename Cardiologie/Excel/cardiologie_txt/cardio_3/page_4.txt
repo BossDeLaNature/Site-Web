@@ -1,0 +1,29 @@
+39. La dobutamine est un bêta-bloquant utilisé pour simuler un exercice physique pendant les examens du cœur. 
+40. L’angor de classe I survient pour des efforts habituels. 
+41. Le dipyridamole ou la dobutamine sont utilisés pour réaliser un CT-coronaire chez les patients qui ne peuvent 
+pas réaliser un effort à cause d’une artérite des membres inférieurs ou d’un problème orthopédique. 
+42. Le dipyridamole IV empêche la dégradation de l’adénosine endogène pour vasodilater les artères coronaires 
+normales et induire un phénomène de vol coronaire dans les régions ischémiques. L’asymétrie de perfusion est 
+le signe d’une sténose coronaire. 
+43. Le CT-coronaire nécessite l’administration d’un produit de contraste iodé dans une artère du bras. 
+44. Le CT-coronaire a une excellente valeur prédictive positive donc on peut exclure la sténose si il est normal. 
+45. L’irradiation engendrée par une coronarographie est plus élevée que pour un CT-coronaire. 
+46. Le CT-coronaire permet d’évaluer la perméabilité des stents métalliques. 
+47. Le CT-coronaire nécessite que le patient soit à jeun, avec un rythme cardiaque pas trop rapide ou irrégulier et 
+qu’il sache effectuer une apnée volontaire. 
+48. Une coronarographie est effectuée chez la majorité des patients angoreux. 
+49. La coronarographie nécessite l’injection intraveineuse de produit de contracte iodé. 39. Faux 
+40. Faux 
+41. Faux 
+ 
+42. Vrai 
+ 
+ 
+43. Faux 
+44. Faux 
+45. Vrai 
+46. Faux 
+47. Vrai 
+ 
+48. Faux  
+49. Faux 

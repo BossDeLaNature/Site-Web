@@ -1,0 +1,29 @@
+807. Le syndrome du QT long congénital concerne généralement des patients jeunes (10-15 ans) en bonne 
+santé avec un diagnostic erroné d’épilepsie ou de syncope vaso-vagale. 
+808. La repolarisation est d’autant plus lente que le rythme cardiaque est lent. 
+809. Les médicaments sont une cause majeure du syndrome de QT long acquis : antiarythmiques, antibiotiques, 
+antifongiques, antidépresseurs, antipsychotiques, antinauséeux,… 
+810. L’amiodarone est l’antiarythmique qui entraine le plus souvent un syndrome du QT long acquis. 
+811. La procaïnamide utilisé dans le traitement de la TV peut induire un syndrome du QT long acquis. 
+812. Les quinolones, l’azithromycine et le trimethoprim-sulfametoxazole entrainent un syndrome du QT long. 
+813. Les antifongiques causant un syndrome du QT long acquis sont surtout des échinocandines. 
+814. L’amytriptyline et l’imipramine sont des antidépresseurs causant un syndrome du QT long acquis. 
+815. L’halopéridol, la chlorpromazine et le cisapride peuvent induire un syndrome du QT long acquis. 
+816. L’hypermagnésémie et l’hypocalcémie favorisent le syndrome du QT long acquis. 
+817. Les AVC ischémiques ou hémorragiques favorisent le syndrome du QT long acquis. 
+818. L’intervalle QT est corrigé par la FC en divisant la durée du QT par le temps entre deux ondes R. 
+819. L’ECG peut montrer des ondes T bifides ou alternantes en cas de syndrome du QT long. 807. Vrai 
+ 
+808. Vrai 
+809. Vrai 
+ 
+810. Faux 
+811. Vrai 
+812. Faux 
+813. Faux 
+814. Vrai 
+815. Vrai 
+816. Faux 
+817. Vrai 
+818. Faux 
+819. Vrai 

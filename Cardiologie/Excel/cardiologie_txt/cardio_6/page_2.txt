@@ -1,0 +1,29 @@
+14. L'épreuve électrophysiologique est indiquée chez tous les patients présentant une syncope.  
+15. Le stimulateur cardiaque est recommandé pour traiter les syncopes d'origine neurocardiogénique.  
+16. Les bas de contention sont conseillés pour les patients souffrant de syncope vaso-vagale.  
+17. Les syncopes arythmiques ne nécessitent jamais de traitement.  
+18. Les syncopes vaso-vagales sont souvent accompagnées de transpirations profuses.  
+19. La syncope peut être un symptôme de pathologie cardiaque.  
+20. Les syncopes neurocardiogéniques sont rarement associées à des mouvements tonico-cloniques. 
+21. Le défibrillateur implantable est recommandé pour toutes les syncopes d'origine indéterminée.  
+22. Le "tilt-test" peut être réalisé pour confirmer le diagnostic de syncope arythmique.  
+23. Les syncopes neurologiques sont souvent associées à des signes neurologiques résiduels. 
+24. L'hypotension orthostatique est souvent une caractéristique de la syncope neurocardiogénique.  
+25. Les syncopes vaso-vagales sont plus fréquentes chez les personnes âgées. 
+26. Le "tilt-test" est une épreuve électrophysiologique.  
+27. L'EEG est souvent réalisé pour exclure une épilepsie dans le diagnostic de syncope. 
+28. La syncope peut être déclenchée par la peur ou la douleur. 14. Faux 
+15. Faux 
+16. Vrai 
+17. Faux 
+18. Vrai 
+19. Vrai 
+20. Vrai 
+21. Faux 
+22. Faux 
+23. Vrai 
+24. Vrai 
+25. Faux 
+26. Faux 
+27. Vrai 
+28. Vrai 

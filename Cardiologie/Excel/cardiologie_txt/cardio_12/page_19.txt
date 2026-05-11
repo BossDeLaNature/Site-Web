@@ -1,0 +1,28 @@
+245. L’azathioprine est utilisée dans le traitement des formes graves de maladie de Behçet. 
+246. Les anévrysmes artériels liés à la maladie de Behçet doivent impérativement être traités par chirurgie. 
+247. Le test de pathergie montre une pustule stérile après 24h en cas de maladie de Behçet. 
+248. Les anévrysmes artériels liés à la maladie de Behçet ont un faible risque de rupture. 
+249. L’atteinte vasculaire de la maladie de Behçet touche à la fois les artères et les veines. 
+250. La prévalence de la maladie de Behçet est plus élevée en Turquie qu’en Belgique. 
+251. Des atteints cutanées multiples, des troubles psychiatriques, une panuvéite bilatérale, des arthralgies 
+spontanément résolutives et une atteinte péri- et endo-vasculaire sont des signes de la maladie de Behçet. 
+252. L’atteinte artérielle est symptomatique chez 30 à 50% des patients atteints de la maladie de Behçet. 
+253. Le test pathergique consiste à réaliser 2 piqûres à l’aiguille sur l’intérieur de l’avant-bras. 
+254. L’atteinte digestive de la maladie de Behçet peut faire penser à une maladie de Crohn. 
+255. Le traitement des thrombose artérielle liée à la maladie de Behçet est habituellement conservateur. 
+256. L’atteinte artérielle de la maladie de Behçet peut provoquer une occlusion de l’artère pulmonaire ou des 
+hémoptysies. 245. Vrai 
+246. Vrai 
+247. Faux 
+248. Faux 
+249. Vrai 
+250. Vrai 
+251. Vrai 
+ 
+252. Faux 
+253. Vrai 
+254. Vrai 
+255. Vrai 
+256. Vrai 
+ 
+ 

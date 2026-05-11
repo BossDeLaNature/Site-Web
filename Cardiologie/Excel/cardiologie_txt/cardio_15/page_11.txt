@@ -1,0 +1,29 @@
+138. Les veines superficielles collatérales confèrent un point dans le score de Wells simplifié. 
+139. Une paralysie, une parésie ou une immobilisation plâtrée des membres inférieurs confère 2 points dans le 
+score de Wells simplifié. 
+140. Les performances diagnostiques du dosage des D-dimères dépend fortement du test utilisé. 
+141. Le dosage des D-dimères a une bonne sensibilité et une bonne spécificité pour la TVP. 
+142. L’âge avancé, un syndrome inflammatoire, un cancer, un traumatisme ou une situation post-opératoire 
+peuvent positiver le dosage des D-dimères en l’absence de TVP.  
+143. Le dosage des D-dimères est utile pour confirmer le diagnostic de TVP. 
+144. Les anticoagulants oraux directs peuvent être utilisés sans pré-traitement par HBPM dans tous les cas.  
+145. Le dosage des D-dimères est nécessaire quand le score de Wells simplifié vaut 0 ou 1.  
+146. Une TVP peut être raisonnablement exclue si le score de Wells vaut 1 et si les D-dimères sont normaux.  
+147. Une augmentation des D-dimères est une indication à l’échographie veineuse des membres inférieurs 
+même en cas de TVP peu probable. 
+148. Le dosage des D-dimères est nécessaire si le score de Wells vaut 2 ou plus.  
+149. L’échographie veineuse des membres inférieurs est systématiquement réalisé en cas de TVP probable. 138. Vrai 
+139. Faux 
+ 
+140. Vrai 
+141. Faux 
+142. Vrai 
+ 
+143. Faux 
+144. Faux 
+145. Vrai 
+146. Vrai 
+147. Vrai 
+ 
+148. Faux 
+149. Vrai 

@@ -1,0 +1,29 @@
+258. Le rhumatisme articulaire aigu entraine une rétraction des feuillets mitraux et un allongement des cordages.  
+259. L’endocardite peut induire une destruction valvulaire et la rupture des cordages. 
+260. L’insuffisance mitrale entraine une augmentation du volume télésystolique ventriculaire gauche. 
+261. La fraction d'éjection ventriculaire gauche diminue dans l'insuffisance mitrale décompensée.  
+262. L'insuffisance mitrale aiguë est caractérisée par une diminution du débit cardiaque.  
+263. La pression dans l'oreillette gauche diminue progressivement dans l'insuffisance mitrale chronique.  
+264. L’insuffisance mitrale aigue induit une congestion pulmonaire avec orthopnée, fatigue et dyspnée à l’effort. 
+265. L’insuffisance mitrale aigue est généralement bien tolérée car l’oreillette saine est très compliante. 
+266. La pression dans la circulation pulmonaire augmente progressivement en cas d’insuffisance mitrale. 
+267. Le volume télédiastolique ventriculaire gauche augmente en cas d’insuffisance mitrale. 
+268. Le B3 est souvent présent en fin de diastole à l'auscultation dans l'insuffisance mitrale.  
+269. La compliance ventriculaire diminue dans les formes chroniques d'insuffisance mitrale.  
+270. En cas d’insuffisance mitrale, la dyspnée est provoquée par une augmentation de pression dans les cavités 
+cardiaques droites. 
+271. Un 3ème bruit cardiaque est souvent entendu à l’auscultation d’une sténose mitrale. 258. Faux 
+259. Vrai 
+260. Faux 
+261. Faux 
+262. Vrai 
+263. Vrai 
+264. Vrai 
+265. Faux 
+266. Faux 
+267. Vrai 
+268. Faux 
+269. Faux 
+270. Faux 
+ 
+271. Faux 

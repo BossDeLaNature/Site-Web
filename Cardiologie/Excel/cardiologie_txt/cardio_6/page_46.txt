@@ -1,0 +1,29 @@
+620. L’amiodarone entraine de nombreuses interactions médicamenteuses. 
+621. L'isolation des veines pulmonaires par radiofréquence est recommandée après au moins 1 tentative de 
+traitement pharmacologique inefficace.  
+622. L’isolation des veines pulmonaires par radiofréquence est plus efficace que le traitement pharmacologique 
+de classe I ou III pour maintenir le rythme sinusal et pour améliorer les symptômes. 
+623. Le décès survient surtout par tamponnade en cas d’isolation des veines pulmonaires par radiofréquence. 
+624. L’anticoagulation peut être arrêtée si le patient reste en rythme sinusal après le traitement invasif de la FA. 
+625. En cas de FEVG réduite, le traitement invasif de la FA améliore la qualité de vie et la fonction VG.   
+626. En cas de FEVG réduite, le traitement invasif de la FA tend à réduire les hospitalisations pour insuffisance 
+cardiaque mais pas la mortalité.  
+627. Le flutter auriculaire typique est dû à une arythmie par réentrée qui emprunte une voie de conduction lente 
+située dans la région antérieure de l’oreillette droite.  
+628. Le circuit de réentrée est confiné à l’oreillette droite et n’entreprend pas l’oreillette gauche en cas de flutter. 
+629. Le circuit de réentrée tourne dans un sens horaire en cas de flutter si on regarde l’OD par l’apex. 
+630. Le flutter est associé à une dilatation des oreillettes causée par des pathologies valvulaires ou pulmonaires.  620. Vrai 
+621. Vrai 
+ 
+622. Vrai 
+ 
+623. Vrai 
+624. Faux 
+625. Vrai 
+626. Faux 
+ 
+627. Faux 
+ 
+628. Vrai 
+629. Faux 
+630. Vrai 

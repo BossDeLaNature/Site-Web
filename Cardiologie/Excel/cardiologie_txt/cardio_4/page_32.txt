@@ -1,0 +1,29 @@
+373. La maladie d’Ebstein est caractérisée par une « atrialisation » d’une partie du ventricule droit. 
+374. L'ascite, les œdèmes périphériques et l’hépatomégalie sont des symptômes de l'insuffisance tricuspide.  
+375. La durée de l’onde P est augmentée en cas d’insuffisance tricuspide. 
+376. L'ECG dans l'insuffisance tricuspide révèle généralement une hypertrophie auriculaire gauche.  
+377. L’hypertrophie auriculaire droite est caractérisée par des ondes P pointues >5mm en D2, D3 et aVF à l’ECG. 
+378. La cardiomégalie peut être observée à la radiographie thoracique en cas d'insuffisance tricuspide.  
+379. L’axe du complexe QRS n’est pas dévié en cas d’hypertrophie ventriculaire droite. 
+380. La durée de l’onde P est augmentée en cas d’hypertrophie ventriculaire gauche. 
+381. L’échographie cardiaque permet de diagnostiquer une insuffisance tricuspide. 
+382. L’insuffisance tricuspide est caractérisée par un souffle holosystolique parasternal droit. 
+383. Le B2 est atténué en cas d’hypertension aortique. 
+384. Le rhumatisme articulaire aigu n’affecte jamais les valves du cœur droit. 
+385. La radiographie montre souvent une altération du parenchyme pulmonaire en cas d’insuffisance tricuspide. 
+386. Le traitement de l'insuffisance tricuspide comprend des diurétiques pour réduire l'ascite et les œdèmes.  
+387. L'annuloplastie ou la réparation tricuspide est une option de traitement pour l'insuffisance tricuspide.  373. Vrai 
+374. Vrai 
+375. Faux 
+376. Faux 
+377. Faux 
+378. Vrai 
+379. Faux 
+380. Faux 
+381. Vrai 
+382. Faux 
+383. Faux 
+384. Faux 
+385. Vrai 
+386. Vrai 
+387. Vrai 

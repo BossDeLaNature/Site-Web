@@ -1,0 +1,29 @@
+37. L’HTA maligne est souvent associée à une insuffisance cardiaque. 
+38. L’HTA rénovasculaire représente environ 10% des cas d’HTA. 
+39. L’HTA est une affection généralement unifactorielle. 
+40. La tension artérielle est déterminé par le produit du débit cardiaque et de la résistance vasculaire périphérique. 
+41. Le débit cardiaque dépend uniquement de la contractilité myocardique et de la fréquence cardiaque. 
+42. La résistance vasculaire dépend de la viscosité sanguine.  
+43. L'angiotensine II est un agent antiprolifératif qui réduit l'hyperplasie cellulaire vasculaire et cardiaque.  
+44. La précharge est déterminée par la volume intra-vasculaire, le tonus veineux et la capacitance des vaisseaux. 
+45. L'activation orthosympathique augmente à la fois le débit cardiaque et les résistances périphériques. 
+46. Les taux de rénine plasmatique sont généralement élevés chez les patients hypertendus. 
+47. L’angiontensine II stimule la vasodilatation, la réabsorption de sodium, la soif et l’activité orthosympathique. 
+48. Les récepteurs AT2 à l’angiotensine ont une action antiproliférative et antimitotique favorable dans l’HTA. 
+49. Le régime riche en sodium et riche en potassium favorise l'hypertension artérielle.  
+50. L'alcool n'a aucun effet sur la pression artérielle. 
+51. La stimulation du système rénine-angiotensine-aldostérone diminue la réabsorption du sodium.  37. Vrai  
+38. Faux 
+39. Faux 
+40. Vrai 
+41. Faux  
+42. Vrai 
+43. Faux 
+44. Vrai 
+45. Vrai 
+46. Faux 
+47. Faux 
+48. Vrai 
+49. Faux 
+50. Faux 
+51. Faux 

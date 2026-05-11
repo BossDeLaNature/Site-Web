@@ -1,0 +1,29 @@
+192. L’anticoagulation doit être poursuivie pendant >3 mois pour les TVP proximales à risque élevé de récidive. 
+193. Il faut toujours envisager de poursuivre l’anticoagulation >3 mois pour les TVP proximales à risque 
+intermédiaire de récidive. 
+194. Les TVPs proximales avec une thrombophilie héréditaire majeure sont à risque intermédiaire de récidive. 
+195. La dose du traitement anticoagulant peut éventuellement être abaissée après 3 mois pour les TVP 
+proximales à risque intermédiaire de récidive. 
+196. Les patients avec des antécédents familiaux importants de TVP sont à risque élevé de récidive. 
+197. Le dabigatran est un inhibiteur du facteur de coagulation Xa. 
+198. Contrairement aux AVK, les AOD sont actifs d’emblée par voie orale. 
+199. L’apixaban, l’édoxaban et le rivaroxaban sont des inhibiteurs de la thrombine. 
+200. Certains ADO et les AVK nécessitent un pré-traitement par HBPM pendant 5 à 10 jours en cas de TVP. 
+201. Les HBPM sont contre-indiqués en cas d’insuffisance rénale sévère (clearance de créatinine <30ml/min). 
+202. L’héparine non fractionnée est administrée en intra-musculaire. 
+203. Le taux de plaquettes doit être surveillé toutes les 6 heures lors du pré-traitement anticoagulant. 
+204. Un allongement de l’APTT permet de vérifier l’activité anticoagulante lors du traitement par héparine. 192. Vrai 
+193. Faux 
+ 
+194. Faux 
+195. Vrai 
+ 
+196. Vrai 
+197. Faux 
+198. Vrai 
+199. Faux 
+200. Vrai 
+201. Vrai 
+202. Faux 
+203. Faux 
+204. Vrai 

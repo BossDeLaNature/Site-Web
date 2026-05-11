@@ -1,0 +1,29 @@
+92. La fatigue d’effort puis de repos est liée à la réduction de la tension artérielle en cas d’IC systolique. 
+93. La rétention hydro-sodée provoquée par l’insuffisance cardiaque peut entrainer une hyponatrémie. 
+94. L’insuffisance cardiaque terminale se manifeste par une oligourie suite à une réduction de la perfusion rénale. 
+95. L’insuffisance cardiaque peut se manifester par des symptômes digestifs induits par la surcharge volémique : 
+hépatomégalie sensible, nausées, augmentation de l’appétit,…  
+96. Les symptômes cérébraux de l’IC sont très variables et liés à l’hypoxémie et à la réduction du débit cardiaque. 
+97. L'hyperactivité orthosympathique se manifeste par une bradycardie.  
+98. Les bruits de galop (B3/B4) sont caractéristiques de l'insuffisance cardiaque.  
+99. Il faut absolument une preuve objective de la dysfonction cardiaque pour établir le diagnostic d’IC.  
+100. L’insuffisance cardiaque avec dysfonction systolique est le plus souvent d’origine ischémique.  
+101. L’auscultation cardiaque ne permet pas de diagnostiquer l'insuffisance cardiaque.  
+102. L'échographie cardiaque permet de calculer la fraction d’éjection du ventricule gauche.  
+103. Une FEVG inférieure à 20% est un signe de pronostic vital très mauvais en cas d'insuffisance cardiaque.  
+104. L'ergospirométrie est un examen couramment utilisé chez les patients atteints d'insuffisance cardiaque.  
+105. Les râles de stase sont le plus souvent unilatéraux en cas d’insuffisance cardiaque systolique.  92. Faux 
+93. Vrai 
+94. Vrai 
+95. Faux 
+ 
+96. Vrai 
+97. Faux 
+98. Vrai 
+99. Vrai 
+100. Vrai 
+101. Faux 
+102. Vrai 
+103. Vrai 
+104. Vrai 
+105. Faux 

@@ -1,0 +1,29 @@
+592. La flecainide ou le propaferone modifient la FA en flutter 1/1 dans 5% des cas. 
+593. Les antiarythmiques de classe 1 doivent être associés à un bêta-bloquant ou au diltiazem. 
+594. La flecainide ou le propaférone sont contre-indiqués en cas de flutter. 
+595. L’efficacité de la CEE est augmentée par un pré-traitement par amiodarone. 
+596. La flecainide et le propaferone entraine une resinusalisation plus rapide que le vernakalant en cas de FA. 
+597. L’amiodarone est utilisée en 1ère intention pour traiter la FA secondaire à une dysthyroïdie. 
+598. L’amiodarone est préférable pour la cardioversion pharmacologique en cas d’insuffisance cardiaque.  
+599. L’amiodarone permet de resinusaliser environ 40% des FA endéans quelques jours. 
+600. Phlébite, hypotension, tachycardie, BAV et QT allongé sont des contre-indications à l’amiodarone. 
+601. L’ibutilide entraine une resinusalisation plus rapide que l’amiodarone en cas de FA. 
+602. L’ibutilide induit des torsades de pointe et est contre-indiqué en cas de QT prolongé. 
+603. L’ibutilide est indiqué dans le traitement de la FA en cas de FEVG abaissée. 
+604. L’hypertrophie ventriculaire gauche sévère est une contre-indication à l’ibutilide. 
+605. L’automédication pour les accès de FA est réservé aux patients dont la conduction auriculo-ventriculaire est 
+préalablement ralentie par un bêta-bloquant ou du diltiazem. 592. Vrai 
+593. Vrai 
+594. Vrai 
+595. Vrai 
+596. Faux 
+597. Faux 
+598. Vrai 
+599. Vrai 
+600. Faux 
+601. Vrai 
+602. Vrai 
+603. Faux 
+604. Vrai 
+605. Vrai 
+ 

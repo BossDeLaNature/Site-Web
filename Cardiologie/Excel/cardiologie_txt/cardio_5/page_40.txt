@@ -1,0 +1,29 @@
+488. La cardiomyopathie dilatée idiopathique est plus fréquente chez les sujets masculins et caucasiens. 
+489. 80% des péricardites aigues sont causées par une infection virale.  
+490. La douleur thoracique dans la péricardite aiguë est réduite en position assise ou penchée en avant.  
+491. L’épanchement péricardique est perçu comme « le bruit de la neige écrasée sous les pas » à l’auscultation. 
+492. L'ECG dans la péricardite aiguë montre initialement une élévation du segment PR. 
+493. Les épanchements péricardiques légers même asymptomatiques doivent systématiquement être traités.  
+494. Le drainage péricardique est toujours nécessaire en cas de tamponnade péricardique.  
+495. La constriction péricardique est souvent due à une inflammation aiguë. 
+496. Le syndrome de Dressler peut survenir après une chirurgie cardiaque comportant une péricardiotomie.  
+497. La péricardite post-infarctus se manifeste généralement pendant la phase aiguë de l'infarctus.  
+498. Le pouls paradoxal est un signe clinique caractéristique de la tamponnade péricardique.  
+499. L'ECG dans la constriction péricardique montre typiquement un sus-décalage du segment ST.  
+500. La péricardite auto-immune peut survenir après un infarctus myocardique.  
+501. Le traitement de la péricardite aiguë implique toujours l'utilisation d'antibiotiques.  
+502. Le signe de Küssmaul est caractéristique de la constriction péricardique.  488. Faux 
+489. Vrai 
+490. Vrai 
+491. Faux 
+492. Faux 
+493. Faux 
+494. Vrai 
+495. Faux 
+496. Vrai 
+497. Faux 
+498. Vrai 
+499. Faux 
+500. Vrai 
+501. Faux 
+502. Vrai 

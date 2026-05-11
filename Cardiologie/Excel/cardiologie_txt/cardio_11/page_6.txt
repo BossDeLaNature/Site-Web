@@ -1,0 +1,29 @@
+70. L’angiographie conventionnelle ne permet qu’une analyse segmentaire de la vascularisation. 
+71. L’angiographie conventionnelle (face et profil) est l’examen de référence pour visualiser les sténoses des 
+troncs viscéraux. 
+72. L’aspirine ou le clopidogrel sont utilisés dans le traitement des lésions sténosantes des troncs viscéraux. 
+73. Les lésions asymptomatiques étendues des troncs viscéraux sont une indication de traitement. 
+74. Le traitement chirurgical consiste en un pontage par greffe veineuse ou une réimplantation aortique en cas 
+d’ischémie mésentérique chronique symptomatique 
+75. Le traitement endoluminal est la technique de référence pour traiter les ischémies mésentériques chroniques. 
+76. L’occlusion veineuse est responsable de la majorité des cas d’ischémie mésentérique aigue. 
+77. L’ischémie mésentérique aigue peut être due à une cause extravasculaire : volvulus, hernie étranglée,… 
+78. Les lésions cellulaires irréversibles surviennent après 4h d’ischémie mésentérique aigue totale. 
+79. L’ischémie non-occlusive est responsable d’environ 10% des cas d’ischémie mésentérique aigue. 
+80. L’occlusion artérielle aigue est responsable d’environ 50-70% des cas d’ischémie mésentérique aigue. 
+81. L’occlusion veineuse est responsable d’environ 20% des cas d’ischémie mésentérique aigue. 
+82. L’ischémie mésentérique aigue atteint d’abord la séreuse et la musculeuse. 70. Faux 
+71. Vrai 
+ 
+72. Vrai 
+73. Faux 
+74. Vrai 
+ 
+75. Faux 
+76. Faux 
+77. Vrai 
+78. Vrai 
+79. Faux 
+80. Vrai 
+81. Faux 
+82. Faux 

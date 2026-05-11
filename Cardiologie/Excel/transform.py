@@ -1,150 +1,73 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 20 12:06:47 2024
-
-@author: moito
-"""
-
-import pandas as pd
-from json import loads, dumps
-import json
-from unidecode import unidecode
-
-## Respiratoire
-
-# Charger le fichier Excel
-df = pd.read_excel('respiratoire.xlsx')
-df['Justification'] = df['Justification'].apply(unidecode)
-df['Question'] = df['Question'].apply(unidecode)
-df['Proposition'] = df['Proposition'].apply(unidecode)
-
-# Convertir en JSON
-json_data = df.to_json(orient="records",indent=4)
-
-parsed = loads(json_data)
-
-test = dumps(parsed, indent=4, separators=(',', ': '))
-test2 = loads(test)
+from pathlib import Path
+from PyPDF2 import PdfReader
 
 
+def extract_text_from_all_pdfs(
+    input_folder="cardiologie_pdf",
+    output_folder="cardiologie_txt"
+):
+    """
+    Extrait le texte brut page par page
+    pour TOUS les PDFs du dossier.
 
-# Sauvegarder en fichier JSON
-with open('respiratoire.json', 'w') as json_file:
-    json.dump(test2, json_file,indent=6)
+    Structure créée :
 
+    cardiologie_txt/
+    ├── cardio_1/
+    │   ├── page_1.txt
+    │   ├── page_2.txt
+    │   └── ...
+    │
+    ├── cardio_2/
+    │   ├── page_1.txt
+    │   └── ...
+    """
 
-## Renale
+    input_folder = Path(input_folder)
+    output_folder = Path(output_folder)
 
-# Charger le fichier Excel
-df = pd.read_excel('renale.xlsx')
-df['Justification'] = df['Justification'].apply(unidecode)
-df['Question'] = df['Question'].apply(unidecode)
-df['Proposition'] = df['Proposition'].apply(unidecode)
+    output_folder.mkdir(exist_ok=True)
 
-# Convertir en JSON
-json_data = df.to_json(orient="records",indent=4)
+    # Tous les PDFs
+    pdf_files = sorted(input_folder.glob("*.pdf"))
 
-parsed = loads(json_data)
+    if not pdf_files:
+        print("Aucun PDF trouvé.")
+        return
 
-test = dumps(parsed, indent=4, separators=(',', ': '))
-test2 = loads(test)
+    # Parcours des PDFs
+    for pdf_file in pdf_files:
 
+        print(f"\nTraitement : {pdf_file.name}")
 
+        # Lecture PDF
+        reader = PdfReader(pdf_file)
 
-# Sauvegarder en fichier JSON
-with open('renale.json', 'w') as json_file:
-    json.dump(test2, json_file,indent=6)
+        # Sous-dossier du PDF
+        pdf_output_dir = output_folder / pdf_file.stem
+        pdf_output_dir.mkdir(exist_ok=True)
 
+        # Parcours des pages
+        for i, page in enumerate(reader.pages, start=1):
 
-## Cardiaque
+            text = page.extract_text()
 
-# Charger le fichier Excel
-df = pd.read_excel('cardiaque.xlsx')
-df['Justification'] = df['Justification'].apply(unidecode)
-df['Question'] = df['Question'].apply(unidecode)
-df['Proposition'] = df['Proposition'].apply(unidecode)
+            if text is None:
+                text = ""
 
-# Convertir en JSON
-json_data = df.to_json(orient="records",indent=4)
+            # Fichier texte
+            output_file = pdf_output_dir / f"page_{i}.txt"
 
-parsed = loads(json_data)
+            with open(output_file, "w", encoding="utf-8") as f:
+                f.write(text)
 
-test = dumps(parsed, indent=4, separators=(',', ': '))
-test2 = loads(test)
-
-
-
-# Sauvegarder en fichier JSON
-with open('cardiaque.json', 'w') as json_file:
-    json.dump(test2, json_file,indent=6)
-
-
-## Endocrinien
-
-# Charger le fichier Excel
-df = pd.read_excel('endocrinien.xlsx')
-df['Justification'] = df['Justification'].apply(unidecode)
-df['Question'] = df['Question'].apply(unidecode)
-df['Proposition'] = df['Proposition'].apply(unidecode)
-
-# Convertir en JSON
-json_data = df.to_json(orient="records",indent=4)
-
-parsed = loads(json_data)
-
-test = dumps(parsed, indent=4, separators=(',', ': '))
-test2 = loads(test)
+            print(f"Créé : {output_file}")
 
 
+# ==========================================
+# UTILISATION
+# ==========================================
 
-# Sauvegarder en fichier JSON
-with open('endocrinien.json', 'w') as json_file:
-    json.dump(test2, json_file,indent=6)
+if __name__ == "__main__":
 
-
-## digestif
-
-# Charger le fichier Excel
-df = pd.read_excel('digestif.xlsx')
-df['Justification'] = df['Justification'].apply(unidecode)
-df['Question'] = df['Question'].apply(unidecode)
-df['Proposition'] = df['Proposition'].apply(unidecode)
-
-# Convertir en JSON
-json_data = df.to_json(orient="records",indent=4)
-
-parsed = loads(json_data)
-
-test = dumps(parsed, indent=4, separators=(',', ': '))
-test2 = loads(test)
-
-
-
-# Sauvegarder en fichier JSON
-with open('digestif.json', 'w') as json_file:
-    json.dump(test2, json_file,indent=6)
-
-
-##juin2024
-
-
-
-# Charger le fichier Excel
-df = pd.read_excel('juin2024.xlsx')
-df['Justification'] = df['Justification'].apply(unidecode)
-df['Question'] = df['Question'].apply(unidecode)
-df['Proposition'] = df['Proposition'].apply(unidecode)
-
-# Convertir en JSON
-json_data = df.to_json(orient="records",indent=4)
-
-parsed = loads(json_data)
-
-test = dumps(parsed, indent=4, separators=(',', ': '))
-test2 = loads(test)
-
-
-
-# Sauvegarder en fichier JSON
-with open('juin2024.json', 'w') as json_file:
-    json.dump(test2, json_file,indent=6)
+    extract_text_from_all_pdfs()

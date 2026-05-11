@@ -1,0 +1,29 @@
+84. Le tilt-test est effectué si le patient présente une pathologie cardiaque. 
+85. Le tilt-test consiste à rester immobile une dizaine de minutes sur un support incliné à 70°. 
+86. L’isoprotérénol est un bêta-bloquant utilisé pour augmenter la contractilité myocardique pendant le tilt-test. 
+87. Le tilt-test cherche à reproduire les conditions d’apparition d’une syncope vaso-vagale en augmentant la 
+rétention veineuse au niveau des membres inférieurs et en augmentant la contractilité myocardique. 
+88. L’épreuve électrophysiologique nécessite l’introduction d’électrodes par l’artère fémorale en cas de syncope. 
+89. L’épreuve électrophysiologique détermine la fonction du nœud sinusal, le risque de bloc AV et la propension 
+auriculaire et ventriculaire aux arythmies en cas de syncope. 
+90. Un bêta-mimétique par voie orale est administrée durant le tilt-test. 
+91. Les troubles du rythme reproduisent souvent les symptômes de la syncope à l’épreuve électrophysiologique. 
+92. Une épreuve électrophysiologique négative est un marqueur de bon pronostic. 
+93. La mortalité cardiaque après une épreuve électrophysiologique négative est de 2% par an. 
+94. Un défibrillateur implantable est indiqué pour les bradycardies provoquant des syncopes arythmiques. 
+95. Un défibrillateur implantable est indiqué pour les tachycardies ventriculaires soutenues avec répercussion 
+hémodynamique ou pour les fibrillations ventriculaires provoquant des syncopes arythmiques. 84. Faux 
+85. Faux 
+86. Faux 
+87. Vrai  
+ 
+88. Faux 
+89. Vrai 
+ 
+90. Faux 
+91. Faux 
+92. Vrai 
+93. Vrai 
+94. Faux 
+95. Vrai 
+ 

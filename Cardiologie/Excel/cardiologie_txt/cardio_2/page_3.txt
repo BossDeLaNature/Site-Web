@@ -1,0 +1,29 @@
+24. Les médicaments à action centrale sont utilisés en première intention dans le traitement de l'HTA.  
+25. L'HTA maligne peut se compliquer d’une encéphalopathie hypertensive.  
+26. L'HTA maligne est rarement compliquée par une insuffisance rénale aiguë.  
+27. Le traitement de l'HTA maligne doit être administré en urgence en ambulatoire. 
+28. L'œdème rétinien est une manifestation courante de l'HTA maligne.  
+29. Les diurétiques sont à éviter chez le patient diabétique. 
+30. L’HTA maligne est une HTA de grade 2 (>160-90) associée à une rétinopathie de stade III ou IV. 
+31. Le traitement pharmacologique de l'HTA doit être ajusté en fonction du risque cardiovasculaire.  
+32. Une réduction de 10 mmHg de la PAS et de 5 mmHg de la PAD diminue les événements coronaires de 15 %.  
+33. Les inhibiteurs de l'enzyme de conversion sont associés aux antagonistes de l’angiotensine II uniquement en 
+cas d’HTA sévère (grade 3).  
+34. L'HTA diastolique isolée est plus fréquente après l'âge de 60 ans.  
+35. Une réduction de 10 mmHg de la PAS et de 5 mmHg de la PAD diminue les AVC de 25 %.  
+36. Le traitement pharmacologique de l'HTA est toujours nécessaire même si les mesures non pharmacologiques 
+sont efficaces.  24. Faux 
+25. Vrai 
+26. Faux 
+27. Faux 
+28. Vrai 
+29. Vrai 
+30. Faux 
+31. Vrai  
+32. Vrai 
+33. Faux 
+ 
+34. Faux 
+35. Faux 
+36. Faux 
+ 

@@ -1,0 +1,29 @@
+355. L’embolie pulmonaire fait partie du diagnostic différentiel de la dissection aortique. 
+356. Le traitement en urgence de la dissection aortique comprend une réduction agressive de la PA.   
+357. Le scanner spiralé est le meilleur examen pour diagnostiquer une dissection aortique.  
+358. La prévention de la dissection aortique consiste à traiter l’HTA et à surveiller régulièrement la taille de 
+l’aorte par échographie chez les patients à risque (Marfan, bicuspidie aortique, coarctation aortique,…).  
+359. Le traitement chronique de la dissection aortique nécessite un contrôle strict de la pression artérielle. 
+360. Tous les patients doivent prendre un bêta-bloquant après une dissection aortique.  
+361. La cocaïne peut favoriser la survenue d'une dissection aortique en raison de son effet vasodilatateur.  
+362. La dissection aortique survient principalement chez les personnes jeunes et en bonne santé.  
+363. La dissection aortique peut entraîner une embolie pulmonaire.  
+364. L'ischémie des branches de division de l'aorte peut causer une anurie.  
+365. La dissection aortique est facilement différenciable de l'infarctus myocardique grâce à l'ECG.  
+366. La dissection aortique doit être traitée en urgence par l’association d’un bêta-bloquant et d’un 
+vasodilatateur en intra-veineux.  
+367. Les personnes atteintes de syndrome de Marfan ont un risque accru de dissection aortique.  355. Vrai 
+356. Vrai 
+357. Faux 
+358. Faux 
+ 
+359. Vrai 
+360. Vrai 
+361. Faux 
+362. Faux 
+363. Faux 
+364. Vrai 
+365. Faux 
+366. Vrai 
+ 
+367. Vrai 

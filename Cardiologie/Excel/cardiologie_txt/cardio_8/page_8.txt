@@ -1,0 +1,29 @@
+94. Le traitement est recommandé en cas de sténose de >50%, symptomatique (AVC/AIT dans les 6 mois 
+précédents), avec une morbi-mortalité post-opératoire <6%. 
+95. Le morbi-mortalité post-opératoire doit être <3% pour opérer une sténose carotidienne asymptomatique. 
+96. Une sténose asymptomatique n’est opéré qu’en présence d’éléments cliniques ou d’imagerie suggérant un 
+risque élevé d’AVC controlatéral. 
+97. Les sténoses carotidiennes ne sont jamais opérées si elles sont <70%. 
+98. Les sténoses carotidiennes bilatérales sont à risque plus élevé d’AVC. 
+99. L’IRM permet de détecter les micro-emboles dans le tissu cérébral. 
+100. Les sténoses carotidiennes avec baisse de la réserve vasculaire cérébrale sont à risque moins élevé d’AVC. 
+101. L’IRM permet de détecter la rupture de la fine cape fibreuse recouvrant la plaque athéromateuse. 
+102. L’écho-Doppler permet de détecter une plaque de surface irrégulière ou ulcérée. 
+103. Les ostéophytes/les tassements vertébraux peuvent être responsable d’accidents ischémiques carotidiens. 
+104. La maladie de Takayasu est une cause rare d’AVC ischémique. 
+105. Un accident ischémique vertébrobasilaire symptomatique peut survenir suite à un mécanisme 
+hémodynamique en cas de lésion unilatérale. 94. Faux 
+ 
+95. Vrai 
+96. Faux 
+ 
+97. Vrai 
+98. Vrai 
+99. Faux 
+100. Faux 
+101. Vrai 
+102. Vrai 
+103. Faux 
+104. Vrai 
+105. Faux 
+ 

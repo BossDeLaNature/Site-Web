@@ -1,0 +1,29 @@
+168. Les diurétiques thiazidiques sont des meilleurs anti-hypertenseurs que les diurétiques de l’anse. 
+169. Il faut préférer les diurétiques thiazidiques aux diurétiques de l’anse quand la rétention hydrosodée est 
+sévère et la fonction rénale normale. 
+170. Les diurétiques thiazidiques perdent leur efficacité lorsque la clearance de créatine devient <30L/h. 
+171. Les diurétiques thiazidiques stimulent moins l’excrétion sodée que les diurétiques de l’anse. 
+172. La résistance aux diurétiques peut s’expliquer par une biodisponibilité orale insuffisante du furosémide. 
+173. Il est préférable de prescrire une seule dose journalière de diurétiques en cas d’IC systolique. 
+174. Les doses de diurétiques doivent être réduites en cas d’insuffisance rénale. 
+175. Les diurétiques de l’anse et les thiazides peuvent être associé si la réponse aux diurétiques est insuffisante. 
+176. La dose de diurétiques doit être diminuée en cas d’hypoalbuminémie. 
+177. Un traitement inotrope positif intraveineux chronique par un agoniste bêta-adrénergique comme la 
+dobutamine permet d’améliorer la perfusion rénale et d’augmenter l’effet des diurétiques. 
+178. Les diurétiques sont fortement liés aux protéines plasmatiques. 
+179. Les diurétiques activent le SRAA et le système orthosympathique et doivent donc être inhibés par 
+l'administration concomitante d'IEC et de bêta-bloquants en cas d’insuffisance cardiaque systolique. 168. Vrai 
+169. Faux 
+ 
+170. Faux 
+171. Vrai 
+172. Vrai 
+173. Faux 
+174. Faux 
+175. Vrai 
+176. Faux 
+177. Faux 
+ 
+178. Vrai 
+179. Vrai 
+ 

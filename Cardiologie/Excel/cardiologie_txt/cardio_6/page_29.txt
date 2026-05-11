@@ -1,0 +1,29 @@
+378. Les manœuvres vagales permettent d’augmenter la période réfractaire et le temps de conduction du NAV. 
+379. Une compression douce de 5-10sec du sinus carotidien peut être réalisée en cas de souffle carotidien. 
+380. Les manœuvres vagales sont plus efficaces pour arrêter une tachycardie jonctionnelle qu’un WPW. 
+381. La compression simultanée des 2 sinus carotidiens permet de calmer les accès de tachycardie du WPW. 
+382. La manœuvre de Valsalva est réalisée en cas d’échec des manœuvres vagales. 
+383. Un traitement per os par adénosine permet de ralentir la conduction AV pendant quelques secondes. 
+384. L’adénosine est contre-indiquée pour traiter la tachycardie à complexes larges antidromiques. 
+385. L’adénosine provoque un bloc AV transitoire qui termine la tachycardie en cas de TPSV ou de WPW. 
+386. L’adénosine agit sur les récepteurs adrénergiques α1 cardiaques. 
+387. La dyspnée, le flush facial et la douleur thoracique rapportée sont des effets secondaires de l’adénosine IV. 
+388. L’adénosine n’est pas un traitement risqué pour les patients asthmatiques. 
+389. L’adénosine peut accélérer une tachyarythmie pré-excitée et provoquer une bronchoconstriction. 
+390. La cardioversion électrique externe est le traitement aigu de dernier recours pour la TPSV et  le WPW. 
+391. L’esmolol IV est un bêta-mimétique à courte durée d’action utilisé pour traiter la TPSV et le WPW en aigu. 
+392. L’esmolol peut être administré si le patient a un traitement oral chronique par anticalciques. 378. Vrai 
+379. Faux 
+380. Faux 
+381. Faux 
+382. Vrai 
+383. Faux 
+384. Faux 
+385. Vrai 
+386. Faux 
+387. Vrai 
+388. Faux 
+389. Vrai 
+390. Vrai 
+391. Faux 
+392. Faux  

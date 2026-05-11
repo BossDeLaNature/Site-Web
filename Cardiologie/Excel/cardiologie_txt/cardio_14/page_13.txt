@@ -1,0 +1,29 @@
+164. Le signe du flot évalue la transmission d’une onde de flux sur le trajet des veines saphènes. 
+165. La test de Schwartz nécessite les doigts des 2 mains pour la genèse et la transmission des percussions. 
+166. La transmission de l’onde de flux vers l’amont est le résultat du test du Schwartz chez le sujet sain. 
+167. La transmission d’une onde de flux vers l’aval traduit une insuffisance valvulaire au test de Schwartz. 
+168. L’onde de flux ne doit pas se transmettre vers le pied en l’absence d’insuffisance valvulaire. 
+169. La transmission d’une onde de flux vers l’amont traduit une insuffisance valvulaire au test de Schwartz. 
+170. La percussion des veines saphènes transmet une onde de flux vers l’aval chez le sujet sain.  
+171. Le diagnostic différentiel est primordial car le traitement de l’insuffisance veineuse par surélévation des 
+jambes risque d’aggraver l’hypoperfusion des membres inférieurs en cas d’AOMI. 
+172. L’œdème des membres inférieurs n’est jamais idiopathique. 
+173. L’échographie-Doppler permet de poser le diagnostic d’insuffisance veineuse de façon formelle. 
+174. L’échographie-Doppler prend beaucoup de temps pour peu de bénéfices en cas d’insuffisance veineuse. 
+175. L’échographie-Doppler ne permet pas de réaliser une cartographie veineuse précise. 
+176. Le duplex-scan est systématiquement réalisé lorsqu’une résection chirurgicale des varices est envisagée. 
+177. La phlébographie est un examen complémentaire non invasif. 164. Vrai 
+165. Vrai 
+166. Faux 
+167. Faux 
+168. Vrai 
+169. Vrai 
+170. Vrai 
+171. Vrai 
+ 
+172. Faux 
+173. Faux 
+174. Vrai 
+175. Faux 
+176. Vrai 
+177. Faux 

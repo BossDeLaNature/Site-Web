@@ -1,0 +1,29 @@
+456. L’échographie cardiaque est le 1er examen à réaliser aux urgences en cas d’endocardite aigue. 
+457. L’apparition d’un bloc auriculo-ventriculaire à l’ECG doit faire suspecter un abcès de l’anneau mitral en cas 
+d’endocardite aigue. 
+458. L’échographie transoesophagienne est plus sensible que l’échographie externe pour le diagnostic de 
+l’endocardite, surtout en cas de valve prothétique, et pour la recherche de complications.  
+459. Un ECG est à réaliser dès l’admission aux urgences en cas d’endocardite aigue. 
+460. Les hémocultures se réalisent préférentiellement sur un prélèvement artériel en cas d’endocardite. 
+461. Il ne faut pas attendre le pic thermique ou les frissons pour réaliser des hémocultures en cas de suspicion 
+d’endocardite. 
+462. Les tests sérologiques sont parfois nécessaires pour détecter les germes rares responsables d’endocardite. 
+463. Les symptômes de l'endocardite apparaissent généralement dans les 24 heures suivant l'infection.  
+464. Les hémocultures sont généralement négatives lorsque le patient a déjà reçu un traitement antibiotique.  
+465. Les antibiotiques doivent être bactériostatiques dans la végétation pour traiter efficacement l'endocardite. 
+466. La disparition de la fièvre est un indicateur fiable de la réponse au traitement antibiotique.  
+467. Les végétations infectieuses ne disparaissent que dans 40% des cas après le traitement d’une endocardite. 456. Faux 
+457. Faux 
+ 
+458. Vrai 
+ 
+459. Vrai 
+460. Faux 
+461. Vrai 
+ 
+462. Vrai 
+463. Faux 
+464. Vrai 
+465. Faux 
+466. Vrai 
+467. Vrai 

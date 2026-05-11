@@ -1,0 +1,29 @@
+84. La valve aortique ne peut pas être remplacée par une bioprothèse car elle est soumise à une pression trop 
+importante. 
+85. Le remplacement de la valve aortique sténosée est recommandé chez les patients asymptomatiques avec une 
+fonction ventriculaire gauche altérée.  
+86. Le remplacement de la valve aortique est recommandé chez les patients symptomatiques avec une sténose 
+aortique serrée. 
+87. La valve aortique peut être remplacée par une bioprothèse ou une valve mécanique.  
+88. L'anti-agrégation ou l'anticoagulation orale peut être arrêtée 3 mois après l'implantation d'une bioprothèse.  
+89. Les valves mécaniques nécessitent une anticoagulation orale par héparine à vie. 
+90. Les bioprothèses ont une durée de vie limitée et sont donc réservés aux patients de plus de 65 ans. 
+91. L'INR doit être maintenu entre 1 et 2 pour les patients avec une valve mécanique. 
+92. L’intervention de Bentall consiste à remplacer l’aorte descendante par une prothèse en dacron. 
+93. Le TAVI est une option de traitement pour les patients jeunes avec une sténose aortique serrée.  
+94. Le TAVI est réalisé par abord transfémoral.  
+95. Les patients de moins de 75 ans sont de bons candidats pour le TAVI.  84. Faux 
+ 
+85. Vrai 
+ 
+86. Vrai 
+ 
+87. Vrai 
+88. Vrai 
+89. Faux 
+90. Vrai 
+91. Faux 
+92. Faux 
+93. Faux 
+94. Vrai 
+95. Faux 

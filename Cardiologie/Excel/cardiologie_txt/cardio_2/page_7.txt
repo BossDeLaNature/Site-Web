@@ -1,0 +1,29 @@
+73. Les AINS sont recommandés dans le traitement de la sténose athéroscléreuse.  
+74. L'angiographie par résonance magnétique nucléaire est un meilleur test diagnostic que l’échographie mais 
+expose le patient à des radiations ionisantes.  
+75. La majorité des cas de sténose athéroscléreuse des artères rénales progressent vers une insuffisance rénale 
+terminale. 
+76. La sténose athéroscléreuse des artères rénales est souvent associée à des lésions rénales. 
+77. L'HTA touche environ 25 % des adultes.  
+78. Les accidents vasculaires cérébraux sont la principale cause de décès liée à l'hypertension.  
+79. La définition de l'HTA est basée sur des critères stricts et non arbitraires.  
+80. L'HTA de grade 2 se caractérise par une PAS de 140-159 mmHg et une PAD de 90-99 mmHg.  
+81. L'hypertension systolique isolée est fréquente chez les personnes de moins de 60 ans.  
+82. Seuls 70 % des patients hypertendus sont diagnostiqués.  
+83. La majorité des hypertendus sont contrôlés avec un traitement médical.  
+84. Le phénotype noir est un facteur de risque pour le développement de l’HTA.  
+85. Une diminution de la consommation de sodium <6g/j peut réduire efficacement la pression artérielle.  73. Faux 
+74. Faux  
+ 
+75. Faux 
+ 
+76. Vrai 
+77. Vrai 
+78. Faux 
+79. Faux 
+80. Faux 
+81. Faux 
+82. Vrai  
+83. Faux 
+84. Vrai 
+85. Vrai 

@@ -1,0 +1,29 @@
+60. La sténose aortique peut provoquer une syncope même au repos. 
+61. L’effort est très mal toléré en cas de sténose aortique car il entraine une vasodilatation périphérique avec une 
+augmentation du débit cardiaque et provoque une hypotension rapide.  
+62. La dyspnée est un symptôme tardif de sténose aortique qui passe souvent inaperçu. 
+63. Le massage cardiaque permet difficilement de sauver le patient en mort subite en cas de sténose aortique. 
+64. Le souffle d’insuffisance aortique est systolique et éjectionnel. 
+65. Le souffle de sténose aortique irradie vers les carotides et parfois vers l’apex du cœur. 
+66. La sténose aortique se manifeste par un souffle crescendo-décrescendo à l’auscultation cardiaque. 
+67. Le souffle de sténose aortique débute après le B1 et s’arrête avant le B2.  
+68. Le B2 aortique disparait en cas de sténose aortique. 
+69. Le souffle d’insuffisance mitrale est holosystolique. 
+70. L'ECG montre souvent une hypertrophie ventriculaire gauche dans la sténose aortique.  
+71. L’indice de Solokow permet de diagnostiquer une hypertrophie ventriculaire droite à l’ECG.  
+72. La radiographie thoracique montre une dilatation aortique post-sténotique mais ne permet pas de voir les 
+calcifications valvulaires aortiques.  60. Vrai 
+61. Faux 
+ 
+62. Vrai 
+63. Vrai 
+64. Faux 
+65. Vrai 
+66. Vrai 
+67. Vrai 
+68. Faux 
+69. Vrai 
+70. Vrai 
+71. Faux 
+72. Faux 
+ 

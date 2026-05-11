@@ -1,0 +1,29 @@
+440. La scintigraphie montre de nombreux déficits de perfusion en cas de cardiomyopathie hypertrophique. 
+441. L’ECG peut montrer une pseudo-onde Q de nécrose inférolatérale en cas de cardiopathie hypertrophique. 
+442. Un Holter du rythme cardiaque est inutile dans le suivi d’une cardiomyopathie hypertrophique.  
+443. L'hypertrophie ventriculaire est plus sévère en cas d’HTA que de cardiomyopathie hypertrophique. 
+444. Les potentiels tardifs sont des ondes de haute amplitude continuant le complexe QRS et se prolongeant 
+10ms dans le segment ST. 
+445. Les ECG moyennés sont utiles pour évaluer le risque de tachycardie ventriculaire et de mort subite chez 
+les patients atteints de cardiomyopathie hypertrophique. 
+446. La tachycardie ventriculaire non soutenue détectée par le Holter n’élève pas le risque de mort subite. 
+447. L’hypertrophie ventriculaire est généralement concentrique chez le patient hypertendu. 
+448. La plupart des athlètes d'élite ont une hypertrophie ventriculaire prononcée.  
+449. L'hypertrophie ventriculaire est moindre en cas de cardiomyopathie hypertrophique que chez les athlètes. 
+450. Moins de 2% des athlètes d’élite ont un épaississement ventriculaire >13mm (N : 11mm). 
+451. L’ECG d’un athlète d’élite révèle une bradycardie sinusale, pas d’onde Q et pas d’altérations ST-T. 
+452. La fonction cardiaque diastolique est réduite par l’hypertrophie ventriculaire chez l’athlète d’élite. 440. Vrai 
+441. Vrai 
+442. Faux 
+443. Faux 
+444. Faux 
+ 
+445. Vrai 
+ 
+446. Faux 
+447. Vrai 
+448. Faux 
+449. Faux 
+450. Vrai 
+451. Vrai 
+452. Faux 

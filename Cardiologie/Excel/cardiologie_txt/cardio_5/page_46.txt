@@ -1,0 +1,29 @@
+573. La péricardite récurrente survient dans 20% des cas après une péricardite aigue. 
+574. La corticothérapie chronique est recommandée en cas de péricardite récurrente. 
+575. La récidive de péricardite nécessite la répétition du traitement par AINS, corticoïdes et colchicine. 
+576. La péricardectomie est le traitement de choix pour les cas sévères de péricardite récurrente. 
+577. L’épanchement péricardique est souvent découvert par hasard à la radiographie de thorax. 
+578. L’épanchement péricardique est toujours induit par une réaction inflammatoire du péricarde. 
+579. L’IC, le syndrome néphrotique et l’hyperthyroïdie peuvent provoquer un épanchement péricardique. 
+580. L’épanchement est asymptomatique tant qu’il ne compromet pas l’hémodynamique cardiaque. 
+581. L’alternance électrique est un signe typique d’épanchement péricardique à l’ECG. 
+582. A l’ECG, le voltage du complexe QRS varie à chaque battement à cause des mouvements du cœur dans 
+l’épanchement péricardique. 
+583. La radio de thorax détecte un élargissement de la silhouette cardiaque si l’épanchement est de >400ml. 
+584. L’échographie cardiaque est l’examen le plus sensible pour détecter un épanchement péricardique. 
+585. Le drainage péricardique peut être couplé à l’injection de tétracyclines ou d’antimitotiques pour tarir la 
+sécrétion causant l’épanchement. 573. Vrai 
+574. Faux 
+575. Vrai 
+576. Faux 
+577. Faux 
+578. Faux 
+579. Faux 
+580. Vrai 
+581. Vrai 
+582. Vrai 
+ 
+583. Faux 
+584. Vrai 
+585. Vrai 
+ 

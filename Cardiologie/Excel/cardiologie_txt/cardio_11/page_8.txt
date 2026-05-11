@@ -1,0 +1,29 @@
+94. L’RM montre un embole avec un aspect caractéristique en cupule concave en cas d’occlusion artérielle 
+mésentérique aigue. 
+95. La résection intestinale est toujours nécessaire en cas d’ischémie mésentérique aigue. 
+96. Le traitement de l’ischémie mésentérique aigue vise à rétablir la circulation mésentérique et à lever l’ischémie. 
+97. L’embolectomie et la revascularisation par endoprothèse sont des options de traitement pour les occlusions 
+artérielles mésentériques aigues causées par une thrombose in situ sur sténose athéromateuse. 
+98. L’hypotension, le choc et le bas débit cardiaque favorisent les ischémies mésentériques non-occlusives. 
+99. L’artériographie montre une image « d’arbre mort » en cas d’ischémie mésentérique non-occlusive. 
+100. La tomodensitométrie est l’examen de choix pour repérer une ischémie mésentérique non-occlusive. 
+101. Le traitement des ischémies mésentériques aigues non-occlusives comprend des vasodilatateurs 
+administrés par le cathéter d’artériographie et des anticoagulants. 
+102. La splénectomie ou le contexte post-opératoire favorisent les thromboses veineuses mésentériques. 
+103. La douleur abdominale est plus souvent subaigue en cas de thrombose veineuse mésentérique. 
+104. La colite ischémique représente 90% des ischémies digestives. 
+105. La colite ischémique est l’atteinte vasculaire digestive la plus fréquente. 94. Faux 
+ 
+95. Faux 
+96. Vrai 
+97. Faux 
+ 
+98. Vrai 
+99. Vrai 
+100. Faux 
+101. Vrai 
+ 
+102. Vrai 
+103. Vrai 
+104. Faux 
+105. Vrai 

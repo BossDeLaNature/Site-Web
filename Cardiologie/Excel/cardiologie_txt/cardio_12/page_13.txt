@@ -1,0 +1,29 @@
+164. La maladie de Horton provoque une atteinte vasculaire de topographie segmentaire et unifocale. 
+165. La maladie de Horton touche préférentiellement l’aorte et ses branches de division. 
+166. La maladie de Horton touche uniquement les branches de la carotide interne : temporale, ophtalmique,… 
+167. La maladie de Horton est associée à des douleurs scapulaires et des hanches en fin de journée. 
+168. La maladie de Horton touche environ 100 habitants de plus de 50 ans sur 100 000. 
+169. La maladie de Horton provoque des céphalées dans 65 à 70% des cas. 
+170. La maladie de Horton est fréquemment associée à une pseudo-polyarthrite rhizomélique. 
+171. La maladie de Horton touche surtout les vaisseaux terminaux de petit calibre. 
+172. La maladie de Buerger touche les artères distales de petit et moyen calibre de 1 à 3mm. 
+173. La maladie de Horton est plus fréquente chez la femme. 
+174. La maladie de Horton est plus fréquente dans les populations blanches d’Europe et d’Amérique du Nord. 
+175. La maladie de Horton est une cause potentielle de cécité chez le sujet jeune. 
+176. Le soleil, l’environnement et la prédisposition génétique jouent probablement un rôle dans la survenue de 
+la maladie de Horton. 
+177. Les temporales sont douloureuses à la palpation dans la majorité des cas d’artèrite à cellules géantes. 164. Faux 
+165. Vrai 
+166. Faux 
+167. Faux 
+168. Faux 
+169. Vrai 
+170. Vrai 
+171. Faux 
+172. Vrai 
+173. Vrai 
+174. Vrai 
+175. Faux 
+176. Vrai 
+ 
+177. Faux 

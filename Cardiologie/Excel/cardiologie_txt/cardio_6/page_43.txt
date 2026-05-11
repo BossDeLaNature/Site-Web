@@ -1,0 +1,29 @@
+578. Un score CHA 2DS2-VASc = 2 pour une homme indique qu'un AVK est préférable à un anticoagulant direct. 
+579. La CEE est autorisée en cas de FA >48h si l’échographie transthoracique a montré l’absence de thrombus. 
+580. Une anticoagulation d’au moins 4 semaines est nécessaire après la CEE dans tous les cas de FA >48h. 
+581. La CEE est plus efficace si l’oreillette gauche est très dilatée.   
+582. La CEE est moins efficace si la FA dure depuis longtemps ou si la pathologie cardiaque est avancée. 
+583. L’efficacité de la CEE est diminuée si le patient a reçu un traitement préalable par amiodarone. 
+584. La kaliémie optimale est de <4,5mEq/L pour réaliser une cardioversion électrique externe. 
+585. La cardioversion pharmacologique est contre-indiquée en cas de maladie du sinus associée à la FA.  
+586. La cardioversion pharmacologique est envisageable pour traiter une FA ancienne. 
+587. La cardioversion pharmacologique nécessite une surveillance continue de l’ECG et des paramètres cardio-
+respiratoires. 
+588. Le vernakalant est un traitement hypertenseur utilisé dans la cardioversion pharmacologique de la FA. 
+589. L’hypotension, la dyspnée NYHA III-IV ou le QT allongé sont des contre-indications au vernakalant. 
+590. Le vernakalant entraine une resinusalisation d’environ 90% des FA endéans les 10 minutes. 
+591. Les antiarythmiques de classe I (flecainide ou propaferone) peuvent être administrés PO en cas de FA. 578. Vrai 
+579. Faux 
+580. Vrai 
+581. Faux 
+582. Vrai 
+583. Faux 
+584. Faux 
+585. Vrai 
+586. Faux 
+587. Vrai 
+ 
+588. Faux 
+589. Vrai 
+590. Faux 
+591. Vrai 

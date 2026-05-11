@@ -1,0 +1,29 @@
+792. Le défibrillateur implantable est souvent nécessaire dans le traitement du syndrome du QT long acquis. 
+793. Les anomalies électrolytiques sont des facteurs favorisants dans le syndrome du QT long acquis.  
+794. L'ECG dans le syndrome du QT long congénital montre généralement des ondes T normales.  
+795. Les médicaments antiarythmiques sont recommandés dans le syndrome du QT long acquis.  
+796. Le syndrome du QT long congénital survient généralement chez des patients âgés de plus de 50 ans.  
+797. La syncope dans le syndrome du QT long acquis est souvent induite par la peur ou l'exercice.  
+798. La stimulateur cardiaque est recommandé en cas de syndrome du QT long acquis avec bradycardie.  
+799. Les antihistaminiques sont des médicaments connus pour prolonger l'intervalle QT.  
+800. Les patients atteints de syndrome du QT long acquis ont souvent des antécédents familiaux de syncope.  
+801. Les pseudo-crises d'épilepsie sont des manifestations caractéristiques du syndrome du QT long congénital.  
+802. La « torsade de pointe » est une tachycardie ventriculaire rapide monomorphe. 
+803. Le syndrome du QT long congénital est dû à des mutations dans les gènes des canaux Na+ et K+. 
+804. La forme acquise du syndrome du QT long est beaucoup plus fréquente que la forme congénitale. 
+805. Le syndrome de QT long congénital est plus fréquent chez les hommes. 
+806. La torsade de pointe peut induire une syncope ou dégénérer en fibrillation ventriculaire. 792. Faux 
+793. Vrai 
+794. Faux 
+795. Faux 
+796. Faux 
+797. Faux 
+798. Vrai 
+799. Vrai 
+800. Faux 
+801. Vrai 
+802. Faux 
+803. Vrai 
+804. Vrai 
+805. Faux 
+806. Vrai 

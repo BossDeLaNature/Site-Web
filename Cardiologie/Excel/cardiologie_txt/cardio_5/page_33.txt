@@ -1,0 +1,29 @@
+403. Les cellules musculaires sont disposées de manière parallèle dans la cardiomyopathie hypertrophique.  
+404. Dans la cardiomyopathie hypertrophique, des cellules de taille variée alternent avec des zones de fibrose. 
+405. La cardiomyopathie hypertrophique touche une personne sur 2000. 
+406. Les connections intercellulaires anormales entrainent des anomalies de la conduction électrique en cas de 
+cardiomyopathie hypertrophique. 
+407. La cardiomyopathie hypertrophique affecte principalement les artères épicardiques.  
+408. La cardiomyopathie hypertrophique est l’affection génétique cardiaque la plus commune. 
+409. Dans la cardiomyopathie hypertrophique, l'hypertrophie ventriculaire est toujours symétrique.  
+410. L’hypertrophie atteint surtout le septum interventriculaire en cas de cardiomyopathie hypertrophique. 
+411. La relaxation et la compliance ventriculaire sont augmentées en cas de cardiomyopathie hypertrophique. 
+412. Les arythmies auriculaires ne sont pas associées à la cardiomyopathie hypertrophique.  
+413. Les lésions microvasculaires induisent une ischémie en cas de cardiomyopathie hypertrophique. 
+414. Les artères intra-myocardiques ont une média amincie et une lumière réduite en cas de cardiomyopathie 
+hypertrophique. 
+415. L’hypertrophie de la paroi réduit la cavité ventriculaire mais les ventricules restent hyperdynamiques. 403. Faux 
+404. Vrai 
+405. Faux 
+406. Vrai 
+ 
+407. Faux 
+408. Vrai 
+409. Faux 
+410. Vrai 
+411. Faux 
+412. Faux 
+413. Vrai 
+414. Faux 
+ 
+415. Vrai 

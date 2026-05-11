@@ -1,0 +1,29 @@
+72. L’examen clinique d’une dissection aortique aigue montre une hypertension artérielle de grade 2. 
+73. L’examen clinique d’une dissection aortique aigue montre une asymétrie des pouls. 
+74. La dissection aortique peut entrainer un hémothorax droit, une tamponnade ou un choc. 
+75. La dissection aortique peut entrainer une paraplégie par une ischémie de l’artère d’Adamkiewicz. 
+76. La dissection aortique de type B a une mortalité de 10% dans le 1er mois. 
+77. La dissection aortique de type A a une mortalité de 25% avec traitement et de 55% sans traitement chirurgical. 
+78. La radiographie de thorax montre un effacement de la silhouette aortique en cas de dissection aortique. 
+79. Le CT-scanner sans injection de contraste permet de visualiser la fausse lumière en cas de dissection aortique. 
+80. L’aorto-artériographie conventionnelle est un examen invasif inutile pour la dissection aortique. 
+81. Le produit de contraste reste confiné à la vraie lumière à la tomodensitométrie d’une dissection aortique. 
+82. Le « voile intimal » désigne la fine paroi entre la vraie et la fausse lumière de la dissection aortique. 
+83. L’échographie transthoracique permet de visualiser une insuffisance aortique, un épanchement péricardique et 
+le flux vers la fausse lumière en cas de dissection aortique. 
+84. Les cas de dissection aortique aigue doivent être placés sous surveillance à l’U.S.I. 
+85. Un traitement hypotenseur IV par verapamil doit être administré en cas de dissection aortique aigue. 72. Faux 
+73. Vrai 
+74. Faux 
+75. Vrai 
+76. Vrai 
+77. Vrai 
+78. Faux 
+79. Faux 
+80. Faux 
+81. Vrai 
+82. Vrai 
+83. Faux 
+ 
+84. Vrai 
+85. Faux 

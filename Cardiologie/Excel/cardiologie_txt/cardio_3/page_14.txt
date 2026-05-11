@@ -1,0 +1,29 @@
+161. La troponine est élevée dans l’angor instable.  
+162. Les troponines H et T sont très sensibles et spécifiques pour le myocarde. 
+163. La troponine est un marqueur d’ischémie myocardique plus sensible que les CK-MB.  
+164. Les troponines augmentent immédiatement après l'ischémie myocardique et restent élevées >2 semaines. 
+165. L’amplitude de l’onde Q diminue quelques jours après l’infarctus NSTEMI à cause de la perte de fibres 
+myocardiques. 
+166. Aucun marqueur biologique n’est suffisamment sensible pour exclure un syndrome coronarien aigu.  
+167. La mesure de CK-MB est utilisée pour le diagnostic différentiel de l’angor instable et de l’infarctus NSTEMI. 
+168. 30% des patients qui ont un NSTEMI ne sont pas diagnostiqués sur base de la clinique, de l’ECG et de 
+l’absence d’élévation d’enzymes moins sensibles que la troponine. 
+169. Les nouveaux dosages ultrasensibles de troponine sont exprimés en µg/L. 
+170. Des prélèvements répétés sont nécessaires pendant les 12 premières heures de l’infarctus pour mesurer 
+une élévation dynamique de la troponine. 
+171. L’infarctus NSTEMI entraine des modifications réversibles de l’ECG. 
+172. Un taux de troponine augmentée signifie un risque cardiovasculaire augmenté à long terme. 161. Faux 
+162. Faux 
+163. Vrai 
+164. Faux  
+165. Faux  
+ 
+166. Vrai 
+167. Faux 
+168. Vrai 
+ 
+169. Faux 
+170. Vrai 
+ 
+171. Vrai 
+172. Vrai 

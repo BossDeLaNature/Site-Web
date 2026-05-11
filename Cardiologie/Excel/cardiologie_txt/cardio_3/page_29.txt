@@ -1,0 +1,29 @@
+343. La dissection aortique se manifeste par une douleur pulsatile et migrante selon l’étendue de la lésion. 
+344. La dissection aortique peut entraîner une insuffisance aortique aiguë.  
+345. La dissection aortique peut être confondue avec un infarctus myocardique.  
+346. L’examen physique de la dissection aortique montre un nouveau souffle d’insuffisance aortique.  
+347. Le traitement de la dissection aortique de type B nécessite généralement une chirurgie urgente.  
+348. Le traitement de la dissection aortique de type B est toujours médical.  
+349. Le traitement chronique de la dissection aortique consiste à traiter l'HTA et à surveiller la taille de l'aorte au 
+moins 2 fois par an par résonance magnétique. 
+350. L’examen physique de la dissection aortique peut montrer un frottement péricardique.  
+351. L’opération de Bentall consiste à remplacer l’aorte ascendante par une prothèse en dacron. 
+352. La dissection aortique peut se manifester par des signes d’ischémie des branches de divisions de l’aorte : 
+AVC, syncope, paraplégie, polyurie,… 
+353. La radiographie de thorax peut montrer une cardiomégalie en cas de dissection aortique. 
+354. La dissection aortique peut entrainer le décès du patient par mort subite ou choc (hypovolémique, 
+tamponnade, insuffisance aortique aigue, infarctus myocardique,…). 343. Faux 
+344. Vrai 
+345. Vrai 
+346. Vrai 
+347. Faux 
+348. Faux 
+349. Faux 
+ 
+350. Vrai 
+351. Vrai 
+352. Faux 
+ 
+353. Vrai 
+354. Vrai 
+ 

@@ -1,0 +1,29 @@
+76. La majorité des patients atteints d’angor spastique n’ont pas de lésions athéromateuses coronaires. 
+77. Les dérivés nitrés et les antagonistes calciques sont efficaces dans le traitement de l’angor spastique.  
+78. Le spasme artériel survient après l’effort (et pas pendant) chez 30% des patients atteints d’angor spastique. 
+79. Le spasme artériel dans l'angine de poitrine spastique est toujours dû à une athérosclérose coronaire.  
+80. Dans l’angor spastique, le segment ST est sus-décalé en raison d'une ischémie légère sous-endocardique.  
+81. Les bêta-bloquants sont recommandés dans le traitement chronique de l'angine de poitrine spastique. 
+82. Les tachyarythmies ventriculaires surviennent lors de la reperfusion des artères coronaires spastiques.  
+83. La cocaïne, le tabac, l’alcool ou l’hypoventilation peuvent déclencher l’angine de poitrine spastique. 
+84. La coronarographie est inutile dans le diagnostic de l'angine de poitrine spastique.  
+85. Il faut éviter les bêta-bloquants en cas d’angor spastique car ils favorisent le spasme artériel en antagonisant 
+les récepteurs bêta-2 adrénergiques vasoconstricteurs. 
+86. Les antagonistes calciques sont contre-indiqués dans le traitement chronique de l'angine de poitrine spastique.  
+87. Un test de provocation des spasmes par l’hyperventilation, l’ergonovine ou l’acétylcholine intra-coronaire peut 
+être proposé pour le diagnostic d’angine de poitrine spastique.  
+88. L’angor variant est de bon pronostic si il n’est pas associé à des lésions coronaires athéroscléreuses. 76. Faux 
+77. Vrai 
+78. Vrai 
+79. Faux 
+80. Faux 
+81. Faux 
+82. Vrai 
+83. Faux 
+84. Faux 
+85. Faux 
+ 
+86. Faux 
+87. Vrai 
+ 
+88. Vrai 

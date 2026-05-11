@@ -1,0 +1,29 @@
+29. Les syncopes vaso-vagales sont souvent accompagnées de malaises présyncopaux.  
+30. Les syncopes arythmiques surviennent généralement sans prodromes.  
+31. L'hypotension orthostatique est un signe de syncope arythmique.  
+32. Les syncopes neurologiques peuvent être provoquées par une crise d'épilepsie avec sommeil post-critique. 
+33. Le "tilt-test" est réalisé en position couchée.  
+34. Le stimulateur cardiaque est toujours efficace dans le traitement des syncopes. 
+35. Les bas de contention sont recommandés pour les syncopes arythmiques.  
+36. Les syncopes vaso-vagales sont généralement associées à une pathologie cardiaque.  
+37. Les syncopes neurologiques sont souvent accompagnées de convulsions.  
+38. Le "tilt-test" est un test invasif.  
+39. Les syncopes vaso-vagales peuvent être déclenchées par la chaleur, la défécation, la toux et la miction.  
+40. Les prodromes de la syncope neurocardiogénique peuvent inclure une sensation de chaleur et une pâleur. 
+41. Les syncopes neurologiques ne présentent jamais de prodromes.  
+42. Les syncopes arythmiques peuvent être précédées de palpitations. 
+43. Les syncopes arythmiques surviennent souvent après un repas copieux ou post-effort. 29. Vrai 
+30. Vrai 
+31. Faux 
+32. Vrai 
+33. Faux 
+34. Faux 
+35. Faux 
+36. Faux 
+37. Vrai 
+38. Faux 
+39. Vrai 
+40. Vrai 
+41. Faux 
+42. Vrai 
+43. Faux 

@@ -1,0 +1,29 @@
+631. L'arythmie du flutter auriculaire persiste généralement pendant plusieurs heures ou jours.  
+632. Le flutter est caractérisé par des « dents de scie » mieux visualisés dans les dérivations antérieures de l'ECG.  
+633. Les médicaments antiarythmiques de classe I peuvent induire une conduction auriculo-ventriculaire 1/1. 
+634. Le massage du sinus carotidien facilite le diagnostic électrocardiographique du flutter 1/1 ou 2/1.  
+635. Le flutter atypique est généralement caractérisé des fluctuations sinusoïdales de la ligne de base de l'ECG.  
+636. Les antiarythmiques disponibles en Belgique re-sinualisent facilement le flutter auriculaire.  
+637. L’adénosine est recommandée pour traiter les accès de flutter auriculaire. 
+638. L'ablation par radio-fréquence du circuit de réentrée est recommandée en cas de flutter typique récurrent.  
+639. L’HTA, l’IC et le diabète sucré sont des facteurs de risque de thromboembolie en cas de flutter.  
+640. La majorité des patients en flutter auriculaire ont un thrombus dans l'auricule gauche.  
+641. Les recommandations pour l'anticoagulation sont différentes entre la FA et le flutter auriculaire.  
+642. La dépolarisation auriculaire du flutter tourne en sens antihoraire si on regarde l’OD par la pointe du cœur.  
+643. Les bêta-bloquants ne sont pas efficaces pour ralentir la réponse ventriculaire en cas de flutter auriculaire.  
+644. Les antiarythmiques de classe I peuvent être administrés seuls en cas de flutter auriculaire. 
+645. La cardioversion électrique est moins efficace que les médicaments pour re-sinusaliser le flutter auriculaire.  631. Vrai 
+632. Faux 
+633. Vrai 
+634. Vrai 
+635. Vrai 
+636. Faux 
+637. Faux 
+638. Vrai 
+639. Vrai 
+640. Faux 
+641. Faux 
+642. Vrai 
+643. Faux 
+644. Faux 
+645. Faux 

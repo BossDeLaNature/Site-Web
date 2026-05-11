@@ -1,0 +1,29 @@
+51. Le volume d’éjection systolique diminue parfois moins que la fraction d’éjection en cas d’IC systolique. 
+52. Seul le volume ventriculaire télédiastolique augmente suite au « remodelage » ventriculaire en cas d’IC. 
+53. La dilatation cardiaque vise à compenser la diminution de contractilité en cas d’IC à FEVG préservée. 
+54. La dilatation cardiaque augmente la tension pariétale (selon la loi de Laplace) en cas d’IC systolique. 
+55. La dilatation ventriculaire affecte les valves cardiaques et aggrave la surcharge en volume du VG.  
+56. On parle d’insuffisance cardiaque à fraction d’éjection réduite si elle est <60%. 
+57. On parle d’insuffisance cardiaque à fraction d’éjection préservée si elle est >50%. 
+58. Les mécanismes du remodelage ventriculaire dans l'insuffisance cardiaque sont bien compris.  
+59. L’activation du système orthosympathique et du SRA n'ont qu'une action favorable à court terme en cas d’IC.  
+60. L'ANP et le BNP sécrétés par les oreillettes et les ventricules provoquent une rétention hydro-sodée. 
+61. Un NT-BNP plasmatique normal a une bonne valeur prédictive négative pour exclure une IC.  
+62. La FA, le vieillissement et l’insuffisance hépatique augmentent le NT-BNP.  
+63. L'obésité morbide augmente le NT-BNP.  
+64. Le remodelage ventriculaire de l’insuffisance cardiaque comporte un raccourcissement des myocytes et une 
+instabilité myocytaire à cause de la dissolution du collagène qui solidarise les cellules contractiles. 51. Vrai 
+52. Faux 
+53. Faux 
+54. Vrai 
+55. Vrai 
+56. Faux 
+57. Vrai 
+58. Faux  
+59. Vrai 
+60. Faux 
+61. Vrai 
+62. Faux 
+63. Faux 
+64. Faux 
+ 

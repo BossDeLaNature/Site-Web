@@ -1,0 +1,29 @@
+246. L'évolution temporelle de l'ECG dans l'infarctus transmural montre une augmentation de l'amplitude des 
+ondes T (qui deviennent symétriques) dès les premières heures.  
+247. L'examen physique montre généralement une pression artérielle élevée en cas d'infarctus myocardique.  
+248. L’onde Q de nécrose apparait dès les premières heures de l’infarctus STEMI. 
+249. La négativation de l’onde T n’apparait que après quelques heures/jours en cas d’infarctus STEMI. 
+250. Le segment ST redevient isoélectrique quelques semaines après un infarctus myocardique. 
+251. Une élévation du segment ST >1mm en V4 est le signe d’un infarctus ventriculaire droit associé à un 
+infarctus myocardique inférieur. 
+252. L’amplitude des ondes T augmente au début de l’infarctus STEMI. 
+253. Le sus-décalage du segment ST peut atteindre 50% de l’amplitude de l’onde R en cas d’infarctus STEMI. 
+254. L’onde Q disparait quelques mois après un infarctus STEMI.  
+255. L’onde T reste toujours négative après un infarctus myocardique. 
+256. Les « ondes T géantes » sont le tout 1er signe d’infarctus myocardique à l’ECG (avant l’élévation du ST). 
+257. Les ondes Q témoignant d'un infarctus postérieur peuvent se présenter sous la forme d’un sous-décalage 
+en miroir en V1-V3.  246. Vrai 
+ 
+247. Faux 
+248. Faux   
+249. Vrai 
+250. Vrai 
+251. Vrai 
+ 
+252. Vrai 
+253. Vrai 
+254. Faux 
+255. Faux  
+256. Vrai 
+257. Vrai 
+ 

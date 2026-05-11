@@ -1,0 +1,29 @@
+206. Les bradykinines augmentent la production de NO et de prostaglandines à action vasodilatatrice et pro-
+mitotique. 
+207. Le NO et les prostaglandines pourrait médier une partie importante des effets bénéfiques des IEC. 
+208. L’accumulation de bradykinine favorise la toux et l’angio-œdème lors de la prise d’IEC. 
+209. Les IEC améliorent les symptômes mais n’augmentent pas la tolérance à l’effort en cas d’IC. 
+210. Les IEC n’ont pas d’effet bénéfique sur les patients asymptomatiques après un infarctus du VG. 
+211. Les IEC réduisent la mortalité totale des patients insuffisants cardiaque de 25%. 
+212. Les IEC peuvent être administrés chez la femme enceinte à partir du 3ème trimestre de grossesse. 
+213. Il est recommandé de traiter tous les patients insuffisants cardiaques par IEC si la FEVG est >40%. 
+214. Une pression artérielle systolique inférieure à 80mmHg est une contre-indication aux IEC en cas d’IC. 
+215. Une créatine sérique >3g/L nécessite une surveillance rapprochée en cas de traitement par IEC. 
+216. La sténose bilatérale sévère des artères rénales et l’hypokaliémie sont des contre-indications aux IEC. 
+217. La toux est un effet indésirable du traitement par IEC observé chez 5 à 10% des patients. 
+218. La toux ne nécessite jamais l’arrêt du traitement par IEC en cas d’insuffisance cardiaque. 
+219. Les IEC doivent être débutés à petite dose puis augmentés toutes les 1-2 semaines en cas d’IC. 206. Faux 
+ 
+207. Vrai 
+208. Vrai 
+209. Faux 
+210. Faux 
+211. Vrai 
+212. Faux 
+213. Faux 
+214. Faux 
+215. Vrai 
+216. Faux 
+217. Vrai 
+218. Faux 
+219. Vrai 

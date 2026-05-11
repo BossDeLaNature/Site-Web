@@ -1,0 +1,29 @@
+422. Le score CHA 2DS2-VASc permet d'évaluer le risque thromboembolique chez les patients atteints de FA.   
+423. Un score CHA 2DS2-VASc de 0 nécessite un traitement par anticoagulant direct.  
+424. La digoxine est contre-indiquée chez les patients atteints de fibrillation auriculaire.  
+425. L'ablation du nœud auriculo-ventriculaire est un traitement de 1ère intention pour la fibrillation auriculaire. 
+426. Un pourcentage élevé de fibrillations auriculaires se résout spontanément dans les 48 heures.  
+427. La cardioversion électrique externe est préférable en cas d'instabilité hémodynamique lors de la FA.  
+428. Le vernakalant peut être administré par voie orale pour traiter la fibrillation auriculaire.  
+429. Une association de différents antiarythmiques est recommandé pour traiter la fibrillation auriculaire.  
+430. La prise en charge de la fibrillation auriculaire ne nécessite pas de suivi rapproché.  
+431. L'amiodarone est un traitement efficace pour la FA mais présente beaucoup d'effets secondaires.  
+432. L'isolation des veines pulmonaires par radiofréquence est un traitement invasif utilisé en dernier recours 
+pour la fibrillation auriculaire.  
+433. L’isolation des veines pulmonaires par radiofréquence comporte un risque de décès procédural <1/1000.  
+434. La fibrillation auriculaire peut être asymptomatique chez certains patients.  
+435. Les traitements antiarythmiques ne comportent jamais d'effets secondaires.  422. Vrai 
+423. Faux 
+424. Faux  
+425. Faux  
+426. Vrai 
+427. Vrai  
+428. Faux 
+429. Faux 
+430. Faux 
+431. Vrai 
+432. Vrai 
+ 
+433. Vrai 
+434. Vrai 
+435. Faux 

@@ -1,0 +1,29 @@
+559. L’échographie cardiaque permet de confirmer le diagnostic clinique de péricardite aigue. 
+560. La péricardiocentèse et la biopsie sont réservées aux péricardites sévères ne répondant pas au traitement. 
+561. La péricardiocentèse consiste à ponctionner le liquide péricardique à l’aide d’une aiguille. 
+562. La péricardite aigue répond souvent peu à l’aspirine et à l’ibuprofène. 
+563. La colchicine augmente le risque de récidive de péricardite aigue. 
+564. Les antibiotiques sont réservés aux péricardites purulentes. 
+565. On observe souvent une excellente réponse à l’aspirine ou à l’ibuprofène en cas de péricardite aigue. 
+566. Les corticoïdes comme la prednisolone sont utilisés dans le traitement de la péricardite aigue sévère. 
+567. Une anticoagulation par héparine ou antivitamine K est recommandée en cas de péricardite aigue. 
+568. L’anticoagulation est réservée aux cas de péricardite associée à une ischémie ou un infarctus myocardique. 
+569. Les antivitamines K doivent être remplacés par de l’héparine chez les patients atteints de péricardite aigue 
+avec une valve mécanique prothétique. 
+570. Les épanchements péricardiques néoplasiques sont toujours la conséquence d’une métastase. 
+571. Les bénéfices du traitement anticoagulant sont inférieurs aux risques en cas de péricardite aigue. 
+572. La péricardite récurrente survient uniquement en cas d’échec du traitement initial. 559. Vrai 
+560. Vrai 
+561. Vrai 
+562. Faux 
+563. Faux 
+564. Vrai 
+565. Vrai 
+566. Vrai 
+567. Faux 
+568. Vrai 
+569. Vrai 
+ 
+570. Faux 
+571. Vrai 
+572. Faux 

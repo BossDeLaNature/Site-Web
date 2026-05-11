@@ -1,0 +1,29 @@
+141. L'hypertension maligne est souvent traitée avec des médicaments oraux.  
+142. La tension artérielle ne constitue un risque cardiovasculaire qu’à partir de 140/90mmHg. 
+143. Le débit cardiaque est déterminée par le produit de la PA et de la résistance vasculaire périphérique. 
+144. L’activation orthosympathique a tendance à régresser chez le sujet âgé.  
+145. Les médicaments qui agissent sur le SRAA améliorent la fonction rénale en cas d’HTA rénovasculaire. 
+146. On note une histoire familiale chez la majorité des patients atteints de dysplasie fibromusculaire. 
+147. Les évènements coronaires sont la 1ère cause de décès en cas d’HTA. 
+148. Il y a une relation constante entre la PA et le risque cardiovasculaire donc le seuil d’HTA est défini selon la 
+balance cout-bénéfice du traitement. 
+149. Une pression artérielle à 135-85 correspond à une HTA de grade 1. 
+150. Le traitement médical est souvent insuffisant et ne normalise pas les chiffres tensionnels. 
+151. Les facteurs psychosociaux favorisent l’HTA indépendamment des autres facteurs. 
+152. Une hypertension à 170-100mmHg correspond à une HTA de grade 3. 
+153. L’HTA est la 2ème cause d’insuffisance rénale après le diabète. 
+154. L’HTA non traitée peut entrainer une insuffisance cardiaque par augmentation de la précharge. 141. Faux 
+142. Faux 
+143. Faux 
+144. Vrai 
+145. Faux 
+146. Faux 
+147. Vrai 
+148. Vrai 
+ 
+149. Faux 
+150. Vrai 
+151. Vrai 
+152. Faux 
+153. Vrai 
+154. Faux 

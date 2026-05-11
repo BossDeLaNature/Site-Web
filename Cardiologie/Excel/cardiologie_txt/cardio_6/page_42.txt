@@ -1,0 +1,29 @@
+563. Un âge compris entre 65 et 74 ans vaut pour 1 point dans le score CHA 2DS2-VASc. 
+564. Le sexe féminin vaut pour 1 point dans le score CHA 2DS2-VASc. 
+565. Les AVK sont moins efficaces et causent plus d’hémorragies chez une femme avec CHA 2DS2-VASc = 2. 
+566. Il n’existe aucun cas de FA qui ne doit pas recevoir de traitement anticoagulant. 
+567. Le traitement de la FA vise à ralentir la réponse ventriculaire à la FA ou à rétablir un rythme sinusal. 
+568. L’objectif du traitement de la FA est de ralentir le rythme ventriculaire <100bpm au repos. 
+569. La digoxine à haute dose sert à augmenter l’activité vagale pour traiter la FA. 
+570. Le stimulateur cardiaque ventriculaire est un traitement de dernier recours en cas de FA. 
+571. Une minorité des cas de FA se résout spontanément endéans 48h. 
+572. 80% des FA récentes se resinusalisent spontanément endéans les 24h. 
+573. Si la FA dure depuis >48h, une anticoagulation de 2-3 semaines sera nécessaire avant la CEE. 
+574. Une anticoagulation de 2-3 semaines sera nécessaire après la CEE si la FA dure depuis >48h. 
+575. L’auricule récupère immédiatement une contractilité normale après la CEE d’une FA de >48h. 
+576. Un score CHA 2DS2-VASc = 1 pour un homme indique qu'un anticoagulant direct est préférable à un AVK. 
+577. Un score CHA 2DS2-VASc = 3 pour une femme indique qu'un anticoagulant direct est préférable à un AVK. 563. Vrai 
+564. Vrai 
+565. Vrai 
+566. Faux 
+567. Vrai 
+568. Faux 
+569. Faux 
+570. Vrai 
+571. Faux 
+572. Faux 
+573. Vrai 
+574. Faux 
+575. Faux 
+576. Vrai 
+577. Faux 

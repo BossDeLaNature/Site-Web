@@ -1,0 +1,29 @@
+364. La myocardite est toujours causée par des agents infectieux.  
+365. Le cytomégalovirus est rarement responsable d’une infection chronique chez les immunodéprimés.  
+366. La diphtérie est une cause fréquente de myocardite dans les pays développés.  
+367. Corynebacterium diphteriae produit une substance toxique pour le myocarde responsable d’une 
+cardiomyopathie dilatée et d’une polyneuropathie. 
+368. La maladie de Lyme se manifeste principalement par une cardiomyopathie.  
+369. La maladie de Lyme provoquent des altérations de la conduction auriculo-ventriculaire. 
+370. Le VIH peut induire une myocardite dans les stades précoces de la maladie.  
+371. La toxicité médicamenteuse, la dénutrition, la toxicomanie et les affections opportunistes pourraient jouer 
+un rôle dans la myocardite liée au VIH. 
+372. La maladie de Chagas est l’infection cardiaque virale la plus fréquente dans le monde. 
+373. La maladie de Chagas est principalement transmise par une piqûre de moustique en Europe.  
+374. Il n’existe pas de traitement médical curatif pour la cardiomyopathie liée à la maladie de Chagas.  
+375. La cardiomyopathie liée à la maladie de Chagas récidive après la transplantation cardiaque. 
+376. L'alcool et les anthracyclines sont des agents toxiques connus pour causer des myocardites.  364. Faux 
+365. Faux 
+366. Faux 
+367. Vrai 
+ 
+368. Faux 
+369. Vrai 
+370. Faux 
+371. Vrai 
+ 
+372. Faux 
+373. Faux 
+374. Vrai 
+375. Vrai 
+376. Vrai 

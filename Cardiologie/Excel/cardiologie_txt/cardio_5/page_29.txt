@@ -1,0 +1,29 @@
+352. La preuve objective d'une dysfonction diastolique doit être apportée par cathétérisme cardiaque.  
+353. Les causes d’IC à FEVG préservée sont très nombreuses : hypertrophie du VG suite à l’HTA ou à une 
+sténose aortique, cardiopathie ischémique, cardiomyopathie hypertrophique, infiltrative ou restrictive,… 
+354. La radiothérapie thoracique peut induire une cardiomyopathie hypertrophique. 
+355. L’amyloïdose, la tuberculose et l’hémochromatose peuvent entrainer une cardiomyopathie infiltrative. 
+356. La preuve objective d’une augmentation de la pression de remplissage du VG peut être apportée par 
+l’échographie cardiaque en cas d’insuffisance cardiaque à FEVG préservée. 
+357. La FEVG est considérée comme préservée si elle est >60%. 
+358. Le traitement de l’insuffisance cardiaque à FEVG préservée consiste principalement à augmenter la 
+surcharge volumique avec un régime hyposodé et des diurétiques et à traiter l’affection sous-jacente. 
+359. L’insuffisance cardiaque à FEVG préservée touche plus souvent les hommes que les femmes.  
+360. Le dosage du NT-proBNP contribue au diagnostic de l’insuffisance cardiaque à FEVG préservée.  
+361. La dysfonction diastolique et la dysfonction systolique du VG sont souvent associés.  
+362. Les patients atteints d’IC à FEVG préservée ne nécessitent aucun traitement médicamenteux.  
+363. L’ischémie myocardique peut entrainer une insuffisance cardiaque à dysfonction diastolique. 352. Faux 
+353. Vrai 
+ 
+354. Faux 
+355. Faux 
+356. Vrai 
+ 
+357. Faux 
+358. Faux 
+ 
+359. Faux 
+360. Vrai 
+361. Vrai 
+362. Faux 
+363. Vrai 

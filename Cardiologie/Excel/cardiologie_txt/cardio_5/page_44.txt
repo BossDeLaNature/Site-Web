@@ -1,0 +1,29 @@
+547. Le frottement péricardique est mieux audible si le patient est en décubitus dorsal. 
+548. Le frottement péricardique a 3 composantes : systole ventriculaire, proto-diastole et télé-diastole. 
+549. L’ECG montre un sus-décalage diffus du segment ST sauf en aVF et V1 en cas de péricardite aigue. 
+550. L’ECG montre initialement une dépression du segment PR en cas de péricardite aigue. 
+551. L’ECG montre un sus-décalage concave « en selle de cheval » du segment ST en cas de péricardite aigue. 
+552. L’ECG se normalise quelques jours après une péricardite aigue.  
+553. Le segment ST redevient normal et l’onde T devient isoélectrique ou s’inverse après la phase initiale de la 
+péricardite aigue. 
+554. L’ECG montre un sous-décalage diffus du segment ST sauf en aVR et V1 en cas de péricardite aigue.  
+555. La biologie montre une élévation des enzymes myocardiques en cas de péricardite aigue. 
+556. Une sérologie virale et HIV, des hémocultures et un test cutané à la tuberculine doivent être réalisés en 
+cas de péricardite aigue. 
+557. La radiographie de thorax est normale en cas de péricardite aigue. 
+558. La biologie doit doser plusieurs éléments en cas de péricardite aigue : créatinine, urée, T3, T4, facteur 
+rhumatoïde, anticorps antinucléaires, signes de néoplasie hématologique,… 547. Faux 
+548. Vrai 
+549. Faux 
+550. Vrai 
+551. Vrai 
+552. Faux 
+553. Vrai 
+ 
+554. Faux 
+555. Vrai 
+556. Vrai 
+ 
+557. Faux 
+558. Faux 
+ 

@@ -1,0 +1,29 @@
+130. L’étude de la viabilité myocardique peut se faire par scintigraphie myocardique, par échographie 
+cardiaque avec perfusion de dobutamine et par résonance magnétique nucléaire.  
+131. Une VO2 à l’exercice maximal <12 ml/kg/h révèle une altération fonctionnelle importante en cas d’IC. 
+132. Les épreuves d’effort comme l’ergospirométrie ne sont pas utilisés chez les insuffisants cardiaques. 
+133. Le PET-scan permet de rechercher des zones de myocarde ischémique viable susceptibles de bénéficier 
+d’une intervention de revascularisation coronaire. 
+134. La scintigraphie myocardique nécessite l’injection IV d’un produit de contraste iodé. 
+135. Une dysfonction thyroïdienne doit être recherchée en cas d’insuffisance cardiaque systolique. 
+136. Le traitement de l’insuffisance cardiaque systolique vise à prolonger la survie et à prévenir l’évolution vers 
+une forme plus sévère mais ne permet pas d’améliorer les symptômes.  
+137. L’HTA et l’hypercholestérolémie doivent être strictement contrôlés en cas d’insuffisance cardiaque.  
+138. Les bêta-bloquants et les antiagrégants sont recommandés après un infarctus myocardique. 
+139. Le traitement pharmacologique est plus important que les mesures hygiéno-diététiques en cas d’IC. 
+140. La revalidation physique est recommandé pour corriger la pathologie musculaire périphérique en cas d’IC.  
+141. Réduire la rétention volémique permet d’améliorer les symptômes de l’insuffisance cardiaque systolique. 130. Vrai 
+ 
+131. Faux 
+132. Faux 
+133. Vrai 
+ 
+134. Faux 
+135. Vrai 
+136. Faux 
+ 
+137. Vrai 
+138. Vrai 
+139. Faux 
+140. Vrai 
+141. Vrai 

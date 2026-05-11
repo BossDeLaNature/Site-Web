@@ -1,0 +1,29 @@
+259. Une insuffisance cardiaque ou pulmonaire, une embolie pulmonaire ou un infarctus myocardique peuvent 
+provoquer une tachycardie sinusale. 
+260. La caféine, la théophylline, l’atropine et les bêta-bloquants peuvent provoquer une tachycardie sinusale. 
+261. L’hypovolémie et l’anémie augmentent la fréquence cardiaque. 
+262. Le traitement de l’asthme peut parfois provoquer une tachycardie sinusale. 
+263. Les complexes QRS sont élargis à l’ECG en cas de tachycardie sinusale. 
+264. Le traitement de la tachycardie sinusale est essentiellement étiologique. 
+265. La maladie de Bouveret est une tachycardie jonctionnelle par réentrée via un faisceau accessoire. 
+266. Le circuit de réentrée tourne dans le NAV dans la maladie de Bouveret. 
+267. Le circuit de réentrée est caractérisé par une voie lente à période réfractaire longue et une voie rapide à 
+période réfractaire courte en cas de maladie de Bouveret. 
+268. La tachycardie paroxystique supra-ventriculaire est aussi appelée syndrome de Wolff-Parkinson-White. 
+269. L’influx électrique passe d’abord par la voie rapide et remonte vers l’oreillette par la voie lente dans la 
+forme typique de la tachycardie jonctionnelle par réentrée intranodale. 
+270. Une onde P rétrograde est toujours observée à l’ECG en cas de maladie de Bouveret. 259. Vrai 
+ 
+260. Faux 
+261. Vrai 
+262. Vrai 
+263. Faux 
+264. Vrai 
+265. Faux 
+266. Vrai 
+267. Faux 
+ 
+268. Faux 
+269. Faux 
+ 
+270. Faux 

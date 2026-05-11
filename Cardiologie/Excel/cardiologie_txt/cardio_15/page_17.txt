@@ -1,0 +1,29 @@
+220. Le traitement thrombolytique permet de se passer de la contention et de la mobilisation.  
+221. L’interruption partielle de la VCI vise à empêcher la migration d’emboles vers les artères pulmonaires. 
+222. L’interruption partielle de la VCI est réalisée par l’insertion chirurgicale d’un filtre dans la veine. 
+223. Les « caillots flottants » sont une indication d’interruption partielle de la VCI en urgence. 
+224. L’interruption partielle de la VCI est utilisée en cas de coexistence de TVP et d’embolie pulmonaire chez les 
+patients qui présentent une contre-indication au traitement anticoagulant.  
+225. Le filtre cave doit rapidement être retiré après une interruption partielle de la VCI. 
+226. L’interruption partielle de la VCI n’est pas utilisée en cas de récidives thromboemboliques en présence 
+d’un traitement anticoagulant bien adapté.  
+227. L’anticoagulation doit être débuté dès la résolution de la CI même en présence d’un filtre cave. 
+228. Le traitement chirurgical de la TVP est réalisé quand le membre est en danger en présence d’une contre-
+indication à la thrombolyse. 
+229. Le syndrome post-thrombotique se développe dans les 4 mois suivants une TVP.  
+230. L’œdème du membre inférieur est d’emblée irréversible en cas de syndrome post-thrombotique. 
+231. Le syndrome post-thrombotique ne s’accompagne jamais de troubles trophiques. 220. Faux 
+221. Vrai 
+222. Faux 
+223. Faux 
+224. Vrai 
+ 
+225. Vrai 
+226. Faux 
+ 
+227. Vrai 
+228. Vrai 
+ 
+229. Faux 
+230. Faux 
+231. Faux 

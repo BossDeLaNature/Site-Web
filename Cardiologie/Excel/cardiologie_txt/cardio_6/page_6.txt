@@ -1,0 +1,29 @@
+71. Lever les jambes du patient permet de rétablir la conscience immédiatement en cas de syncope vaso-vagale. 
+72. Les traitement anti-hypertenseurs sont une cause de dysfonction autonome chez le sujet âgé. 
+73. L’alcoolisme et le diabète sucré entrainent une dysfonction primaire du système nerveux autonome. 
+74. Les patients atteints de sclérose en plaques, de la maladie de Parkinson ou de la démence à corps de Lewy 
+sont moins à risque de dysfonction du système nerveux autonome. 
+75. Les barorécepteurs carotidiens et aortiques et le système orthosympathique luttent contre l’augmentation de 
+la PA lors du passage à la position debout. 
+76. La syncope de Stockes-Adams est une syncope d’origine neurologique. 
+77. Les syncopes arythmiques sont associées à une bradycardie ou à une tachycardie ventriculaire. 
+78. La durée de la perte de conscience est souvent <60 secondes en cas de syncope vaso-vagale. 
+79. Le retour de la conscience est souvent observé en quelques minutes/heures en cas de syncope arythmique. 
+80. La récupération est plus longue en cas de syncope neurologique. 
+81. Les syncopes arythmiques sont rarement associées à des mouvements tonico-cloniques. 
+82. Les syncopes arythmiques n’ont pas de relation avec la position. 
+83. Les syncopes sont de mauvais pronostic en l’absence de pathologie identifiée à l’échographie cardiaque. 71. Vrai 
+72. Vrai 
+73. Faux 
+74. Faux 
+ 
+75. Faux 
+ 
+76. Faux 
+77. Vrai 
+78. Vrai 
+79. Faux 
+80. Vrai 
+81. Faux 
+82. Vrai 
+83. Faux 

@@ -1,0 +1,29 @@
+113. La moitié des morts subites ne sont pas précédées de symptômes coronaires.  
+114. Les patients diabétiques ont une sensibilité réduite à la douleur à cause d’une neuropathie autonome. 
+115. L'épreuve d'effort est généralement négative chez les patients atteints d’angor asymptomatique.  
+116. L’ischémie asymptomatique est de meilleur pronostic que l’ischémie symptomatique. 
+117. L'enregistrement du rythme cardiaque permet de détecter un sus-décalage du segment ST.  
+118. La persistance d’une ischémie silencieuse prédit un risque accru d’évènements coronaires et de mort 
+cardiaque. 
+119. L’angine de poitrine silencieuse prédomine le matin en raison d’une augmentation concomitante du rythme 
+cardiaque et de la pression artérielle. 
+120. Les modifications à l’ECG précèdent la douleur durant l’ischémie myocardique  
+121. Les ischémies peu sévères et peu prolongées sont insuffisantes pour provoquer de la fibrose. 
+122. Les ischémies asymptomatiques témoignent de l’instabilité de la plaque athéromateuse. 
+123. Le traitement de l'angine de poitrine silencieuse vise surtout à supprimer les épisodes symptomatiques 
+pour améliorer la qualité de vie du patient.  
+124. L’angine de poitrine asymptomatique est un indicateur de mauvais pronostic. 113. Vrai 
+114 . Vrai 
+115. Faux  
+116. Faux  
+117. Faux  
+118. Vrai 
+ 
+119. Vrai 
+ 
+120. Vrai 
+121. Faux 
+122. Vrai 
+123. Faux  
+ 
+124. Vrai 

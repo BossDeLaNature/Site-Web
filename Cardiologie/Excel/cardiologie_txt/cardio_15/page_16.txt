@@ -1,0 +1,29 @@
+205. L’activité anticoagulante doit être vérifiée toutes les 6h lors du pré-traitement anticoagulant. 
+206. Les AVKs doivent être administrés le même jour ou le lendemain du début du traitement héparinique. 
+207. L’INR doit être compris entre 2,5 et 3,5 dans le traitement d’une TVP proximale par AVK.  
+208. Le traitement de la TVP par des AVK doit toujours être précédé d’un pré-traitement par héparine.  
+209. Le traitement de la TVP par apixaban doit toujours être précédé d’un pré-traitement par héparine. 
+210. Le traitement héparinique doit être maintenu à doses thérapeutiques jusqu’à l’obtention d’un INR <2.  
+211. La dose d’AVK est adaptée selon le contrôle quotidien de l’INR de J3 à J5.  
+212. Contrairement aux anticoagulants directs, les AVK sont actifs d’emblée par voie orale.  
+213. Les anticoagulants directs sont généralement préférés aux AVK dans le traitement de la TVP. 
+214. L’héparine de bas poids moléculaire doit être administrée en perfusion IV continue. 
+215. La chirurgie, la thrombolyse et l’interruption partielle de la VCI sont des traitement exceptionnels de TVP. 
+216. La thrombolyse utilise des schémas à base de streptokinase et d’urokinase. 
+217. La thrombolyse permet de réduire efficacement l’incidence du syndrome post-thrombotique. 
+218. La thrombolyse augmente de 2x le risque d’hémorragies majeures par rapport à l’héparine. 
+219. La thrombolyse est réservée aux patients jeunes avec une TVP extensive (phlébite bleue) et sans CI.  205. Vrai 
+206. Vrai 
+207. Faux 
+208. Vrai 
+209. Faux 
+210. Faux 
+211. Vrai 
+212. Faux 
+213. Vrai 
+214. Faux 
+215. Vrai 
+216. Vrai 
+217. Faux 
+218. Faux 
+219. Vrai 

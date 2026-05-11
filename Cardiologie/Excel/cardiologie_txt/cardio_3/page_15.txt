@@ -1,0 +1,29 @@
+173. L’augmentation de la CRP et du plasminogène prédit le risque de complications ultérieures en cas 
+d’infarctus NSTEMI. 
+174. L’élévation de la troponine est un signe spécifique de l’infarctus myocardique.  
+175. D’autres enzymes cardiaques comme la LDH ou la CPK peuvent augmenter en cas d’infarctus NSTEMI. 
+176. L'échographie cardiaque est utilisée pour diagnostiquer l'angine de poitrine instable.  
+177. Les tests fonctionnels sont réalisés immédiatement après la stabilisation des symptômes pour évaluer 
+l’impact de l’infarctus NSTEMI et adapter le traitement. 
+178. La coronarographie est réalisée chez tous les patients atteints d'angor instable.  
+179. Le traitement médical aigu de l’infarctus NSTEMI vise à réduire la douleur, limiter la nécrose et prévenir les 
+récidives. 
+180. L’effet inotrope négatif des bêta-bloquants est favorable pour diminuer la consommation d’oxygène du 
+cœur en cas d’angor instable.  
+181. L’héparine non fractionnée ou de bas poids moléculaire est indiquée dans le traitement aigu de l’angor 
+instable ou de l’infarctus NSTEMI. 
+182. L'aspirine est utilisée pour réduire l'inflammation dans l'angor instable.  173. Faux 
+ 
+174. Faux 
+175. Vrai 
+176. Faux 
+177. Faux 
+ 
+178. Faux   
+179. Vrai 
+ 
+180. Vrai 
+ 
+181. Vrai 
+ 
+182. Faux 

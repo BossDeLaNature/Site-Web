@@ -1,0 +1,29 @@
+27. Les patients atteints d’AAA présentant des douleurs abdominales aiguës doivent être opérés en urgence.  
+28. Les fonctions cardiaque et rénale doivent être évaluées chez les cas d’AAA candidats à la cure chirurgicale.  
+29. La fibrose périanévrismale est une caractéristique des anévrismes inflammatoires.  
+30. Les anévrismes infectieux sont généralement causés par une contamination par voie digestive.  
+31. Les AAA peuvent entraîner des coliques néphrétiques par compression de l’urètre. 
+32. Les patients présentant un anévrisme de l'aorte ne nécessitent aucun suivi après la chirurgie.  
+33. Les hommes de 60 ans sans antécédents familiaux d'anévrisme de l’aorte ne nécessitent pas de dépistage.  
+34. Les facteurs de risque cardiovasculaire n'ont aucun impact sur le développement d'un anévrisme.  
+35. Les anévrismes de l'aorte ne peuvent pas être détectés par la palpation abdominale.  
+36. Le traitement médical est la première option pour tous les types d'anévrismes.  
+37. La fibrose périanévrismale peut englober des structures adjacentes comme l'uretère, le sigmoïde et la VCS. 
+38. La fièvre est un symptôme courant des anévrismes inflammatoires.  
+39. Les anévrismes inflammatoires de l'aorte peuvent entraîner un amaigrissement et une anorexie.  
+40. Le traitement chirurgical est le seul traitement nécessaire pour les anévrismes infectieux.  
+41. Le dépistage est recommandé pour patients âgés de 40 à 75 ans avec des antécédents familiaux d'anévrisme.  27. Vrai 
+28. Vrai 
+29. Vrai 
+30. Faux 
+31. Faux 
+32. Faux 
+33. Vrai 
+34. Faux 
+35. Faux 
+36. Faux 
+37. Faux 
+38. Vrai 
+39. Vrai 
+40. Faux 
+41. Faux 

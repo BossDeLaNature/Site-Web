@@ -1,0 +1,29 @@
+28. La TVP est plus fréquente chez les femmes enceintes ou en post-partum.  
+29. Les traumatismes ou les chirurgies récentes sont des facteurs de risque réversibles de TVP.  
+30. Les longs voyages en avion n'augmentent pas le risque de TVP.  
+31. Le syndrome de Cockett est un facteur de risque non réversible de TVP. 
+32. Les antécédents de TVP sont un facteur de risque réversible de TVP.  
+33. La thrombose veineuse superficielle est toujours une complication de la thrombose veineuse profonde. 
+34. L'érythème franc de l'érysipèle est souvent confondu avec l'érythrocyanose déclive de la TVP. 
+35. La TVP est souvent asymptomatique.  
+36. 50 à 70% des patients atteints d’embolie pulmonaire ont une TVP. 
+37. Les varices sont un facteur de risque réversible de TVP.  
+38. Le syndrome post-thrombotique se caractérise par des crampes et un œdème des membres inférieurs. 
+39. Les D-dimères sont un test spécifique pour diagnostiquer la TVP.  
+40. L'échographie-Doppler est très sensible (>95%) pour diagnostiquer une TVP distale. 
+41. Le syndrome post-thrombotique se caractérise par des veines superficielles dilatées et un érythème.  
+42. Les embolies pulmonaires sont plus fréquentes que les TVP.  28. Vrai 
+29. Vrai 
+30. Faux 
+31. Faux 
+32. Faux 
+33. Faux 
+34. Vrai 
+35. Faux 
+36. Vrai 
+37. Faux 
+38. Vrai 
+39. Faux 
+40. Faux 
+41. Faux 
+42. Faux 

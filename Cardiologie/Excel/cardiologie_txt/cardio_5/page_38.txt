@@ -1,0 +1,29 @@
+466. Les défibrillateurs ventriculaires implantables sont indiqués en cas de tachycardie ventriculaire non 
+soutenue ou de mort subite réanimée chez les patients atteint de cardiomyopathie hypertrophique. 
+467. Les bêta-bloquants sont utilisés pour la cardiomyopathie hypertrophique non obstructive symptomatique. 
+468. Les vasodilatateurs périphériques sont utilisés dans le traitement de la cardiomyopathie hypertrophique.  
+469. Les vasodilatateurs atténuent l’effet Venturi qui attire la valve mitrale antérieure vers le septum 
+interventriculaire hypertrophié en cas de cardiomyopathie hypertrophique. 
+470. La vasodilatation périphérique aggrave le gradient de pression de part et d’autre de l’obstacle à l’éjection 
+ventriculaire en cas de cardiomyopathie hypertrophique. 
+471. Une intervention chirurgicale (myomectomie inter-ventriculaire) est pratiquée dans le traitement de la 
+cardiomyopathie hypertrophique en cas d’échec du traitement pharmacologique. 
+472. L’injection d’alcool dans une artère coronaire est utilisée pour créer un « infarctus expérimental ».  
+473. Les bêta-bloquants ne sont pas utiles dans le traitement de la cardiomyopathie hypertrophique.  
+474. La cardiomyopathie hypertrophique peut être traitée par l’injection d’alcool dans une des branches 
+septales de l’artère inter-ventriculaire postérieure. 
+475. L'hypertrophie ventriculaire gauche est souvent asymétrique dans la cardiomyopathie hypertrophique.  466. Faux 
+ 
+467. Vrai 
+468. Faux 
+469. Faux 
+ 
+470. Vrai 
+ 
+471. Vrai 
+ 
+472. Vrai 
+473. Faux 
+474. Faux 
+ 
+475. Vrai 

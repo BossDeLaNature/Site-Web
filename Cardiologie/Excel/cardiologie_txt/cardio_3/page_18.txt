@@ -1,0 +1,29 @@
+207. Le suivi biologique de l’anticoagulation n’est pas nécessaire pour les héparines de bas poids moléculaire. 
+208. Les héparines de bas poids moléculaire réduisent de 50% (en présence d’aspirine) les risque de décès et 
+d’infarctus myocardique en cas d’angor instable. 
+209. Le vérapamil est utilisé pour le traitement de l’angor instable en cas de contre-indication aux β-bloquants. 
+210. La nécrose myocardique survient après environ 20 minutes d’ischémie. 
+211. L'infarctus myocardique est généralement dû à une augmentation brutale de la perfusion coronaire dans 
+un territoire myocardique.  
+212. L'infarctus myocardique est la forme maligne du syndrome coronaire instable.  
+213. L’étendue de la nécrose myocardique est souvent plus limitée en cas d’ischémie chronique. 
+214. L'instabilité électrique induite par un infarctus peut conduire à la fibrillation ventriculaire et à la mort subite.  
+215. L'occlusion de l'artère coronaire conduit immédiatement à une nécrose myocardique.  
+216. Au plus l’occlusion est proximale, au moins l’étendue de la nécrose sera importante. 
+217. L'étendue de la nécrose myocardique dépend uniquement du site de l’occlusion. 
+218. Les infarctus surviennent souvent sur des lésions coronaires peu serrées.  
+219. L’infarctus STEMI est dû à la rupture progressive d’une plaque athéromateuse instable et à une thrombose.  207. Vrai 
+208. Vrai 
+ 
+209. Faux  
+210. Vrai 
+211. Faux  
+ 
+212. Vrai 
+213. Vrai 
+214. Vrai 
+215. Faux 
+216. Faux 
+217. Faux 
+218. Vrai 
+219. Faux 

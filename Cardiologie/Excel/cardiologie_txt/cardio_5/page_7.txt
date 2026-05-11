@@ -1,0 +1,29 @@
+77. L'orthopnée est un symptôme rare avant la classe NYHA III.  
+78. La dyspnée paroxystique nocturne est rapidement réversible en position verticale.  
+79. Le VES diminue souvent plus vite que la FEVG en cas d’insuffisance cardiaque avec dysfonction systolique.  
+80. La respiration de Cheyne-Stokes se caractérise par une alternance de périodes d’hyper- et d’hypoventilation. 
+81. Les sujets de classe NYHA I sont asymptomatiques. 
+82. Le volume ventriculaire télésystolique augmente suite à la dilatation cardiaque en cas d’IC systolique.  
+83. La fatigue est rarement associée à l'insuffisance cardiaque.  
+84. La nycturie est un symptôme urinaire classique de l'insuffisance cardiaque.  
+85. Les sujets de classe NYHA IV sont symptomatiques même au repos. 
+86. La dyspnée paroxystique nocturne est évaluée par le nombre de coussins utilisés pour dormir. 
+87. L’orthopnée est liée à la redistribution du volume vasculaire des jambes vers les poumons en décubitus. 
+88. L’orthopnée est un signe très spécifique d’insuffisance cardiaque systolique. 
+89. La dyspnée paroxystique nocturne se manifeste la nuit par une dyspnée aggravée, du wheezing et de la toux. 
+90. La dyspnée paroxystique nocturne est une situation proche de l’œdème pulmonaire hémodynamique. 
+91. La respiration de Cheyne-Stokes est la manifestation d’une pathologie d’origine pulmonaire.  77. Vrai 
+78. Faux 
+79. Faux 
+80. Vrai 
+81. Faux 
+82. Vrai 
+83. Faux  
+84. Vrai 
+85. Vrai 
+86. Faux 
+87. Vrai 
+88. Vrai 
+89. Vrai 
+90. Vrai 
+91. Faux 

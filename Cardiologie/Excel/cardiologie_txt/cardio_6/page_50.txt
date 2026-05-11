@@ -1,0 +1,29 @@
+673. Le pronostic des extrasystoles ventriculaires dépend de l’affection cardiaque sous-jacente. 
+674. Les extrasystoles ventriculaires ne sont jamais bénignes. 
+675. Les ESV sont de mauvais pronostic après un infarctus (>10 ESV/h) ou en cas d’IC (>720 ESV/24h). 
+676. Le débit cardiaque peut être augmenté par des ESV fréquentes. 
+677. L’ESV se manifeste à l’ECG par un complexe QRS fin non précédé d’une onde P. 
+678. Le QRS est parfois multiple et polymorphe à l’ECG en cas d’extrasystole ventriculaire. 
+679. La suppression des extrasystoles ventriculaires par les antiarythmiques de classe I aggrave la mortalité dans 
+la cardiopathie ischémique. 
+680. Le traitement des ESV est composé de lidocaïne IV pendant la phase aigüe de l’infarctus. 
+681. Les bêta-bloquants sont contre-indiqués en cas d’extrasystole ventriculaire. 
+682. La tachycardie ventriculaire est souvent le premier événement qui dégénère en fibrillation ventriculaire.  
+683. La tachycardie ventriculaire et la fibrillation ventriculaire sont des sources majeures de mort subite. 
+684. La TV est généralement induite par un mécanisme de réentrée chez des patients avec un myocarde altéré.  
+685. La tachycardie ventriculaire est caractérisée par un rythme cardiaque rapide d’origine sinusale. 
+686. La fibrillation ventriculaire se caractérise par une activité électrique ventriculaire rapide et organisée.  673. Vrai 
+674. Faux 
+675. Vrai 
+676. Faux 
+677. Faux 
+678. Vrai 
+679. Vrai 
+ 
+680. Vrai 
+681. Faux 
+682. Vrai 
+683. Vrai 
+684. Vrai 
+685. Faux 
+686. Faux 

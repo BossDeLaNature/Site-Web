@@ -1,0 +1,29 @@
+552. 80% des CIV sont situées dans le septum membraneux, directement sous la valve aortique. 
+553. La communication inter-ventriculaire représente 10% des affections cardiaques congénitales.  
+554. La plupart des communications inter-ventriculaires sont situées dans le septum musculaire.  
+555. La résistance pulmonaire diminue à la naissance. 
+556. Les communications inter-ventriculaires ne sont jamais localisées dans la chambre de chasse ventriculaire. 
+557. Un shunt inter-ventriculaire gauche-droit surcharge principalement le ventricule droit.  
+558. Un shunt inter-ventriculaire peut induire une hypertension artérielle pulmonaire.  
+559. Les shunts de petite taille sont souvent diagnostiqués à l'âge adulte.  
+560. L’orifice congénital dans le septum interventriculaire résulte d’une interaction entre une prédisposition 
+génétique et des facteurs environnementaux. 
+561. Les communications inter-ventriculaires sont des affections congénitales cyanogènes. 
+562. La dilatation cardiaque peut induire des atélectasies par compression des voies respiratoires en cas de CIV. 
+563. La communication inter-ventriculaire est surtout une affection pédiatrique. 
+564. L’ECG est généralement normal en cas de communication inter-ventriculaire. 
+565. Une communication inter-ventriculaire entraine un souffle holodiastolique qui recouvre souvent le B2.  552. Vrai 
+553. Faux 
+554. Faux 
+555. Vrai 
+556. Faux 
+557. Vrai 
+558. Vrai 
+559. Vrai 
+560. Vrai 
+ 
+561. Faux 
+562. Vrai 
+563. Vrai 
+564. Vrai 
+565. Faux 

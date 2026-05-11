@@ -1,0 +1,29 @@
+41. L’hypertrophie de la paroi veineuse s’accompagne d’une diminution de son contenu en collagène. 
+42. La dégradation de la matrice extracellulaire est causée par les cellules musculaires lisses. 
+43. L'insuffisance veineuse secondaire est très souvent causée par des syndromes post-thrombotiques.  
+44. L’hypoplasie ou l’agénésie des valvules ou de la VCI est une cause de l'insuffisance veineuse secondaire.  
+45. Les tumeurs peuvent comprimer les veines et causer une insuffisance veineuse secondaire.  
+46. Le syndrome de Cockett est une cause fréquente d'insuffisance veineuse secondaire.  
+47. Le syndrome de Cocket correspond à une compression de la veine iliaque droite par l’artère iliaque gauche. 
+48. La grossesse induit une insuffisance veineuse secondaire uniquement en raison des facteurs hormonaux.  
+49. Les sportifs ont un risque accru de développer une insuffisance veineuse secondaire.  
+50. La pression hydrostatique dans la jambe diminue pendant la marche.  
+51. La pompe veineuse surale est active uniquement pendant la marche.  
+52. Les altérations de la circulation veineuse peuvent être génétiques.  
+53. Le flux veineux rétrograde et la stase veineuse ont un effet pro-inflammatoire et pro-thrombotique. 
+54. La désorganisation des fibres d'élastine contribuent à rendre la veine plus rigide.  
+55. L'insuffisance veineuse primaire est souvent causée par une thrombose veineuse.  41. Faux 
+42. Faux 
+43. Vrai 
+44. Vrai 
+45. Vrai 
+46. Faux 
+47. Faux 
+48. Faux 
+49. Vrai 
+50. Vrai 
+51. Faux 
+52. Vrai 
+53. Vrai 
+54. Vrai 
+55. Faux 

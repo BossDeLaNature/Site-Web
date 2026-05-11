@@ -1,0 +1,29 @@
+193. Les diurétiques de l'anse sont préférés aux diurétiques thiazidiques chez les patients présentant une 
+altération de la fonction rénale.  
+194. Les thiazidiques ont une action moins soudaine et plus prolongée que les diurétiques de l'anse.  
+195. Les diurétiques de l’anse sont de meilleurs antihypertenseurs que les diurétiques thiazidiques. 
+196. Les bêta-bloquants peuvent aggraver transitoirement l'insuffisance cardiaque chez certains patients 
+197. Les bêta-bloquants peuvent être administrés même chez les patients asymptomatiques atteints d’IC. 
+198. La digoxine réduit les hospitalisations pour aggravation de l’IC chez les patients en rythme sinusal.  
+199. Les digitaliques ont un effet sur la mortalité chez les patients atteints d'insuffisance cardiaque.  
+200. Les digitaliques sont contre-indiqués chez les patients présentant une fonction rénale altérée.  
+201. Les vasodilatateurs directs sont généralement préférés aux IEC dans le traitement de l’IC systolique.  
+202. La spironolactone est un antagoniste de l’angiotensine II. 
+203. La dobutamine est efficace pour améliorer transitoirement l'hémodynamique dans l’insuffisance cardiaque  
+sévèrement décompensée.  
+204. Les agents inotropes non digitaliques ont tendance à augmenter la mortalité en utilisation chronique.  
+205. Les IEC augmentent la dégradation de la  bradykinine. 193. Vrai 
+ 
+194. Vrai 
+195. Faux 
+196. Vrai 
+197. Vrai 
+198. Vrai 
+199. Faux 
+200. Vrai 
+201. Faux 
+202. Faux 
+203. Vrai 
+ 
+204. Vrai 
+205. Faux 

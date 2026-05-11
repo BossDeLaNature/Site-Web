@@ -1,0 +1,29 @@
+72. La maladie de Buerger touche exclusivement les artères des membres supérieurs et inférieurs.  
+73. La maladie de Takayasu est fréquemment associée à une pseudo-polyarthrite rhizomélique. 
+74. La maladie de Takayasu est plus fréquente chez les femmes jeunes. 
+75. Les pouls périphériques sont généralement conservés dans la maladie de Takayasu. 
+76. La maladie de Takayasu est plus fréquente en Orient et sur le pourtour méditerranéen. 
+77. Les lésions cutanées sont un critère nécessaire pour le diagnostic de la maladie de Behçet. 
+78. La maladie de Buerger est souvent associée à un phénomène de Raynaud. 
+79. Les pouls périphériques sont souvent absents dans la maladie de Takayasu.  
+80. La maladie de Buerger est associée à une prédisposition génétique au niveau du groupe HLA. 
+81. Les manifestations oculaires sont absentes dans la maladie de Horton.  
+82. Les manifestations cutanées sont un critère majeur pour le diagnostic de la maladie de Behçet.  
+83. Le syndrome de la poplitée piégée est dû à des anomalies d’insertion musculo-tendineuses qui gênent le 
+passage du sang par compression de la veine poplitée lors de certains mouvements.  
+84. L’artère poplitée peut être comprimée de façon continue par des muscles ou des tendons du creux poplité. 
+85. Le syndrome de la poplitée piégée est caractérisé par une claudication intermittente chez les sujets âgés. 72. Faux 
+73. Faux 
+74. Vrai 
+75. Faux 
+76. Vrai 
+77. Vrai 
+78. Vrai 
+79. Vrai 
+80. Vrai 
+81. Faux 
+82. Faux 
+83. Faux 
+ 
+84. Faux 
+85. Faux  

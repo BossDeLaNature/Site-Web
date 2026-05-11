@@ -1,0 +1,29 @@
+284. La dilatation percutanée est toujours préférable à la thrombolyse pour traiter un infarctus myocardique 
+aigu en cas d’insuffisance cardiaque ou de choc cardiogénique. 
+285. Les micro-emboles générées par le thrombus contribuent aux lésions myocardiques après un infarctus.  
+286. Le ventricule se dilate au niveau de la zone infarcie pour diminuer la tension pariétale. 
+287. Le myocarde « sidéré » autour de zone de nécrose est normalement perfusé mais ne retrouve pas sa 
+fonction contractile initiale après l’infarctus. 
+288. L’activation neuro-humorale après l’infarctus provoque une surcharge volémique délétère pour le cœur. 
+289. L’activation neuro-humorale est caractérisée par une activation du système rénine-angiotensine-
+aldostérone et du système orthosympathique et par une augmentation du LDL-cholestérol et de l’ADH. 
+290. L’échographie cardiaque permet d’évaluer la fonction auriculaire gauche après un infarctus. 
+291. Une épreuve d’effort sub-maximale permet de rechercher une ischémie résiduelle chez les patients 
+stabilisés après un infarctus STEMI. 
+292. La tachycardie ventriculaire et la fibrillation ventriculaire dans les 48h suivant l’infarctus sont des indications 
+de mise en place d’un défibrillateur implantable. 
+293. Le Holter est utilisée pour observer l’évolution des ondes T après un infarctus STEMI.  284. Vrai 
+ 
+285. Vrai 
+286. Faux 
+287. Faux 
+ 
+288. Vrai 
+289. Faux 
+ 
+290. Faux 
+291. Vrai 
+ 
+292. Faux 
+ 
+293. Faux 

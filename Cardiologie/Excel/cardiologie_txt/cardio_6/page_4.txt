@@ -1,0 +1,29 @@
+44. Les syncopes vaso-vagales surviennent souvent après un long trajet en voiture.  
+45. Les syncopes sont des pertes transitoires de conscience avec rémission non spontanée. 
+46. La syncope est le plus souvent due à une diminution de la perfusion cérébrale due à une diminution du DC. 
+47. Les épisodes syncopaux sont rares, transitoires et prévisibles. 
+48. Le diagnostic étiologique de la syncope est souvent difficile. 
+49. Les syncopes arythmiques ou dégénératives surviennent généralement vers 60-70 ans. 
+50. Les traumatismes occasionnés par la chute sont un signe de gravité clinique des syncopes. 
+51. La perte de conscience est causée par une diminution brutale du flux sanguin cérébral durant 1 à 2 minutes. 
+52. La perte de conscience est provoquée par une diminution de l’activité de la substance réticulée cérébrale. 
+53. L’incontinence urinaire ou fécale fait partie des prodromes de la syncope vaso-vagale. 
+54. L’origine de la syncope est le plus souvent neurologique. 
+55. La syncope vaso-vagale représente 80% des cas de syncopes. 
+56. 30% des cas de syncopes sont dues à une arythmie souvent auriculaire. 
+57. L’hyperactivité vagale induit une inhibition du tonus vasomoteur et un arrêt du nœud auriculo-ventriculaire 
+lors de la stimulation sino-carotidienne. 44. Vrai 
+45. Faux 
+46. Vrai 
+47. Faux 
+48. Vrai 
+49. Vrai 
+50. Vrai 
+51. Faux 
+52. Vrai 
+53. Faux 
+54. Faux 
+55. Faux 
+56. Faux 
+57. Faux 
+ 

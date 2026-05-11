@@ -1,0 +1,29 @@
+244. Les arythmies supra-ventriculaires sont toujours associées à des pathologies cardiovasculaires.  
+245. La tachycardie antidromique est caractérisée par une onde delta visible à l'ECG.  
+246. La voie accessoire se détériore généralement avec l'âge en cas de syndrome de pré-excitation. 
+247. La tachycardie jonctionnelle peut être déclenchée par des émotions.  
+248. L'électrocardiogramme dans le syndrome de pré-excitation montre toujours une tachycardie ventriculaire.  
+249. L'ablation par radiofréquence est une option de traitement pour la tachycardie jonctionnelle.  
+250. La tachycardie jonctionnelle se manifeste par des palpitations régulières et rapides et une polyurie. 
+251. La tachycardie jonctionnelle peut être déclenchée par des manœuvres qui augmentent l'activité vagale.  
+252. La pyrexie et l’effort physique sont des causes physiologiques de tachycardie sinusale.  
+253. Les palpitations associées à la tachycardie jonctionnelle sont rapides et irrégulières. 
+254. Les accès de tachycardie jonctionnelle peuvent être ralentis par une respiration profonde.  
+255. Le syndrome de pré-excitation est généralement asymptomatique et découvert par hasard à l’ECG.  
+256. La tachycardie jonctionnelle affecte principalement les enfants.  
+257. L'adénosine IV ralentit la conduction auriculo-ventriculaire presque immédiatement.  
+258. La tachycardie sinusale est caractérisée par un rythme cardiaque >120bpm avec des ondes P normales. 244. Faux 
+245. Vrai 
+246. Vrai 
+247. Vrai 
+248. Faux 
+249. Vrai 
+250. Vrai 
+251. Faux 
+252. Vrai 
+253. Faux 
+254. Vrai 
+255. Vrai 
+256. Faux 
+257. Vrai 
+258. Faux 

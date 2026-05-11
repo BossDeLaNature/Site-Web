@@ -1,0 +1,29 @@
+89. Dans l’angor spastique, le segment ST est sous-décalé en raison d’une ischémie sévère et transmurale. 
+90. Le Holter est très utile pour diagnostiquer un angor de Prinzmetal. 
+91. L’hypertension artérielle induit un amincissement de la média des artérioles. 
+92. Les artères épicardiques sont normales à la coronarographie en cas d’angine de poitrine microvasculaire. 
+93. L'angine de poitrine microvasculaire est souvent associée à des pathologies valvulaires.  
+94. La dilatation ventriculaire et la diminution de pression intra-cavitaire réduisent la perfusion coronaire. 
+95. Les femmes sont plus fréquemment touchés par l'angine de poitrine microvasculaire que les hommes. 
+96. Les douleurs de l'angine de poitrine microvasculaire répondent généralement bien aux dérivés nitrés.  
+97. L'échographie cardiaque montre souvent une altération de la cinétique ventriculaire sous perfusion de 
+dobutamine chez les patients atteints d'angine de poitrine microvasculaire.  
+98. L’angor microvasculaire est souvent associée au syndrome dysmétabolique ou à l’anxiété. 
+99. Le diabète sucré peut causer une angine de poitrine microvasculaire. 
+100. La coronarographie est souvent anormale chez les patients atteints d'angine de poitrine microvasculaire.  
+101. Les dérivés nitrés sont efficaces chez la moitié des patients atteints d'angine de poitrine microvasculaire.  
+102. Les bêta-bloquants sont contre-indiqués dans le traitement de l'angine de poitrine microvasculaire.  89. Faux  
+90. Vrai 
+91. Faux 
+92. Vrai 
+93. Vrai 
+94. Faux 
+95. Vrai 
+96. Faux  
+97. Faux 
+ 
+98. Vrai 
+99. Vrai  
+100. Faux 
+101. Vrai 
+102. Faux  

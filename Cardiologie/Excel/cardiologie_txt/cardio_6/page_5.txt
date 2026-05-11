@@ -1,0 +1,29 @@
+58. Une syncope peut être déclenchée par un col serré ou un mouvement de la tête en cas d’hyperactivité vagale. 
+59. La syncope due à une hypersensibilité sino-carotidienne peut s’accompagner d’un bloc AV complet. 
+60. L’hypersensibilité sino-carotidienne est diagnostiquée par un massage unilatéral du sinus carotidien durant 5 
+secondes avec un monitoring continu de l’ECG et de la PA (test plus sensible en position couchée). 
+61. Le massage du sinus carotidien peut provoquer une chute de PA de 50mmHg en cas d’hyperactivité vagale. 
+62. La bradycardie sinusale et le bloc AV sont des réponses normales au massage du sinus carotidien. 
+63. La réponse cardio-inhibitrice au massage du sinus carotidien est pathologique en cas de pause >1 seconde.  
+64. La syncope vaso-vagale est induite par une diminution du retour veineux et de la contractilité ventriculaire. 
+65. La syncope vaso-vagale induit une activation orthosympathique (vasodilatation) et sinusale (bradycardie). 
+66. L’activation orthosympathique augmente la contractilité ventriculaire avant une syncope vaso-vagale. 
+67. Les réactions à l’origine de la syncope vaso-vagale sont provoquées par l’activation de fibres C vasculaires 
+sensibles à la distension et à la pression. 
+68. La perte de conscience est causée par une diminution brutale du flux sanguin cérébral durant 4-10 secondes. 
+69. La déshydratation ou un traitement diurétique excessif peut favoriser les syncopes arythmiques. 
+70. La nausée et l’assombrissement du champ visuel sont des prodromes de syncopes vaso-vagales. 58. Vrai 
+59. Vrai 
+60. Faux 
+ 
+61. Vrai 
+62. Vrai 
+63. Faux 
+64. Faux 
+65. Faux 
+66. Vrai 
+67. Faux 
+ 
+68. Vrai 
+69. Faux 
+70. Vrai 

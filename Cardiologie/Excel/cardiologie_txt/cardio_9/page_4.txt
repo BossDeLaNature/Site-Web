@@ -1,0 +1,29 @@
+42. Les patients présentant un petit anévrisme de l'aorte ne nécessitent pas de surveillance régulière.  
+43. Les patients atteints d’AAA doivent être informés des conséquences du dépistage avant de le subir.  
+44. Les complications postopératoires des anévrismes de l'aorte sont principalement d'ordre respiratoire.  
+45. Les endoprothèses sont préférable à la chirurgie chez les patients présentant des tortuosités aortiques.  
+46. Les anévrismes de l'aorte sont plus fréquents chez les femmes que chez les hommes.  
+47. L'athérome est une étiologie rare des anévrismes de l'aorte.  
+48. Les anévrismes inflammatoires peuvent être traités uniquement par des médicaments.  
+49. Le dépistage des anévrysmes aortiques n’est pas indiqué chez les hommes de plus de 75 ans.  
+50. Les patients atteints d'anévrisme de l'aorte ne présentent aucun risque de décès prématuré. 
+51. La palpation abdominale est un moyen efficace de diagnostiquer un anévrisme aortique. 
+52. Le traitement endoluminal des AAA est associés à une plus faible mortalité que la chirurgie classique.  
+53. Les antécédents familiaux d'anévrisme ne sont pas un critère de dépistage pour les femmes de 50 ans. 
+54. La prévalence des anévrismes de l'aorte est en baisse parallèlement à une augmentation du tabagisme.  
+55. Le traitement médical est une option viable pour tous les types d'anévrismes.  
+56. La localisation la plus fréquente des anévrismes aortiques est l'aorte abdominale sous-rénale.  42. Faux 
+43. Vrai 
+44. Faux 
+45. Faux 
+46. Faux 
+47. Faux 
+48. Vrai 
+49. Vrai 
+50. Faux 
+51. Vrai 
+52. Vrai 
+53. Faux 
+54. Faux  
+55. Faux 
+56. Vrai 

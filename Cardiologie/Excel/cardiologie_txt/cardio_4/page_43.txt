@@ -1,0 +1,29 @@
+518. La communication de type ostium secundum est moins fréquente que le foramen ovale perméable. 
+519. Les communications inter-auriculaires situées plus antérieures sont dues à un ostium secundum.  
+520. L’ostium secondum représente 70% des communications inter-auriculaires. 
+521. L’ostium primum est souvent associé à une fente dans le feuillet mitral postérieur. 
+522. Les communications de type "sinus veineux" sont associées à une communication anormale entre 
+l'oreillette droite et la veine pulmonaire droite. 
+523. Les communications inter-auriculaires de type "sinus veineux inférieur" sont rarement associées à une 
+connexion biauriculaire à la veine cave supérieure.  
+524. Les communications inter-auriculaires de type "sinus veineux supérieur" peuvent être associées à un 
+abouchement anormal des veines pulmonaires dans l’oreillette droite ou dans la VCS.   
+525. Le sens du shunt à travers la communication inter-auriculaire dépend de la pression intra-auriculaire qui 
+dépend elle-même de la compliance ventriculaire. 
+526. La dilatation des cavités droites est caractéristique d'une communication inter-auriculaire large.  
+527. Moins de 10 % des patients développent une hypertension artérielle pulmonaire chronique suite à une CIA.  
+528. L'oreillette gauche est souvent dilatée dans les cas de communication inter-auriculaire.  518. Faux 
+519. Faux 
+520. Vrai 
+521. Faux 
+522. Vrai 
+ 
+523. Faux 
+ 
+524. Vrai 
+ 
+525. Vrai 
+ 
+526. Vrai 
+527. Vrai 
+528. Faux 

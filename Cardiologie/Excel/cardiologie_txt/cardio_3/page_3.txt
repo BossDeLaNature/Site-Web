@@ -1,0 +1,29 @@
+26. L'angor stable de classe IV survient au repos.  
+27. L'examen clinique est souvent suffisant pour exclure les causes secondaires d'angor.  
+28. L’oxygénation du myocarde se fait principalement en systole. 
+29. La pression intra-myocardique épicardique est généralement plus élevée que la pression sous-endocardique. 
+30. Le flux sanguin épicardique est plus élevée que le flux sanguin endocardique pendant la systole. 
+31. Une pression diastolique augmentée s’oppose à la perfusion sous-endocardique. 
+32. L’ischémie myocardique prédomine dans la région sous-endocardique, ce qui se traduit par un sus-décalage 
+horizontal >1mm du segment ST à l’ECG. 
+33. L’ECG au repos est anormal chez la majorité des patients atteints d’angine de poitrine chronique stable. 
+34. L'ECG à l'effort est toujours réalisé pour le diagnostic d'angor instable. 
+35. L’échographie cardiaque est utilisée pour rechercher une altération de la fonction ventriculaire si l’ECG de 
+repos est normal. 
+36. L’ECG à l’effort montre un sous-décalage horizontal ou descendant >1mm du segment ST en cas d’angor. 
+37. La scintigraphie myocardique utilise des traceurs de perfusion pour évaluer le flux sanguin myocardique. 
+38. La scintigraphie myocardique est réalisée au repos. 26. Vrai 
+27. Vrai 
+28. Faux 
+29. Faux 
+30. Vrai 
+31. Vrai 
+32. Faux 
+ 
+33. Faux 
+34. Faux 
+35. Faux 
+ 
+36. Vrai 
+37. Vrai 
+38. Faux 

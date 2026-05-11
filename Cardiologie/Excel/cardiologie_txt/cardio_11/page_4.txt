@@ -1,0 +1,29 @@
+41. Les patients atteints d'ischémie mésentérique aiguë peuvent présenter une hypotension et un choc.  
+42. Les thromboses veineuses mésentériques peuvent être visualisées par CT-scanner. 
+43. L'anticoagulation est généralement utilisée dans le traitement des thromboses veineuses mésentériques.  
+44. Les patients atteints d'ischémie mésentérique aiguë peuvent présenter une diarrhée et du méléna. 
+45. Les thromboses veineuses mésentériques sont rarement associées à des néoplasies.  
+46. La prévention cardiovasculaire est importante dans le traitement des lésions sténosantes des troncs viscéraux.  
+47. La leucocytose est un signe tardif de l’ischémie mésentérique aigue. 
+48. La tomodensitométrie sans contraste est généralement utilisée pour le diagnostic de la colite ischémique.  
+49. La sigmoïdoscopie avec insufflation risque de déchirer la séreuse en cas de colite ischémique. 
+50. Les patients atteints d'ischémie mésentérique aiguë ne présentent jamais de nausées.  
+51. Les thromboses veineuses mésentériques peuvent être associées à des pancréatites aiguës.  
+52. L’ischémie mésentérique aigue non-occlusive est due à une vasoconstriction mésentérique disproportionnée. 
+53. La tomodensitométrie est l'examen de choix pour voir les emboles en cas d'ischémie mésentérique aiguë.  
+54. Le ballonnement abdominal est un symptôme des thromboses veineuses mésentériques. 
+55. Les thromboses veineuses mésentériques peuvent être associées à la cirrhose ou l’hypertension portale. 41. Vrai 
+42. Vrai 
+43. Vrai 
+44. Vrai 
+45. Faux 
+46. Vrai 
+47. Faux 
+48. Faux 
+49. Vrai 
+50. Faux 
+51. Vrai 
+52. Vrai 
+53. Faux 
+54. Vrai 
+55. Vrai 

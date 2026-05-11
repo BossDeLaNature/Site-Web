@@ -1,0 +1,29 @@
+476. Les mutations affectant les protéines du sarcomère sont responsables de la cardiomyopathie dilatée.  
+477. Les patients atteints de cardiomyopathie hypertrophique ne présentent jamais de dyspnée.  
+478. La cardiomyopathie hypertrophique est principalement causée par des facteurs environnementaux. 
+479. L’auscultation d’une cardiomyopathie hypertrophique ne montre généralement pas de souffle cardiaque.  
+480. L'hypertrophie ventriculaire observée chez les athlètes d'élite est toujours pathologique.  
+481. La cardiomyopathie hypertrophique est rare chez les sujets de plus de 60 ans.  
+482. L’angor est provoqué par une augmentation de la pression intra-ventriculaire et des anomalies 
+microvasculaires en cas de cardiomyopathie hypertrophique. 
+483. Les bêta-bloquants réduisent la dyspnée et l’angor en cas de cardiomyopathie hypertrophique.  
+484. L'amiodarone est indiquée en cas de cardiomyopathie hypertrophique avec hypertrophie sévère.  
+485. L'injection d'alcool dans une des branches septales de l'artère inter-ventriculaire antérieure est utilisée 
+dans le traitement de la cardiomyopathie hypertrophique en cas d’échec du traitement pharmacologique. 
+486. L’amyloïdose, la sarcoïdose, l’hémochromatose, les métastases de mélanome ou de lymphome et 
+certaines maladies métaboliques rares sont responsables de cardiomyopathie restrictive et infiltrative. 
+487. Le signe de Küssmaul correspond à une augmentation de la turgescence jugulaire à l’inspiration. 476. Faux 
+477. Faux 
+478. Faux 
+479. Faux 
+480. Faux 
+481. Faux 
+482. Vrai 
+ 
+483. Vrai 
+484. Vrai 
+485. Vrai 
+ 
+486. Vrai 
+ 
+487. Vrai 

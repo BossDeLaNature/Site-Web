@@ -1,0 +1,29 @@
+154. Les anévrysmes isolés de l’aorte thoracique peuvent entrainer des symptômes respiratoires par 
+compression des voies aériennes : toux, dyspnée, bronchopneumonie, bronchiectasies,… 
+155. La rupture d’un anévrysme de l’aorte thoracique peut provoquer des hémoptysies et un hémothorax. 
+156. La dysphagie est un symptôme des anévrysmes de l’aorte abdominale. 
+157. L’imagerie par résonance magnétique et la radio de thorax sont utilisés pour diagnostiquer les 
+anévrysmes de l’aorte thoracique.  
+158. Les anévrysmes symptomatiques de l’aorte thoracique peuvent être opérés peu importe leur taille. 
+159. Les anévrysmes de l’aorte thoracique ne sont jamais opérés en cas de maladie du tissu élastique. 
+160. Les anévrysmes de l’aorte ascendante de diamètre >55mm doivent être opérés. 
+161. Un anévrysme de l’aorte descendante de 55mm n’est pas une indication de traitement chirurgical. 
+162. La mortalité post-opératoire d’un anévrysme thoraco-abdominal est d’environ 2% si une prothèse en 
+Dacron a été posée. 
+163. Les anévrysmes asymptomatiques de l’aorte descendante >60mm doivent être opérés. 
+164. L’opération d’un anévrysme thoraco-abdominal nécessite la réimplantation des troncs viscéraux. 
+165. La paraplégie est une complication des traitements des anévrysme de l’aorte thoracique.  
+155. Vrai 
+156. Faux 
+157. Vrai 
+ 
+158. Vrai 
+159. Faux 
+160. Vrai 
+161. Vrai 
+162. Faux 
+ 
+ 
+163. Vrai 
+164. Vrai 
+165. Vrai 

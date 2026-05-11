@@ -1,0 +1,29 @@
+179. Les TVPs proximales survenant après un alitement de <3 jours sont à faible risque de récidive. 
+180. Les TVPs proximales survenant après un traumatisme avec fracture sont à faible risque de récidive. 
+181. L’anticoagulation peut être stoppée après 6 mois en cas de TVP proximale à faible risque de récidive. 
+182. Les TVPs proximales survenant après une chirurgie mineure sont à risque intermédiaire de récidive. 
+183. Les TVPs proximales survenant après un vol long-courrier sont à faible risque de récidive. 
+184. Les TVPs proximales survenant lors de la grossesse ou en péri-partum sont à risque élevé de récidive. 
+185. Les TVPs proximales chez le patient obèse sont à risque intermédiaire de récidive. 
+186. Les TVPs proximales après une anesthésie générale de >30min sont à risque intermédiaire de récidive. 
+187. Les TVPs proximales chez le patient atteint de maladies inflammatoires de l’intestin ou de maladies auto-
+immunes persistantes et actives sont à risque intermédiaire de récidive. 
+188. Les TVPs proximales avec poursuite du traitement oestrogénique sont à risque élevé de récidive. 
+189. Les TVPs distales survenant après une blessure à la jambe sans fracture associée à une mobilité réduite 
+pendant au moins 3 jours sont à risque intermédiaire de récidive. 
+190. Les TVPs proximales chez les patients avec un cancer actif sont à risque élevé de récidive. 
+191. Les TVPs proximales avec un syndrome des anticorps phospholipides sont à risque élevé de récidive. 179. Faux 
+180. Vrai 
+181. Faux 
+182. Vrai 
+183. Faux 
+184. Faux 
+185. Vrai 
+186. Faux 
+187. Vrai 
+ 
+188. Faux 
+189. Faux 
+ 
+190. Vrai 
+191. Vrai 

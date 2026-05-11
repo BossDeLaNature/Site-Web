@@ -1,0 +1,29 @@
+297. Les extrasystoles sont parfois décrites comme une impression de battement manquant. 
+298. Le remplissage diastolique et le volume éjecté systolique sont augmentés lors d’une extrasystole. 
+299. Les extrasystoles qui dépolarisent le nœud sinusal donne une sensation de pression thoracique. 
+300. Une extrasystole ventriculaire peut dépolariser le nœud sinusal par conduction rétrograde.  
+301. La diastole qui suit une extrasystole ayant dépolarisé le nœud sinusal est allongée.   
+302. Le volume éjecté systolique après une extrasystole ayant dépolarisé le nœud sinusal est diminué. 
+303. Le premier épisode de TPSV ou de WPW survient toujours à l’âge adulte. 
+304. La tachycardie est décrite comme des accès de palpitations de durée fixe en cas de TPSV ou de WPW. 
+305. Les accès de tachycardie peuvent être accompagnés de malaises lipothymiques, d’un état présyncopal ou 
+de syncopes en cas de TPSV ou de WPW. 
+306. La tachycardie jonctionnelle par réentrée intranodale affecte généralement des sujets d’âge moyen. 
+307. Les patients atteints de tachycardie jonctionnelle ont souvent une pathologie cardiaque sous-jacente. 
+308. L’origine jonctionnelle de la tachycardie est suspectée si les palpitations sont accélérées par des 
+manœuvres qui augmentent l’activité vagale. 
+309. Se mettre de l’eau glacée sur le visage permet de ralentir ou de stopper la tachycardie jonctionnelle. 297. Vrai 
+298. Faux 
+299. Vrai 
+300. Vrai 
+301. Vrai 
+302. Faux 
+303. Faux 
+304. Faux 
+305. Vrai 
+ 
+306. Vrai 
+307. Faux 
+308. Faux 
+ 
+309. Vrai 

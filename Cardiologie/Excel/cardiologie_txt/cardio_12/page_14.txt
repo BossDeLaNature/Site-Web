@@ -1,0 +1,29 @@
+178. La maladie de Horton se manifeste par de la fièvre et de l’asthénie sans altération de l’état général. 
+179. La pseudo-polyarthrite rhizomélique se manifeste par une raideur des ceintures scapulaires et pelviennes. 
+180. L’amaurose fugace, la claudication massétérine, les artères temporales douloureuses à la palpation et les 
+paresthésies du cuir chevelu sont des signes évocateurs présents chez 30-40% des cas de maladie de Horton. 
+181. La claudication massétérine correspond à une ischémie et une crampe du masséter à la mastication.  
+182. La vitesse de sédimentation est souvent normale en cas de maladie de Horton. 
+183. La biologie montre une anémie inflammatoire, une CRP élevée et une diminution des plaquettes dans la 
+maladie de Horton. 
+184. La maladie de Horton est souvent associée à une cholestase biologique. 
+185. La VS est souvent >50mm/min en cas de maladie de Horton. 
+186. L’échographie-Doppler des artères temporales permet de diagnostiquer la maladie de Horton. 
+187. La biopsie d’une artère temporale montre des cellules monomorphes et géantes dans la média avec une 
+rupture de la limitante élastique interne en cas de maladie de Horton. 
+188. Les AINS sont souvent suffisants pour traiter l’inflammation responsable de la maladie de Horton. 
+189. Le PET-scan est actuellement le meilleur choix pour diagnostiquer la maladie de Horton. 178. Faux 
+179. Vrai 
+180. Vrai 
+ 
+181. Vrai 
+182. Faux 
+183. Faux 
+ 
+184. Vrai 
+185. Faux 
+186. Vrai 
+187. Faux 
+ 
+188. Faux 
+189. Faux 

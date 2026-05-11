@@ -1,0 +1,29 @@
+336. La mort subite est précipitée par les médicaments qui bloquent moins le NAV que la voie accessoire. 
+337. La cardioversion électrique externe est le traitement de 1er choix pour tous les cas de WPW + FA.  
+338. La procainamide IV est indiquée chez le patient stable atteint de WPW + FA. 
+339. La cardioversion électrique externe doit être effectuée en cas de WPW + FA instable. 
+340. L’ECG est anormal en dehors des accès de tachycardie jonctionnelle dans la maladie de Bouveret. 
+341. Les formes typiques de TPSV sont caractérisées par un intervalle PR long et un intervalle RP court. 
+342. L’axe électrique de l’onde P est négatif dans les dérivations frontales (D2, D3 et aVR) en cas de TPSV.  
+343. L’onde P rétrograde est souvent cachée au sein du complexe QRS en cas de tachycardie jonctionnelle. 
+344. L’onde P rétrograde est à peine visible sous la forme d’une onde S en D2 et ou r’ en V1 en cas de TPSV. 
+345. Une onde P rétrograde positive est souvent observée en D2, D3 et aVF dans la maladie de Bouveret. 
+346. Les formes atypiques de TPSV sont caractérisées par un intervalle PR court et un intervalle RP long. 
+347. Les complexes QRS sont larges dans les formes typiques de la maladie de Bouveret. 
+348. La dépolarisation ventriculaire s’effectue par le faisceau de His dans les formes typiques de TPSV. 
+349. L’ECG est normal en dehors des accès de tachycardie jonctionnelle dans le syndrome de pré-excitation. 
+350. Le syndrome de pré-excitation est caractérisé par un intervalle PR court à l’ECG.  336. Faux 
+337. Faux 
+338. Vrai 
+339. Vrai 
+340. Faux 
+341. Vrai 
+342. Faux 
+343. Vrai 
+344. Vrai 
+345. Faux 
+346. Vrai 
+347. Faux 
+348. Vrai 
+349. Faux 
+350. Vrai 

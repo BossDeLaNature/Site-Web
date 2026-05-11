@@ -1,0 +1,29 @@
+324. Les patients qui présentent une voie accessoire ont généralement moins de 50 ans. 
+325. La voie accessoire se développe souvent avec l’âge. 
+326. Les accès de palpitations surviennent sans cause favorisante évidente en cas de Wolff-Parkinson-White. 
+327. Les accès de palpitations sont très dépendants des variations du système nerveux autonome en cas de 
+syndrome de pré-excitation.  
+328. Le taux de succès des manœuvres vagales est plus élevé dans le WFW que dans la TPSV. 
+329. L’arythmie peut persister pendant plusieurs heures en cas de syndrome de pré-excitation. 
+330. L’arrêt de l’arythmie peut nécessiter un traitement IV ou une cardioversion externe en cas de WPW.  
+331. Une tachycardie persistante pendant plusieurs mois/années induit une tachycardiomyopathie dilatée 
+irréversible après l’arrêt du trouble du rythme en cas de WPW. 
+332. La moitié des patients atteints de WPW présentent des accès de fibrillation auriculaire paroxystique. 
+333. Les traitements inhibant le NAV sont recommandés en cas de WPW associé à une FA. 
+334. Les digitaliques, le vérapamil, le diltiazem, les manœuvres vagales, l’adénosine et l’amiodarone bloquent 
+plus le NAV que la voie accessoire en cas de syndrome de pré-excitation. 
+335. La FA provoquée par le WPW peut exceptionnellement induire une FV et une mort subite. 324. Vrai 
+325. Faux 
+326. Vrai 
+327. Faux 
+ 
+328. Vrai 
+329. Vrai 
+330. Vrai 
+331. Faux 
+ 
+332. Vrai 
+333. Faux 
+334. Vrai 
+ 
+335. Vrai 

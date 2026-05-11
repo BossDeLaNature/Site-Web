@@ -1,0 +1,29 @@
+245. Les glifozines sont des inhibiteurs du co-transporteur sodium-glucose de type 2 (SGLT2). 
+246. Les inhibiteurs du SGLT2 réduisent les hospitalisation pour IC de 30% et les décès cardiovasculaires de 
+18% quand ils sont ajoutés à tous les autres traitements pharmacologiques et non pharmacologiques de l’IC. 
+247. Les digitaliques sont des inhibiteurs de la Na-K-ATPase à action inotrope négative. 
+248. Les digitaliques augmentent la contractilité myocardique via une augmentation du Ca2+ intracellulaire. 
+249. Les digitaliques n’ont pas d’effet sur la mortalité en cas d’insuffisance cardiaque. 
+250. Les glycosides digitaliques réduisent les hospitalisations pour aggravation d’IC de 30% chez les patients 
+en rythme sinusal. 
+251. Les digitaliques sont moins efficaces quand la dysfonction cardiaque est très sévère. 
+252. Les digitaliques sont d’autant plus efficaces que le patient est symptomatique. 
+253. Les digitaliques sont réservés aux insuffisants cardiaques qui restent symptomatiques en débit des IEC et 
+des diurétiques. 
+254. La digoxine à 25mg/j est utilisée pour ralentir la réponse ventriculaire en cas de fibrillation auriculaire. 
+255. La dose de digoxine doit être diminuée chez le sujet >70 ans, obèse ou dont la fonction rénale est altérée. 
+256. La toxicité des digitaliques est favorisée par l’hypokaliémie et induit surtout des arythmies. 245. Vrai 
+246. Vrai 
+ 
+247. Faux 
+248. Vrai 
+249. Vrai 
+250. Vrai 
+ 
+251. Faux 
+252. Vrai 
+253. Vrai 
+ 
+254. Faux 
+255. Faux  
+256. Vrai 

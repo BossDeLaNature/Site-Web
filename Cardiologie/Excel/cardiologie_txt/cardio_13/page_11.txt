@@ -1,0 +1,29 @@
+136. Les autres connectivites sont moins souvent associés au phénomène de Raynaud que la sclérodermie. 
+137. Certaines maladies hématologiques provoquent un phénomène de Raynaud : agglutinines chaudes, 
+cryofibrinogénémie, cryoglobulinémie,… 
+138. Les antagonistes calciques comme le diltiazem sont utilisés dans le phénomène de Raynaud. 
+139. Les antagonistes calciques entrainent de nombreux effets secondaires : bouffées de chaleur, œdème des 
+membres inférieurs, céphalées,… 
+140. La nifédipine est utilisée dans le traitement du phénomène de Raynaud en cas d’invalidité importante. 
+141. Les érythermalgies sont l’affection inverse du phénomène de Raynaud. 
+142. Les érythermalgies sont soulagées par la position déclive (au coucher). 
+143. Les érythermalgies sont caractérisées par des douleurs de type brulure et un érythème des extrémités 
+provoqués par la chaleur. 
+144. Les symptômes des érythermalgies sont présents en permanence. 
+145. Les symptômes des érythermalgies sont soulagées au froid ou en surélevant la partie atteinte. 
+146. Les érythermalgies sont surement liées à des troubles de la coagulation et de l’agrégation plaquettaire. 
+147. Des troubles du métabolisme des prostaglandines sont responsables d’érythermalgies. 136. Vrai 
+137. Faux 
+ 
+138. Faux 
+139. Vrai 
+ 
+140. Vrai 
+141. Vrai 
+142. Faux 
+143. Vrai 
+ 
+144. Faux 
+145. Vrai 
+146. Faux 
+147. Vrai 

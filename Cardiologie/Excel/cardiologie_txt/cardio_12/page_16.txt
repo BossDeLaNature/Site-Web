@@ -1,0 +1,29 @@
+203. La maladie de Takayasu touche 1 à 2,5 cas/100 000 habitants par an en Europe occidentale. 
+204. La maladie de Takayasu est parfois associée à une maladie de Crohn ou à une spondylarthrite ankylosante.  
+205. La maladie de Takayasu est probablement causée par des mécanismes immunopathogéniques. 
+206. La maladie de Takayasu est caractérisée par un infiltrat de cellules géantes plurinucléées à prédominance 
+médio-adventitielle. 
+207. La tension artérielle est souvent très élevée en cas de maladie de Takayasu. 
+208. Les symptômes généraux (malaises, fièvre, transpiration nocturne, arthralgies, anorexie, amaigrissement,…) 
+surviennent souvent après l’atteinte vasculaire en cas de maladie de Takayasu. 
+209. Les pouls peuvent être abolis par une atteinte des artères sous-clavières par la maladie de Takayasu. 
+210. Les signes généraux précèdent souvent de plusieurs mois la phase vasculaire de la maladie de Takayasu. 
+211. L’érythème noueux survient préférentiellement sur la partie prétibiale des membres inférieurs. 
+212. La maladie de Takayasu peut provoquer une HTA en cas d’atteinte des artères rénales. 
+213. La maladie de Takayasu est toujours d’évolution progressive et relativement stable. 
+214. La biologie est très spécifique de la maladie de Takayasu. 
+215. La maladie de Takayasu se manifeste par une VS parfois augmentée, des Ig augmentés et une anémie. 203. Faux 
+204. Vrai 
+205. Vrai 
+206. Faux 
+ 
+207. Faux 
+208. Faux 
+ 
+209. Vrai 
+210. Vrai 
+211. Vrai 
+212. Vrai 
+213. Faux 
+214. Faux 
+215. Vrai 

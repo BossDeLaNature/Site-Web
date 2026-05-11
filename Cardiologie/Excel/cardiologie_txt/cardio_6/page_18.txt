@@ -1,0 +1,29 @@
+231. Il faut exclure toute cause toxique avant de traiter un BAV ou un bloc de branche. 
+232. L’isoprénaline est un bêta-mimétique utilisé pour réduire la fréquence cardiaque en cas de BAV. 
+233. Le stimulateur cardiaque externe temporaire est constitué d’une sonde dans le ventricule gauche apporté 
+par abord veineux fémoral ou jugulaire. 
+234. Le stimulateur interne permanent n’est jamais indiqué en cas de BAV du 2ème degré. 
+235. Les troubles de la conduction auriculo-ventriculaire et intra-ventriculaire se manifestent par de la dyspnée, 
+des lipothymies et des syncopes. 
+236. Le stimulateur interne permanent est indiqué pour les BAV asymptomatiques du 3ème degré. 
+237. Le stimulateur interne permanent est indiqué pour tous les BAV symptomatiques. 
+238. Les arythmies supra-ventriculaires sont toujours associées à une altération de la fonction ventriculaire.  
+239. La tachycardie jonctionnelle peut être traitée avec succès par des manœuvres vagales.  
+240. L'électrocardiogramme dans le syndrome de pré-excitation montre toujours une onde delta bien visible.  
+241. La tachycardie sinusale peut être causée par une hyperthyroïdie.  
+242. La voie accessoire est mieux visualisée à l'ECG lorsqu'elle est située dans la région latérale gauche.  
+243. La tachycardie sinusale est parfois traitée par des médicaments bêta-bloquants.  231. Vrai 
+232. Faux 
+233. Faux 
+ 
+234. Faux 
+235. Vrai 
+ 
+236. Vrai 
+237. Vrai 
+238. Faux 
+239. Vrai 
+240. Faux 
+241. Vrai 
+242. Faux 
+243. Vrai 

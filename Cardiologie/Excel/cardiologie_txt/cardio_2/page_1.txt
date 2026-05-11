@@ -1,0 +1,28 @@
+CARDIO 
+Chapitre 2 : Hypertension artérielle (HTA)  
+ 
+1. L'élévation de la pression artérielle est dite "essentielle" en présence de causes secondaires identifiables telles 
+qu’une pathologie rénale, un désordre endocrinien ou une anomalie vasculaire. 
+2. L'hypertension artérielle est essentielle chez 95 % des patients hypertendus. 
+3. La pression artérielle est distribuée selon une gaussienne dans la population.  
+4. La résistance vasculaire dépend du diamètre des artères distales supérieur à 1mm.  
+5. L'activation orthosympathique est généralement présente chez les sujets hypertendus de plus de 40 ans.  
+6. Les effets de l'angiotensine II dans l’hypertension sont exclusivement médiés par les récepteurs AT1.  
+7. Les antagonistes de l'angiotensine II sont contre-indiqués si le patient a une insuffisance rénale aiguë.  
+8. L'HTA rénovasculaire est la cause la plus fréquente d'HTA secondaire.  
+9. La sténose athéroscléreuse des artères rénales est plus fréquente chez les femmes de moins de 50 ans.  
+10. La dysplasie fibromusculaire est plus fréquente chez les femmes de moins de 50 ans. 
+11. La dilatation percutanée est bénéfique dans le traitement de la sténose athéroscléreuse des artères rénales.  
+12. Les diurétiques sont à éviter en cas de décompensation cardiaque.  1. Faux 
+ 
+2. Vrai 
+3. Vrai 
+4. Faux  
+5. Faux 
+6. Faux 
+7. Vrai 
+8. Vrai 
+9. Faux 
+10. Vrai  
+11. Faux 
+12. Faux 

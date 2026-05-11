@@ -1,0 +1,29 @@
+86. La prévalence de l’AAA est d’environ 4% chez les hommes ayant arrêté de fumer. 
+87. La prévalence de l’AAA est de moins d’1% chez les hommes n’ayant jamais fumé. 
+88. L’arrêt du tabac ne réduit par le risque d’anévrysme de l’aorte abdominale. 
+89. La prévalence de l’AAA est de 0,4% chez les femmes et de 1,7% chez les hommes. 
+90. La prévalence de l’AAA est plus élevée en cas d’AOMI, d’antécédents d’AIT/AVC ou d’insuffisance coronaire. 
+91. Les phénomènes inflammatoires entrainent une perte des fibres élastiques et un épaississement de la paroi 
+en cas d’athéromatose. 
+92. Les facteurs génétiques n’interviennent pas dans le risque d’anévrysme de l’aorte abdominale. 
+93. Les anévrysmes dans le cadre de maladies du tissu élastique (Marfan, Ehlers-Danlos,…) sont rares. 
+94. La maladie de Behçet peut entrainer un anévrysme inflammatoire de l’aorte abdominale. 
+95. Le diamètre augmente en moyenne de 8mm/an en cas d’anévrysme de l’aorte abdominale. 
+96. La dilatation artérielle est de plus en plus lente quand le diamètre de l’artère augmente. 
+97. Le risque de rupture d’anévrysme augmente nettement quand le diamètre artériel atteint 60mm. 
+98. Une augmentation rapide du diamètre >5mm/6 mois est un facteur de risque de rupture d’anévrysme. 
+99. Un anévrysme aortique abdominal de 50mm de diamètre est à très haut risque de rupture. 86. Faux 
+87. Vrai 
+88. Faux 
+89. Vrai 
+90. Vrai 
+91. Faux 
+ 
+92. Faux 
+93. Vrai 
+94. Vrai 
+95. Faux 
+96. Faux 
+97. Vrai 
+98. Vrai 
+99. Faux 

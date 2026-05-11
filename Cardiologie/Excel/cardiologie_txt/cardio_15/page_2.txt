@@ -1,0 +1,29 @@
+14. L'échographie-Doppler est partiellement dépendante de l'opérateur.  
+15. La thrombose veineuse superficielle est souvent asymptomatique.  
+16. La phlegmatia alba dolens est une présentation classique de TVP.  
+17. La thrombose veineuse profonde n'entraîne jamais de dilatation des veines superficielles.  
+18. La thrombose veineuse profonde peut entraîner un syndrome post-thrombotique.  
+19. Le score de Wells simplifié comporte 3 niveaux d'estimation de la probabilité clinique de TVP.  
+20. Un cancer actif confère un point dans le score de Wells simplifié. 
+21. L'échographie-Doppler est moins sensible que le dosage des D-dimères pour détecter la TVP proximale.  
+22. La phlegmatia caerulea dolens nécessite un traitement urgent.  
+23. Le syndrome post-thrombotique une insuffisance veineuse sévère avec dilatations veineuse superficielles, 
+lourdeur de jambes, crampes, œdème, troubles trophiques, ulcères veineux, dermite ocre, hypodermite,…  
+24. Le dosage des D-dimères est recommandé uniquement lorsque le score de Wells est égal ou supérieur à 2.  
+25. Les patients âgés ont généralement des résultats de D-dimères faussement positifs.  
+26. Le traitement anticoagulant est toujours nécessaire en cas de TVP confirmée.  
+27. La TVP distale est souvent plus grave que la TVP proximale.  14. Vrai 
+15. Faux 
+16. Vrai 
+17. Faux 
+18. Vrai 
+19. Faux 
+20. Vrai 
+21. Faux 
+22. Vrai 
+23. Vrai 
+ 
+24. Faux 
+25. Vrai 
+26. Vrai 
+27. Faux 

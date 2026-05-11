@@ -1,0 +1,29 @@
+216. L’échographie n’est pas utilisée dans le diagnostic de la maladie de Takayasu. 
+217. L’artériographie et l’angioscanner renseignent sur la lumière artérielle en cas de maladie de Takayasu. 
+218. Le PET-scan est le meilleur moyen de diagnostiquer une maladie de Takayasu. 
+219. Des biopsies sont fréquemment réalisées pour confirmer le diagnostic de la maladie de Takayasu. 
+220. La revascularisation chirurgicale ou endovasculaire est souvent impossible en cas de maladie de Takayasu. 
+221. Le traitement de la maladie de Takayasu comprend des corticoïdes et des immunosuppresseurs.  
+222. Les immunosuppresseurs sont parfois utiles dans le traitement de la maladie de Horton. 
+223. La maladie de Behçet est associée à des manifestations articulaires, nerveuses et cutanées. 
+224. Le substratum est une vascularite des gros et des moyens vaisseaux artériels ou veineux. 
+225. La maladie de Behçet débute souvent entre 18 et 40 ans. 
+226. Il existe des formes familiales de la maladie de Behçet. 
+227. La présence d’aphtes buccaux ou génitaux récidivants est nécessaire au diagnostic de la TAO. 
+228. Le test pathergique montre une hypersensibilité au point de piqûre chez le sujet sain. 
+229. Des arthrites non déformantes sont associées à la maladie de Behçet dans 25% des cas. 
+230. La maladie de Behçet peut provoquer une folliculite, un érythème noueux et de l’acné sévère. 216. Faux 
+217. Vrai 
+218. Vrai 
+219. Faux 
+220. Faux 
+221. Vrai 
+222. Faux 
+223. Vrai 
+224. Faux 
+225. Vrai 
+226. Vrai 
+227. Faux 
+228. Faux 
+229. Vrai 
+230. Vrai 

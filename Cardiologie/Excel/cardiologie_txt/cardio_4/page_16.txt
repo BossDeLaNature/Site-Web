@@ -1,0 +1,29 @@
+177. Les patients asymptomatiques ne doivent pas être opérés en cas d’insuffisance aortique. 
+178. Le remplacement valvulaire aortique chirurgical est nécessaire pour tous les patients présentant une 
+insuffisance aortique aiguë.  
+179. L’auscultation fémorale montre un double bruit systolique et diastolique (vibration de la paroi artérielle 
+« en coup de fusil ») dans l’insuffisance mitrale.  
+180. L'insuffisance aortique peut être causée par la prise d'anorexigènes.  
+181. Le traitement chirurgical de l’insuffisance cardiaque est indiqué pour les patients asymptomatiques qui 
+présentent une altération de la fonction ventriculaire gauche même si leur capacité d’effort est normale. 
+182. L’insuffisance cardiaque doit absolument être traitée en cas d’insuffisance aortique. 
+183. Une aorte ascendante dilatée à <50mm chez un patient souffrant du syndrome de Marfan ou de bicuspidie 
+aortique est une indication pour l’opération de Bentall. 
+184. Les patients asymptomatiques avec une augmentation du diamètre ventriculaire à l’échographie doivent 
+être opérés rapidement en cas d’insuffisance aortique.    
+185. Le remplacement valvulaire chirurgical n’est pas indiqué chez les patients symptomatiques atteints 
+d’insuffisance aortique car la chirurgie n’améliore pas le pronostic. 177. Faux 
+178. Vrai 
+ 
+179. Faux 
+ 
+180. Vrai 
+181. Vrai 
+ 
+182. Vrai 
+183. Faux 
+ 
+184. Vrai 
+ 
+185. Faux 
+ 

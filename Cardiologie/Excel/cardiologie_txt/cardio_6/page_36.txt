@@ -1,0 +1,29 @@
+479. La FA soutenue re-sinusalisable est une FA persistante qui ne peut être arrêtée que par une cardioversion. 
+480. Le débit cardiaque peut chuter de 30% en cas de fibrillation auriculaire. 
+481. La maladie du sinus représente 70% des indications de stimulateur cardiaque. 
+482. La FA paroxystique s’arrête parfois spontanément endéans les 7 jours. 
+483. La prévalence de la fibrillation auriculaire est de 10% après 80 ans. 
+484. La fibrillation auriculaire ne cause jamais d’AVC embolique. 
+485. La resinusalisation doit être réalisée avant l’anticoagulation dans le traitement de la FA. 
+486. La biologie sanguine, la radio de thorax et l’épreuve d’effort permettent de rechercher la cause de la FA. 
+487. L’ECG montre des ondes P irrégulières et un intervalle RR variable en cas de FA. 
+488. L’épisode d’ECG anormal doit durer au moins 30 secondes pour être considéré comme de la FA. 
+489. Des oscillations rapides de la ligne de base sans onde P pendant <30 secondes est considéré comme une 
+tachyarythmie supra-ventriculaire mais pas comme une fibrillation auriculaire. 
+490. L’échographie transthoracique montre un thrombus dans l’auricule gauche dans 1/3 des cas si la FA >3j. 
+491. L’échographie cardiaque permet de voir une dilatation auriculaire ou une pathologie mitrale en cas de FA. 
+492. La flécaïnide et le propafénone sont des anti-arythmiques de classe 3. 479. Vrai 
+480. Vrai 
+481. Faux 
+482. Vrai 
+483. Vrai 
+484. Faux 
+485. Faux 
+486. Vrai 
+487. Faux 
+488. Vrai 
+489. Vrai 
+ 
+490. Faux 
+491. Vrai 
+492. Faux 
