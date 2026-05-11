@@ -1,0 +1,2306 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "La maladie athérothrombotique est responsable de plus de 90% des artériopathies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "Les artériopathies non athéromateuses ne touchent que les artères des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "Les causes emboligènes des artériopathies sont très nombreuses : thrombus, valvulopathies, troubles du rythme (FA), aortite ulcérée, anévrysme de l’aorte, sténose emboligène, myxome, emboles de cholestérol,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "Les embolies paradoxales débutent souvent à partir d’une TVP des membres supérieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "L’embolie paradoxale est caractérisée par le passage d’un embole à travers un foramen ovale perméable.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "Les artériopathies non athéromateuses ne touchent jamais l’aorte ou les vaisseaux à destinée encéphalique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Les emboles du membre supérieur peuvent être associés à un syndrome du défilé thoracique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "Le syndrome de la poplitée piégée affecte principalement les personnes âgées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "Les kystes adventiciels sont responsables d'une obstruction progressive de la lumière artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "Les dysplasies fibromusculaires touchent principalement les artères fémorales superficielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "L'endofibrose iliaque externe touche le plus souvent les personnes sédentaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "L'artérite post-radique survient généralement plusieurs années après une radiothérapie anti-cancéreuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "Les artériopathies toxiques sont principalement causées par l'exposition à des métaux lourds.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "Le pseudoxanthome élastique affecte principalement les hommes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "Les embolies paradoxales se produisent souvent à partir d’une TVP des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "La dysplasie fibromusculaire touche principalement les artères rénales, les carotides et les artères iliaques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "L'endofibrose iliaque externe est spécifique aux personnes âgées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "Seulement 10% des artériopathies ne sont pas causées par la maladie athérothrombotique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "Les artériopathies non athéromateuses ne touchent pas uniquement les artères des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "Le syndrome de la poplitée piégée est une cause d'artériopathie athéromateuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "Le syndrome de la poplitée piégée est caractérisé par une claudication intermittente chez les sujets jeunes sans facteurs de risque d'athérosclérose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "L'ischémie mésentérique aiguë est une manifestation courante de la maladie kystique adventicielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "Les dysplasies fibromusculaires touchent préférentiellement les hommes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "La dysplasie fibromusculaire peuvent causer une hypertension artérielle en cas d'atteinte des artères rénales.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "Les endofibroses iliaques externes sont spécifiques des sujets sportifs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "Les endofibroses iliaques externes entraînent généralement une claudication basse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "Les dissections artérielles touchent surtout l’aorte et peuvent s’étendre vers les carotides ou les artères du MI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "Certains médicaments anti-migraineux conteniennent des dérivés de l'ergot de seigle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "La maladie de Buerger touche principalement les femmes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "La maladie de Buerger est associée à un risque accru de thrombophlébites superficielles migrantes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "La maladie de Horton affecte principalement les jeunes adultes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "La maladie de Horton est également appelée artérite à cellules géantes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "La maladie de Takayasu affecte principalement les hommes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "La maladie de Takayasu touche principalement les artères de gros et moyen calibre.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "La maladie de Takayasu est plus fréquente en Europe occidentale qu'en Orient.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "La maladie de Behçet est caractérisée par des ulcérations buccales et génitales récurrentes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "Les artères sont les seules structures vasculaires touchées par la maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "Les kystes adventiciels peuvent provoquer une claudication intermittente chez les sujets jeunes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "Les dysplasies fibromusculaires touchent principalement les artères coronaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "Le pseudoxanthome élastique est une maladie non héréditaire du tissu conjonctif.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "Les artérites inflammatoires n'affectent que les gros vaisseaux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "La maladie de Buerger est plus fréquente chez les hommes jeunes de <40 ans et fumeurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "La maladie de Behçet n'entraîne pas de manifestations cutanées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "Les embolies de cholestérol sont un exemple de cause emboligène d'artériopathies non athéromateuses.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "Le syndrome du défilé thoraco-brachial est associé à des emboles dans les membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "Le syndrome de la poplitée piégée est souvent associé à une douleur du membre inférieur au repos.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "Les maladies kystiques adventicielles affectent souvent les artères poplitées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "Les artérites post-radique surviennent généralement dans un territoire irradié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "L’ergot de seigle provoque une vasoconstriction centrale et des effets hallucinogènes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "Le pseudoxanthome élastique affecte principalement la peau, la rétine et les parois artérielles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "La maladie de Buerger est associée à un risque accru de maladies cardiaques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "La maladie de Takayasu touche principalement les artères des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "La maladie de Behçet provoque souvent une atteinte oculaire (iritis, uvéite, conjonctivite,…).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "Les artérites post-radiques affectent principalement les artères iliaques et carotides.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "Les artériopathies toxiques sont principalement causées par des toxines alimentaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "Le pseudoxanthome élastique est une maladie rare à prédominance féminine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "Les artérites inflammatoires touchent uniquement les vaisseaux de petit calibre.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "La maladie de Horton est plus fréquente chez les hommes que chez les femmes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "Les ulcérations buccales ou génitales sont un critère diagnostique de la maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "La thromboangéite oblitérante est une maladie vasculaire non inflammatoire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "La prévalence de la maladie de Buerger est plus élevée en Asie et en Europe centrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "La maladie de Horton affecte les branches de la carotide externe mais pas celles de la carotide interne.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "La fièvre est un symptôme courant de la maladie de Horton.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "La maladie de Horton touche quasi exclusivement les personnes âgées de plus de 60 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "L’inflammation de la maladie de Horton est traitée par corticoïdes car les AINS sont souvent insuffisants.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "Les artères sous-clavières sont rarement affectées dans la maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "La maladie de Behçet est souvent plus sévère chez les femmes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "La maladie de Behçet début souvent après 55 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "La biopsie est souvent nécessaire pour confirmer le diagnostic de la maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "Les corticoïdes sont utilisés dans le traitement des formes graves de la maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "Les anticoagulants sont utilisés en cas de thrombose veineuse profonde dans la maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "La maladie de Buerger touche exclusivement les artères des membres supérieurs et inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "La maladie de Takayasu est fréquemment associée à une pseudo-polyarthrite rhizomélique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "La maladie de Takayasu est plus fréquente chez les femmes jeunes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "Les pouls périphériques sont généralement conservés dans la maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "La maladie de Takayasu est plus fréquente en Orient et sur le pourtour méditerranéen.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "Les lésions cutanées sont un critère nécessaire pour le diagnostic de la maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "La maladie de Buerger est souvent associée à un phénomène de Raynaud.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "Les pouls périphériques sont souvent absents dans la maladie de Takayasu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "La maladie de Buerger est associée à une prédisposition génétique au niveau du groupe HLA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "Les manifestations oculaires sont absentes dans la maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "Les manifestations cutanées sont un critère majeur pour le diagnostic de la maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "Le syndrome de la poplitée piégée est dû à des anomalies d’insertion musculo-tendineuses qui gênent le passage du sang par compression de la veine poplitée lors de certains mouvements.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "L’artère poplitée peut être comprimée de façon continue par des muscles ou des tendons du creux poplité.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "Le syndrome de la poplitée piégée est caractérisé par une claudication intermittente chez les sujets âgés.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "Le syndrome de la poplitée piégée provoque une insuffisance circulatoire artérielle lors de la flexion de la jambe et de la dorsiflexion du pied.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "Le syndrome de la poplitée piégée est diagnostiqué par une disparition des pouls à la dorsiflexion du pied.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "L’artériographie dynamique permet de visualiser la compression poplitée lors de certains mouvements.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "L’artériographie statique est inutile dans le diagnostic du syndrome de la poplitée piégée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "L’échographie permet de visualiser les anomalies d’insertion des structures musculo-tendineuses en cas de syndrome de la poplitée piégée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "La RMN est utilisée dans le diagnostic du syndrome de la poplitée piégée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "Les maladies kystiques adventitielles affectent principalement les artères fémorales profondes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "La maladie kystique adventitielle est due à une dégénérescence kystique ou mucoïde de la paroi artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "La maladie kystique adventitielle entraine une ischémie du membre supérieur en aval du kyste.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "La maladie kystique adventitielle entraine une claudication intermittente persistante du sujet d’âge moyen.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "Les kystes adventitiels se remplissent progressivement de mucus et obstruent la lumière artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "Les kystes adventitiels se vident habituellement dans la lumière veineuse par une fistule artério-veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "La vidange du kyste adventitiel normalise le flux artériel et fait disparaitre la claudication.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "Le diagnostic de la maladie kystique adventitielle est basé sur la clinique, l’échographie, le CT-scan et la RMN.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "La dysplasie fibrokystique touche 8 fois plus souvent les femmes que les hommes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "La dysplasie fibrokystique entraine toujours une fibrose de la limitante élastique interne.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "La dysplasie fibrokystique se manifeste par un aspect typique « en collier de perles » à l’angiographie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "La dysplasie fibrokystique ne touche que la média des artères.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "La forme la plus fréquente de dysplasie fibrokystique provoque une hyperplasie de la média.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "La dysplasie fibrokystique est une cause d’HTA rénovasculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "La dysplasie fibrokystique carotidienne peut entrainer un AVC, une dissection ou un anévrisme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "L’endofibrose iliaque externe est spécifique de l’haltérophile de haut niveau.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "L’endofibrose iliaque externe est caractérisée par une sténose artérielle due aux frottements répétés.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "L’enfibrose iliaque du cycliste de haut niveau siège au niveau de l‘artère iliaque interne dans 90% des cas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "L’endofibrose iliaque externe est caractérisée par des lésions intimales fibreuses et multi-cellulaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "L’endofibrose iliaque externe provoque une fibrose de l’intima avec une oblitération artérielle progressive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "Les symptômes de l’endofibrose iliaque externe peuvent survenir au repos.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "L’artérite post-radique se manifeste par une clinique similaire à celle de l’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "La chirurgie est le traitement de référence pour l’artérite post-radique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "Le traitement de l’artérite post-radique est de préférence conservateur ou endovasculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "L’artérite post-radique survient généralement quelques mois après une radiothérapie anti-cancéreuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "Toutes les artères sont susceptibles de subir un traumatisme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "Le traumatisme artériel le plus fréquent est la rupture de l’aorte abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "Un traumatisme thoracique non ouvert à grande vitesse peut induire une rupture de la valve aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "La rupture de l’aorte thoracique est liée dans 80 à 90% des cas à un accident sur la voie publique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "La rupture de l’aorte thoracique peut survenir suite à une chute d’une hauteur élevé (accident de travail, accidents d’avion, défenestrations,…).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "La dissection aortique est une déchirure le plus souvent transversale de l’intima.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "La déchirure circonférentielle de l’intima induit la formation d’une VRAIe et d’une fausse lumière.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "Les dissections aortiques n’entrainent jamais de symptômes périphériques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "Le 1er trimestre de la grossesse est une période à risque de dissections artérielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "L’HTA est un facteur prédisposant dans 70% des dissections artérielles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 127,
+    "Proposition": "Le traitement est le même pour tous les types de dissections artérielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 128,
+    "Proposition": "La médianécrose kystique, les maladies des lames élastiques et du collagène (Marfan, Ehlers-Danlos,…) et les anomalies congénitales de la valve aortique sont des facteurs prédisposants aux dissections artérielles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 129,
+    "Proposition": "Certains toxiques peuvent léser les artères ou occasionner un vasospasme artériel.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 130,
+    "Proposition": "L’ergot de seigle est une bactérie parasite des céréales comme le seigle et le blé.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 131,
+    "Proposition": "L’ergot de seigle contient des alcaloïdes dérivés de l’acide arachidonique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 132,
+    "Proposition": "L’ergotisme n’est jamais causé par des médicaments anti-migraineux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 133,
+    "Proposition": "L’ergotisme induit des spasmes artériels périphériques fluctuants avec des symptômes d’ischémie périphérique et est une cause d’artériopathies toxiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 134,
+    "Proposition": "Le pseudoxanthome élastique induit une calcification et un allongement progressif des fibres élastiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 135,
+    "Proposition": "La prévalence du pseudoxanthome élastique varie entre 1/25 000 et 1/100",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 136,
+    "Proposition": "Le pseudoxanthome élastique nécessite très souvent une amputation des extrémités des membres.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 137,
+    "Proposition": "Les calcifications artérielles sont responsables d’une artériosclérose précoce en cas de pseudoxanthome élastique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 138,
+    "Proposition": "Le pseudoxanthome élastique se manifeste par une claudication intermittente, des papules cutanées rougeâtres, des excès de peau et un aspect de peau d’orange.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 139,
+    "Proposition": "Le pseudoxanthome élastique ne conduit jamais à la cécité.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 140,
+    "Proposition": "Le pseudoxanthome élastique induit des hémorragies digestives dans 50% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 141,
+    "Proposition": "Le fond d’œil montre des stries angioïdes à partir de la papille en cas de pseudoxanthome élastique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 142,
+    "Proposition": "Les stries angioïdes sont des craquelures/déchirures sombres de la membrane de Bruch qui entrainent l’émergence de néovaisseaux en provenance de la choroïde.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 143,
+    "Proposition": "L’aspirine est utilisée dans le traitement du pseudoxanthome élastique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 144,
+    "Proposition": "La fragmentation des fibres élastiques des vaisseaux entraine une multitude de complications thrombotiques en cas de pseudoxanthome élastique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 145,
+    "Proposition": "La thromboangéite oblitérante atteint les artères distales de grand calibre >3mm.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 146,
+    "Proposition": "La maladie de Buerger constitue 0,5 à 5% des artériopathies des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 147,
+    "Proposition": "La thromboangéite oblitérante atteint exclusivement les artères et les veines des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 148,
+    "Proposition": "Le tabac est un facteur protecteur contre la maladie de Buerger.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 149,
+    "Proposition": "La maladie de Buerger est associée à la consommation de tabac et probablement de cannabis.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 150,
+    "Proposition": "La maladie de Buerger est fréquemment caractérisée par une triade associant claudication du membre atteint, phénomène de Raynaud et thrombophlébites profondes migrantes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 151,
+    "Proposition": "La maladie de Buerger évolue par poussées suivies de périodes de rémissions.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 152,
+    "Proposition": "L’artériographie montre des collatérales spiralées « en tire-bouchon » dans la maladie de Buerger.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 153,
+    "Proposition": "Le test d’Allen est inutile dans le diagnostic de la thromboangéite oblitérante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 154,
+    "Proposition": "La biologie montre souvent des signes très spécifiques en cas de maladie de Buerger.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 155,
+    "Proposition": "La biopsie est rarement possible dans la maladie de Buerger sauf en cas de TVS.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 156,
+    "Proposition": "La biopsie montre une panvascularite avec thombus frais hypercellulaire comprenant des polynucléaires neutrophiles, des macrophages et des cellules multinuclées en cas de maladie de Buerger.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 157,
+    "Proposition": "L’arrêt du tabac est un élément salvateur en cas de thromboangéite oblitérante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 158,
+    "Proposition": "Les bêta-bloquants font partie du traitement de la maladie de Buerger.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 159,
+    "Proposition": "Le traitement de la thromboangéite oblitérante comprend des antiagrégants plaquettaires, des anticoagulants, des antagonistes calciques et de la prostacycline (iloprost).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 160,
+    "Proposition": "La chirurgie de revascularisation est un traitement de choix dans la maladie de Buerger.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 161,
+    "Proposition": "Certains cas de maladie de Buerger peuvent bénéficier d’une sympathectomie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 162,
+    "Proposition": "Des amputations limitées sont parfois nécessaires en cas de maladie de Buerger.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 163,
+    "Proposition": "L’artérite à cellules géantes prédomine au niveau de l’intima en cas de maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 164,
+    "Proposition": "La maladie de Horton provoque une atteinte vasculaire de topographie segmentaire et unifocale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 165,
+    "Proposition": "La maladie de Horton touche préférentiellement l’aorte et ses branches de division.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 166,
+    "Proposition": "La maladie de Horton touche uniquement les branches de la carotide interne : temporale, ophtalmique,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 167,
+    "Proposition": "La maladie de Horton est associée à des douleurs scapulaires et des hanches en fin de journée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 168,
+    "Proposition": "La maladie de Horton touche environ 100 habitants de plus de 50 ans sur 100",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 169,
+    "Proposition": "La maladie de Horton provoque des céphalées dans 65 à 70% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 170,
+    "Proposition": "La maladie de Horton est fréquemment associée à une pseudo-polyarthrite rhizomélique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 171,
+    "Proposition": "La maladie de Horton touche surtout les vaisseaux terminaux de petit calibre.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 172,
+    "Proposition": "La maladie de Buerger touche les artères distales de petit et moyen calibre de 1 à 3mm.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 173,
+    "Proposition": "La maladie de Horton est plus fréquente chez la femme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 174,
+    "Proposition": "La maladie de Horton est plus fréquente dans les populations blanches d’Europe et d’Amérique du Nord.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 175,
+    "Proposition": "La maladie de Horton est une cause potentielle de cécité chez le sujet jeune.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 176,
+    "Proposition": "Le soleil, l’environnement et la prédisposition génétique jouent probablement un rôle dans la survenue de la maladie de Horton.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 177,
+    "Proposition": "Les temporales sont douloureuses à la palpation dans la majorité des cas d’artèrite à cellules géantes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 178,
+    "Proposition": "La maladie de Horton se manifeste par de la fièvre et de l’asthénie sans altération de l’état général.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 179,
+    "Proposition": "La pseudo-polyarthrite rhizomélique se manifeste par une raideur des ceintures scapulaires et pelviennes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 180,
+    "Proposition": "L’amaurose fugace, la claudication massétérine, les artères temporales douloureuses à la palpation et les paresthésies du cuir chevelu sont des signes évocateurs présents chez 30-40% des cas de maladie de Horton.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 181,
+    "Proposition": "La claudication massétérine correspond à une ischémie et une crampe du masséter à la mastication.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 182,
+    "Proposition": "La vitesse de sédimentation est souvent normale en cas de maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 183,
+    "Proposition": "La biologie montre une anémie inflammatoire, une CRP élevée et une diminution des plaquettes dans la maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 184,
+    "Proposition": "La maladie de Horton est souvent associée à une cholestase biologique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 185,
+    "Proposition": "La VS est souvent >50mm/min en cas de maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 186,
+    "Proposition": "L’échographie-Doppler des artères temporales permet de diagnostiquer la maladie de Horton.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 187,
+    "Proposition": "La biopsie d’une artère temporale montre des cellules monomorphes et géantes dans la média avec une rupture de la limitante élastique interne en cas de maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 188,
+    "Proposition": "Les AINS sont souvent suffisants pour traiter l’inflammation responsable de la maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 189,
+    "Proposition": "Le PET-scan est actuellement le meilleur choix pour diagnostiquer la maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 190,
+    "Proposition": "La maladie de Horton est traitée par une courte corticothérapie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 191,
+    "Proposition": "Le traitement de la phase aigüe de la maladie de Horton est composé de prednisone à 0,5-1mg/j pendant 3 à 6 semaines.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 192,
+    "Proposition": "La corticothérapie nécessite une supplémentation en vitamine D et en calcium chez le sujet âgé.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 193,
+    "Proposition": "La corticothérapie doit souvent être poursuivie à des doses d’entretien (5-10mg/j) pendant 1 à 2 ans en cas de maladie de Horton.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 194,
+    "Proposition": "La corticothérapie prolongée permet de minimiser le risque de rechute de la maladie de Horton.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 195,
+    "Proposition": "La maladie de Takayasu est aussi appelée maladie des hommes sans pouls.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 196,
+    "Proposition": "Tous les gros vaisseaux peuvent être atteints par la maladie de Takayasu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 197,
+    "Proposition": "La maladie de Takayasu est une artérite inflammatoire et thrombosante du sujet jeune.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 198,
+    "Proposition": "La maladie de Takayasu est une artérite de l’aorte et ses branches à prédominance médio-adventitielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 199,
+    "Proposition": "La maladie de Takayasu atteint préférentiellement l’aorte ascendante et les artères sous-clavières.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 200,
+    "Proposition": "On ne retrouve généralement pas de cellules géantes dans la maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 201,
+    "Proposition": "La crosse de l’aorte est très souvent atteinte par la maladie de Takayasu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 202,
+    "Proposition": "La maladie de Takayasu débute fréquemment à l’adolescence ou avant 20 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 203,
+    "Proposition": "La maladie de Takayasu touche 1 à 2,5 cas/100 000 habitants par an en Europe occidentale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 204,
+    "Proposition": "La maladie de Takayasu est parfois associée à une maladie de Crohn ou à une spondylarthrite ankylosante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 205,
+    "Proposition": "La maladie de Takayasu est probablement causée par des mécanismes immunopathogéniques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 206,
+    "Proposition": "La maladie de Takayasu est caractérisée par un infiltrat de cellules géantes plurinucléées à prédominance médio-adventitielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 207,
+    "Proposition": "La tension artérielle est souvent très élevée en cas de maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 208,
+    "Proposition": "Les symptômes généraux (malaises, fièvre, transpiration nocturne, arthralgies, anorexie, amaigrissement,…) surviennent souvent après l’atteinte vasculaire en cas de maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 209,
+    "Proposition": "Les pouls peuvent être abolis par une atteinte des artères sous-clavières par la maladie de Takayasu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 210,
+    "Proposition": "Les signes généraux précèdent souvent de plusieurs mois la phase vasculaire de la maladie de Takayasu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 211,
+    "Proposition": "L’érythème noueux survient préférentiellement sur la partie prétibiale des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 212,
+    "Proposition": "La maladie de Takayasu peut provoquer une HTA en cas d’atteinte des artères rénales.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 213,
+    "Proposition": "La maladie de Takayasu est toujours d’évolution progressive et relativement stable.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 214,
+    "Proposition": "La biologie est très spécifique de la maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 215,
+    "Proposition": "La maladie de Takayasu se manifeste par une VS parfois augmentée, des Ig augmentés et une anémie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 216,
+    "Proposition": "L’échographie n’est pas utilisée dans le diagnostic de la maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 217,
+    "Proposition": "L’artériographie et l’angioscanner renseignent sur la lumière artérielle en cas de maladie de Takayasu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 218,
+    "Proposition": "Le PET-scan est le meilleur moyen de diagnostiquer une maladie de Takayasu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 219,
+    "Proposition": "Des biopsies sont fréquemment réalisées pour confirmer le diagnostic de la maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 220,
+    "Proposition": "La revascularisation chirurgicale ou endovasculaire est souvent impossible en cas de maladie de Takayasu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 221,
+    "Proposition": "Le traitement de la maladie de Takayasu comprend des corticoïdes et des immunosuppresseurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 222,
+    "Proposition": "Les immunosuppresseurs sont parfois utiles dans le traitement de la maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 223,
+    "Proposition": "La maladie de Behçet est associée à des manifestations articulaires, nerveuses et cutanées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 224,
+    "Proposition": "Le substratum est une vascularite des gros et des moyens vaisseaux artériels ou veineux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 225,
+    "Proposition": "La maladie de Behçet débute souvent entre 18 et 40 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 226,
+    "Proposition": "Il existe des formes familiales de la maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 227,
+    "Proposition": "La présence d’aphtes buccaux ou génitaux récidivants est nécessaire au diagnostic de la TAO.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 228,
+    "Proposition": "Le test pathergique montre une hypersensibilité au point de piqûre chez le sujet sain.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 229,
+    "Proposition": "Des arthrites non déformantes sont associées à la maladie de Behçet dans 25% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 230,
+    "Proposition": "La maladie de Behçet peut provoquer une folliculite, un érythème noueux et de l’acné sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 231,
+    "Proposition": "La névrite optique est associée à la maladie de Horton mais pas à la maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 232,
+    "Proposition": "La maladie de Behçet provoque des thromboses veineuses du membre inférieur dans la majorité des cas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 233,
+    "Proposition": "La maladie de Behçet peut rarement causer des anévrysmes ou des thromboses artérielles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 234,
+    "Proposition": "La maladie de Behçet est plus fréquente en Asie et autour du Bassin méditerranéen.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 235,
+    "Proposition": "L’atteinte digestive est peu fréquente dans la maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 236,
+    "Proposition": "La maladie de Behçet ne touche jamais le système nerveux central.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 237,
+    "Proposition": "L’érythème noueux est caractérisée par de multiples nodules sous-cutanées rouges, chauds et sensibles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 238,
+    "Proposition": "Plus de 3 épisodes d’ulcérations orales en 12 mois peuvent faire suspecter une maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 239,
+    "Proposition": "La capillaroscopie montre une microvascularite épidermique dans 60% des cas de maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 240,
+    "Proposition": "La maladie de Behçet augmente le risque de formation anévrysmale au point de ponction en cas d’artériographie ou d’autre acte invasif.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 241,
+    "Proposition": "La colchicine est utilisée dans le traitement des formes graves de maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 242,
+    "Proposition": "Toutes les thromboses artérielles liées à la maladie de Behçet doivent être traitées en endovasculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 243,
+    "Proposition": "La corticothérapie est utilisée dans le traitement des formes graves de maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 244,
+    "Proposition": "Le méthotrexate est utilisée dans le traitement des formes cutanéo-muqueuses de la maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 245,
+    "Proposition": "L’azathioprine est utilisée dans le traitement des formes graves de maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 246,
+    "Proposition": "Les anévrysmes artériels liés à la maladie de Behçet doivent impérativement être traités par chirurgie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 247,
+    "Proposition": "Le test de pathergie montre une pustule stérile après 24h en cas de maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 248,
+    "Proposition": "Les anévrysmes artériels liés à la maladie de Behçet ont un faible risque de rupture.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 249,
+    "Proposition": "L’atteinte vasculaire de la maladie de Behçet touche à la fois les artères et les veines.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 250,
+    "Proposition": "La prévalence de la maladie de Behçet est plus élevée en Turquie qu’en Belgique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 251,
+    "Proposition": "Des atteints cutanées multiples, des troubles psychiatriques, une panuvéite bilatérale, des arthralgies spontanément résolutives et une atteinte péri- et endo-vasculaire sont des signes de la maladie de Behçet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 252,
+    "Proposition": "L’atteinte artérielle est symptomatique chez 30 à 50% des patients atteints de la maladie de Behçet.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 253,
+    "Proposition": "Le test pathergique consiste à réaliser 2 piqûres à l’aiguille sur l’intérieur de l’avant-bras.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 254,
+    "Proposition": "L’atteinte digestive de la maladie de Behçet peut faire penser à une maladie de Crohn.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 255,
+    "Proposition": "Le traitement des thrombose artérielle liée à la maladie de Behçet est habituellement conservateur.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 256,
+    "Proposition": "L’atteinte artérielle de la maladie de Behçet peut provoquer une occlusion de l’artère pulmonaire ou des hémoptysies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

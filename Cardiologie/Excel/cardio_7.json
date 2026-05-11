@@ -1,0 +1,1568 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "L'artériopathie oblitérante des membres inférieurs est l’équivalent d’une crise d’angor au niveau des jambes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "L’AOMI est une manifestation de la maladie athéro-thrombotique affectant les artères périphériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "L’AOMI est associée à une réduction du risque d’infarctus myocardique, d’AVC et de décès d’origine vasculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "L’AOMI est la conséquence d’une maladie générale athéromateuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "L’AOMI représente 60% des artériopathies.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "Le risque d’événement coronarien ou cérébro-vasculaire est 2x plus élevé en cas d’AOMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Le tabagisme, l’âge, le diabète, la dyslipidémie et l’hypotension sont des facteurs de risque d’AOMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "L’athérosclérose est responsable de la majeure partie des cas d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "La prévalence de l’OAMI symptomatique est relativement similaire dans les deux sexes au-délà de 65 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "L’artérite diabétique est une forme moins sévère d’AOMI que l’athérosclérose.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "L’AOMI est 3 fois plus fréquente chez la femme avant 65 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "La prévalence de l’AOMI symptomatique est de 20% après 60 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "Le pronostic général de l’AOMI est souvent grave car elle est associée à des lésions dans d’autres territoires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "L’AOMI est associée à une atteinte des coronaires dans 50% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "L’AOMI est associée à des lésions des carotides et/ou des vertébrale dans 25% des cas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "L’AOMI est associée à un anévrisme de l’aorte abdominale dans 10% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "L’artérite sénile est responsable d’environ 50% des cas d’AOMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "L’AOMI se localise le plus souvent dans l’artère fémorale profonde au niveau du genou.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "L’AOMI est un processus progressif qui induit le développement d’une circulation collatérale de suppléance.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "L’artérite emboligène est liée à la migration de caillots de fibrine ou de cholestérol.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "Le stade III de l’AOMI se manifeste par des douleurs de repos.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "Les pressions de perfusion chez les patients atteints de stade IIIb de l’AOMI sont supérieures à 50 mm Hg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "Le diagnostic d’AOMI se base surtout sur l’anamnèse et l’examen clinique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "La classification de Fontaine-Leriche permet de classer les symptômes de l’ischémie aigue du membre inférieur.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "La thromboaspiration est un traitement utilisé dans l’ischémie aiguë des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "Les emboles dans l’ischémie aiguë des membres inférieurs sont d’origine artérielle dans 80% des cas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "Les signes cliniques caractéristiques de l’ischémie aiguë des membres inférieurs suivent la règle des 5P.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "Les signes neurologiques ne sont pas pertinents dans l’évaluation de l’ischémie aiguë des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "L’angio-IRM est inadéquate pour les artères ayant fait l’objet d’un stenting.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "Le traitement de l’ischémie aiguë des membres inférieurs est une urgence thérapeutique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "L’examen clinique est suffisant pour diagnostiquer l’AOMI dans plus de 80% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "L’artériographie est une technique d’imagerie non invasive pour évaluer précisément l’extension des lésions artérielles périphériques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "L’angio-IRM nécessite l’injection IV d’un produit de contraste iodé pour diagnostiquer une AOMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "Le rétrécissement des artères dans l’AOMI entraîne une accélération progressive du débit sanguin.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "La circulation collatérale de suppléance devient insuffisante au-delà d’un certain point en cas d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "Les douleurs de repos sont caractéristiques du stade II de l’AOMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "La pression d’oxygène transcutanée est une technique d’exploration de la microcirculation.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "Toutes les techniques d’artériographie sont des examens invasifs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "Les pressions de perfusion augmentent en cas d’AOMI lors d’une épreuve d’hyperhémie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "Le réentrainement physique est fondamental dans le traitement de l’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "Les antiagrégants plaquettaires ne sont pas recommandés dans le traitement de l’AOMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "Les statines sont utilisées pour stabiliser les plaques d’athérome chez les patients atteints d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "Les douleurs de repos sont caractéristiques du stade III de l’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "Les troubles trophiques dans l’artérite diabétique sont habituellement localisés aux mains et aux bras.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "L’angio-CT permet une bonne visualisation des artères très calcifiées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "Les emboles passent souvent inaperçus dans l’ischémie aiguë des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "Les lésions trophiques dans l’AOMI peuvent être très minimes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "Les pouls périphériques disparaissent dans l’ischémie aiguë des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "Les lésions neurologiques surviennent dès la 6e heure dans l’ischémie aiguë des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "Les emboles dans l’ischémie aiguë des membres inférieurs sont toujours d’origine cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "L’angio-IRM est une technique d’imagerie nécessitant l’injection IV d’un produit peu néphrotoxique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "L’examen clinique est insuffisant pour diagnostiquer l’AOMI dans la majorité des cas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "L’angio-IRM est une technique non invasive pour évaluer l’extension des lésions artérielles périphériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "L’angio-IRM permet une visualisation précise des artères périphériques sans utiliser de rayons X.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "Lors d’une épreuve d’hyperhémie, les pressions de perfusion diminuent et la PA augmente en cas d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "Le réentrainement physique est très efficace dans le traitement de la claudication intermittente.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "Les troubles trophiques dans l’artérite diabétique affectent principalement les membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "Les artériographies donnent une cartographie précise de la microcirculation dans les membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "L’angio-CT est une d’imagerie par tomodensitométrie nécessitant l’injection IV d’un produit de contraste iodé.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "Les lésions neurologiques surviennent dans les 3 premières heures de l’ischémie aiguë des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "L’angio-CT est une technique d’imagerie invasive pour évaluer l’extension des lésions artérielles périphériques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "Les pressions de perfusion augmentent lors d’une épreuve d’hyperhémie chez le sujet normal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "Le temps de recoloration unguéale normal est inférieur à 5 secondes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "Il est recommandé de prendre les pouls périphériques à l’aide de la pulpe des doigts.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "La bifurcation de l’aorte abdominale est localisée au-dessus de l’ombilic.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "Le pouls de l’artère pédieuse est pris à la face latérale du 2ème os métatarsien.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "L’insuffisance veineuse sévère peut se manifester par un œdème à godet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "L’intensité d’un souffle vasculaire est souvent un bon indicateur du degré de sténose de l’artère.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "La peau mal oxygénée est souvent rouge, fine, fragile et sans poils.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "Le follicule pileux est l’une des 1ères structures à souffrir du manque d’oxygène.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "Les patients artéritiques sont très souvent diabétiques et ont peu de sensation au niveau des extrémités.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "L’érythrocyanose déclive est caractérisée par une coloration rouge/violet du pied en position couchée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "Le test d’Allen doit être réalisée systématiquement avant une coronarographie en prévision de l’impact des lésions potentielles sur l’artère cubitale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "La pression de perfusion des membres inférieurs augmente en position debout ou assise.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "La calcifications des artères périphériques survient surtout en cas de diabète ou d’insuffisance rénale aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "L’artérite des membres inférieurs représente 90% des artériopathies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "Le risque d’évènement coronarien ou cérébro-vasculaire est 6x plus élevé en cas d’AOMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "La prévalence de l’AOMI symptomatique est de 1% avant 50 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "La sévérité des symptômes d’AOMI n’est pas corrélée à l’importance de l’hypoxémie des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "L’athérosclérose est responsable de 70% des AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "L’AOMI secondaire à l’athérosclérose est généralement généralisée et d’évolution relativement lente.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "Les troubles trophiques sont souvent extensifs en cas d’AOMI secondaire à l’athérosclérose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "Les artères les plus touchées par l’AOMI secondaire à l’athérosclérose sont l’aorte, les iliaques, les fémorales communes et superficielles et les poplitées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "L’AOMI secondaire à l’athérosclérose touche principalement les sujets âgés et les hommes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "L’artérite diabétique est présente chez 1/3 des artéritiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "L’artérite diabétique provoquent des lésions plus distales et plus sévères.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "L’artérite diabétique est provoquée par une infiltration calcaire de la média (médiacalcose) sans athéromatose.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "L’artérite diabétique touche les sujets plus âgés, évolue plus rapidement et est multisegmentaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "Les artères les plus touchées par l’artérite diabétique sont les artères jambières et la fémorale superficielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "L’artère diabétique peut toucher n’importe quel gros tronc artériel.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "L’artérite sénile est liée uniquement à l’artériosclérose, c’est-à-dire le vieillissement physiologique des artères.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "L’artérite sénile représente seulement 5% des AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "L’artérite emboligène est liée à la migration de caillots à partir de plaques aortiques, iliaques ou fémorales.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "Les emboles sont toujours d’origine artérielle dans l’artérite emboligène.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "Les emboles peuvent passer inaperçus dans l’artérite emboligène.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "L’artérite emboligène peut se présenter sous forme de petites taches plantaires purpuriques, d’un orteil bleu ou d’un livédo.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "Les pouls périphériques ne sont plus perçus en cas d’artérite emboligène.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "Le stade I de la classification de Fontaine-Leriche est caractérisé par des symptômes léger à l’effort.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "La claudication intermittente est le symptôme révélateur le plus fréquent d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "Le stade IIa de la classification de Fontaine-Leriche est caractérisée par une claudication intermittente avec un périmètre de marche <200m de marche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "La claudication intermittente est caractérisée par l’apparition d’une douleur crampoïde après une certaine durée de marche, obligeant à l’arrêt et cédant après 1 à 2 minutes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "La localisation de la douleur d’AOMI donne une information sur la localisation des lésions artérielles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "La claudication d’origine articulaire débute dès les premiers pas et cède rapidement à l’arrêt.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "La claudication d’origine artérielle apparait toujours après la même distance.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "Le syndrome de Leriche associe une claudication intermittente et une impuissance.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "La douleur de l’AOMI de stade III est aggravée par la station debout.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "Le stade IIIc d’AOMI correspond à une ischémie critique où la viabilité du membre est menacée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "Le patient au stade III d’AOMI est réveillé la nuit par la douleur et finit par dormir au fauteuil.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "La gangrène est caractéristique de l’AOMI de classe V.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "Tout traumatisme, même minime, peut entrainer une gangrène sur un terrain d’artérite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "Le FAUX stade IV est un mal perforant plantaire causé par l’atteinte nerveuse et pas artérielle du diabète.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "La mesure des pressions de perfusion au Doppler permet de calculer l’indice bras-cheville.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "La mesure des pressions de perfusion au Doppler complète systématiquement l’examen clinique pour le diagnostic d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "Le Doppler mesure les pressions de perfusion des artères pédieuses, tibiales antérieures et humérales.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "L’indice bras-cheville se situe normalement entre 1 et 0,",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "Un ABI >1,4 témoigne d’artères incompressibles et suggère une médiacalcose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "L’indice bras-cheville est calculée à partir des pressions diastoliques les plus élevées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "L’ABI chute en-dessous de 0,9 en cas d’artérite des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "Le test de Strandness permet de déceler une AOMI qui ne devient symptomatique qu’à l’effort.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "L’épreuve d’hyperhémie inclut une mesure des pressions de perfusion avant et pendant l’effort.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "La pression est plus élevée dans l’artère humérale que dans l’artère tibiale car elle est située plus proche du site de réflexion du courant sanguin.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "L’épreuve d’hyperhémie est stoppée quand la douleur apparait ou après maximum 15 minutes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "Les pressions de perfusion à l’effort diminuent à l’effort au lieu d’augmenter en cas d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "La remontée de la pression de perfusion après un effort est d’autant plus lente que l’AOMI est légère.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "Le duplex scan des membres inférieurs permet de diagnostiquer des anévrismes aortiques et poplités.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "Le duplex scan correspond à un scanner couplé à un examen Doppler en couleur et pulsé.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 127,
+    "Proposition": "Le duplex scan est un examen chronophage et partiellement examinateur-dépendant mais il permet parfois de définir la thérapeutique optimale sans avoir recours à l’artériographie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 128,
+    "Proposition": "Le duplex scan est utile pour évaluer la sévérité des lésions étendues et pour le suivi de certains pontages.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 129,
+    "Proposition": "Les valeurs normales de tc pO2 au dos du pied chez le sujet sain debout se situent entre 40 et 60 mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 130,
+    "Proposition": "La tc pO2 devient pathologique à partir de 35 mmHg et signale une hypoxémie tissulaire marquée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 131,
+    "Proposition": "La mesure de la pression d’oxygène transcutanée explore la macrocirculation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 132,
+    "Proposition": "La tc pO2 est utile pour évaluer le retentissement tissulaire des AOMI sévères quand les PP sont d’interprétation difficiles (surélévation liée à la médiacalcose chez les diabétiques et les alcooliques).",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 133,
+    "Proposition": "La pression maximale d’oxygène au niveau de la peau dépend de l’âge du patient, de la PaO2, du débit sanguin local et de la diffusion de l’oxygène à travers la peau.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 134,
+    "Proposition": "On considère que la tc pO2 au dos du pied en décubitus est anormale à partir d’une valeur de 20mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 135,
+    "Proposition": "L’angio-IRM est un excellent examen de première approche pour le diagnostic de l’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 136,
+    "Proposition": "L’angio-IRM a tendance à sous-estimer la sévérité des sténoses.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 137,
+    "Proposition": "L’angio-CT ne permet pas de visualiser correctement les artères très calcifiées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 138,
+    "Proposition": "L’insuffisance rénale et l’allergie aux produits iodés sont des contre-indications à l’angio-CT.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 139,
+    "Proposition": "L’angio-CT nécessite l’injection d’un produit de contraste iodé dans l’artère fémorale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 140,
+    "Proposition": "L’aorto-artériographie des membres inférieurs est un examen invasif qui nécessite un cathétérisme artériel.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 141,
+    "Proposition": "L’aorto-artériographie des membres inférieurs ne nécessite pas l’utilisation d’un produit de contraste iodé.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 142,
+    "Proposition": "L’amélioration du confort de vie du patient n’est pas le but principal du traitement de l’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 143,
+    "Proposition": "Le traitement interventionnel est réservé uniquement aux AOMI de stade III et IV.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 144,
+    "Proposition": "La modification des facteurs de risque permet de diminuer la mortalité cardio-vasculaire globale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 145,
+    "Proposition": "Le traitement de 1ère intention de l’AOMI deVRAIt toujours être le réentrainement physique supervisé.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 146,
+    "Proposition": "Le réentrainement physique permet d’augmenter significativement le périmètre de marche et d’éviter un traitement complémentaire dans de nombreux cas d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 147,
+    "Proposition": "Le réentrainement doit suivre plusieurs règles pour être efficace : au moins 5x30 minutes par semaine, au moins 6 mois, à une vitesse de 3,2km/h sur un tapis incliné à 10% et jusqu’à la douleur quasi maximale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 148,
+    "Proposition": "L’aspirine à haute dose doit être administré à tout patient souffrant d’AOMi (sauf contre-indication).",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 149,
+    "Proposition": "La majorité des patients atteints d’AOMI adhère au traitement par réentrainement physique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 150,
+    "Proposition": "Les drogues vasoactives sont très efficaces pour augmenter le périmètre de marche en cas d’AOMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 151,
+    "Proposition": "Les prostaglandines sont réservées aux cas d’AOMI sévères chez qui il n’y a pas d’intervention possible.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 152,
+    "Proposition": "Les prostaglandines sont des molécules à la fois antiagrégantes et vasoconstrictrices puissantes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 153,
+    "Proposition": "Le traitement interventionnel invasif est proposé si le membre atteint d’AOMI est en danger (stades III et IV) et dans certains cas de claudication invalidante (stade IIb).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 154,
+    "Proposition": "La meilleure indication de traitement endovasculaires sont les sténoses localisées des fémorales communes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 155,
+    "Proposition": "Le traitement endovasculaire par ballonnet + prothèse expansive (stent) permet d’éliminer l’athérome.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 156,
+    "Proposition": "Les pontages sous-inguinaux utilisent des prothèses en Dacron.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 157,
+    "Proposition": "Les pontages chirurgicaux sont réalisées préférentiellement à partir d’une veine autologue en cas d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 158,
+    "Proposition": "Les pontages prothétiques sont beaucoup plus sensibles aux infections et ont une perméabilité à long terme nettement moins bonne que les pontages veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 159,
+    "Proposition": "Les complications principales des pontages chirurgicaux sont le lymphocoele, les infections de prothèses, le FAUX anévrisme au site d’anastomose et l’œdème de reperfusion.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 160,
+    "Proposition": "La sympathectomie lombaire est parfois réalisée pour accroitre la vasodilatation périphérique pour l’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 161,
+    "Proposition": "La sympathectomie lombaire entraine une peau chaude et humide au niveau des pieds.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 162,
+    "Proposition": "La sympathectomie lombaire se fait toujours par voie chirurgicale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 163,
+    "Proposition": "L’ischémie aigue met en danger à court terme la viabilité et la fonction du membre atteint.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 164,
+    "Proposition": "Les lésions musculaires apparaissent après la 6ème heure en cas d’ischémie aigue du membre inférieur.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 165,
+    "Proposition": "L’ischémie aigue du membre inférieur peut être provoquée par une phlébite bleue, c’est-à-dire une thombose veineuse profonde étendue qui provoque un arrêt total du retour veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 166,
+    "Proposition": "L’ischémie chronique du membre inférieur est caractérisée par la règle des 5P : douleur, pâleur, absence de pouls, paresthésies et paralysies.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 167,
+    "Proposition": "Une dissection aortique étendue aux artères iliaques peut provoquer une ischémie aigue du membre inf.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 168,
+    "Proposition": "Une thrombose peut être liée à un haut débit systémique dans le cadre d’une toxi-infection.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 169,
+    "Proposition": "L’embole est majoritairement d’origine cardiaque en cas d’ischémie aigue des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 170,
+    "Proposition": "Des troubles sensitifs surviennent à cause de l’ischémie des vasa vasorum en cas d’ischémie aigue du MI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 171,
+    "Proposition": "Les signes neurologiques (mobilité et sensibilité) témoignent de la gravité d’une ischémie aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 172,
+    "Proposition": "Le traitement de l’ischémie aigue du membre inférieur est une urgence car des lésions irréversibles surviennent au-delà de 8 heures d’ischémie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 173,
+    "Proposition": "La sonde de Fogarty permet l’exérèse chirurgicale des emboles en cas d’ischémie aigue du MI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 174,
+    "Proposition": "L’ischémie aigue du MI peut être traitée par reperfusion pharmacologique à l’aide d’anticoagulants.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

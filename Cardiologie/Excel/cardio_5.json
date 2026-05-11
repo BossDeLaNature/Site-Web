@@ -1,0 +1,6392 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "L'insuffisance cardiaque congestive est caractérisée par une diminution de la contractilité myocardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "La forme aiguë de l'insuffisance cardiaque se caractérise par une dyspnée sévère et une orthopnée soudaine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "La forme chronique de l'insuffisance cardiaque nécessite toujours une prise en charge urgente.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "L'éthanol, la cocaïne et la chimiothérapie sont des toxiques qui peuvent causer une insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "Les déséquilibres électrolytiques ne sont pas une cause potentielle d'insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "Les infections comme les myocardites ne peuvent pas conduire à une insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Les cardiomyopathies sont parfois réversibles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "La cardiomyopathie alcoolique est une affection irréversible.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "La cardiomyopathie du post-partum survient exclusivement dans les 6 mois suivant l’accouchement.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "Le syndrome de Tako-Tsubo est caractérisé par une atteinte de la contractilité myocardique due à une ischémie coronarienne.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "La tachycardiomyopathie est une cardiomyopathie dilatée consécutive à des tachyarythmies prolongées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "Le remodelage ventriculaire ne se produit que dans l'insuffisance cardiaque diastolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "Une réduction de la fraction d'éjection ventriculaire de 50% à 25 % entraîne toujours une diminution du volume éjecté systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "Le débit cardiaque est toujours insuffisant pour les besoins de l’organisme en cas d’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "L’insuffisance cardiaque entraine une activation délétère du système rénine-angiotensine-aldostérone.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "L’insuffisance cardiaque congestive se manifeste par de la dyspnée, de l’asthénie et une perte hydro-sodée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "L’insuffisance cardiaque chronique n’empêche pas les activités quotidiennes normales du patient.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "On parle d’insuffisance cardiaque à fonction systolique préservé si un débit cardiaque adéquat ne peut être atteint qu’au prix d’une élévation pathologique de la pression de remplissage auriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "L’insuffisance cardiaque à FEVG diminuée peut être causée par un obstacle au remplissage du VG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "La péricardite constrictive peut entrainer une insuffisance cardiaque avec dysfonction systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "La perte de masse myocardique consécutive à un infarctus ou à l’exposition à certains toxiques peut entrainer une insuffisance cardiaque à fonction systolique préservée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "L’insuffisance cardiaque avec dysfonction systolique est le plus souvent idiopathique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "Les causes les plus fréquentes d’insuffisance cardiaque sont : ischémique > idiopathique > HTA > valvulaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "L’HTA et la sténose aortique augmentent le travail du VG et peuvent provoquer une insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "Une cardiopathie congénitale avec shunt gauche-droit peut entrainer une insuffisance cardiaque par la surcharge en volume du ventricule gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "L’insuffisance mitrale ou aortique augmentent le volume du VG et peuvent provoquer une IC à FEVG réduite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "Il n’existe pas de cas familiaux d’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "L’IC à FEVG réduite est un signe de plusieurs maladies inflammatoires systémiques (lupus, sclérodermie,…).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "Certains déficits nutritionnels peuvent provoquer une insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "Le diabète sucré n’est pas une cause métabolique d’insuffisance cardiaque avec dysfonction systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "Les traitements antirétroviraux ne sont pas associés aux insuffisances cardiaques toxiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "La maladie de Duchenne et l’ataxie de Friedrich peuvent entrainer une insuffisance cardiaque à FEVG réduite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "Le diagnostic d’IC avec dysfonction systolique peut être posé uniquement sur base des signes et symptômes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "La toxicité myocardique directe de l’alcool et de ses métabolites est indépendante de la dose ingérée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "On estime que la dose d’alcool nécessaire à provoquer une cardiomyopathie alcoolique est de 1 litre de vin ou 12 bières par jour pendant plus de 2 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "La cardiomyopathie alcoolique est potentiellement réversible après l’arrêt des boissons alcoolisées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "La susceptibilité individuelle influence l’intensité de la toxicité myocardique de l’alcool.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "La toxicité myocardique de l’alcool est favorisée par une association avec l’HTA, le tabagisme ou un déficit en K+, Na+ ou en sélénium.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "Le cobalt retrouvé dans la bière pourrait jouer un rôle dans la cardiomyopathie alcoolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "La cardiopathie du post-partum est une affection relativement fréquente des femmes enceintes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "La cardiopathie du post-partum est une insuffisance cardiaque diastolique d’origine indéterminée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "La fonction ventriculaire gauche et les symptômes s’améliorent de façon importante dans les 6 mois du diagnostic pour la moitié des cas de cardiomyopathies du post-partum.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "20% des cas de cardiomyopathies du post-partum décèdent ou nécessitent une transplantation cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "La cardiomyopathie du post-partum peut survenir durant la grossesse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "Le syndrome de Tako-Tsubo se caractérise par une hyperkinésie apicale du VG et une akinésie basale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "Le syndrome de Tako-Tsubo ou cardiomyopathie de stress est généralement irréversible.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "Le syndrome de Tako-Tsubo est induit par un stress intense à cause d’une toxicité des catécholamines.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "La resinualisation normalise la fonction systolique ventriculaire en cas de tachycardiomyopathie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "La myocardite virale est une cause réversible d’insuffisance cardiaque avec dysfonction systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "La caractéristique anatomique principale de l’insuffisance cardiaque systolique est l’atrophie cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "Le volume d’éjection systolique diminue parfois moins que la fraction d’éjection en cas d’IC systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "Seul le volume ventriculaire télédiastolique augmente suite au « remodelage » ventriculaire en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "La dilatation cardiaque vise à compenser la diminution de contractilité en cas d’IC à FEVG préservée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "La dilatation cardiaque augmente la tension pariétale (selon la loi de Laplace) en cas d’IC systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "La dilatation ventriculaire affecte les valves cardiaques et aggrave la surcharge en volume du VG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "On parle d’insuffisance cardiaque à fraction d’éjection réduite si elle est <60%.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "On parle d’insuffisance cardiaque à fraction d’éjection préservée si elle est >50%.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "Les mécanismes du remodelage ventriculaire dans l'insuffisance cardiaque sont bien compris.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "L’activation du système orthosympathique et du SRA n'ont qu'une action favorable à court terme en cas d’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "L'ANP et le BNP sécrétés par les oreillettes et les ventricules provoquent une rétention hydro-sodée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "Un NT-BNP plasmatique normal a une bonne valeur prédictive négative pour exclure une IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "La FA, le vieillissement et l’insuffisance hépatique augmentent le NT-BNP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "L'obésité morbide augmente le NT-BNP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "Le remodelage ventriculaire de l’insuffisance cardiaque comporte un raccourcissement des myocytes et une instabilité myocytaire à cause de la dissolution du collagène qui solidarise les cellules contractiles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "Beaucoup de myocytes meurent par un processus d’apoptose et sont remplacés par de la fibrose au cours du remodelage ventriculaire de l’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "L’insuffisance cardiaque active la sécrétion d’ADH et de peptides natriurétiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "L’activation du système orthosympathique et du SRAA et l’ADH permettent à court terme d’augmenter la post-charge, de maintenir la PA et la perfusion cérébrale et d’augmenter la contractilité myocardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "Les cathécholamines ont une toxicité myocardique directe à long terme et favorisent les arythmies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "L’activation du système orthosympathique et du SRAA ont un effet défavorable à long terme en cas d’IC systolique : congestion pulmonaire, anasarque, augmentation de la consommation myocardique d’O2,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "L’ANP et le BNP sont produits en réponse à une augmentation de la pression diastolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "L’ANP et le BNP sont produits en réponse à une diminution de la tension pariétale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "L’ANP et le BNP induisent une natriurèse, une diurèse et une vasoconstriction.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "Le sacubitril favorise l’action de la néprilysine qui dégrade l’ANP et le BNP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "La détresse respiratoire est un symptôme fréquent de l'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "La détresse respiratoire de l’IC est multifactorielle : œdème alvéolaire, spasme bronchique, hypoxémie,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "La dyspnée d'effort est classée selon la classification fonctionnelle NYHA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "L'orthopnée est un symptôme rare avant la classe NYHA III.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "La dyspnée paroxystique nocturne est rapidement réversible en position verticale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "Le VES diminue souvent plus vite que la FEVG en cas d’insuffisance cardiaque avec dysfonction systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "La respiration de Cheyne-Stokes se caractérise par une alternance de périodes d’hyper- et d’hypoventilation.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "Les sujets de classe NYHA I sont asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "Le volume ventriculaire télésystolique augmente suite à la dilatation cardiaque en cas d’IC systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "La fatigue est rarement associée à l'insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "La nycturie est un symptôme urinaire classique de l'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "Les sujets de classe NYHA IV sont symptomatiques même au repos.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "La dyspnée paroxystique nocturne est évaluée par le nombre de coussins utilisés pour dormir.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "L’orthopnée est liée à la redistribution du volume vasculaire des jambes vers les poumons en décubitus.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "L’orthopnée est un signe très spécifique d’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "La dyspnée paroxystique nocturne se manifeste la nuit par une dyspnée aggravée, du wheezing et de la toux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "La dyspnée paroxystique nocturne est une situation proche de l’œdème pulmonaire hémodynamique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "La respiration de Cheyne-Stokes est la manifestation d’une pathologie d’origine pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "La fatigue d’effort puis de repos est liée à la réduction de la tension artérielle en cas d’IC systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "La rétention hydro-sodée provoquée par l’insuffisance cardiaque peut entrainer une hyponatrémie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "L’insuffisance cardiaque terminale se manifeste par une oligourie suite à une réduction de la perfusion rénale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "L’insuffisance cardiaque peut se manifester par des symptômes digestifs induits par la surcharge volémique : hépatomégalie sensible, nausées, augmentation de l’appétit,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "Les symptômes cérébraux de l’IC sont très variables et liés à l’hypoxémie et à la réduction du débit cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "L'hyperactivité orthosympathique se manifeste par une bradycardie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "Les bruits de galop (B3/B4) sont caractéristiques de l'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "Il faut absolument une preuve objective de la dysfonction cardiaque pour établir le diagnostic d’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "L’insuffisance cardiaque avec dysfonction systolique est le plus souvent d’origine ischémique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "L’auscultation cardiaque ne permet pas de diagnostiquer l'insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "L'échographie cardiaque permet de calculer la fraction d’éjection du ventricule gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "Une FEVG inférieure à 20% est un signe de pronostic vital très mauvais en cas d'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "L'ergospirométrie est un examen couramment utilisé chez les patients atteints d'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "Les râles de stase sont le plus souvent unilatéraux en cas d’insuffisance cardiaque systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "Les râles de stase sont des râles humides expiratoires entendus aux bases pulmonaires qui signent la présence d’une congestion pulmonaire en cas d’insuffisance cardiaque systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "L’insuffisance cardiaque systolique peut se manifester par des épanchements pleuraux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "Les épanchements pleuraux liés au drainage lymphatique de l’excès de liquide alvéolaire se rencontrent exclusivement dans l’insuffisance cardiaque droite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "La disparition du murmure vésiculaire et une matité mobile sont des signes d’épanchement pleural.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "L’insuffisance cardiaque se manifeste par des signes de congestion systémique : ascite, OMI, hépatomégalie douloureuse, jugulaires dilatées, reflux hépato-jugulaire,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "L’hyperactivité orthosympathique dans l’IC se manifeste par des mains moites, chaudes et rouges.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "L’auscultation d’une insuffisance cardiaque systolique montre une atténuation du B",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "L’auscultation d’une IC systolique montre une augmentation de la composante pulmonaire du B",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "L’auscultation d’une IC systolique montre un souffle de régurgitation mitral et/ou aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "Le pouls est rapide, filant et parfois alternant dans l’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "L’anémie ferriprive (déficit en fer) augmente le risque d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "L’hyperalbuminémie contribue aux œdèmes dans l’insuffisance cardiaque systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "L’étude de la viabilité myocardique n’est pas nécessaire dans l’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "L’auscultation ne montre jamais de bruits cardiaques supplémentaires en cas d’IC systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "La prise de sang est utilisée pour rechercher une hypernatrémie, un diabète, une insuffisance rénale ou une hypoalbuminémie en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "Le NT-proBNP peut être dosé à la biologie sanguine en cas d’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "L’ECG d’une insuffisance cardiaque secondaire à un infarctus montre un microvoltage.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "L’échographie cardiaque n’est pas une technique utile pour mesurer les régurgitations valvulaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "La radiographie de thorax montre une cardiomégalie et une congestion pulmonaire en cas d’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "Une pathologie coronaire peut être détectée à l’ECG en cas d’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "Une pathologie congestive hépatique ne montre aucun signes à la biologie sanguine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 127,
+    "Proposition": "Une VO2 à l’exercice maximal <50% de la valeur prédite révèle une altération fonctionnelle importante en cas d’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 128,
+    "Proposition": "Le PET-scan n’est pas utilisé comme examen complémentaire en cas d’insuffisance cardiaque systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 129,
+    "Proposition": "L’ECG est l’examen de choix pour choisir les candidats potentiels à une transplantation cardiaque en cas d’insuffisance cardiaque congestive à dysfonction systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 130,
+    "Proposition": "L’étude de la viabilité myocardique peut se faire par scintigraphie myocardique, par échographie cardiaque avec perfusion de dobutamine et par résonance magnétique nucléaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 131,
+    "Proposition": "Une VO2 à l’exercice maximal <12 ml/kg/h révèle une altération fonctionnelle importante en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 132,
+    "Proposition": "Les épreuves d’effort comme l’ergospirométrie ne sont pas utilisés chez les insuffisants cardiaques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 133,
+    "Proposition": "Le PET-scan permet de rechercher des zones de myocarde ischémique viable susceptibles de bénéficier d’une intervention de revascularisation coronaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 134,
+    "Proposition": "La scintigraphie myocardique nécessite l’injection IV d’un produit de contraste iodé.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 135,
+    "Proposition": "Une dysfonction thyroïdienne doit être recherchée en cas d’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 136,
+    "Proposition": "Le traitement de l’insuffisance cardiaque systolique vise à prolonger la survie et à prévenir l’évolution vers une forme plus sévère mais ne permet pas d’améliorer les symptômes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 137,
+    "Proposition": "L’HTA et l’hypercholestérolémie doivent être strictement contrôlés en cas d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 138,
+    "Proposition": "Les bêta-bloquants et les antiagrégants sont recommandés après un infarctus myocardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 139,
+    "Proposition": "Le traitement pharmacologique est plus important que les mesures hygiéno-diététiques en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 140,
+    "Proposition": "La revalidation physique est recommandé pour corriger la pathologie musculaire périphérique en cas d’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 141,
+    "Proposition": "Réduire la rétention volémique permet d’améliorer les symptômes de l’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 142,
+    "Proposition": "Aucun traitement ne peut améliorer l’altération du contrôle de la respiration associée à l’IC systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 143,
+    "Proposition": "Le sacubitril n’agit pas sur le remodelage ventriculaire dans le traitement de l’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 144,
+    "Proposition": "Les IEC, les alpha-bloquants et la spironolactone permettent de prolonger la survie en cas d’IC systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 145,
+    "Proposition": "Un régime sans sel avec moins de 10g NaCl/jour est recommandé en cas d’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 146,
+    "Proposition": "Les apports hydriques d’un patient en insuffisance cardiaque ne doivent pas dépasser 1,5L/jour.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 147,
+    "Proposition": "Les diurétiques peuvent diminuer l'importance du régime hyposodé strict en cas d'IC légère ou modérée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 148,
+    "Proposition": "L’insuffisance cardiaque systolique n’est jamais une indication à la transplantation cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 149,
+    "Proposition": "50% des patients en insuffisance cardiaque décèdent subitement, souvent par fibrillation ventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 150,
+    "Proposition": "Les bêta-bloquants permettent de réduire l’incidence de la fibrillation ventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 151,
+    "Proposition": "Les IEC sont recommandés en prévention pour tous les patient en insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 152,
+    "Proposition": "L’endothéline, l’aldostérone et l’AGII font partie des molécules qui favorisent la dysfonction et l’apoptose myocytaire ainsi que la fibrose interstitielle en cas d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 153,
+    "Proposition": "Les apports de NaCl doivent être réduits à 3-4g par jour en cas d’insuffisance cardiaque systolique sévère nécessitant de hautes doses de diurétiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 154,
+    "Proposition": "L’hyperactivation du SRAA et de la vasopressine en cas d’IC peuvent provoquer une hyponatrémie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 155,
+    "Proposition": "L’hypernatrémie a une valeur pronostique négative en cas d’insuffisance cardiaque systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 156,
+    "Proposition": "Certains cas d’IC doivent être traités par un défibrillateur implantable ou une revascularisation coronaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 157,
+    "Proposition": "La teneur corporelle en Na+ diminue en cas d’IC systolique et la natrémie est souvent <130mEq/L.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 158,
+    "Proposition": "L’alcool est à éviter dans tous les cas d’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 159,
+    "Proposition": "Il faut contrôler l’obésité et la diabète et lutter contre la cachexie et la carence en fer en cas d’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 160,
+    "Proposition": "L’exercice physique améliore la dyspnée et les paramètres hémodynamiques en cas d’IC systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 161,
+    "Proposition": "Des exercices physiques dynamiques et résistifs à 90% de la consommation maximale en oxygène améliorent la tolérance à l’effort et la qualité de vie et apportent un bénéfice psychologique en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 162,
+    "Proposition": "L’exercice physique permet de réduire l’activation neuro-humorale en cas d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 163,
+    "Proposition": "L’augmentation du poids du patient en IC systolique est un signe d’aggravation de la congestion.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 164,
+    "Proposition": "Les diurétiques thiazidiques sont préférables en cas d’insuffisance cardiaque car ils restent efficaces jusqu’à une filtration glomérulaire très basse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 165,
+    "Proposition": "Les diurétiques de l’anse sont sécrétés activement dans les tubules rénaux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 166,
+    "Proposition": "Les diurétiques de l’anse perdent leur efficacité quand la clearance de créatinine devient <30ml/min.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 167,
+    "Proposition": "Les thiazides ont une action plus soudaine et moins prolongée que les diurétiques de l’anse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 168,
+    "Proposition": "Les diurétiques thiazidiques sont des meilleurs anti-hypertenseurs que les diurétiques de l’anse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 169,
+    "Proposition": "Il faut préférer les diurétiques thiazidiques aux diurétiques de l’anse quand la rétention hydrosodée est sévère et la fonction rénale normale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 170,
+    "Proposition": "Les diurétiques thiazidiques perdent leur efficacité lorsque la clearance de créatine devient <30L/h.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 171,
+    "Proposition": "Les diurétiques thiazidiques stimulent moins l’excrétion sodée que les diurétiques de l’anse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 172,
+    "Proposition": "La résistance aux diurétiques peut s’expliquer par une biodisponibilité orale insuffisante du furosémide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 173,
+    "Proposition": "Il est préférable de prescrire une seule dose journalière de diurétiques en cas d’IC systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 174,
+    "Proposition": "Les doses de diurétiques doivent être réduites en cas d’insuffisance rénale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 175,
+    "Proposition": "Les diurétiques de l’anse et les thiazides peuvent être associé si la réponse aux diurétiques est insuffisante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 176,
+    "Proposition": "La dose de diurétiques doit être diminuée en cas d’hypoalbuminémie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 177,
+    "Proposition": "Un traitement inotrope positif intraveineux chronique par un agoniste bêta-adrénergique comme la dobutamine permet d’améliorer la perfusion rénale et d’augmenter l’effet des diurétiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 178,
+    "Proposition": "Les diurétiques sont fortement liés aux protéines plasmatiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 179,
+    "Proposition": "Les diurétiques activent le SRAA et le système orthosympathique et doivent donc être inhibés par l'administration concomitante d'IEC et de bêta-bloquants en cas d’insuffisance cardiaque systolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 180,
+    "Proposition": "L’hypoalbuminémie diminue l’effet des diurétiques chez le patient cachectique sous-alimenté.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 181,
+    "Proposition": "Les diurétiques entrainent souvent une hypokaliémie et une hypermagnésémie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 182,
+    "Proposition": "L’effet des diurétiques sur la kaliémie favorise les arythmies létales et réduit l’effet des digitaliques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 183,
+    "Proposition": "La spironolactone a des effets myocardiques favorables à la dose de 25mg/h.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 184,
+    "Proposition": "L’adjonction de spironolactone est préférable aux suppléments de K+ pour compenser l’hypokaliémie induite par les diurétiques en cas d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 185,
+    "Proposition": "Les IEC inhibent complètement la production d'angiotensine II et d'aldostérone.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 186,
+    "Proposition": "Les antagonistes du récepteur à l'angiotensine peuvent être utilisés en cas d’intolérance aux IEC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 187,
+    "Proposition": "Le sacubitril est un antagoniste des récepteurs de l'AGII plus efficace qu’un IEC seul en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 188,
+    "Proposition": "La spironolactone induit une gynécomastie chez 10% des hommes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 189,
+    "Proposition": "Les bêta-bloquants préviennent 50 % des morts subites chez les patients atteints d'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 190,
+    "Proposition": "Les bêta-bloquants doivent être débutés à haute dose en cas d’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 191,
+    "Proposition": "Les bêta-bloquants doivent être administrés après que les inhibiteurs du SRAA et les diurétiques aient été introduits et que leur dose ait été optimalisée et stabilisée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 192,
+    "Proposition": "Les diurétiques sont utilisés pour lutter contre la surcharge hydrosodée dans l'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 193,
+    "Proposition": "Les diurétiques de l'anse sont préférés aux diurétiques thiazidiques chez les patients présentant une altération de la fonction rénale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 194,
+    "Proposition": "Les thiazidiques ont une action moins soudaine et plus prolongée que les diurétiques de l'anse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 195,
+    "Proposition": "Les diurétiques de l’anse sont de meilleurs antihypertenseurs que les diurétiques thiazidiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 196,
+    "Proposition": "Les bêta-bloquants peuvent aggraver transitoirement l'insuffisance cardiaque chez certains patients",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 197,
+    "Proposition": "Les bêta-bloquants peuvent être administrés même chez les patients asymptomatiques atteints d’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 198,
+    "Proposition": "La digoxine réduit les hospitalisations pour aggravation de l’IC chez les patients en rythme sinusal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 199,
+    "Proposition": "Les digitaliques ont un effet sur la mortalité chez les patients atteints d'insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 200,
+    "Proposition": "Les digitaliques sont contre-indiqués chez les patients présentant une fonction rénale altérée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 201,
+    "Proposition": "Les vasodilatateurs directs sont généralement préférés aux IEC dans le traitement de l’IC systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 202,
+    "Proposition": "La spironolactone est un antagoniste de l’angiotensine II.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 203,
+    "Proposition": "La dobutamine est efficace pour améliorer transitoirement l'hémodynamique dans l’insuffisance cardiaque sévèrement décompensée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 204,
+    "Proposition": "Les agents inotropes non digitaliques ont tendance à augmenter la mortalité en utilisation chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 205,
+    "Proposition": "Les IEC augmentent la dégradation de la bradykinine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 206,
+    "Proposition": "Les bradykinines augmentent la production de NO et de prostaglandines à action vasodilatatrice et pro- mitotique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 207,
+    "Proposition": "Le NO et les prostaglandines pourrait médier une partie importante des effets bénéfiques des IEC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 208,
+    "Proposition": "L’accumulation de bradykinine favorise la toux et l’angio-œdème lors de la prise d’IEC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 209,
+    "Proposition": "Les IEC améliorent les symptômes mais n’augmentent pas la tolérance à l’effort en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 210,
+    "Proposition": "Les IEC n’ont pas d’effet bénéfique sur les patients asymptomatiques après un infarctus du VG.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 211,
+    "Proposition": "Les IEC réduisent la mortalité totale des patients insuffisants cardiaque de 25%.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 212,
+    "Proposition": "Les IEC peuvent être administrés chez la femme enceinte à partir du 3ème trimestre de grossesse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 213,
+    "Proposition": "Il est recommandé de traiter tous les patients insuffisants cardiaques par IEC si la FEVG est >40%.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 214,
+    "Proposition": "Une pression artérielle systolique inférieure à 80mmHg est une contre-indication aux IEC en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 215,
+    "Proposition": "Une créatine sérique >3g/L nécessite une surveillance rapprochée en cas de traitement par IEC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 216,
+    "Proposition": "La sténose bilatérale sévère des artères rénales et l’hypokaliémie sont des contre-indications aux IEC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 217,
+    "Proposition": "La toux est un effet indésirable du traitement par IEC observé chez 5 à 10% des patients.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 218,
+    "Proposition": "La toux ne nécessite jamais l’arrêt du traitement par IEC en cas d’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 219,
+    "Proposition": "Les IEC doivent être débutés à petite dose puis augmentés toutes les 1-2 semaines en cas d’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 220,
+    "Proposition": "Les sartans sont prescrits en 2ème intention dans le traitement de l’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 221,
+    "Proposition": "Les sartans induisent un blocage plus complet de l’angiotensine II que les IEC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 222,
+    "Proposition": "Les antagonistes des récepteurs à l’angiotensine II provoquent aussi une accumulation de bradykinine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 223,
+    "Proposition": "Le sacubitril-valsartan (Entresto®) est le traitement de 1er choix en cas d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 224,
+    "Proposition": "Le valsartan est un inhibiteur des récepteurs AT2 à l’angiotensine II.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 225,
+    "Proposition": "L’inhibition de la néprilysine par le sacubitril favorise l’accumulation de bradykinine et de peptides natriurétiques qui favorisent vasodilatation, réduction de l’effet orthosympathique et natriurèse/diurèse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 226,
+    "Proposition": "Le sacubitril-valsartan a un effet légèrement défavorable sur le remodelage cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 227,
+    "Proposition": "Le sacubitril-valsartan permet de réduire la fibrose, l’hypertrophie cardiaque et le risque d’arythmies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 228,
+    "Proposition": "Le taux d’aldostérone est efficacement abaissée par les IEC en cas d’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 229,
+    "Proposition": "La spironolactone peut remplacer les diurétiques de l’anse en cas d’effets secondaires importants.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 230,
+    "Proposition": "25mg/j de spironolactone réduisent la mortalité de 35% en cas d’IC sévère de classe III ou IV avec des dosées élevée des diurétiques de l’anse et d’IEC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 231,
+    "Proposition": "Les suppléments de K+ sont à préférer à la spironolactone en cas d’hypokaliémie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 232,
+    "Proposition": "Les bêta-bloquants luttent contre les effets orthosympathiques délétères dans l’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 233,
+    "Proposition": "Les bêta-bloquants réduisent la mortalité de 50% si administré en plus des IEC et des diurétiques dans les cas d’insuffisance cardiaque de stade II, III ou IV stabilisée et sans surcharge volémique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 234,
+    "Proposition": "Les bêta-bloquants font partie du traitement aigue de l’insuffisance cardiaque décompensée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 235,
+    "Proposition": "L’asthme, le bloc auriculo-ventriculaire et la bradycardie sont des contre-indications aux bêta-bloquants.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 236,
+    "Proposition": "Les bêta-bloquants sont contre-indiqués en cas d’IC récente, déstabilisée ou réfractaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 237,
+    "Proposition": "Les bêta-bloquants induisent une aggravation transitoire de l’IC chez la majorité des patients.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 238,
+    "Proposition": "Les bêta-bloquants doivent être débutés à très faibles doses puis augmentés toutes les semaines.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 239,
+    "Proposition": "La dose à atteindre si possible est de 2x25mg/j pour le bisoprolol et 10mg/j pour le carvédilol.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 240,
+    "Proposition": "Une aggravation transitoire de l’IC au début du traitement par bêta-bloquants nécessite une augmentation des diurétiques et des IEC et une diminution des bêta-bloquants ou des autres hypotenseurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 241,
+    "Proposition": "Les bêta-bloquants sont préférables à l’ivabradine dans le traitement de l’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 242,
+    "Proposition": "L’ivabradine inhibe le canal If dans le nœud sinusal si le rythme sinusal reste >70 bpm.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 243,
+    "Proposition": "Les glifozines agissent au niveau du tubule distal.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 244,
+    "Proposition": "Les glifozines sont efficaces dans le traitement de l’IC à FEVG réduite indépendamment de la présence du diabète de type",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 245,
+    "Proposition": "Les glifozines sont des inhibiteurs du co-transporteur sodium-glucose de type 2 (SGLT2).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 246,
+    "Proposition": "Les inhibiteurs du SGLT2 réduisent les hospitalisation pour IC de 30% et les décès cardiovasculaires de 18% quand ils sont ajoutés à tous les autres traitements pharmacologiques et non pharmacologiques de l’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 247,
+    "Proposition": "Les digitaliques sont des inhibiteurs de la Na-K-ATPase à action inotrope négative.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 248,
+    "Proposition": "Les digitaliques augmentent la contractilité myocardique via une augmentation du Ca2+ intracellulaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 249,
+    "Proposition": "Les digitaliques n’ont pas d’effet sur la mortalité en cas d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 250,
+    "Proposition": "Les glycosides digitaliques réduisent les hospitalisations pour aggravation d’IC de 30% chez les patients en rythme sinusal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 251,
+    "Proposition": "Les digitaliques sont moins efficaces quand la dysfonction cardiaque est très sévère.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 252,
+    "Proposition": "Les digitaliques sont d’autant plus efficaces que le patient est symptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 253,
+    "Proposition": "Les digitaliques sont réservés aux insuffisants cardiaques qui restent symptomatiques en débit des IEC et des diurétiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 254,
+    "Proposition": "La digoxine à 25mg/j est utilisée pour ralentir la réponse ventriculaire en cas de fibrillation auriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 255,
+    "Proposition": "La dose de digoxine doit être diminuée chez le sujet >70 ans, obèse ou dont la fonction rénale est altérée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 256,
+    "Proposition": "La toxicité des digitaliques est favorisée par l’hypokaliémie et induit surtout des arythmies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 257,
+    "Proposition": "La spironolactone, les IPP, beaucoup d’antiarythmiques et certains antibiotiques diminuent les taux plasmatiques de digoxine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 258,
+    "Proposition": "La cardioversion électrique est le traitement de choix pour les arythmies induites par les digitaliques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 259,
+    "Proposition": "Les anticorps anti-digoxine, la phénytoïne et la lidocaïne sont utilisées pour traiter les bradycardies induites par les digitaliques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 260,
+    "Proposition": "L’atropine est utile pour traiter les tachycardies ou la FV induites par les digitaliques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 261,
+    "Proposition": "La stimulation cardiaque externe temporaire est utile en cas de bradycardie induite par les digitaliques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 262,
+    "Proposition": "Les vasodilatateurs directs sont un traitement de dernière intention en cas d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 263,
+    "Proposition": "L’hydralazine (vasodilatateur direct) associée à un dérivé nitré ou à l’amlodipine (antagoniste calcique) peut parfois être utilisée en cas d’angor ou d’HTA associée à l’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 264,
+    "Proposition": "La dobutamine est un bêta-bloquant utilisé pour améliorer la contractilité myocardique dans l’IC aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 265,
+    "Proposition": "La dobutamine exerce un effet inotrope positif en augmentant le GMPc et le Ca2+ intracellulaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 266,
+    "Proposition": "Les inhibiteurs de la phosphodiestérase III comme le milrinone augmente la contractilité myocardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 267,
+    "Proposition": "Le lévosimandan améliore la contraction en stabilisant le Ca2+ sur la troponine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 268,
+    "Proposition": "Un traitement anti-thrombotique n’est pas nécessaire dans le traitement de l’insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 269,
+    "Proposition": "Des agents activateurs de la myosine ou augmentant la sensibilité de la guanylate cyclase soluble au NO sont à l’étude pour le traitement de l’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 270,
+    "Proposition": "Une anticoagulation doit être prescrite en cas de FA, d’ATCD d’embolie ou de thrombus ventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 271,
+    "Proposition": "Les anticoagulants oraux comme le dabigatran sont recommandés en cas de sténose mitrale modérée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 272,
+    "Proposition": "Les antivitamines K sont toujours préférables si le patient est porteur d’une valve mécanique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 273,
+    "Proposition": "L’aspirine à haute dose est recommandée chez les insuffisants cardiaques qui ont de l’athérosclérose.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 274,
+    "Proposition": "La resynchronisation ventriculaire est recommandée chez les patients atteints d'insuffisance cardiaque et présentant un bloc de branche gauche <130 ms.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 275,
+    "Proposition": "Les gliflozines réduisent les hospitalisations pour insuffisance cardiaque et les décès cardiovasculaires uniquement chez les patients diabétiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 276,
+    "Proposition": "La FA chronique ou paroxystique est une indication d'anticoagulation en cas d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 277,
+    "Proposition": "La transplantation cardiaque est une option pour les insuffisants cardiaques dont l'espérance de vie est estimée à moins de 50 % dans les 2 ans avec une qualité de vie inacceptable.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 278,
+    "Proposition": "L'assistance mécanique peut être utilisée comme traitement chirurgical en cas d'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 279,
+    "Proposition": "L'aspirine à faible dose est recommandée chez les patients atteints d’IC et d'athérosclérose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 280,
+    "Proposition": "La séquence d’administration des traitements les plus récommandés en cas d’IC à FEVG <40% est : diurétiques > IEC/sacubitril-valsartan > spironolactone > bêta-bloquants > glifozines.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 281,
+    "Proposition": "De manière générale, le traitement de l’IC débute à petites doses et est progressivement augmenté pour atteindre les doses maximales tolérables ou recommandées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 282,
+    "Proposition": "Les bêta-bloquants doivent être prescrits uniquement quand le patient est stabilisé en cas d’IC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 283,
+    "Proposition": "Le resynchronisation ventriculaire est indiquée si le patient réunit 4 conditions : FEVG <35%, rythme sinusal, BBG >130ms, symptômes persistants malgré le traitement.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 284,
+    "Proposition": "La resynchronisation ventriculaire vise à stimuler électriquement les ventricules en cas de BAV.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 285,
+    "Proposition": "L’attraction du septum interventriculaire réduit l’efficacité de la contraction retardée du VG en cas de BBG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 286,
+    "Proposition": "Un bloc de branche gauche suffisamment long peut indirectement impacter l’appareil sous-valvulaire mitral et aggraver une sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 287,
+    "Proposition": "La resynchronisation ventriculaire vise à stimuler électriquement les 2 ventricules en même temps.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 288,
+    "Proposition": "L’IC est un processus statique et isolé qui dépend peu d'autres facteurs physiologiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 289,
+    "Proposition": "Les défibrillateurs implantables sont indiqués en cas d’insuffisance cardiaque uniquement en prévention secondaire d’une mort subite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 290,
+    "Proposition": "La prévention primaire de la mort subite concerne les patients symptomatiques (NYHA II-III) malgré les traitements avec une FEVG <35% et une cardiopathie ischémique survenue >40j après un infarctus.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 291,
+    "Proposition": "La prévention secondaire de la mort subite concerne les rescapés d’une arythmie ventriculaire avec instabilité hémodynamique survenue moins de 48h après un infarctus myocardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 292,
+    "Proposition": "Une VO2 maximale <5ml/kg/min à l’exercice est une indication pour la transplantation cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 293,
+    "Proposition": "Une VO2 maximale <50% de la valeur prédite est une indication pour la transplantation cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 294,
+    "Proposition": "La présence d’autres affections irréversibles significatives ou la mauvaise compliance thérapeutique sont des contre-indications à la transplantation cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 295,
+    "Proposition": "Une insuffisance cardiaque compensée peut subitement s’aggraver à cause de la prise d’AINS.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 296,
+    "Proposition": "Les causes de décompensation cardiaque sont très nombreuses : ischémie myocardique, HTA non contrôlée, surinfection, hyper/hypothyroïdie, abus d’alcool, apports hydriques et sodés excessifs,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 297,
+    "Proposition": "Les antagonistes calciques ne sont jamais responsables de décompensation cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 298,
+    "Proposition": "Une augmentation brutale de la pression de remplissage ventriculaire gauche peut entraîner une hypertension auriculaire gauche et artérielle pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 299,
+    "Proposition": "La radiographie de thorax montre des stries de Kerley en cas d’œdème pulmonaire hémodynamique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 300,
+    "Proposition": "Une fuite rapide de plasma à travers les capillaires pulmonaires vers les espaces interstitiels et les alvéoles se produit lorsque la pression télédiastolique ventriculaire gauche devient >10mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 301,
+    "Proposition": "La clinique de l’OPH comprend généralement une détresse respiratoire sévère sans toux ni expectorations.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 302,
+    "Proposition": "Tout traitement inotrope négatif est susceptible de provoquer la décompensation d’une IC contrôlée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 303,
+    "Proposition": "L'auscultation montre des râles humides, des ronchis, du wheezing et des sibilances en cas d’OPH.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 304,
+    "Proposition": "L’œdème pulmonaire hémodynamique n’est pas visible à la radiographie de thorax.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 305,
+    "Proposition": "Le traitement de l’OPH vise à améliorer rapidement les symptômes et à traiter le facteur déclenchant.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 306,
+    "Proposition": "L'administration d'oxygène est généralement évitée chez les patients atteints d’œdème pulmonaire hémodynamique pour prévenir une aggravation de l'état respiratoire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 307,
+    "Proposition": "Le furosémide per os est souvent utilisé dans le traitement de l’œdème pulmonaire hémodynamique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 308,
+    "Proposition": "L’œdème pulmonaire hémodynamique se manifeste par une bradypnée et une orthopnée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 309,
+    "Proposition": "Le patient atteint d’OPH crache souvent des expectorations mousseuses et rosées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 310,
+    "Proposition": "Les dérivés nitrés peuvent être administrés par voie sublinguale ou intraveineuse en cas d’OPH.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 311,
+    "Proposition": "Tous les médicaments inotropes négatifs doivent être stoppés en cas d’OPH.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 312,
+    "Proposition": "Le patient est souvent cyanosé, anxieux et avec des signes de désaturation en cas d’OPH.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 313,
+    "Proposition": "La dobutamine est un inotrope négatif utilisé dans le traitement de l’OPH pout augmenter la PAS.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 314,
+    "Proposition": "Tous les patients atteints d’œdème pulmonaire hémodynamique doivent être intubés.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 315,
+    "Proposition": "Le pronostic de l’oedème pulmonaire hémodynamique est meilleur si le patient est hypotendu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 316,
+    "Proposition": "On administre de l’oxygène en cas d’OPH si la saturation est <80% ou si la PaO2 est <60mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 317,
+    "Proposition": "La ventilation non invasive est souvent recommandée comme traitement initial en cas d’OPH.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 318,
+    "Proposition": "L'intubation trachéale et la ventilation assistée sont nécessaires en cas de détresse respiratoire sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 319,
+    "Proposition": "Le vérapamil est utilisé en cas d’œdème aigu du poumon pour améliorer la fonction cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 320,
+    "Proposition": "Un suivi rapproché de l'ionogramme urinaire et de la diurèse est nécessaire en cas d’OPH.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 321,
+    "Proposition": "On administre de l’oxygène dès que la saturation devient inférieure à 95% en cas d’OPH.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 322,
+    "Proposition": "Les diurétiques thiazidiques font partie du traitement de l’œdème pulmonaire hémodynamique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 323,
+    "Proposition": "Les diurétiques de l'anse sont généralement préférés aux diurétiques thiazidiques chez les patients atteints d'insuffisance cardiaque en raison de leur puissance et de leur action rapide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 324,
+    "Proposition": "La spironolactone peut induire une hyperkaliémie surtout en association avec un IEC ou un sartan.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 325,
+    "Proposition": "L'hyponatrémie dans l’IC résulte de la rétention hydrosodée et de la sécrétion trop faible d’ADH.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 326,
+    "Proposition": "La norépinéphrine est contre-indiquée dans le traitement de l’œdème pulmonaire hémodynamique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 327,
+    "Proposition": "Le traitement initial de l’OPH est surtout composé d’O2, de dérivés nitrés et de diurétiques de l’anse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 328,
+    "Proposition": "Les inotropes positifs comme la dobutamine sont souvent utilisés pour augmenter la contractilité cardiaque en cas d'insuffisance cardiaque aiguë en stimulant les récepteurs bêta-adrénergiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 329,
+    "Proposition": "Les inhibiteurs des SGLT2 sont efficaces même chez les insuffisants cardiaques sans diabète de type",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 330,
+    "Proposition": "La resynchronisation cardiaque peut être bénéfique en cas d’IC avec bloc de branche droit.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 331,
+    "Proposition": "L’aspirine est un anti-agrégant plaquettaire recommandé en cas d’insuffisance cardiaque pour réduire le risque d’évènements cardiovasculaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 332,
+    "Proposition": "La transplantation cardiaque est indiquée si l’espérance de vie du patient atteint d’insuffisance cardiaque est inférieure à 50% endéans les 6 à 12 mois avec une qualité de vie inacceptable.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 333,
+    "Proposition": "L'assistance mécanique peut être utilisée en attendant la transplantation cardiaque en cas d’IC sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 334,
+    "Proposition": "La dilatation des cavités cardiaques est un signe typique d’insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 335,
+    "Proposition": "L’œdème des membres supérieurs est un symptôme courant d’insuffisance cardiaque systolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 336,
+    "Proposition": "L’IC peut entraîner une réduction de la perfusion tissulaire en raison d'une diminution du débit cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 337,
+    "Proposition": "Les diurétiques sont utilisés pour augmenter l’excrétion d’eau et de potassium en cas d’IC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 338,
+    "Proposition": "Les diurétiques de l’anse sont préférables chez les patients avec une altération de la fonction rénale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 339,
+    "Proposition": "L'utilisation prolongée de diurétiques peut entrainer une perte excessive de K+ et de Mg2+ et des troubles électrolytiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 340,
+    "Proposition": "L'IC avec FEVG préservée est caractérisée par une diminution de l'élasticité auriculaire gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 341,
+    "Proposition": "Le diagnostic de l’IC avec fonction systolique ventriculaire gauche préservée est souvent facile à établir.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 342,
+    "Proposition": "On considère que la fonction systolique est préservée si la FEVG est >40%.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 343,
+    "Proposition": "Un VG rigide ne peut être rempli qu’au prix d’une augmentation de pression dans l’oreillette gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 344,
+    "Proposition": "Toutes les affections qui réduisent l'élasticité myocardique peuvent induire une dysfonction diastolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 345,
+    "Proposition": "L’augmentation de la séquestration diastolique du Ca2+ dans le réticulum sarcoplasmique altère le processus actif de relaxation myocardique et induit une dysfonction diastolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 346,
+    "Proposition": "L’insuffisance cardiaque à FEVG préservée est fréquente chez la femme âgée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 347,
+    "Proposition": "L’IC à FEVG préservée entraine une hypertension auriculaire gauche et veineuse pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 348,
+    "Proposition": "Le pronostic de l’IC à FEVG préservée est généralement meilleur que celui de l’IC à FEVG réduite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 349,
+    "Proposition": "Le diagnostic de l’IC diastolique est posé grâce à l’échographie cardiaque et au dosage du NT-proANP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 350,
+    "Proposition": "La présentation clinique de l’IC est similaire peu importe si la FEVG est réduite ou préservée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 351,
+    "Proposition": "Le diagnostic d’insuffisance cardiaque à fonction préservée nécessite des examens complémentaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 352,
+    "Proposition": "La preuve objective d'une dysfonction diastolique doit être apportée par cathétérisme cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 353,
+    "Proposition": "Les causes d’IC à FEVG préservée sont très nombreuses : hypertrophie du VG suite à l’HTA ou à une sténose aortique, cardiopathie ischémique, cardiomyopathie hypertrophique, infiltrative ou restrictive,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 354,
+    "Proposition": "La radiothérapie thoracique peut induire une cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 355,
+    "Proposition": "L’amyloïdose, la tuberculose et l’hémochromatose peuvent entrainer une cardiomyopathie infiltrative.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 356,
+    "Proposition": "La preuve objective d’une augmentation de la pression de remplissage du VG peut être apportée par l’échographie cardiaque en cas d’insuffisance cardiaque à FEVG préservée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 357,
+    "Proposition": "La FEVG est considérée comme préservée si elle est >60%.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 358,
+    "Proposition": "Le traitement de l’insuffisance cardiaque à FEVG préservée consiste principalement à augmenter la surcharge volumique avec un régime hyposodé et des diurétiques et à traiter l’affection sous-jacente.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 359,
+    "Proposition": "L’insuffisance cardiaque à FEVG préservée touche plus souvent les hommes que les femmes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 360,
+    "Proposition": "Le dosage du NT-proBNP contribue au diagnostic de l’insuffisance cardiaque à FEVG préservée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 361,
+    "Proposition": "La dysfonction diastolique et la dysfonction systolique du VG sont souvent associés.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 362,
+    "Proposition": "Les patients atteints d’IC à FEVG préservée ne nécessitent aucun traitement médicamenteux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 363,
+    "Proposition": "L’ischémie myocardique peut entrainer une insuffisance cardiaque à dysfonction diastolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 364,
+    "Proposition": "La myocardite est toujours causée par des agents infectieux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 365,
+    "Proposition": "Le cytomégalovirus est rarement responsable d’une infection chronique chez les immunodéprimés.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 366,
+    "Proposition": "La diphtérie est une cause fréquente de myocardite dans les pays développés.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 367,
+    "Proposition": "Corynebacterium diphteriae produit une substance toxique pour le myocarde responsable d’une cardiomyopathie dilatée et d’une polyneuropathie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 368,
+    "Proposition": "La maladie de Lyme se manifeste principalement par une cardiomyopathie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 369,
+    "Proposition": "La maladie de Lyme provoquent des altérations de la conduction auriculo-ventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 370,
+    "Proposition": "Le VIH peut induire une myocardite dans les stades précoces de la maladie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 371,
+    "Proposition": "La toxicité médicamenteuse, la dénutrition, la toxicomanie et les affections opportunistes pourraient jouer un rôle dans la myocardite liée au VIH.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 372,
+    "Proposition": "La maladie de Chagas est l’infection cardiaque virale la plus fréquente dans le monde.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 373,
+    "Proposition": "La maladie de Chagas est principalement transmise par une piqûre de moustique en Europe.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 374,
+    "Proposition": "Il n’existe pas de traitement médical curatif pour la cardiomyopathie liée à la maladie de Chagas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 375,
+    "Proposition": "La cardiomyopathie liée à la maladie de Chagas récidive après la transplantation cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 376,
+    "Proposition": "L'alcool et les anthracyclines sont des agents toxiques connus pour causer des myocardites.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 377,
+    "Proposition": "L’infection chronique à Trypanosoma Cruzi survient après une période de latence de quelques mois.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 378,
+    "Proposition": "L’infection chronique à Trypanosoma Cruzi ne survient que chez 10 à 30% des patients.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 379,
+    "Proposition": "La myocardite auto-immunitaire survient après une affection bactérienne.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 380,
+    "Proposition": "De très nombreux agents infectieux peuvent causer une myocardite : Coxsackie, influenza, adénovirus, fièvre Q, brucellose, toxoplasmose, leptospirose, rougeole, rubéole, aspergillose, méningocoque, chlamydia,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 381,
+    "Proposition": "La myocardite se manifeste toujours par des symptômes évidents d'insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 382,
+    "Proposition": "Les symptômes de la myocardite peuvent imiter ceux d'un infarctus du myocarde.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 383,
+    "Proposition": "La cardiomyopathie liée à la maladie de Chagas est caractérisée par une dilatation ventriculaire et des parois amincies par de la fibrose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 384,
+    "Proposition": "La myocardite survient généralement plusieurs mois après une infection virale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 385,
+    "Proposition": "La myocardite subaiguë se caractérise par une douleur précordiale typique, des palpitations, une asthénie et une dyspnée à l’effort.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 386,
+    "Proposition": "La myocardite se résout souvent dans les 4 à 12 semaines suivant l’apparition des symptômes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 387,
+    "Proposition": "L’inflammation peut devenir chronique et provoquer une cardiomyopathie dilatée après une myocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 388,
+    "Proposition": "La myocardite est souvent asymptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 389,
+    "Proposition": "L'ECG montre généralement une bradycardie chez les patients atteints de myocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 390,
+    "Proposition": "La conduction auriculo-ventriculaire ou intra-ventriculaire peut être altérée en cas de myocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 391,
+    "Proposition": "Les enzymes cardiaques sont généralement augmentées en cas de myocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 392,
+    "Proposition": "L'échographie cardiaque est généralement normale chez les patients atteints de myocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 393,
+    "Proposition": "La biopsie endomyocardique est souvent nécessaire pour confirmer le diagnostic de myocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 394,
+    "Proposition": "Les immunosuppresseurs sont toujours bénéfiques dans le traitement de la myocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 395,
+    "Proposition": "Les patients atteints de myocardite peuvent reprendre une activité sportive dès le début du traitement.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 396,
+    "Proposition": "Le traitement de la myocardite repose uniquement sur la gestion des symptômes de l’IC congestive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 397,
+    "Proposition": "L'ECG peut montrer des altérations du segment ST et de l’onde T en cas de myocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 398,
+    "Proposition": "La biologie montre généralement un syndrome inflammatoire en cas de myocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 399,
+    "Proposition": "L'arrêt de l'activité sportive est recommandé jusqu'à la normalisation de la FEVG en cas de myocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 400,
+    "Proposition": "Les immunosuppresseurs sont peuvent favoriser l’infection virale en cas de myocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 401,
+    "Proposition": "La cardiomyopathie hypertrophique est une affection génétique autosomique dominante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 402,
+    "Proposition": "Les mutations des gènes contrôlant les protéines du sarcomère sont responsables de la cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 403,
+    "Proposition": "Les cellules musculaires sont disposées de manière parallèle dans la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 404,
+    "Proposition": "Dans la cardiomyopathie hypertrophique, des cellules de taille variée alternent avec des zones de fibrose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 405,
+    "Proposition": "La cardiomyopathie hypertrophique touche une personne sur",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 406,
+    "Proposition": "Les connections intercellulaires anormales entrainent des anomalies de la conduction électrique en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 407,
+    "Proposition": "La cardiomyopathie hypertrophique affecte principalement les artères épicardiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 408,
+    "Proposition": "La cardiomyopathie hypertrophique est l’affection génétique cardiaque la plus commune.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 409,
+    "Proposition": "Dans la cardiomyopathie hypertrophique, l'hypertrophie ventriculaire est toujours symétrique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 410,
+    "Proposition": "L’hypertrophie atteint surtout le septum interventriculaire en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 411,
+    "Proposition": "La relaxation et la compliance ventriculaire sont augmentées en cas de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 412,
+    "Proposition": "Les arythmies auriculaires ne sont pas associées à la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 413,
+    "Proposition": "Les lésions microvasculaires induisent une ischémie en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 414,
+    "Proposition": "Les artères intra-myocardiques ont une média amincie et une lumière réduite en cas de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 415,
+    "Proposition": "L’hypertrophie de la paroi réduit la cavité ventriculaire mais les ventricules restent hyperdynamiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 416,
+    "Proposition": "La fonction systolique n’est pas altérée en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 417,
+    "Proposition": "Une hypertrophie ventriculaire marquée associée à une fonction systolique altérée doit faire suspecter une amyloïdose ou une maladie métabolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 418,
+    "Proposition": "La valve mitrale postérieure est attirée vers le septum en cas de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 419,
+    "Proposition": "L’hypertrophie septale crée un obstacle à l’éjection du VG et induit un flux de haute vélocité vers l’aorte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 420,
+    "Proposition": "Le mouvement anormal de la valve mitrale induit par la cardiomyopathie hypertrophique est favorisé par un allongement de la valve aortique et une insertion anormale des muscles papillaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 421,
+    "Proposition": "La majorité des patients atteints de cardiomyopathie hypertrophique développent une obstruction intraventriculaire entre la chambre de chasse ventriculaire et l’aorte.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 422,
+    "Proposition": "L'obstruction intraventriculaire n’est observé que à l’effort en cas de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 423,
+    "Proposition": "La cardiomyopathie hypertrophique est souvent associée à une insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 424,
+    "Proposition": "La valve mitrale antérieure est attirée vers le septum interventriculaire par un effet Venturi en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 425,
+    "Proposition": "Le contact répété entre la valve mitrale et le septum interventriculaire peut induire une zone de fibrose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 426,
+    "Proposition": "La fatigue musculaire périphérique est rarement associée à la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 427,
+    "Proposition": "La cardiomyopathie hypertrophique est généralement asymptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 428,
+    "Proposition": "Le septum interventriculaire hypertrophié crée un obstacle à l’éjection et provoque donc une augmentation de la pression intra-ventriculaire en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 429,
+    "Proposition": "Les symptômes de la cardiomyopathie hypertrophique comprennent de l’asthénie, de la dyspnée, des palpitations, de l’angor et des syncopes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 430,
+    "Proposition": "Un souffle para-sternal droit est souvent entendu en cas de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 431,
+    "Proposition": "Le souffle de cardiomyopathie hypertrophique est aggravée par une augmentation du retour veineux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 432,
+    "Proposition": "La diminution de retour veineux diminue la taille du VG et aggrave l’obstruction intraventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 433,
+    "Proposition": "Un souffle de régurgitation mitral est rarement associé à la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 434,
+    "Proposition": "La cardiomyopathie hypertrophique se manifeste par un souffle éjectionnel para-sternal gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 435,
+    "Proposition": "La cardiomyopathie hypertrophique se manifeste par une diminution de l’amplitude des complexes QRS.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 436,
+    "Proposition": "L’ECG montre une altération de la repolarisation en cas de cardiomyopathie hypertrophie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 437,
+    "Proposition": "L'échographie cardiaque est peu utile dans le diagnostic de la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 438,
+    "Proposition": "Les potentiels tardifs sont recherchés par des ECG moyennés en cas de cardiopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 439,
+    "Proposition": "Le cathétérisme cardiaque est souvent nécessaire pour diagnostiquer la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 440,
+    "Proposition": "La scintigraphie montre de nombreux déficits de perfusion en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 441,
+    "Proposition": "L’ECG peut montrer une pseudo-onde Q de nécrose inférolatérale en cas de cardiopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 442,
+    "Proposition": "Un Holter du rythme cardiaque est inutile dans le suivi d’une cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 443,
+    "Proposition": "L'hypertrophie ventriculaire est plus sévère en cas d’HTA que de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 444,
+    "Proposition": "Les potentiels tardifs sont des ondes de haute amplitude continuant le complexe QRS et se prolongeant 10ms dans le segment ST.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 445,
+    "Proposition": "Les ECG moyennés sont utiles pour évaluer le risque de tachycardie ventriculaire et de mort subite chez les patients atteints de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 446,
+    "Proposition": "La tachycardie ventriculaire non soutenue détectée par le Holter n’élève pas le risque de mort subite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 447,
+    "Proposition": "L’hypertrophie ventriculaire est généralement concentrique chez le patient hypertendu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 448,
+    "Proposition": "La plupart des athlètes d'élite ont une hypertrophie ventriculaire prononcée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 449,
+    "Proposition": "L'hypertrophie ventriculaire est moindre en cas de cardiomyopathie hypertrophique que chez les athlètes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 450,
+    "Proposition": "Moins de 2% des athlètes d’élite ont un épaississement ventriculaire >13mm (N : 11mm).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 451,
+    "Proposition": "L’ECG d’un athlète d’élite révèle une bradycardie sinusale, pas d’onde Q et pas d’altérations ST-T.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 452,
+    "Proposition": "La fonction cardiaque diastolique est réduite par l’hypertrophie ventriculaire chez l’athlète d’élite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 453,
+    "Proposition": "La cardiomyopathie hypertrophique idiopathique du sujet >60 ans est moins sévère que la forme classique de la maladie mais se situe également dans le septum interventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 454,
+    "Proposition": "Une angulation se forme entre l’aorte et les ventricules avec le vieillissement.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 455,
+    "Proposition": "La mort subite est une complication rare de la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 456,
+    "Proposition": "Les enfants et les jeunes atteints de cardiomyopathie hypertrophique sont plus à risque de mort subite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 457,
+    "Proposition": "La fibrillation auriculaire est rarement associée à la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 458,
+    "Proposition": "Les emboles systoliques touchent 15% des patients atteints de cardiomyopathie hypertrophique par an.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 459,
+    "Proposition": "L'examen familial est inutile dans la prise en charge de la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 460,
+    "Proposition": "La fibrillation auriculaire paroxystique ou persistante est traitée par cardioversion électrique ou par antivitamines K dans le cadre de la cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 461,
+    "Proposition": "L’amiodarone augmente le risque de récidive de FA en cas de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 462,
+    "Proposition": "Les bêta-bloquants ou le diltiazem ralentissent la réponse ventriculaire à la fibrillation auriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 463,
+    "Proposition": "L'amiodarone est administrée chez tous les patients atteints de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 464,
+    "Proposition": "Les sports de compétition doivent être évités en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 465,
+    "Proposition": "Les diurétiques peuvent aggraver l’obstruction en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 466,
+    "Proposition": "Les défibrillateurs ventriculaires implantables sont indiqués en cas de tachycardie ventriculaire non soutenue ou de mort subite réanimée chez les patients atteint de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 467,
+    "Proposition": "Les bêta-bloquants sont utilisés pour la cardiomyopathie hypertrophique non obstructive symptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 468,
+    "Proposition": "Les vasodilatateurs périphériques sont utilisés dans le traitement de la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 469,
+    "Proposition": "Les vasodilatateurs atténuent l’effet Venturi qui attire la valve mitrale antérieure vers le septum interventriculaire hypertrophié en cas de cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 470,
+    "Proposition": "La vasodilatation périphérique aggrave le gradient de pression de part et d’autre de l’obstacle à l’éjection ventriculaire en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 471,
+    "Proposition": "Une intervention chirurgicale (myomectomie inter-ventriculaire) est pratiquée dans le traitement de la cardiomyopathie hypertrophique en cas d’échec du traitement pharmacologique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 472,
+    "Proposition": "L’injection d’alcool dans une artère coronaire est utilisée pour créer un « infarctus expérimental ».",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 473,
+    "Proposition": "Les bêta-bloquants ne sont pas utiles dans le traitement de la cardiomyopathie hypertrophique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 474,
+    "Proposition": "La cardiomyopathie hypertrophique peut être traitée par l’injection d’alcool dans une des branches septales de l’artère inter-ventriculaire postérieure.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 475,
+    "Proposition": "L'hypertrophie ventriculaire gauche est souvent asymétrique dans la cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 476,
+    "Proposition": "Les mutations affectant les protéines du sarcomère sont responsables de la cardiomyopathie dilatée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 477,
+    "Proposition": "Les patients atteints de cardiomyopathie hypertrophique ne présentent jamais de dyspnée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 478,
+    "Proposition": "La cardiomyopathie hypertrophique est principalement causée par des facteurs environnementaux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 479,
+    "Proposition": "L’auscultation d’une cardiomyopathie hypertrophique ne montre généralement pas de souffle cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 480,
+    "Proposition": "L'hypertrophie ventriculaire observée chez les athlètes d'élite est toujours pathologique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 481,
+    "Proposition": "La cardiomyopathie hypertrophique est rare chez les sujets de plus de 60 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 482,
+    "Proposition": "L’angor est provoqué par une augmentation de la pression intra-ventriculaire et des anomalies microvasculaires en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 483,
+    "Proposition": "Les bêta-bloquants réduisent la dyspnée et l’angor en cas de cardiomyopathie hypertrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 484,
+    "Proposition": "L'amiodarone est indiquée en cas de cardiomyopathie hypertrophique avec hypertrophie sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 485,
+    "Proposition": "L'injection d'alcool dans une des branches septales de l'artère inter-ventriculaire antérieure est utilisée dans le traitement de la cardiomyopathie hypertrophique en cas d’échec du traitement pharmacologique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 486,
+    "Proposition": "L’amyloïdose, la sarcoïdose, l’hémochromatose, les métastases de mélanome ou de lymphome et certaines maladies métaboliques rares sont responsables de cardiomyopathie restrictive et infiltrative.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 487,
+    "Proposition": "Le signe de Küssmaul correspond à une augmentation de la turgescence jugulaire à l’inspiration.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 488,
+    "Proposition": "La cardiomyopathie dilatée idiopathique est plus fréquente chez les sujets masculins et caucasiens.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 489,
+    "Proposition": "80% des péricardites aigues sont causées par une infection virale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 490,
+    "Proposition": "La douleur thoracique dans la péricardite aiguë est réduite en position assise ou penchée en avant.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 491,
+    "Proposition": "L’épanchement péricardique est perçu comme « le bruit de la neige écrasée sous les pas » à l’auscultation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 492,
+    "Proposition": "L'ECG dans la péricardite aiguë montre initialement une élévation du segment PR.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 493,
+    "Proposition": "Les épanchements péricardiques légers même asymptomatiques doivent systématiquement être traités.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 494,
+    "Proposition": "Le drainage péricardique est toujours nécessaire en cas de tamponnade péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 495,
+    "Proposition": "La constriction péricardique est souvent due à une inflammation aiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 496,
+    "Proposition": "Le syndrome de Dressler peut survenir après une chirurgie cardiaque comportant une péricardiotomie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 497,
+    "Proposition": "La péricardite post-infarctus se manifeste généralement pendant la phase aiguë de l'infarctus.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 498,
+    "Proposition": "Le pouls paradoxal est un signe clinique caractéristique de la tamponnade péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 499,
+    "Proposition": "L'ECG dans la constriction péricardique montre typiquement un sus-décalage du segment ST.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 500,
+    "Proposition": "La péricardite auto-immune peut survenir après un infarctus myocardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 501,
+    "Proposition": "Le traitement de la péricardite aiguë implique toujours l'utilisation d'antibiotiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 502,
+    "Proposition": "Le signe de Küssmaul est caractéristique de la constriction péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 503,
+    "Proposition": "Les corticoïdes sont souvent utilisés dans le traitement de la péricardite aiguë sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 504,
+    "Proposition": "Le syndrome de Dressler se caractérise par des douleurs articulaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 505,
+    "Proposition": "La résonance magnétique nucléaire est l'examen de choix pour diagnostiquer la péricardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 506,
+    "Proposition": "Le traitement de la constriction péricardique implique généralement l'utilisation de diurétiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 507,
+    "Proposition": "La tamponnade péricardique peut survenir même avec un épanchement lentement progressif.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 508,
+    "Proposition": "L'élévation du segment ST est un signe typique de la péricardite aiguë à l'ECG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 509,
+    "Proposition": "Le traitement de la péricardite aiguë inclut souvent l'utilisation de colchicine pour prévenir les récidives.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 510,
+    "Proposition": "L'épanchement péricardique asymptomatique nécessite toujours un traitement.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 511,
+    "Proposition": "La présence d'un épanchement péricardique peut être détectée par l'échographie cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 512,
+    "Proposition": "La turgescence jugulaire est un signe clinique de la tamponnade péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 513,
+    "Proposition": "Le traitement de la tamponnade péricardique implique généralement un drainage péricardique urgent.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 514,
+    "Proposition": "La péricardite post-infarctus peut se manifester par une ré-élévation du segment ST dans la même région.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 515,
+    "Proposition": "Le pouls paradoxal est un signe clinique de la péricardite aiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 516,
+    "Proposition": "Le traitement de la constriction péricardique peut nécessiter une exérèse chirurgicale du péricarde.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 517,
+    "Proposition": "L'épanchement péricardique peut être secondaire à une insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 518,
+    "Proposition": "L'épanchement péricardique peut être détecté par la radiographie thoracique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 519,
+    "Proposition": "La présence de calcifications péricardiques à la radio thoracique est un signe de constriction péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 520,
+    "Proposition": "La péricardite post-infarctus nécessite toujours l'arrêt de l'héparine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 521,
+    "Proposition": "Le pouls paradoxal est un signe clinique de la constriction péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 522,
+    "Proposition": "L'élévation du segment ST est un signe typique de la constriction péricardique à l'ECG.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 523,
+    "Proposition": "Le traitement de la péricardite aiguë implique toujours l'utilisation de diurétiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 524,
+    "Proposition": "L'épanchement péricardique peut être détecté par la résonance magnétique nucléaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 525,
+    "Proposition": "Le péricarde normale est très élastique lors de variations extrêmes du volume cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 526,
+    "Proposition": "Lorsque le volume cardiaque augmente de façon trop importante, le péricarde normal devient rigide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 527,
+    "Proposition": "Le volume du ventricule gauche est réduit à l’inspiration si le volume péricardique est fixe.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 528,
+    "Proposition": "Le septum interventriculaire est déplacé vers la droite à l’inspiration pour augmenter le volume du VG.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 529,
+    "Proposition": "Le pouls paradoxal s’explique par l’interdépendance des volumes ventriculaires dans un péricarde rigide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 530,
+    "Proposition": "Le pouls paradoxal est caractérisée par une augmentation de la PA >10mmHg à l’inspiration.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 531,
+    "Proposition": "80% des péricardites virales sont dus aux virus Coxsackie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 532,
+    "Proposition": "Les bactéries et les champignons sont aussi capables de causer des péricardites aigues.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 533,
+    "Proposition": "La diminution du pouls à l’inspiration est un signe de tamponnade.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 534,
+    "Proposition": "La pression artérielle est normalement réduite de moins de 10mmHg lors de l’inspiration.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 535,
+    "Proposition": "La réduction de la PA à l’inspiration s’explique par une diminution du retour veineux à l’inspiration.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 536,
+    "Proposition": "Le pouls paradoxal est caractérisée par une diminution de la PA <10mmHg à l’inspiration.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 537,
+    "Proposition": "La péricardite aigue peut survenir dans le cadre d’une maladie auto-immune ou inflammatoire : lupus érythémateux, maladie de Crohn, arthrite rhumatoïde, maladie de Behçet, artérite de Horton, RAA,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 538,
+    "Proposition": "La radiothérapie et les médicaments (phénytoïne, isoniazide,…) sont des causes de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 539,
+    "Proposition": "Le pouls paradoxal est caractérisée par une diminution de la PA >10cmH2O à l’inspiration.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 540,
+    "Proposition": "L’urémie et certains cancers peuvent provoquer une péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 541,
+    "Proposition": "La péricardite aigue se caractérise par une douleur sévère d’apparition progressive de type pleurale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 542,
+    "Proposition": "La douleur de péricardite aigue est aggravé par les mouvements respiratoires, la toux et la position assise.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 543,
+    "Proposition": "La douleur de péricardite aigue est irradiée vers le dos et les omoplates.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 544,
+    "Proposition": "La péricardite aigue est souvent associée à un syndrome grippal et une fièvre modérée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 545,
+    "Proposition": "La douleur thoracique est réduite par la position penchée en avant en cas de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 546,
+    "Proposition": "L’auscultation cardiaque révèle un frottement péricardique parasternal en cas de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 547,
+    "Proposition": "Le frottement péricardique est mieux audible si le patient est en décubitus dorsal.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 548,
+    "Proposition": "Le frottement péricardique a 3 composantes : systole ventriculaire, proto-diastole et télé-diastole.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 549,
+    "Proposition": "L’ECG montre un sus-décalage diffus du segment ST sauf en aVF et V1 en cas de péricardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 550,
+    "Proposition": "L’ECG montre initialement une dépression du segment PR en cas de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 551,
+    "Proposition": "L’ECG montre un sus-décalage concave « en selle de cheval » du segment ST en cas de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 552,
+    "Proposition": "L’ECG se normalise quelques jours après une péricardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 553,
+    "Proposition": "Le segment ST redevient normal et l’onde T devient isoélectrique ou s’inverse après la phase initiale de la péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 554,
+    "Proposition": "L’ECG montre un sous-décalage diffus du segment ST sauf en aVR et V1 en cas de péricardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 555,
+    "Proposition": "La biologie montre une élévation des enzymes myocardiques en cas de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 556,
+    "Proposition": "Une sérologie virale et HIV, des hémocultures et un test cutané à la tuberculine doivent être réalisés en cas de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 557,
+    "Proposition": "La radiographie de thorax est normale en cas de péricardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 558,
+    "Proposition": "La biologie doit doser plusieurs éléments en cas de péricardite aigue : créatinine, urée, T3, T4, facteur rhumatoïde, anticorps antinucléaires, signes de néoplasie hématologique,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 559,
+    "Proposition": "L’échographie cardiaque permet de confirmer le diagnostic clinique de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 560,
+    "Proposition": "La péricardiocentèse et la biopsie sont réservées aux péricardites sévères ne répondant pas au traitement.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 561,
+    "Proposition": "La péricardiocentèse consiste à ponctionner le liquide péricardique à l’aide d’une aiguille.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 562,
+    "Proposition": "La péricardite aigue répond souvent peu à l’aspirine et à l’ibuprofène.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 563,
+    "Proposition": "La colchicine augmente le risque de récidive de péricardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 564,
+    "Proposition": "Les antibiotiques sont réservés aux péricardites purulentes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 565,
+    "Proposition": "On observe souvent une excellente réponse à l’aspirine ou à l’ibuprofène en cas de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 566,
+    "Proposition": "Les corticoïdes comme la prednisolone sont utilisés dans le traitement de la péricardite aigue sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 567,
+    "Proposition": "Une anticoagulation par héparine ou antivitamine K est recommandée en cas de péricardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 568,
+    "Proposition": "L’anticoagulation est réservée aux cas de péricardite associée à une ischémie ou un infarctus myocardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 569,
+    "Proposition": "Les antivitamines K doivent être remplacés par de l’héparine chez les patients atteints de péricardite aigue avec une valve mécanique prothétique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 570,
+    "Proposition": "Les épanchements péricardiques néoplasiques sont toujours la conséquence d’une métastase.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 571,
+    "Proposition": "Les bénéfices du traitement anticoagulant sont inférieurs aux risques en cas de péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 572,
+    "Proposition": "La péricardite récurrente survient uniquement en cas d’échec du traitement initial.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 573,
+    "Proposition": "La péricardite récurrente survient dans 20% des cas après une péricardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 574,
+    "Proposition": "La corticothérapie chronique est recommandée en cas de péricardite récurrente.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 575,
+    "Proposition": "La récidive de péricardite nécessite la répétition du traitement par AINS, corticoïdes et colchicine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 576,
+    "Proposition": "La péricardectomie est le traitement de choix pour les cas sévères de péricardite récurrente.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 577,
+    "Proposition": "L’épanchement péricardique est souvent découvert par hasard à la radiographie de thorax.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 578,
+    "Proposition": "L’épanchement péricardique est toujours induit par une réaction inflammatoire du péricarde.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 579,
+    "Proposition": "L’IC, le syndrome néphrotique et l’hyperthyroïdie peuvent provoquer un épanchement péricardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 580,
+    "Proposition": "L’épanchement est asymptomatique tant qu’il ne compromet pas l’hémodynamique cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 581,
+    "Proposition": "L’alternance électrique est un signe typique d’épanchement péricardique à l’ECG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 582,
+    "Proposition": "A l’ECG, le voltage du complexe QRS varie à chaque battement à cause des mouvements du cœur dans l’épanchement péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 583,
+    "Proposition": "La radio de thorax détecte un élargissement de la silhouette cardiaque si l’épanchement est de >400ml.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 584,
+    "Proposition": "L’échographie cardiaque est l’examen le plus sensible pour détecter un épanchement péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 585,
+    "Proposition": "Le drainage péricardique peut être couplé à l’injection de tétracyclines ou d’antimitotiques pour tarir la sécrétion causant l’épanchement.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 586,
+    "Proposition": "L’anticoagulation diminue le risque d’épanchement péricardique ou de tamponnade.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 587,
+    "Proposition": "Un cancer peut entrainer un épanchement péricardique par compression des lymphatiques médiastinaux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 588,
+    "Proposition": "La tamponnade est toujours une urgence médicale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 589,
+    "Proposition": "La tamponnade peut survenir suite à un épanchement brutal de 150ml.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 590,
+    "Proposition": "La tamponnade peut survenir suite à un épanchement très lentement progressif de 2L.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 591,
+    "Proposition": "L’augmentation de pression péricardique comprime d’abord les cavités droites à basse pression.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 592,
+    "Proposition": "Le débit cardiaque est augmenté en cas de tamponnade suite à la tachycardie réflexe.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 593,
+    "Proposition": "La tamponnade induit une tachycardie réflexe, une vasodilatation et une réduction du débit urinaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 594,
+    "Proposition": "Le patient atteint de tamponnade est souvent dyspnéique, tachypnéique et hypotendu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 595,
+    "Proposition": "La turgescence veineuse jugulaire est un signe de tamponnade.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 596,
+    "Proposition": "Le pouls paradoxal est une exagération de la réduction expiratoire normale de la pression artérielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 597,
+    "Proposition": "La tamponnade est caractérisée par une augmentation des bruits cardiaques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 598,
+    "Proposition": "Le flux mitral inspiratoire augmente de >25% à l’échographie cardiaque par rapport à la valeur expiratoire en cas de tamponnade.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 599,
+    "Proposition": "La péricardiotomie sous-xyphoïdienne chirurgicale est une option dans le traitement de la tamponnade.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 600,
+    "Proposition": "La péricardite constrictive survient surtout après une péricardite idiopathique ou une chirurgie cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 601,
+    "Proposition": "La constriction péricardique se manifeste par une fibrose dense, des calcifications et des adhérences entre les 2 feuillets péricardiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 602,
+    "Proposition": "La fibrose ne s’étend jamais au ventricule en cas de constriction péricardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 603,
+    "Proposition": "La tamponnade peut survenir suite à un épanchement péricardique brutal >200ml.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 604,
+    "Proposition": "Une hypothyroïdie peut entrainer un épanchement péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 605,
+    "Proposition": "La constriction péricardique augmente le débit cardiaque via une augmentation du rythme cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 606,
+    "Proposition": "La constriction péricardique se manifeste par un tableau d’insuffisance cardiaque gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 607,
+    "Proposition": "La fonction systolique ventriculaire est proche de la normale en cas de constriction péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 608,
+    "Proposition": "Le signe de Küssmaul correspond à une augmentation de la turgescence jugulaire à l’inspiration.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 609,
+    "Proposition": "Le pouls paradoxal est retrouvé chez 90% des patients atteints de constriction péricardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 610,
+    "Proposition": "Les OMI, l’hépatomégalie et l’orthopnée sont des symptômes de constriction péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 611,
+    "Proposition": "L’auscultation cardiaque est normale en cas de constriction péricardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 612,
+    "Proposition": "L’ECG montre un QRS de faible voltage et une altération de l’onde T en cas de constriction péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 613,
+    "Proposition": "La constriction péricardique entraine souvent une hypertension pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 614,
+    "Proposition": "Un B3 précoce est entendu à l’apex ou au bord sternal gauche en cas de constriction péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 615,
+    "Proposition": "Le B3 précoce correspond à un arrêt brutal du flux systolique en cas de constriction péricardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 616,
+    "Proposition": "Le flux mitral expiratoire augmente de >25% à l’échographie cardiaque par rapport au flux inspiratoire en cas de constriction péricardique",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 617,
+    "Proposition": "Le flux dans les veines pulmonaires est réduit lors de l’inspiration en cas de constriction péricardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 618,
+    "Proposition": "Les diurétiques sont contre-indiqués en cas de constriction péricardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 619,
+    "Proposition": "La péricardectomie est une chirurgie risquée avec un taux de mortalité de 10%.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 620,
+    "Proposition": "La péricardite post-infarctus se manifeste quelques jours après un infarctus NSTEMI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 621,
+    "Proposition": "La péricardite post-infarctus est souvent localisée au niveau de la zone infarcie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 622,
+    "Proposition": "Le syndrome de Dressler est une péricardite auto-immune qui survient après <1% des cas d’infarctus.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 623,
+    "Proposition": "Le syndrome de Dressler atteint le myocarde de manière diffuse ainsi que la plèvre.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 624,
+    "Proposition": "Le syndrome de Dressler est souvent accompagné de fièvre.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 625,
+    "Proposition": "L’hypertension artérielle pulmonaire est défini par une pression pulmonaire moyenne >5 mmHg au repos.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 626,
+    "Proposition": "Le groupe 1 d'hypertension pulmonaire est caractérisé par des lésions des petites artérioles pulmonaires musculaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 627,
+    "Proposition": "Les infections par le VIH peuvent causer de l'hypertension pulmonaire dans environ 0,5 % des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 628,
+    "Proposition": "L'hypertension portale est la première cause d'hypertension artérielle pulmonaire du groupe",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 629,
+    "Proposition": "Les shunts gauche-droite congénitaux sont une cause d’hypertension pulmonaire du groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 630,
+    "Proposition": "Le groupe 5 d'hypertension pulmonaire est secondaire à des mécanismes non élucidés ou multifactoriels.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 631,
+    "Proposition": "L’hypertension pulmonaire est définie par une pression pulmonaire moyenne >20 mmHg au repos.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 632,
+    "Proposition": "Les connectivites (lupus, sclérodermie, polyarthrite rhumatoïde,….) sont la 2ème cause d’HTAP du groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 633,
+    "Proposition": "L’hypertension portale provoque une HTAP chez 25% des patients.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 634,
+    "Proposition": "L’hypertension artérielle pulmonaire du groupe 1 est rarement idiopathique et généralement consécutive à une affection cardiaque gauche ou pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 635,
+    "Proposition": "80% des cas d’HTAP ont une mutation dans le gène Bone Morphogenic Protein Receptor type",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 636,
+    "Proposition": "L’hypertension portale est la 3ème cause d’HTAP du groupe 1 à cause d’une toxicité sérotininerique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 637,
+    "Proposition": "Les pathologies du cœur droit sont une cause très fréquente d’hypertension artérielle pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 638,
+    "Proposition": "Les métamphétamines sont responsables d’hypertension artérielle pulmonaire du groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 639,
+    "Proposition": "L’hypoxie chronique en altitude (>2500m) est un facteur favorisant d’HTP du groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 640,
+    "Proposition": "L’asthme, l’emphysème et la fibrose pulmonaire idiopathique provoquent une HTP du groupe",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 641,
+    "Proposition": "Les thrombo-embolies pulmonaires sont une cause d'HTP du groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 642,
+    "Proposition": "La sarcoïdose, les leucémies et la drépanocytose peuvent provoquer une hypertension pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 643,
+    "Proposition": "Quel que soit l’étiologie, l’hypertension artérielle pulmonaire du groupe 1 est caractérisée par une prolifération des cellules endothéliales et une atrophie de la média.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 644,
+    "Proposition": "Les artères pulmonaires ont une propension accrue à la vasoconstriction en cas d’HTP du groupe",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 645,
+    "Proposition": "La synthèse de NO et de prostacycline est réduite en cas d’HTAP du groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 646,
+    "Proposition": "Les taux de sérotonine sont abaissés en cas de d’HTAP du groupe",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 647,
+    "Proposition": "L’HTAP du groupe 1 est caractérisée par une accumulation de protéines extra-cellulaires et une thrombose des veinules et des artérioles pulmonaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 648,
+    "Proposition": "Les shunts gauche-droite congénitaux augmentent le débit pulmonaire et les forces de cisaillement exercées sur les cellules musculaires lisses.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 649,
+    "Proposition": "Les pathologies pulmonaires qui augmentent la taille de l’arbre vasculaire pulmonaire favorisent l’HTP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 650,
+    "Proposition": "L’hypertension pulmonaire peut être causée par une pathologie valvulaire gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 651,
+    "Proposition": "L’hypoxie chronique induit une vasoconstriction artériolaire pulmonaire irréversible.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 652,
+    "Proposition": "Les symptômes d’hypertension artérielle pulmonaire apparaissent dès le début de la maladie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 653,
+    "Proposition": "Les symptômes d’HTP sont souvent aspécifiques : dyspnée, douleur thoracique, asthénie,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 654,
+    "Proposition": "L’hypertension pulmonaire avancée provoque un P2 claquant et un souffle de régurgitation tricuspide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 655,
+    "Proposition": "L’hypertension artérielle pulmonaire n’est jamais héréditaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 656,
+    "Proposition": "L’hypertension pulmonaire avancée entraine des œdèmes pulmonaires, une turgescence jugulaire, des palpitations et des syncopes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 657,
+    "Proposition": "Le phénomène de Raynaud est caractérisé par un spasme artériolaire avec une pâleur et une cyanose cutanée intermittente.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 658,
+    "Proposition": "L'hypertrophie auriculaire droite est un signe typique à l'ECG de l'hypertension pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 659,
+    "Proposition": "L’hypertension pulmonaire provoque une dilatation des cavités cardiaques gauches.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 660,
+    "Proposition": "La scintigraphie pulmonaire de ventilation et de perfusion permet de rechercher une embolie pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 661,
+    "Proposition": "L'échographie cardiaque est utilisée pour mesurer les pressions pulmonaires dans le diagnostic de l’HTP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 662,
+    "Proposition": "Le cathétérisme cardiaque permet de déterminer les résistances pulmonaires et leur réversibilité en réponse à l'inhalation d'oxyde nitrique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 663,
+    "Proposition": "La résonance magnétique est rarement utilisée dans le diagnostic de l'hypertension pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 664,
+    "Proposition": "La gazométrie montre une hypoxémie en cas de shunt gauche-droite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 665,
+    "Proposition": "Les antagonistes calciques ont un effet favorable dans le traitement de l’HTAP de groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 666,
+    "Proposition": "Les bêta-bloquants sont recommandés dans le traitement de l’HTAP de groupe",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 667,
+    "Proposition": "L'oxygène nasal est inefficace pour améliorer la survie des patients atteints d'hypertension pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 668,
+    "Proposition": "Les inhibiteurs de la phosphodiestérase 5 comme le sildénafil ne sont pas utilisés dans le traitement de l'hypertension pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 669,
+    "Proposition": "Les antagonistes de l'endothéline peuvent augmenter la distance de marche en cas d’HTP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 670,
+    "Proposition": "La transplantation pulmonaire est un traitement courant pour l'hypertension pulmonaire du groupe",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 671,
+    "Proposition": "L’ECG montre une onde P pointue en D2 et une déviation de l’axe du QRS en cas d’HTAP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 672,
+    "Proposition": "La thromboendartériectomie chirurgicale est utilisée pour traiter l'hypertension pulmonaire du groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 673,
+    "Proposition": "L'hypertension artérielle pulmonaire est caractérisée par une pression pulmonaire supérieure de >20mmHg par rapport la moyenne au repos.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 674,
+    "Proposition": "Les infections par le VIH sont la principale cause d'hypertension pulmonaire du groupe",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 675,
+    "Proposition": "Les thrombo-embolies pulmonaires sont une cause fréquente d'hypertension pulmonaire du groupe",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 676,
+    "Proposition": "L'hypertrophie ventriculaire droite est un signe typique à l'ECG de l'hypertension pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 677,
+    "Proposition": "L’association d’inhibiteurs de la PDE5 et d’activateurs de la guanylate cyclase est contre-indiquée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 678,
+    "Proposition": "L'oxygénothérapie permet d’améliorer la survie des patients atteints d'hypertension pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 679,
+    "Proposition": "L'administration excessive de diurétiques est nocive pour les patients atteints d'hypertension pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 680,
+    "Proposition": "La radiographie de thorax ne permet pas de visualiser une dilatation de l’artère pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 681,
+    "Proposition": "L’HTP est de bon pronostic si les résistances pulmonaires sont réduites par l’inhalation de NO.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 682,
+    "Proposition": "Le test de tolérance à l’effort est contre-indiqué en cas d’hypertension artérielle pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 683,
+    "Proposition": "L’ergospirométrie permet de calculer la VO2 max pour envisager une transplantation pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 684,
+    "Proposition": "L’epoprosterol est une prostacycline intraveineuse utilisée dans le traitement de l’HTAP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 685,
+    "Proposition": "Les dérivés nitrés sublinguaux sont le traitement le plus efficace en cas d’HTAP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 686,
+    "Proposition": "La PGI2 IV induit un phénomène de tolérance progressive nécessitant l’augmentation des doses.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 687,
+    "Proposition": "L’arrêt brutal du traitement par PGI2 IV peut entrainer une hypertension pulmonaire fatale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 688,
+    "Proposition": "L’iloprost IV est utilisé comme traitement et pour évaluer la réversibilité de l’augmentation des résistances pulmonaires en cas d’hypertension artérielle pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 689,
+    "Proposition": "Les inhibiteurs de la PDE5 et les activateurs de la guanylate cyclase sont couramment associés dans le traitement de l’hypertension artérielle pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 690,
+    "Proposition": "Tous les patients souffrant d’HTP de groupe 4 doivent être anti-coagulés par des antivitamines K.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 691,
+    "Proposition": "L’arrêt du traitement par prostacycline IV peut entrainer une hypertension pulmonaire sévère et brutale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 692,
+    "Proposition": "Les agonistes de l’endothéline sont utilisés dans le traitement de l’hypertension pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 693,
+    "Proposition": "L’endothéline induit une vasoconstriction via son récepteur Etb et une vasodilatation par la libération de NO et de prostacycline via son récepteur Eta.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 694,
+    "Proposition": "L’angioplastie percutanée des artères pulmonaires est possible en cas d’HTP de groupe",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 695,
+    "Proposition": "Le riociguat est un activateur de la guanylate cyclase à action vasodilatatrice et antiproliférative.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 696,
+    "Proposition": "Les tumeurs cardiaques primitives sont plus fréquentes que les tumeurs cardiaques secondaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 697,
+    "Proposition": "Les sarcomes cardiaques sont généralement bénins chez les enfants.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 698,
+    "Proposition": "Le myxome est la tumeur du cœur la plus fréquente et représente 90% des tumeurs primitives cardiaques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 699,
+    "Proposition": "Les myxomes sont souvent situés dans l'oreillette droite dans la moitié des cas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 700,
+    "Proposition": "Les embolies sont une présentation clinique fréquente des myxomes cardiaques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 701,
+    "Proposition": "Les tumeurs cardiaques peuvent provenir de métastases de cancers pulmonaires ou de mélanomes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 702,
+    "Proposition": "Le traitement des tumeurs cardiaques est généralement limité à la chirurgie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 703,
+    "Proposition": "Les myxomes cardiaques peuvent provoquer une sténose mitrale (œdème pulmonaire et syncope).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 704,
+    "Proposition": "Les tumeurs secondaires cardiaques sont 4x plus fréquentes que les tumeurs primitives.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 705,
+    "Proposition": "Les tumeurs cardiaques secondaires proviennent rarement de métastases de cancers mammaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 706,
+    "Proposition": "La chimiothérapie est utilisée dans le traitement des tumeurs cardiaques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 707,
+    "Proposition": "Les tumeurs cardiaques primitives concernent uniquement le myocarde.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 708,
+    "Proposition": "Les myxomes cardiaques peuvent se manifester par une augmentation de la vitesse de sédimentation.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 709,
+    "Proposition": "Les myxomes cardiaques peuvent induire de nombreux signes généraux : fièvre, perte de poids, anémie, hypogammaglobulinémie, hyperleucocytose,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 710,
+    "Proposition": "Les myxomes cardiaques sont souvent des tumeurs pédiculées situées près de la fosse ovale dans l’OG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

@@ -1,0 +1,5177 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "La fièvre rhumatismale est une affection multisystémique consécutive causée par une infection laryngée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "La fièvre rhumatismale est la 1ère cause mondiale d'affection cardiaque chez l’enfant et le jeune adulte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "Le rhumatisme articulaire aigu est une cause fréquente de valvulopathies dans les pays occidentaux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "Le staphylocoque bêta hémolytique du groupe A est responsable de la fièvre rhumatismale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "La fièvre rhumatismale est la 1ère cause de valvulopathies dans le monde.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "La réponse immunitaire à l'infection causant le RAA survient généralement dans les 3 jours suivant l'infection.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "La fièvre rhumatismale affecte principalement le cœur, mais peut également affecter d'autres organes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "La valvulite dans la fièvre rhumatismale affecte généralement la valve aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "La polyarthrite dans la fièvre rhumatismale atteint les grosses articulations de façon asymétrique et migratoire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "La polyarthrite dans la fièvre rhumatismale dure 1 à 3 mois en l’absence de traitement mais répond en moins de 48h à l’aspirine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "La réaction immunitaire post-streptococcique produit une inflammation nodulaire (« d’Aschoff ») au niveau de l’endocarde, du myocarde et du péricarde et provoque une réaction fibrosante calcifiante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "Parmi les différents organes touchés par le RAA, seul le cœur peut présenter des séquelles chroniques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "Le RAA peut se manifester par un érythème cutané marginé prurigineux et serpigineux sur le thorax.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "Le rhumatisme articulaire aigu peut provoquer des petits nodules sous-cutanés sur la face d’extension des articulations et sur l’occiput.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "La fièvre rhumatismale induit une insuffisance valvulaire aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "La chorée de Sydenham survient 3 mois après le RAA et se résout spontanément en 1 à 2 semaines.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "Le Streptocoque du groupe A possède des épitopes en commun avec la myosine cardiaque et des protéines membranaire du sarcolemme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "Les nodules sous-cutanés dans la fièvre rhumatismale sont fermes et non mobiles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "La majorité des angines de l’adulte sont d’origine virale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "Le streptocoque bêta-hémolytique du groupe A est souvent responsable d’angines entre 1 et 5 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "Un frottis de détection rapide est plus sensible que la culture pour détecter le streptocoque bêta hémolytique du groupe A.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "La culture n’est réalisée que si le frottis de détection rapide du streptocoque du groupe A est négatif.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "Le frottis de détection rapide est très spécifique d’antigène ou d’ARN du streptocoque du groupe A.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "La culture pharyngée est toujours positive pour le streptocoque du groupe A lors des symptômes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "Les anticorps anti-streptocoque ASLO sont spécifique du streptocoque bêta-hémolytique du groupe A.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "Le taux de ASLO est plus élevé lors des symptômes cliniques de RAA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "L'échographie cardiaque est un examen complémentaire utile dans le diagnostic de la fièvre rhumatismale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "La pénicilline est le traitement de choix pour les pharyngites causées par le Streptocoque du groupe A.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "Le traitement de la crise aiguë de fièvre rhumatismale comprend le repos au lit et l'administration d'aspirine pour diminuer les douleurs articulaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "Les corticostéroïdes sont plus efficaces que l'aspirine dans le traitement de la fièvre rhumatismale mais causent plus d’effets indésirables.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "Un traitement préventif à base de benzathine pénicilline G intra-musculaire tous les mois ou de pénicilline V per os deux fois par jour est administré pendant 20 ans pour prévenir les récidives d’angine à streptocoques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "Une prévention secondaire médicamenteuse peut être administré à vie après une angine streptococcique selon la sévérité de la valvulopathie et le degré d’exposition au streptocoque du groupe A.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "La valvulite du RAA affecte plus souvent la valve mitrale que la valve aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "Seulement 50% des patients atteints de fièvre rhumatismale développent des séquelles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "15% des malades présentent une fièvre rhumatismale après une épidémie de pharyngites à streptocoque bêta- hémolytique du groupe A.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "Une valve fortement atteinte par le RAA continuera à se détériorer car elle génère des flux turbulents.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "La chorée de Sydenham dans la fièvre rhumatismale se résout spontanément en quelques jours.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "L’amoxicilline est inefficace dans le traitement des pharyngites à streptocoques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "La fièvre rhumatismale touche principalement les adultes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "Sur 100 malades atteints d’angines à streptocoque A, environ 8 patients développeront une fièvre rhumatismale et 4 d’entre eux présenteront des séquelles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "La sténose aortique est un trouble de l'éjection ventriculaire droite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "La sténose aortique d’origine dégénérative est associée au diabète, à l’hypercholestérolémie et à des altérations du métabolisme phosphocalcique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "La prévalence de la sténose aortique augmente avec l’âge.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "La sténose aortique touche 50% des personnes de plus de 85 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "La bicuspidie aortique affecte environ 4% de la population.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "La bicuspidie aortique est 4 fois plus fréquente chez le sujet masculin.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "La bicuspidie aortique nécessite un dépistage familial au 2ème degré de parenté.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "La bicuspidie aortique est associée à la coarctation aortique et à la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "La sténose aortique touche 5% des personnes de plus de 65 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "Les patients atteints de sténose aortique deviennent rapidement symptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "La pronostic de la sténose aortique est de 50% après 2 ans chez le patient symptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "L'hypertrophie ventriculaire gauche réduit la tension pariétale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "L'élévation de la pression dans l'oreillette gauche favorise la fibrillation auriculaire en cas de sténose aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "L’hypertrophie ventriculaire gauche réduit l’élasticité ventriculaire, augmente la consommation en O2 et réduit le flux coronaire épicardique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "Un ventricule hypertrophié ne se laisse remplir qu’au prix d’une pression systolique augmentée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "La sténose aortique peut être congénitale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "La perfusion coronaire sous-endocardique se fait d’autant mieux durant la diastole que la pression intra- ventriculaire est basse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "La sténose aortique peut causer une angine de poitrine en l'absence de lésion coronaire épicardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "Le souffle de la sténose aortique est holosystolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "La sténose aortique peut provoquer une syncope même au repos.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "L’effort est très mal toléré en cas de sténose aortique car il entraine une vasodilatation périphérique avec une augmentation du débit cardiaque et provoque une hypotension rapide.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "La dyspnée est un symptôme tardif de sténose aortique qui passe souvent inaperçu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "Le massage cardiaque permet difficilement de sauver le patient en mort subite en cas de sténose aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "Le souffle d’insuffisance aortique est systolique et éjectionnel.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "Le souffle de sténose aortique irradie vers les carotides et parfois vers l’apex du cœur.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "La sténose aortique se manifeste par un souffle crescendo-décrescendo à l’auscultation cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "Le souffle de sténose aortique débute après le B1 et s’arrête avant le B",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "Le B2 aortique disparait en cas de sténose aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "Le souffle d’insuffisance mitrale est holosystolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "L'ECG montre souvent une hypertrophie ventriculaire gauche dans la sténose aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "L’indice de Solokow permet de diagnostiquer une hypertrophie ventriculaire droite à l’ECG.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "La radiographie thoracique montre une dilatation aortique post-sténotique mais ne permet pas de voir les calcifications valvulaires aortiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "La perte de mobilité des cuspides entraine une augmentation de la surface valvulaire aortique à l’échographie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "L’échographie est indispensable en cas de sténose aortique pour rechercher d’autres pathologies valvulaires associées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "L'épreuve d'effort est recommandée chez les patients présentant une sténose aortique symptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "Le cathétérisme cardiaque et la coronarographie sont recommandés dans certaines indications en cas de sténose aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "La surveillance échographique est recommandée pour les patients asymptomatiques avec une fonction ventriculaire gauche normale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "La sclérose aortique touche 50% des personnes de plus de 85 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "Le remplacement de la valve aortique sténosée n’est pas réalisé chez les patients asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "L’apparition des symptômes de sténose aortique survient vers 20-50 ans en cas de bicuspidie aortique, vers 50-60 ans en cas de pathologie rhumatismale et vers 70-80 ans en cas de dégénérescence de la valve.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "L’apparition des symptômes de sténose aortique annonce une réduction rapide de l’espérance de vie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "Tous les patients asymptomatiques nécessitent une intervention chirurgicale pour traiter la sténose aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "La dilatation du ventricule gauche est le signe tardif d’une sténose aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "La valve aortique ne peut pas être remplacée par une bioprothèse car elle est soumise à une pression trop importante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "Le remplacement de la valve aortique sténosée est recommandé chez les patients asymptomatiques avec une fonction ventriculaire gauche altérée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "Le remplacement de la valve aortique est recommandé chez les patients symptomatiques avec une sténose aortique serrée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "La valve aortique peut être remplacée par une bioprothèse ou une valve mécanique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "L'anti-agrégation ou l'anticoagulation orale peut être arrêtée 3 mois après l'implantation d'une bioprothèse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "Les valves mécaniques nécessitent une anticoagulation orale par héparine à vie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "Les bioprothèses ont une durée de vie limitée et sont donc réservés aux patients de plus de 65 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "L'INR doit être maintenu entre 1 et 2 pour les patients avec une valve mécanique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "L’intervention de Bentall consiste à remplacer l’aorte descendante par une prothèse en dacron.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "Le TAVI est une option de traitement pour les patients jeunes avec une sténose aortique serrée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "Le TAVI est réalisé par abord transfémoral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "Les patients de moins de 75 ans sont de bons candidats pour le TAVI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "La bicuspidie aortique est une contre-indication absolue au TAVI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "Les valves mécaniques sont recommandées pour les patients âgés de plus de 65 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "Les valves mécaniques ont une durée de vie limitée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "La valve aortique sténosée ne peut pas être remplacée par une valve mécanique si le patient présente une contre-indication aux vitamines K.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "Les valves mécaniques ont une longue durée de vie mais nécessitent une anticoagulation orale par antivitamines K à vie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "Après le remplacement d’une valve aortique par une valve mécanique, l’INR doit être compris entre 2 et 3 ou entre 2,5 et 3,5 si le patient présente d’autres facteurs de risque thrombo-emboliques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "Le TAVI nécessite une ouverture chirurgicale minimale du thorax.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "Le TAVI est impossible si la taille de l’anneau aortique est incompatible avec les prothèses existantes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "Le TAVI consiste à placer une prothèse mécanique par voie artérielle dans la valve aortique sténosée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "Le TAVI nécessite la prise de petites doses d’aspirine (ou de clopidogrel en cas d’allergie) à vie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "Le TAVI est contre-indiqué en l'absence d'accès artériel ou si les artères coronaires sont implantées à proximité de la valve.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "Le TAVI est contre-indiqué en présence d'un thrombus auriculaire gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "Le TAVI consiste à placer une prothèse biologique par voie artérielle dans la valve aortique sténosée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "Les valves mécaniques nécessitent une anticoagulation orale par clopidogrel.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "Les patients atteints de sténose aortique restent asymptomatiques pendant une longue période.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "La sténose aortique se manifeste par un angor en l’absence de lésions coronaires, par des syncopes et par une dyspnée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "Le TAVI est réservé aux patients <75 ans ou quand la chirurgie cardiaque est impossible ou trop risquée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "L'insuffisance aortique peut être causée par une endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "La surcharge en volume du ventricule gauche est commune à toutes les causes d’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "L’insuffisance aortique est causée par une altération valvulaire dans 30% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "Un traumatisme thoracique majeur peut causer une insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "L’insuffisance aortique est causée dans la majorité des cas par une dilatation de l’anneau aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "Le syndrome de Marfan est une maladie autosomique récessive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "Le syndrome de Marfan augmente le risque d’insuffisance aortique et de prolapsus mitral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "L'insuffisance aortique chronique est bien tolérée même à l'effort.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "Le syndrome d’Elhers-Danlos est une maladie héréditaire du tissu conjonctif qui peut provoquer une dilatation de l’anneau valvulaire et entrainer une insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "L’insuffisance aortique est induite par une pathologie congénitale comme la bicuspidie aortique ou l’anévrysme du sinus de Valsalva dans 10% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "La dissection ou un anévrysme de l’aorte ascendante ou l’aortite peuvent entrainer une sténose aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "L'insuffisance aortique aiguë peut être induite par une endocardite ou une dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "L’insuffisance aortique aigue provoque un œdème pulmonaire hémodynamique par une augmentation importante du niveau de pression en amont.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "L’insuffisance aortique aigue est caractérisée par une fermeture retardée de la valve mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 127,
+    "Proposition": "L’insuffisance aortique chronique est le plus souvent due à l’adaptation du cœur à une insuffisance aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 128,
+    "Proposition": "L'insuffisance aortique chronique est caractérisée par une dilatation progressive du ventricule gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 129,
+    "Proposition": "La fonction contractile du ventricule gauche reste normale dans l'insuffisance aortique chronique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 130,
+    "Proposition": "La pression diastolique du VG reste longtemps normale en cas d’insuffisance aortique chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 131,
+    "Proposition": "Tout comme la sténose aortique, l’insuffisance aortique chronique entraine une dilatation progressive du ventricule gauche sans augmentation de l’épaisseur pariétale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 132,
+    "Proposition": "L’hypertrophie ventriculaire gauche est de type concentrique dans l’insuffisance aortique chronique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 133,
+    "Proposition": "La fraction d’éjection du ventricule gauche dilaté reste longtemps normale en cas d’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 134,
+    "Proposition": "L’insuffisance aortique chronique est bien tolérée à l’effort car l’augmentation de la fréquence cardiaque raccourcit la durée de la systole et réduit l’importance de la fuite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 135,
+    "Proposition": "La dysfonction myocardique dans l'insuffisance aortique chronique est irréversible.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 136,
+    "Proposition": "L'insuffisance aortique peut être asymptomatique pendant longtemps.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 137,
+    "Proposition": "Le patient asymptomatique atteint d’insuffisance cardiaque ne doit pas être opéré si la contraction myocardique est intacte.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 138,
+    "Proposition": "Le ventricule normal peu élastique supporte très mal une insuffisance aortique aigue mais le ventricule progressivement dilaté et rendu élastique supporte très bien une insuffisance aortique chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 139,
+    "Proposition": "Selon Frank-Starling, plus le cœur est étiré pendant la diastole, plus la force de contraction est faible.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 140,
+    "Proposition": "La dyspnée est souvent un symptôme précoce de l'insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 141,
+    "Proposition": "L’augmentation importante et rapide de la pression télédiastolique du ventricule gauche entraine une fermeture prématurée de la valve mitrale en cas d’insuffisance aortique aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 142,
+    "Proposition": "Il y a une augmentation de la précharge et de la postcharge en cas d’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 143,
+    "Proposition": "La mortalité après remplacement valvulaire aortique s’accroit quand la dilatation ventriculaire gauche devient trop importante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 144,
+    "Proposition": "Les lipothymies et les malaises pré-syncopaux sont fréquents quand la PAD est fortement élevée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 145,
+    "Proposition": "Le remplissage du ventricule gauche augmente fortement en cas de sténose aortique car le flux de régurgitation s’ajoute au flux mitral.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 146,
+    "Proposition": "L’insuffisance aortique peut se manifester par de l’angor car la pression télédiastolique du ventricule gauche augmente et s’oppose à la perfusion coronaire sous-endocardique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 147,
+    "Proposition": "L’insuffisance aortique se manifeste par une augmentation de la pression artérielle diastolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 148,
+    "Proposition": "Le signe de Musset consiste en des mouvements de la tête rythmée par les battements cardiaques et est un signe classique de l’insuffisance aortique grave.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 149,
+    "Proposition": "La sténose aortique est caractérisée par une grande différence de pression systolo-diastolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 150,
+    "Proposition": "La dyspnée, l’angor et les signes de bas débits sont tardifs mais dominent le tableau clinique d’insuffisance cardiaque quand la fonction myocardique est altérée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 151,
+    "Proposition": "Le pouls unguéal « de Quincke » est un signe typique de l’insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 152,
+    "Proposition": "L’intensité des pouls est abaissée à cause du reflux sanguin dans l’insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 153,
+    "Proposition": "Le signe de Corrigan consiste en une diminution de l’intensité des pouls dans l’insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 154,
+    "Proposition": "La PAD peut théoriquement s’abaisser jusqu’à 0mmHg dans l’insuffisance aortique mais est en réalité rarement <30mmHg.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 155,
+    "Proposition": "L'auscultation fémorale montre un pouls artériel normal dans l'insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 156,
+    "Proposition": "Le B1 est souvent diminué à l’auscultation dans l’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 157,
+    "Proposition": "Le B2 aortique est souvent absent à l’auscultation dans l’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 158,
+    "Proposition": "La compression fémorale en amont du site de l’auscultation induit un double souffle crural en cas d’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 159,
+    "Proposition": "L’auscultation d’une insuffisance aortique montre un flux diastolique décrescendo régurgitant après le B",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 160,
+    "Proposition": "Le souffle d’insuffisance aortique est d’autant plus long que l’insuffisance est sévère.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 161,
+    "Proposition": "Le B2 aortique est souvent augmenté en cas de sténose aortique car la valve est calcifiée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 162,
+    "Proposition": "L’auscultation d’une insuffisance aortique montre un flux diastolique crescendo régurgitant après le B",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 163,
+    "Proposition": "La valve mitrale se ferme avant la systole ventriculaire en cas d’insuffisance aortique sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 164,
+    "Proposition": "L’auscultation de l’insuffisance aortique montre un souffle parasternal gauche et un souffle dans le 2ème espace intercostal droit.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 165,
+    "Proposition": "La pression artérielle systolique est très élevée dans l’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 166,
+    "Proposition": "Le flux régurgitant de l’insuffisance aortique impacte la portion proximale de la branche gauche du faisceau de His et entraine un bloc de branche gauche mineur à l’ECG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 167,
+    "Proposition": "L’ECG montre une dilatation du VG avec altération de la repolarisation en cas d’insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 168,
+    "Proposition": "La radiographie de thorax permet de mesurer la sévérité du reflux en cas d’insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 169,
+    "Proposition": "L'échographie cardiaque est inutile dans le diagnostic de l'insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 170,
+    "Proposition": "Le moment optimal pour proposer le remplacement valvulaire chirurgical en cas d’insuffisance aortique est au tout début des symptômes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 171,
+    "Proposition": "L’échographie permet de déterminer la sévérité du reflux, de rechercher une altération de la fonction ventriculaire et une augmentation du diamètre télésystolique du VG en cas d’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 172,
+    "Proposition": "Le traitement de l'insuffisance aortique vise surtout à supprimer les symptômes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 173,
+    "Proposition": "Les bêtabloquants sont recommandés chez les patients atteints du syndrome de Marfan.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 174,
+    "Proposition": "La chirurgie valvulaire est recommandée pour tous les patients atteints d'insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 175,
+    "Proposition": "La réparation de la valve aortique est possible dans certains cas d’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 176,
+    "Proposition": "L'intervention de Bentall est utilisée pour remplacer l'aorte ascendante si elle est dilatée à >55mm.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 177,
+    "Proposition": "Les patients asymptomatiques ne doivent pas être opérés en cas d’insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 178,
+    "Proposition": "Le remplacement valvulaire aortique chirurgical est nécessaire pour tous les patients présentant une insuffisance aortique aiguë.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 179,
+    "Proposition": "L’auscultation fémorale montre un double bruit systolique et diastolique (vibration de la paroi artérielle « en coup de fusil ») dans l’insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 180,
+    "Proposition": "L'insuffisance aortique peut être causée par la prise d'anorexigènes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 181,
+    "Proposition": "Le traitement chirurgical de l’insuffisance cardiaque est indiqué pour les patients asymptomatiques qui présentent une altération de la fonction ventriculaire gauche même si leur capacité d’effort est normale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 182,
+    "Proposition": "L’insuffisance cardiaque doit absolument être traitée en cas d’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 183,
+    "Proposition": "Une aorte ascendante dilatée à <50mm chez un patient souffrant du syndrome de Marfan ou de bicuspidie aortique est une indication pour l’opération de Bentall.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 184,
+    "Proposition": "Les patients asymptomatiques avec une augmentation du diamètre ventriculaire à l’échographie doivent être opérés rapidement en cas d’insuffisance aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 185,
+    "Proposition": "Le remplacement valvulaire chirurgical n’est pas indiqué chez les patients symptomatiques atteints d’insuffisance aortique car la chirurgie n’améliore pas le pronostic.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 186,
+    "Proposition": "Les patients avec une insuffisance aortique aiguë sont généralement asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 187,
+    "Proposition": "La dilatation auriculaire est un signe tardif d’insuffisance aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 188,
+    "Proposition": "La sténose mitrale résulte souvent d'une fusion des commissures.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 189,
+    "Proposition": "La sténose mitrale est plus fréquente chez les femmes que chez les hommes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 190,
+    "Proposition": "Les 2 causes les plus fréquentes de sténose mitrale sont la dégénérescence de la valve et la radiothérapie thoracique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 191,
+    "Proposition": "La sténose mitrale peut rarement être causée par une tumeur carcinoïde pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 192,
+    "Proposition": "Les symptômes de sténose mitrale sont déclenchés par tous les évènements qui ralentissent la fréquence cardiaque (grossesse, anémie, infection, exercice, thyrotoxicose,…).",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 193,
+    "Proposition": "La sténose mitrale est très souvent consécutive à un rhumatisme articulaire aigu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 194,
+    "Proposition": "Les cas avancés de sténose mitrale peuvent provoquer une hypertension pulmonaire avec douleurs thoraciques et une insuffisance cardiaque droite avec œdèmes des membres inférieurs et hépatalgies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 195,
+    "Proposition": "L'hypertension auriculaire gauche peut favoriser la fibrillation auriculaire et les thromboembolies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 196,
+    "Proposition": "Le ralentissement du rythme cardiaque améliore les symptômes de la sténose mitrale par une augmentation de la durée de la systole et une meilleure vidange auriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 197,
+    "Proposition": "L'ECG montre souvent une hypertrophie ventriculaire gauche dans la sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 198,
+    "Proposition": "La sténose mitrale peut entraîner une augmentation de la durée de l'onde P en D",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 199,
+    "Proposition": "L’augmentation de pression dans l’oreillette droite secondaire à la sténose mitrale induit une dyspnée, un œdème pulmonaire hémodynamique et des hémoptysies.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 200,
+    "Proposition": "La sténose mitrale se manifeste au début par de la dyspnée et une fatigue d’apparition progressive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 201,
+    "Proposition": "La sténose mitrale peut se manifester par des symptômes aigus comme la FA et les emboles systémiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 202,
+    "Proposition": "La radiographie thoracique peut montrer une dilatation du ventricule droit dans la sténose mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 203,
+    "Proposition": "Dans la sténose mitrale, la valve mitrale est encore ouverte quand la systole ventriculaire débute.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 204,
+    "Proposition": "L’auscultation de la sténose mitrale montre un B2 claquant et un claquement d’ouverture mitral.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 205,
+    "Proposition": "Le souffle de sténose mitrale est mieux perçu en décubitus dorsal et après l’exercice.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 206,
+    "Proposition": "Le renforcement présystolique du souffle de sténose mitrale disparait en cas de FA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 207,
+    "Proposition": "L’auscultation d’une sténose mitrale montre un roulement holodiastolique avec un renforcement avant B",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 208,
+    "Proposition": "Le P2 disparait à l’auscultation en cas d’hypertension pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 209,
+    "Proposition": "L’hypertrophie auriculaire gauche secondaire à la sténose mitrale se manifeste à l’ECG par une augmentation de la durée de l’onde P >0,08s en D2 et une augmentation de sa composante négative en V",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 210,
+    "Proposition": "La radiographie de thorax montre un double contour droit du cœur en cas de sténose mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 211,
+    "Proposition": "L'échographie cardiaque transthoracique est inutile dans le diagnostic de la sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 212,
+    "Proposition": "L’échographie cardiaque transoesophagienne permet de rechercher un thrombus dans l’auricule gauche avant une dilatation percutanée en cas de sténose mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 213,
+    "Proposition": "Le souffle de sténose mitrale est caractérisé par un renforcement présystolique dû à la contraction auriculaire gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 214,
+    "Proposition": "Le cathétérisme cardiaque n’est pas indiqué en cas de sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 215,
+    "Proposition": "La commissurotomie percutanée permet de traiter une sténose mitrale par voie veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 216,
+    "Proposition": "Le traitement médical de l’insuffisance mitrale comprend une restriction hydrique et sodée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 217,
+    "Proposition": "La cardioversion électrique ou pharmacologique est parfois indiquée en cas de sténose mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 218,
+    "Proposition": "Les bêta-bloquants sont contre-indiqués dans le traitement de la sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 219,
+    "Proposition": "Les anticoagulants directs sont recommandés pour les patients avec une fibrillation auriculaire et une sténose mitrale modérée à sévère.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 220,
+    "Proposition": "La chirurgie de remplacement valvulaire mitral est la seule option pour traiter la sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 221,
+    "Proposition": "Les dihydropyridines sont indiquées dans le traitement de la sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 222,
+    "Proposition": "Le patient asymptomatique atteint de sténose mitrale doit être opéré si il présente une hypertension pré- capillaire pour éviter l’évolution vers une hypertension pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 223,
+    "Proposition": "Les patients atteints de sténose mitrale ont un risque embolique très élevé.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 224,
+    "Proposition": "La sténose mitrale peut être asymptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 225,
+    "Proposition": "Un souffle holodiastolique au niveau du 2è espace intercostal droit est un signe typique de sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 226,
+    "Proposition": "La sténose mitrale peut entraîner une insuffisance cardiaque droite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 227,
+    "Proposition": "La digoxine est utilisée pour ralentir la fréquence cardiaque et la conduction auriculo-ventriculaire dans la sténose mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 228,
+    "Proposition": "L'hypertension pulmonaire est un signe fréquent de sténose tricuspide avancée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 229,
+    "Proposition": "Les symptômes de sténose mitrale peuvent être causés par une thyrotoxicose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 230,
+    "Proposition": "La restriction hydrique et sodée est recommandée dans le traitement médical de la sténose mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 231,
+    "Proposition": "La dilatation ventriculaire gauche est un signe radiologique de sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 232,
+    "Proposition": "La commissurotomie percutanée est réservée aux patients âgés avec une sténose mitrale modérée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 233,
+    "Proposition": "L'épaississement de la paroi des capillaires pulmonaires est un signe de sténose mitrale avancée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 234,
+    "Proposition": "L'hypertrophie auriculaire gauche est un signe électrocardiographique de sténose mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 235,
+    "Proposition": "Le traitement de la sténose mitrale vise à ralentir le rythme cardiaque et à traiter la fibrillation auriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 236,
+    "Proposition": "Les anticoagulants directs comme le dabigatran sont contre-indiqués en présence d’une FA et d’une sténose mitrale modérée à sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 237,
+    "Proposition": "Les patients atteints de sténose mitrale et de FA doivent être traités avec un antagoniste de la vitamine K.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 238,
+    "Proposition": "La chirurgie de remplacement valvulaire mitrale est contre-indiquée en présence d’un thrombus dans l’oreillette gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 239,
+    "Proposition": "Le remplacement valvulaire mitral utilise une valve mécanique si le patient à >70 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 240,
+    "Proposition": "La sténose mitrale peut être causée par une radiothérapie thoracique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 241,
+    "Proposition": "La sténose mitrale peut être traitée par un « cathéter d'Inoue » dans certains cas pour séparer les commisures mitrales fusionnées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 242,
+    "Proposition": "Le traitement médical de la sténose mitrale est à base de digoxine, de bêta-mimétiques ou de diltiazem.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 243,
+    "Proposition": "Le traitement chirurgical de la sténose mitrale ne nécessite pas toujours un remplacement valvulaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 244,
+    "Proposition": "La commissurotomie percutanée nécessite de traverser le septum interauriculaire pour traiter la sténose mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 245,
+    "Proposition": "Tous les patients atteints de sténose mitrale nécessitent un traitement chirurgical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 246,
+    "Proposition": "La présence d’un thrombus dans l’oreillette gauche n’est pas une contre-indication à la commissurotomie mitrale percutanée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 247,
+    "Proposition": "La chirurgie est préférable à la commissurotomie percutanée si la valve mitrale sténosée est déformée ou calcifiée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 248,
+    "Proposition": "Le remplacement valvulaire mitral utilise une valve biologique si le patient à >70 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 249,
+    "Proposition": "L'insuffisance mitrale cause un flux anormal de l’oreillette gauche vers le ventricule gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 250,
+    "Proposition": "L'insuffisance mitrale est la lésion valvulaire la plus prévalente.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 251,
+    "Proposition": "La contraction des muscles papillaires empêche l'éversion valvulaire pendant la systole.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 252,
+    "Proposition": "La taille de l’anneau mitral augmente pendant la systole.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 253,
+    "Proposition": "Une pathologie des cordages tendineux ou des muscles papillaires peut causer une insuffisance mitrale en absence de lésion valvulaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 254,
+    "Proposition": "Toute pathologie affectant les feuillets mitraux ou l’anneau mitral peut induire une régurgitation mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 255,
+    "Proposition": "La dégénérescence myxoïde ou « maladie de Marfan » est une cause fréquente d'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 256,
+    "Proposition": "La radiothérapie thoracique peut causer une insuffisance mitrale par calcification de l’appareil valvulaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 257,
+    "Proposition": "Les cardiomyopathies ischémique ou dilatée peuvent induire une insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 258,
+    "Proposition": "Le rhumatisme articulaire aigu entraine une rétraction des feuillets mitraux et un allongement des cordages.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 259,
+    "Proposition": "L’endocardite peut induire une destruction valvulaire et la rupture des cordages.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 260,
+    "Proposition": "L’insuffisance mitrale entraine une augmentation du volume télésystolique ventriculaire gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 261,
+    "Proposition": "La fraction d'éjection ventriculaire gauche diminue dans l'insuffisance mitrale décompensée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 262,
+    "Proposition": "L'insuffisance mitrale aiguë est caractérisée par une diminution du débit cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 263,
+    "Proposition": "La pression dans l'oreillette gauche diminue progressivement dans l'insuffisance mitrale chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 264,
+    "Proposition": "L’insuffisance mitrale aigue induit une congestion pulmonaire avec orthopnée, fatigue et dyspnée à l’effort.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 265,
+    "Proposition": "L’insuffisance mitrale aigue est généralement bien tolérée car l’oreillette saine est très compliante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 266,
+    "Proposition": "La pression dans la circulation pulmonaire augmente progressivement en cas d’insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 267,
+    "Proposition": "Le volume télédiastolique ventriculaire gauche augmente en cas d’insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 268,
+    "Proposition": "Le B3 est souvent présent en fin de diastole à l'auscultation dans l'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 269,
+    "Proposition": "La compliance ventriculaire diminue dans les formes chroniques d'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 270,
+    "Proposition": "En cas d’insuffisance mitrale, la dyspnée est provoquée par une augmentation de pression dans les cavités cardiaques droites.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 271,
+    "Proposition": "Un 3ème bruit cardiaque est souvent entendu à l’auscultation d’une sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 272,
+    "Proposition": "La dilatation ventriculaire aggrave l’insuffisance mitrale par dilatation de l’anneau valvulaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 273,
+    "Proposition": "Le ventricule se dilate et la paroi ventriculaire s’épaissit en cas d’insuffisance mitrale pour permettre un remplissage accru sans augmentation de la pression ventriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 274,
+    "Proposition": "L’insuffisance mitrale chronique peut rester longtemps asymptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 275,
+    "Proposition": "Une fraction d’éjection du VG normale est un signe de gravité en cas d’insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 276,
+    "Proposition": "La décompensation cardiaque est favorisée par une nécrose myofibrillaire dans l'insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 277,
+    "Proposition": "La décompensation cardiaque est favorisée par une altération du métabolisme sodique dans l'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 278,
+    "Proposition": "L'insuffisance mitrale peut présenter des formes aiguës et chroniques compensées ou décompensées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 279,
+    "Proposition": "La diminution ou la disparition du souffle est un signe de gravité dans l’insuffisance mitrale aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 280,
+    "Proposition": "En cas d’insuffisance mitrale, la fraction d’éjection du ventricule gauche augmente car le ventricule éjecte aisément dans l’oreillette gauche à basse pression au lieu d’éjecter dans l’aorte à haute pression.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 281,
+    "Proposition": "Le B1 est augmenté en cas d’insuffisance mitrale aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 282,
+    "Proposition": "L’insuffisance mitrale chronique se manifeste par un souffle holosystolique à l’apex irradié dans les carotides.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 283,
+    "Proposition": "L’insuffisance mitrale chronique se manifeste par de la fatigue, des signes de bas débit cardiaque et une insuffisance cardiaque gauche dans les formes avancées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 284,
+    "Proposition": "L’insuffisance mitrale chronique peut se manifester par des signes d’hypertension pulmonaire avec un P2 claquant à l’auscultation.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 285,
+    "Proposition": "L’insuffisance mitrale prédispose à la fibrillation auriculaire et aux embolies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 286,
+    "Proposition": "Le souffle d’insuffisance mitrale commence après le B1 et s’arrête avant le B",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 287,
+    "Proposition": "L’ECG montre une hypertrophie des cavités gauches et une FA en cas d’insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 288,
+    "Proposition": "La radiographie de thorax permet de visualiser la congestion pulmonaire en cas d’insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 289,
+    "Proposition": "L’échographie cardiaque externe permet de visualiser la valve mitrale mais pas l’appareil sous-valvulaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 290,
+    "Proposition": "La radiographie de thorax permet de visualiser des végétations mitrales en cas d’endocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 291,
+    "Proposition": "Le cathétérisme cardiaque est utilisé pour faire des mesures hémodynamiques en cas d’insuffisance mitrale et surtout pour confirmer une hypertension pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 292,
+    "Proposition": "Les diurétiques sont utilisés dans le traitement de l'insuffisance mitrale aigue pour diminuer la stase pulmonaire et la tension artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 293,
+    "Proposition": "Une insuffisance mitrale aigue avec hypotension artérielle nécessite une chirurgie urgente.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 294,
+    "Proposition": "Le traitement de l’insuffisance mitrale aigue consiste à diminuer les résistances vasculaires centrales avec des vasodilatateurs pour favoriser le flux vers l’aorte.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 295,
+    "Proposition": "Le nitroprussiate est un antihypertenseur puissant utilisé dans le traitement de l’insuffisance mitrale aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 296,
+    "Proposition": "Le B3 est un bruit cardiaque supplémentaire entendu en début de diastole, juste après la fermeture des valves aortique et pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 297,
+    "Proposition": "Toutes les insuffisances mitrale aigues doivent être opérées même si elle n’entraine pas de troubles hémodynamiques significatifs pour éviter l’évolution vers une forme chronique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 298,
+    "Proposition": "Le remplacement valvulaire mitral est la seule option chirurgicale pour l'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 299,
+    "Proposition": "Le patient asymptomatique atteint d’insuffisance mitrale chronique doit être opéré si la fraction d’éjection ventriculaire droite diminue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 300,
+    "Proposition": "La chirurgie est indiquée pour tous les patients symptomatiques atteints d’insuffisance mitrale importante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 301,
+    "Proposition": "La fibrillation auriculaire est une contre-indication à la chirurgie en cas d’insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 302,
+    "Proposition": "La chirurgie est indiquée si le diamètre télésystolique du VG augmente en cas d’insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 303,
+    "Proposition": "La chirurgie est indiquée si la PA diastolique pulmonaire augmente en cas d’insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 304,
+    "Proposition": "L'annuloplastie est une option de traitement pour la sténose mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 305,
+    "Proposition": "L’annuloplastie est une opération qui consiste à suturer les commissures des feuillets valvulaires mitraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 306,
+    "Proposition": "Le remplacement valvulaire mitral est préférable à l’annuloplastie s’il y a une forte probabilité de succès à long terme dans le traitement de l’insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 307,
+    "Proposition": "La maladie de Barlow est responsable d’un prolapsus mitral en milieu de systole.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 308,
+    "Proposition": "En cas d’insuffisance mitrale, le débit cardiaque aortique chute alors que la FEVG est augmentée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 309,
+    "Proposition": "Le remplacement valvulaire mitral est la seule option chirurgicale pour l'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 310,
+    "Proposition": "L'échographie cardiaque peut montrer une valve mitrale épaissie dans l'insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 311,
+    "Proposition": "La régurgitation aiguë de l'insuffisance mitrale est souvent traitée par réduction de la RVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 312,
+    "Proposition": "La réparation valvulaire mitrale est préférable au remplacement valvulaire pour préserver la fonction ventriculaire en cas d’insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 313,
+    "Proposition": "La réparation valvulaire mitrale nécessite une anticoagulation par aspirine pendant 3 mois.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 314,
+    "Proposition": "La prothèse valvulaire mitrale mécanique nécessite une anticoagulation par AVK à vie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 315,
+    "Proposition": "L'échographie peut aider le chirurgien à choisir la technique chirurgicale pour l'insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 316,
+    "Proposition": "La réparation valvulaire mitrale avec annuloplastie est indiquée pour les valves calcifiées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 317,
+    "Proposition": "Les cordages sous-valvulaires sont préservés lors d'une annuloplastie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 318,
+    "Proposition": "Le remplacement vasculaire mitral est préférable à l’annuloplastie en cas de prolapsus mitral étendu.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 319,
+    "Proposition": "L’annuloplastie consister à suturer un anneau souple afin de rétrécir l’anneau valvulaire mitral.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 320,
+    "Proposition": "La valve mitrale réparée ne nécessite pas d’anticoagulation à long terme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 321,
+    "Proposition": "La réparation valvulaire est préférable au remplacement valvulaire pour préserver la fonction ventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 322,
+    "Proposition": "L’insuffisance mitrale cause un flux anormal du ventricule gauche vers l'oreillette gauche durant la systole.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 323,
+    "Proposition": "L'annuloplastie est réservée aux patients jeunes asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 324,
+    "Proposition": "Les formes aiguës d'insuffisance mitrale provoquent une élévation de la pression dans l'oreillette gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 325,
+    "Proposition": "La chirurgie classique doit être évitée tant que possible dans le traitement de l’insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 326,
+    "Proposition": "La réparation de la valve mitrale par annuloplastie nécessite une courte anticoagulation par antivitamines K.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 327,
+    "Proposition": "La tension pariétale du ventricule gauche diminue dans l'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 328,
+    "Proposition": "Le remplacement valvulaire mitral par une bioprothèse nécessite une anticoagulation de 3 mois par AVK.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 329,
+    "Proposition": "Les anticoagulants directs sont recommandés en cas de FA après pose d’une valve mitrale biologique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 330,
+    "Proposition": "L'insuffisance mitrale peut être associée aux syndrome de Marfan et à la maladie de Horton.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 331,
+    "Proposition": "La fibrillation auriculaire est peu fréquente dans l'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 332,
+    "Proposition": "La section des cordages valvulaires lors du remplacement valvulaire mitral altère la fonction auriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 333,
+    "Proposition": "La chirurgie de remplacement valvulaire mitrale sans préservation de l’appareil sous-valvulaire est à éviter.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 334,
+    "Proposition": "La maladie de Barlow affecte environ 2% des adultes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 335,
+    "Proposition": "La transmission génétique du prolapsus valvulaire mitral est de type autosomique récessif.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 336,
+    "Proposition": "La maladie de Barlow est caractérisée par une rétraction des cordages sous-valvulaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 337,
+    "Proposition": "Les valves mitrales sont élargies et raccourcies dans le prolapsus valvulaire mitral.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 338,
+    "Proposition": "La régurgitation mitrale dans le prolapsus valvulaire mitral résulte de l'éversion valvulaire dans le VG.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 339,
+    "Proposition": "La maladie de Barlow débute entre 10 et 16 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 340,
+    "Proposition": "Le prolapsus valvulaire mitral affecte plus souvent le feuillet mitral antérieur que le feuillet postérieur.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 341,
+    "Proposition": "Le prolapsus valvulaire mitral peut être accompagné de légères scolioses et d’un pectus carinatum.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 342,
+    "Proposition": "Le prolapsus valvulaire mitral est souvent asymptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 343,
+    "Proposition": "Le click mésosystolique est un signe typique du prolapsus valvulaire mitral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 344,
+    "Proposition": "Le souffle du prolapsus valvulaire mitral est mieux entendu en décubitus latéral gauche ou assis.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 345,
+    "Proposition": "La maladie de Barlow cause des anomalies du tissu conjonctif et le collagène valvulaire est fragmenté.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 346,
+    "Proposition": "La maladie de Barlow est caractérisée par un souffle mésosystolique à l’apex.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 347,
+    "Proposition": "Le souffle de prolapsus mitral continue jusqu’au B2 et le recouvre.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 348,
+    "Proposition": "L'échographie cardiaque est inutile dans le diagnostic du prolapsus valvulaire mitral.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 349,
+    "Proposition": "L’hypertension artérielle légère doit être traitée en cas de prolapsus valvulaire mitral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 350,
+    "Proposition": "La réparation valvulaire est le seul traitement curatif du prolapsus valvulaire mitral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 351,
+    "Proposition": "Le prolapsus valvulaire mitral peut être diagnostiqué par un souffle télésystolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 352,
+    "Proposition": "La dilatation ventriculaire dans l'insuffisance cardiaque entraîne une dilatation de l'anneau mitral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 353,
+    "Proposition": "La fibrillation auriculaire peut être responsable d’insuffisance mitrale sans dilatation importante du VG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 354,
+    "Proposition": "La régurgitation mitrale atténue la surcharge en volume de l'insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 355,
+    "Proposition": "Le souffle holosystolique à l'apex est un signe caractéristique de l'insuffisance mitrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 356,
+    "Proposition": "L’échographie et le scanner thoracique sont utilisés pour diagnostiquer les cardiopathies dilatées avec insuffisance mitrale secondaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 357,
+    "Proposition": "À la radiographie thoracique, une cardiomégalie est typique de l'insuffisance cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 358,
+    "Proposition": "Le traitement de l’insuffisance cardiaque inclut différents médicaments à la dose minimale efficace.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 359,
+    "Proposition": "Une réparation mitrale peut être envisagée si le patient reste symptomatique malgré un traitement médical maximal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 360,
+    "Proposition": "L'implantation percutanée d'un clip mitral est réservée aux patients dont le VG est sévèrement dilaté.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 361,
+    "Proposition": "La réparation mitrale par annuloplastie est le traitement de 1ère intention pour les cas d’insuffisance mitrale secondaire à une insuffisance cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 362,
+    "Proposition": "L'implantation percutanée d'un clip mitral est une option pour les patients inopérables présentant une insuffisance mitrale sévère.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 363,
+    "Proposition": "La régurgitation mitrale contribue à la progression de l'insuffisance cardiaque par la surcharge en volume.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 364,
+    "Proposition": "Les symptômes de l'insuffisance cardiaque comprennent souvent une dyspnée et une toux persistante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 365,
+    "Proposition": "L’implantation percutanée d’un clip sert à solidariser la partie centrale des 2 feuillets mitraux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 366,
+    "Proposition": "L'insuffisance tricuspide est plus souvent congénitale que secondaire à d'autres affections cardiaques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 367,
+    "Proposition": "L’insuffisance tricuspide peut être due à la surcharge volémique induite par un shunt intracardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 368,
+    "Proposition": "La dilatation ventriculaire droite peut contribuer à l'induction de l'insuffisance mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 369,
+    "Proposition": "Les muscles papillaires sont présents uniquement dans le ventricule gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 370,
+    "Proposition": "L'endocardite est une cause rare d'insuffisance tricuspide associée à la toxicomanie par voie intraveineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 371,
+    "Proposition": "La maladie d'Ebstein est caractérisée par une implantation trop haute de la valve tricuspide.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 372,
+    "Proposition": "L’insuffisance tricuspide est généralement secondaire à une hypertension pulmonaire due à une pathologie du cœur droit ou de la valve pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 373,
+    "Proposition": "La maladie d’Ebstein est caractérisée par une « atrialisation » d’une partie du ventricule droit.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 374,
+    "Proposition": "L'ascite, les œdèmes périphériques et l’hépatomégalie sont des symptômes de l'insuffisance tricuspide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 375,
+    "Proposition": "La durée de l’onde P est augmentée en cas d’insuffisance tricuspide.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 376,
+    "Proposition": "L'ECG dans l'insuffisance tricuspide révèle généralement une hypertrophie auriculaire gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 377,
+    "Proposition": "L’hypertrophie auriculaire droite est caractérisée par des ondes P pointues >5mm en D2, D3 et aVF à l’ECG.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 378,
+    "Proposition": "La cardiomégalie peut être observée à la radiographie thoracique en cas d'insuffisance tricuspide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 379,
+    "Proposition": "L’axe du complexe QRS n’est pas dévié en cas d’hypertrophie ventriculaire droite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 380,
+    "Proposition": "La durée de l’onde P est augmentée en cas d’hypertrophie ventriculaire gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 381,
+    "Proposition": "L’échographie cardiaque permet de diagnostiquer une insuffisance tricuspide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 382,
+    "Proposition": "L’insuffisance tricuspide est caractérisée par un souffle holosystolique parasternal droit.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 383,
+    "Proposition": "Le B2 est atténué en cas d’hypertension aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 384,
+    "Proposition": "Le rhumatisme articulaire aigu n’affecte jamais les valves du cœur droit.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 385,
+    "Proposition": "La radiographie montre souvent une altération du parenchyme pulmonaire en cas d’insuffisance tricuspide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 386,
+    "Proposition": "Le traitement de l'insuffisance tricuspide comprend des diurétiques pour réduire l'ascite et les œdèmes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 387,
+    "Proposition": "L'annuloplastie ou la réparation tricuspide est une option de traitement pour l'insuffisance tricuspide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 388,
+    "Proposition": "L’hypertrophie auriculaire gauche est caractérisée par des ondes P >2,5mm en D2, D3 et aVF.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 389,
+    "Proposition": "La projection de la valve tricuspide sur le thorax est du côté gauche du sternum.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 390,
+    "Proposition": "L’annuloplastie tricuspide nécessite 3 mois d’anticoagulation par antivitamines K.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 391,
+    "Proposition": "Le souffle holosystolique parasternal gauche est un signe de sténose tricuspide.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 392,
+    "Proposition": "Le souffle de sténose tricuspide diminue à l’inspiration à cause d’une diminution du retour veineux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 393,
+    "Proposition": "La sténose pulmonaire touche principalement les enfants.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 394,
+    "Proposition": "La sténose tricuspide est caractérisée par un roulement diastolique parasternal gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 395,
+    "Proposition": "La valvuloplastie par ballonnet est envisagée si le traitement de la sténose tricuspide par des diurétiques est insuffisant.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 396,
+    "Proposition": "La surcharge volémique peut induire une sténose tricuspide.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 397,
+    "Proposition": "L'ECG dans la sténose tricuspide révèle généralement une hypertrophie auriculaire droite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 398,
+    "Proposition": "La sténose tricuspide est généralement associée à un rhumatisme articulaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 399,
+    "Proposition": "La régurgitation tricuspide est souvent associée à une hypertension pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 400,
+    "Proposition": "La sténose tricuspide est souvent due à une endocardite droite associée à la toxicomanie intraveineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 401,
+    "Proposition": "L'ascite est rarement observée chez les patients atteints de sténose tricuspide.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 402,
+    "Proposition": "La sténose pulmonaire est une affection rare chez les adultes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 403,
+    "Proposition": "Le syndrome carcinoïde est caractérisé par la production de substance P par des métastases hépatiques avec une inflammation et une sténose de la valve tricuspide.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 404,
+    "Proposition": "L’endocardite infectieuses est 2x plus fréquente chez les hommes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 405,
+    "Proposition": "L’incidence de l’endocardite diminue avec l’âge car les angines à Strepto A surviennent dans l’enfance.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 406,
+    "Proposition": "L’endocardite affecte le cœur gauche dans 85% des cas (plus souvent la valve mitrale que l’aortique).",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 407,
+    "Proposition": "Les végétations composées de fibrine, de globules rouges, de cellules inflammatoires et d’agrégats de microorganismes peuvent s’étendre dans les cavités cardiaques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 408,
+    "Proposition": "Les végétations peuvent emboliser dans plusieurs organes, y compris les reins, la rate, le foie et le cerveau.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 409,
+    "Proposition": "Les enzymes protéolytiques des germes peuvent provoquer des ruptures de cordage en cas d’endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 410,
+    "Proposition": "Les végétations infectieuses sont responsables de déchirures, d’ulcérations et de perforations valvulaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 411,
+    "Proposition": "Les abcès cardiaques sont souvent limités à l’anneau valvulaire en cas d’endocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 412,
+    "Proposition": "Les abcès cardiaques peuvent induire une fistule entre les ventricules ou entre les cavités gauches.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 413,
+    "Proposition": "Les anévrismes mycotiques sont toujours induits par une invasion directe de la paroi artérielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 414,
+    "Proposition": "Les anévrismes mycotiques peuvent se former dans les artères cérébrales et les artères mésentériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 415,
+    "Proposition": "Les anévrismes mycotiques surviennent souvent dans le sinus de Valsalva.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 416,
+    "Proposition": "La myocardite est une complication fréquente de l'endocardite infectieuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 417,
+    "Proposition": "Un embole septique peut provoquer un infarctus myocardique en cas d’endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 418,
+    "Proposition": "L’endocardite aortique peut se compliquer d’une péricardite infectieuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 419,
+    "Proposition": "L'endocardite infectieuse survient généralement sur une structure endocardique saine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 420,
+    "Proposition": "Les lésions endothéliales sont initialement stériles mais peuvent être colonisées par des bactéries.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 421,
+    "Proposition": "Les lésions endothéliales se forment principalement sur le versant ventriculaire gauche de la valve mitrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 422,
+    "Proposition": "Les végétations infectées embolisent le plus souvent dans les poumons.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 423,
+    "Proposition": "L’endothélium sain résiste à la greffe microbienne.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 424,
+    "Proposition": "L'endocardite peut survenir même en l'absence de lésion cardiaque préexistante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 425,
+    "Proposition": "Les turbulences engendrées par un shunt cardiaque favorisent les endocardites en cas de bactériémie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 426,
+    "Proposition": "L’endocardite survient sur le versant ventriculaire gauche d’une communication inter-ventriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 427,
+    "Proposition": "Les végétations infectieuses embolisent chez la majorité des patients.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 428,
+    "Proposition": "Les végétations infectieuses sont souvent vascularisées, ce qui protège les germes contre l'immunité.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 429,
+    "Proposition": "L’endocardite peut entrainer des désinsertions complètes de prothèses valvulaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 430,
+    "Proposition": "Les abcès para-valvulaires peuvent provoquer des métastases infectieuses à distance en cas d’endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 431,
+    "Proposition": "L’immunité humorale est efficace contre les végétations infectieuses mais pas l’immunité cellulaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 432,
+    "Proposition": "L’endocardite infectieuse provoque une immunosuppression généralisée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 433,
+    "Proposition": "Le TAVI présente un risque d’endocardite moins élevé que les valves prothétiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 434,
+    "Proposition": "Un risque augmenté d’endocardite persiste durant les 6 premiers mois après l’intervention correctrice en cas de pathologie congénitale non cyanogène.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 435,
+    "Proposition": "Les patients avec un antécédent d’endocardite sont à haut risque de refaire une endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 436,
+    "Proposition": "Les interventions dentaires sont une source courante d'infection pour les endocardites.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 437,
+    "Proposition": "Les streptocoques viridans sont responsables des endocardites associées à des interventions digestives.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 438,
+    "Proposition": "Les staphylocoques sont rarement associés aux infections cardiaques après des interventions dentaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 439,
+    "Proposition": "Les entérocoques et certains bacilles Gram- peuvent provoquer des endocardites sur valve native.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 440,
+    "Proposition": "Les symptômes d’endocardite surviennent généralement dans les 7 jours suivant la bactériémie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 441,
+    "Proposition": "La fièvre de l’endocardite subaiguë est absente chez le sujet âgé ou en cas d’insuffisance rénale chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 442,
+    "Proposition": "L’endocardite est toujours mortelle en l’absence de traitement.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 443,
+    "Proposition": "L’érythème de Janeway est caractérisée par des lésions palmo-plantaires douloureuses.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 444,
+    "Proposition": "Le FAUX panaris d’Osler est caractérisé par des nodules sous-cutanés rouge-bleutés non douloureux sur les doigts et les orteils.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 445,
+    "Proposition": "Les tâches de Roth sont des hémorragies rétiniennes à centre foncé visibles au fond d’œil.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 446,
+    "Proposition": "L’endocardite subaiguë provoque une pyrexie fluctuante et persistante <39°C.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 447,
+    "Proposition": "Les emboles septiques provoquent des pétéchies buccales, conjonctivales et sur les extrémités et de petites hémorragies sous-unguéales en cas d’endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 448,
+    "Proposition": "L’endocardite cause une glomérulonéphrite avec insuffisance rénale chronique, hématurie et protéinurie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 449,
+    "Proposition": "Le souffle de régurgitation valvulaire diminue à cause des végétations en cas d’endocardite subaiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 450,
+    "Proposition": "L’endocardite subaiguë peut provoquer une splénomégalie et un syndrome grippal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 451,
+    "Proposition": "L’endocardite subaiguë est due à un germe virulent comme le staphylocoque doré ou le pseudomonas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 452,
+    "Proposition": "L’échographie permet de différencier des végétations infectieuse, ancienne et non infectieuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 453,
+    "Proposition": "Le risque emboligène est accru quand les végétations infectieuses mesurent >5mm.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 454,
+    "Proposition": "L’endocardite aigue se manifeste par un début brutal, une T° <39°C, des frissons, une splénomégalie et un purpura nécrotique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 455,
+    "Proposition": "La destruction valvulaire induit l’apparition rapide d’un souffle en cas d’endocardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 456,
+    "Proposition": "L’échographie cardiaque est le 1er examen à réaliser aux urgences en cas d’endocardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 457,
+    "Proposition": "L’apparition d’un bloc auriculo-ventriculaire à l’ECG doit faire suspecter un abcès de l’anneau mitral en cas d’endocardite aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 458,
+    "Proposition": "L’échographie transoesophagienne est plus sensible que l’échographie externe pour le diagnostic de l’endocardite, surtout en cas de valve prothétique, et pour la recherche de complications.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 459,
+    "Proposition": "Un ECG est à réaliser dès l’admission aux urgences en cas d’endocardite aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 460,
+    "Proposition": "Les hémocultures se réalisent préférentiellement sur un prélèvement artériel en cas d’endocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 461,
+    "Proposition": "Il ne faut pas attendre le pic thermique ou les frissons pour réaliser des hémocultures en cas de suspicion d’endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 462,
+    "Proposition": "Les tests sérologiques sont parfois nécessaires pour détecter les germes rares responsables d’endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 463,
+    "Proposition": "Les symptômes de l'endocardite apparaissent généralement dans les 24 heures suivant l'infection.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 464,
+    "Proposition": "Les hémocultures sont généralement négatives lorsque le patient a déjà reçu un traitement antibiotique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 465,
+    "Proposition": "Les antibiotiques doivent être bactériostatiques dans la végétation pour traiter efficacement l'endocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 466,
+    "Proposition": "La disparition de la fièvre est un indicateur fiable de la réponse au traitement antibiotique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 467,
+    "Proposition": "Les végétations infectieuses ne disparaissent que dans 40% des cas après le traitement d’une endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 468,
+    "Proposition": "Les végétations infectieuses disparaissent généralement complètement avec le traitement antibiotique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 469,
+    "Proposition": "La chirurgie n'est pas recommandée pour les patients atteints d'endocardite infectieuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 470,
+    "Proposition": "Il faut toujours attendre la désinfection par antibiotiques avant d’opérer une endocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 471,
+    "Proposition": "L'antibioprophylaxie est recommandée avant toute intervention dentaire chez les patients à haut risque d'endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 472,
+    "Proposition": "Un traitement dentaire est nécessaire avant tout remplacement valvulaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 473,
+    "Proposition": "L’endocardite s’accompagne de modifications de la biologie sanguine : élévation de la CRP, anémie monochrome normocytaire, leucocytose, hyperplaquettose, hypocomplémentarité,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 474,
+    "Proposition": "2g d’ampicilline sont administrés en IV une heure avant une chirurgie ORL chez les patients à haut risque d’endocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 475,
+    "Proposition": "L'antibioprophylaxie est recommandée avant une chirurgie orthopédique chez les patients à haut risque d'endocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 476,
+    "Proposition": "Tous les prélèvements bactériologiques doivent être effectués avant de débuter les antibiotiques en cas de suspicion d’endocardite infectieuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 477,
+    "Proposition": "L’endocardite infectieuse est traitée par des antibiotiques per os pour une longue durée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 478,
+    "Proposition": "La réponse au traitement antibiotique est souvent rapide en cas d’endocardite et la fièvre disparait en 24h.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 479,
+    "Proposition": "Les antivitamines K doivent être stoppés dans le traitement de l’endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 480,
+    "Proposition": "Une fièvre prolongée en cas d’endocardite traitée doit faire suspecter un foyer extra-cardiaque ou un abcès.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 481,
+    "Proposition": "Les paramètres inflammatoires se normalisent en plusieurs semaines après une endocardite traitée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 482,
+    "Proposition": "Le traitement chirurgical de l’endocardite réduit la durée de l’antibiothérapie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 483,
+    "Proposition": "L’endocardite sur valve prothétique doit être opérée si elle est due à Streptococcus viridans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 484,
+    "Proposition": "L’endocardite mycotique est une indication chirurgicale même sur valve native.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 485,
+    "Proposition": "Le traitement chirurgical est indiqué dans de nombreux cas d’endocardite : insuffisance cardiaque sur dysfonction valvulaire, sepsis prolongé, embolies récurrentes, abcès, fistules, récidives tardives,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 486,
+    "Proposition": "Le remplacement valvulaire par une valve mécanique est préférable après une endocardite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 487,
+    "Proposition": "L’endocardite est une affection sévère qui cause environ 25% de mortalité",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 488,
+    "Proposition": "La chirurgie valvulaire doit parfois être retardée en cas d’infarctus myocardique récent.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 489,
+    "Proposition": "Les valves sont souvent trop abimées pour être réparées après une endocardite infectieuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 490,
+    "Proposition": "L’endocardite valvulaire droite atteint 5x plus les hommes que les femmes, de préférence avant 40 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 491,
+    "Proposition": "Les antivitamines K doivent être remplacées par de l’héparine en cas d’endocardite infectieuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 492,
+    "Proposition": "L’endocardite valvulaire droite est le plus souvent causée par des streptocoques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 493,
+    "Proposition": "L’endocardite valvulaire droite touche le plus souvent la valve pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 494,
+    "Proposition": "Les endocardites prothétiques précoces surviennent <60 jours près l’opération.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 495,
+    "Proposition": "Les endocardites prothétiques tardives sont souvent causées par des staphylocoques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 496,
+    "Proposition": "Les anévrisme mycotiques cérébraux sont responsables d’hémorragies cérébrales parfois des années après l’infection.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 497,
+    "Proposition": "L’AVC chez le sujet jeune qui présente de la fièvre doit faire suspecter une endocardite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 498,
+    "Proposition": "Les endocardites compliquées peuvent entraîner des embolies coronaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 499,
+    "Proposition": "Les endocardites non infectieuses peuvent être causées par des traumatismes cardiaques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 500,
+    "Proposition": "Les endocardites valvulaires droites surviennent principalement chez les personnes âgées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 501,
+    "Proposition": "Les endocardites infectieuses sont associées à une hypercoagulabilité ou à des néoplasies.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 502,
+    "Proposition": "Les endocardites valvulaires droites peuvent causer des embolies pulmonaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 503,
+    "Proposition": "Les endocardites non infectieuses peuvent être causées par des complexes immuns circulants.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 504,
+    "Proposition": "Les endocardites droites sont souvent associées à une consommation de drogues intraveineuses.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 505,
+    "Proposition": "Les abcès annulaires sont caractéristiques des endocardites sur valves prothétiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 506,
+    "Proposition": "Les endocardites sur valves prothétiques sont toujours aiguës.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 507,
+    "Proposition": "La communication inter-auriculaire est responsable d'un passage sanguin pathologique de l'oreillette droite vers l'oreillette gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 508,
+    "Proposition": "La communication est généralement située dans la portion latérale du septum inter-auriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 509,
+    "Proposition": "Les communications inter-auriculaires sont deux fois plus fréquentes chez les femmes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 510,
+    "Proposition": "La communication inter-auriculaire représente 30% des anomalies congénitales cardiaques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 511,
+    "Proposition": "Le diagnostic de la communication inter-auriculaire est souvent fait à l'âge adulte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 512,
+    "Proposition": "La communication inter-auriculaire est généralement familiale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 513,
+    "Proposition": "Un foramen ovale perméable est une communication inter-ventriculaire normale dans la vie fœtale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 514,
+    "Proposition": "Le foramen ovale perméable reste perméable chez 30 % des adultes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 515,
+    "Proposition": "La pression auriculaire gauche plus élevée collabe les deux feuillets du foramen ovale perméable donc le shunt gauche-droit est généralement faible.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 516,
+    "Proposition": "L’élévation de la pression auriculaire droite augmente le risque d’embolie paradoxale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 517,
+    "Proposition": "L’embolie paradoxale est caractérisée par le passage d’un thrombus ou de bulles d’air à travers le foramen ovale perméable de la circulation systémique vers la circulation veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 518,
+    "Proposition": "La communication de type ostium secundum est moins fréquente que le foramen ovale perméable.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 519,
+    "Proposition": "Les communications inter-auriculaires situées plus antérieures sont dues à un ostium secundum.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 520,
+    "Proposition": "L’ostium secondum représente 70% des communications inter-auriculaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 521,
+    "Proposition": "L’ostium primum est souvent associé à une fente dans le feuillet mitral postérieur.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 522,
+    "Proposition": "Les communications de type \"sinus veineux\" sont associées à une communication anormale entre l'oreillette droite et la veine pulmonaire droite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 523,
+    "Proposition": "Les communications inter-auriculaires de type \"sinus veineux inférieur\" sont rarement associées à une connexion biauriculaire à la veine cave supérieure.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 524,
+    "Proposition": "Les communications inter-auriculaires de type \"sinus veineux supérieur\" peuvent être associées à un abouchement anormal des veines pulmonaires dans l’oreillette droite ou dans la VCS.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 525,
+    "Proposition": "Le sens du shunt à travers la communication inter-auriculaire dépend de la pression intra-auriculaire qui dépend elle-même de la compliance ventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 526,
+    "Proposition": "La dilatation des cavités droites est caractéristique d'une communication inter-auriculaire large.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 527,
+    "Proposition": "Moins de 10 % des patients développent une hypertension artérielle pulmonaire chronique suite à une CIA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 528,
+    "Proposition": "L'oreillette gauche est souvent dilatée dans les cas de communication inter-auriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 529,
+    "Proposition": "Le ventricule droit est naturellement plus compliant que le ventricule gauche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 530,
+    "Proposition": "La pression est de l’ordre de 0 mmHg dans l’oreillette gauche et de 5 mmHg dans l’oreillette droite.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 531,
+    "Proposition": "Dans les cas sévères de communication inter-auriculaires, l’entièreté de l’arbre vasculaire pulmonaire peut être dilaté et comprimer les bronches.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 532,
+    "Proposition": "Les patients atteints de communication inter-auriculaire sont souvent asymptomatiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 533,
+    "Proposition": "Un dédoublement large et fixe de B2 (P2 retardé) est caractéristique de la communication inter-auriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 534,
+    "Proposition": "Les communications inter-auriculaire sont trop faibles pour induire un souffle à l’auscultation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 535,
+    "Proposition": "L’hypertension artérielle pulmonaire survient dans les cas avancés de CIA car il faut que la pression auriculaire droite augmente et inverse le shunt pour augmenter la pression vasculaire pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 536,
+    "Proposition": "L’éjection auriculaire droite est retardée à cause de la surcharge en volume en cas de CIA.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 537,
+    "Proposition": "L’auscultation d’une CIA montre 2 souffles éjectionnels : un souffle systolique pulmonaire au bord latéral gauche du sternum et un souffle diastolique tricuspide au 2ème espace intercostal droit.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 538,
+    "Proposition": "La radiographie de thorax montre une dilatation auriculaire droite et des artères pulmonaires dilatées en cas de communication inter-auriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 539,
+    "Proposition": "L’ECG montre fréquemment des blocs de branche en cas de communication inter-auriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 540,
+    "Proposition": "La communication inter-auriculaire peut se manifester par de la FA à l’ECG.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 541,
+    "Proposition": "L’échographie cardiaque externe ne permet pas diagnostiquer une communication inter-auriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 542,
+    "Proposition": "Le cathétérisme cardiaque est utile pour quantifier le shunt en cas de communication inter-auriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 543,
+    "Proposition": "La fermeture percutanée est recommandée pour les CIA de type ostium secundum.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 544,
+    "Proposition": "La communication inter-auriculaire doit être fermée si le débit pulmonaire droit est 2x plus important que le débit aortique et si le patient est symptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 545,
+    "Proposition": "La fermeture percutanée est indiquée en cas de communication inter-auriculaire de type ostium primum.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 546,
+    "Proposition": "La résistance pulmonaire élevée contre-indique la fermeture d'une communication inter-auriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 547,
+    "Proposition": "Un souffle diastolique pulmonaire est caractéristique de la communication inter-auriculaire à l'auscultation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 548,
+    "Proposition": "La fermeture chirurgicale est la seule option de traitement pour les communications inter-auriculaires de type ostium secundum.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 549,
+    "Proposition": "Le syndrome d’Eisenmenger est une indication à la fermeture chirurgicale ou percutanée d’une CIA.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 550,
+    "Proposition": "La communication inter-ventriculaire est responsable d'un passage de sang du ventricule gauche vers le ventricule droit.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 551,
+    "Proposition": "La maladie de Roger est causée par une anomalie chromosomique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 552,
+    "Proposition": "80% des CIV sont situées dans le septum membraneux, directement sous la valve aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 553,
+    "Proposition": "La communication inter-ventriculaire représente 10% des affections cardiaques congénitales.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 554,
+    "Proposition": "La plupart des communications inter-ventriculaires sont situées dans le septum musculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 555,
+    "Proposition": "La résistance pulmonaire diminue à la naissance.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 556,
+    "Proposition": "Les communications inter-ventriculaires ne sont jamais localisées dans la chambre de chasse ventriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 557,
+    "Proposition": "Un shunt inter-ventriculaire gauche-droit surcharge principalement le ventricule droit.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 558,
+    "Proposition": "Un shunt inter-ventriculaire peut induire une hypertension artérielle pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 559,
+    "Proposition": "Les shunts de petite taille sont souvent diagnostiqués à l'âge adulte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 560,
+    "Proposition": "L’orifice congénital dans le septum interventriculaire résulte d’une interaction entre une prédisposition génétique et des facteurs environnementaux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 561,
+    "Proposition": "Les communications inter-ventriculaires sont des affections congénitales cyanogènes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 562,
+    "Proposition": "La dilatation cardiaque peut induire des atélectasies par compression des voies respiratoires en cas de CIV.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 563,
+    "Proposition": "La communication inter-ventriculaire est surtout une affection pédiatrique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 564,
+    "Proposition": "L’ECG est généralement normal en cas de communication inter-ventriculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 565,
+    "Proposition": "Une communication inter-ventriculaire entraine un souffle holodiastolique qui recouvre souvent le B",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 566,
+    "Proposition": "La fermeture spontanée des petites communications inter-ventriculaires se produit généralement au cours des 2 premières années de vie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 567,
+    "Proposition": "La communication inter-ventriculaire découverte à l'âge adulte a un mauvais pronostic à long terme.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 568,
+    "Proposition": "Les communications inter-ventriculaires découvertes à l’âge adulte ne présentent aucun risque de développer une hypertension artérielle pulmonaire et ne doivent pas être opérées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 569,
+    "Proposition": "Un rapport des débits pulmonaire et aortique ≥2 est une indication chirurgicale en cas de CIV.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 570,
+    "Proposition": "Les patients atteints de CIV dont les pressions ou les résistances pulmonaires s’élèvent doivent être opérés même si le rapport des débits pulmonaire et aortique est <",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 571,
+    "Proposition": "Une résistance pulmonaire trop élevée contre-indique une chirurgie correctrice de CIV.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 572,
+    "Proposition": "Un souffle holosystolique important est audible à droite du sternum en cas de CIV.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 573,
+    "Proposition": "Les shunts inter-ventriculaires sont situés principalement dans le septum membraneux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 574,
+    "Proposition": "La seule complication de la dilatation cardiaque est l'hypertension artérielle pulmonaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 575,
+    "Proposition": "L'ECG montre souvent des anomalies chez les patients atteints de communication inter-ventriculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

@@ -1,0 +1,1055 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "La dissection de l'aorte se caractérise par une déchirure transversale de la paroi aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "La dissection aiguë est souvent diagnostiquée lorsque les symptômes persistent depuis plus de 14 jours.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "Les dissections de type A impliquent exclusivement l'aorte ascendante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "Les hommes sont plus prédisposés aux dissections aortiques que les femmes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "Les personnes âgées de 70 à 80 ans sont plus sujettes aux dissections de type A.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "L'hypertension artérielle est un facteur prédisposant majeur à la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Les maladies du tissu conjonctif comme le syndrome de Marfan peuvent prédisposer à la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "La consommation de cocaïne est un facteur de risque pour la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "La dissection aortique est parfois découverte par hasard à la tomodensitométrie thoracique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "L'échographie transoesophagienne permet de visualiser uniquement la « VRAIe » lumière de la dissection.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "Le traitement chirurgical est toujours nécessaire pour les dissections de type B aiguës.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "La mortalité associée à la dissection de type A est de 25 % sans traitement chirurgical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "La thrombose ou l’ischémie des branches de l'aorte sont une complication de la dissection aortique chronique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "Une dilatation anévrismale est une complication tardive de la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "Le traitement endovasculaire est indiqué pour les dissections aortiques chroniques avec dilatation anévrismale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "Les patients présentant une dissection aortique peuvent se plaindre de douleurs abdominales aigues.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "L’ECG ne permet pas de faire le diagnostic différentiel des douleurs thoraciques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "L'échographie externe est plus précise que l'échographie transoesophagienne pour voir la dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "La création d'une communication entre le VRAI et le FAUX chenal permet de traiter les dissections aortiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "Le traitement médical des dissections aortiques contrôle la douleur et l’hypertension artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "Un souffle diastolique d’insuffisance mitrale peut apparaitre à l’auscultation d’une dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "Les femmes sont plus prédisposées aux dissections aortiques que les hommes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "La dégénérescence physiologique de la paroi vasculaire est une cause fréquente de dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "Les dissections de type B affectent exclusivement l'aorte descendante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "Les personnes âgées de 40 à 50 ans sont plus sujettes aux dissections de type A.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "L'exercice isométrique intense est un facteur de risque pour la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "La rupture de l'adventice est une complication grave de la phase aiguë de la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "Le traitement chirurgical de la dissection aortique de type B consiste à remplacer l’aorte ascendante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "Le traitement chirurgical est nécessaire pour toutes les dissections aortiques aigues de type A.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "Les patients présentant une dissection aortique peuvent se plaindre de douleurs dorsales ou lombaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "L'infarctus myocardique est une complication possible de la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "La dissection aortique se manifeste par une diminution symétrique des pouls périphériques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "La fenestration est une méthode de traitement endovasculaire pour les dissections aortiques de type A.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "L'hémopéritoine est une complication possible de la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "L'ischémie myocardique est une complication courante de la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "Les dissections aortiques de type B sont plus graves que celles de type A.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "La rupture de l'adventice est une complication courante de la phase chronique de la dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "Les patients avec une dissection aortique peuvent présenter des signes d'accident vasculaire cérébral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "L'ischémie mésentérique est une complication possible de la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "L'hémorragie cérébrale est une complication possible de la dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "La radiographie de thorax ne permet pas de diagnostiquer une dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "La création d'une communication entre le VRAI et le FAUX chenal est une méthode de traitement chirurgical pour les dissections aortiques de type B.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "L'imagerie par résonance magnétique montre un contraste spontané entre la VRAIe et la fausse lumière.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "L'ischémie aiguë d'un membre est une complication possible de la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "Le traitement chirurgical n’est jamais nécessaire pour les dissections aortiques chroniques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "Les hommes ont 5 fois plus de chance de développer une dissection aortique que les femmes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "Les dissections de type A affectent exclusivement l'aorte descendante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "Les dissections aortiques de type A surviennent surtout chez les personnes âgées de moins de 40 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "L'échocardiographie transoesophagienne permet de visualiser uniquement la \"fausse\" lumière de la dissection.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "La mortalité associée à la dissection de type B est plus élevée que celle de type A.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "Les personnes âgées de 60 à 70 ans sont plus sujettes aux dissections de type B.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "La dégénérescence physiologique des artères et l’athérosclérose favorisent les dissections aortiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "La dissection aortique n’induit jamais de souffle à l’examen clinique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "Le remplacement de l'aorte ascendante est un traitement chirurgical des dissections de type A.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "La fenestration est une méthode de traitement endovasculaire pour les dissections aortiques de type B.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "La déchirure survient le plus souvent entre la partie interne de la média et l’intima en cas de dissection.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "La dissection aortique est caractérisée par une déchirure longitudinale de la paroi aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "On parle de dissection aortique aigue quand le diagnostic est posé <7 jours après le début des symptômes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "La fausse lumière est le plus souvent située entre la média et l’adventice.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "Le pic d’incidence pour la dissection aortique de type A survient vers 50-60 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "On parle de dissection aortique chronique quand le diagnostic est posé >14 jours après le début des symptômes ou en absence de symptômes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "La tricuspidie aortique est un facteur de risque de dissection aortique",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "La fin de la grossesse est une période à risque de dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "La canulation aortique et les traumatismes thoraciques ouverts sont à risque de dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "La dissection peut uniquement s’étendre en amont (dissection rétrograde).",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "La déchirure de la paroi aortique est le plus souvent due à une poussée d’hypertension artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "Le flux à travers le « VRAI » et le « FAUX » chenal est variable en cas de dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "L’insuffisance valvulaire aortique aigue est généralement bien tolérée en cas de dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "La dissection aortique n’entraine jamais d’ischémie viscérale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "La dissection aortique entraine une douleur extrême progressive, spontanée et migrante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "L’insuffisance aortique aigue provoquée par la dissection aortique induit une dyspnée soudaine par OPH.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "L’examen clinique d’une dissection aortique aigue montre une hypertension artérielle de grade",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "L’examen clinique d’une dissection aortique aigue montre une asymétrie des pouls.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "La dissection aortique peut entrainer un hémothorax droit, une tamponnade ou un choc.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "La dissection aortique peut entrainer une paraplégie par une ischémie de l’artère d’Adamkiewicz.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "La dissection aortique de type B a une mortalité de 10% dans le 1er mois.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "La dissection aortique de type A a une mortalité de 25% avec traitement et de 55% sans traitement chirurgical.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "La radiographie de thorax montre un effacement de la silhouette aortique en cas de dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "Le CT-scanner sans injection de contraste permet de visualiser la fausse lumière en cas de dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "L’aorto-artériographie conventionnelle est un examen invasif inutile pour la dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "Le produit de contraste reste confiné à la VRAIe lumière à la tomodensitométrie d’une dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "Le « voile intimal » désigne la fine paroi entre la VRAIe et la fausse lumière de la dissection aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "L’échographie transthoracique permet de visualiser une insuffisance aortique, un épanchement péricardique et le flux vers la fausse lumière en cas de dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "Les cas de dissection aortique aigue doivent être placés sous surveillance à l’U.S.I.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "Un traitement hypotenseur IV par verapamil doit être administré en cas de dissection aortique aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "Le traitement hypotenseur vise à réduire la PAS sous 120mmHg et la PA moyenne à 100mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "Le traitement médical de la dissection aortique aigue comprend des bêta-bloquants et de la morphine en IV.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "Toute dissection aigue de type A est une indication de chirurgie très urgente.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "Seules les dissections de type B avec ischémie sont une indication de traitement chirurgical ou endovasculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "La fenestration consiste à créer une communication entre le VRAI et le FAUX chenal par voie endovasculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "La revascularisation chirurgicale par pontage est une option pour les dissections de type B avec ischémie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "La pose d’une endoprothèse couverte permet d’ouvrir la brèche intimale en cas de dissection aortique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "Les dilatations anévrysmales de l’aorte descendante doivent être opérées si leur diamètre devient >55mm.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "Le diamètre anévrysmal nécessitant une intervention est plus petit en cas de maladie du tissu conjonctif (Marfan, Ehlers-Danlos,…) ou d’anomalies valvulaires mitrales congénitales.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "Les dilatations anévrysmales de l’aorte abdominale doivent être opérées si leur diamètre devient >65mm.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "Les dilatations anévrysmales de l’aorte descendante doivent être opérées si leur diamètre devient >60mm.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "Les dilatations anévrysmales de l’aorte ascendante doivent être opérées si leur diamètre devient >55mm.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "Les dissections aortiques chroniques doivent être surveillées 1x/an à partir de la 3ème année par CT ou RMN.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "Les dissections aortiques chroniques doivent être surveillées 4x/an à partir de la 2ème année par CT ou RMN.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "Les dissections aortiques chroniques doivent être surveillées 2x/an la 1ère année par CT ou RMN.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "Les ulcères pénétrants de l’aorte sont situés au niveau d'une plaque athéromateuse de l’aorte abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "L'ulcère pénétrant de l’aorte entraîne souvent une rupture de la limitante élastique interne.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "L'extension de l'ulcère dans la média et au-delà peut causer un FAUX-anévrysme et un hématome de paroi.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "La présentation clinique typique d'un ulcère pénétrant de l’aorte est une douleur abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "Les patients présentant un ulcère pénétrant de l’aorte sont généralement âgé et sévèrement athéromateux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "L'imagerie par tomodensitométrie avec contraste ou la RMN montrent un cratère ulcéreux sur la paroi vasculaire en cas d’ulcère pénétrant de l’aorte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "Un anévrisme de plus de 5,5 à 6 cm nécessite généralement un traitement chirurgical ou endovasculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "Le traitement chirurgical est souvent nécessaire pour les ulcères pénétrants de l'aorte ascendante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "Le traitement médical est toujours préféré à la chirurgie pour les ulcères pénétrants de l’aorte descendante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "Un traitement chirurgical est envisagé pour un ulcère de l’aorte descendante si la douleur persiste.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "Un traitement chirurgical est toujours nécessaire en cas d’ulcère aortique avec instabilité hémodynamique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "L'expansion de l'hémothorax est une indication chirurgicale pour l'ulcère pénétrant de l’aorte descendante.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "Les ulcères pénétrants de l’aorte sont rarement associés à des plaques athéromateuses.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "La surveillance d'un anévrisme aortique n'est nécessaire que pendant la 1ère année après le diagnostic.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "Un anévrisme aortique de moins de 5,5 cm ne nécessite jamais de traitement chirurgical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "Les ulcères pénétrants de l’aorte sont généralement asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "Un ulcère pénétrant de l’aorte peut causer un hémothorax mais pas un hémopéritoine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "Un anévrisme est une dilatation localisée et temporaire d'un vaisseau artériel.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "Un anévrisme est caractérisé par une augmentation du diamètre artériel supérieure à 50% et une perte de parallélisme des parois.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "L'anévrisme VRAI implique uniquement une dilatation de l'intima et de la média.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "Les anévrismes de l'aorte sont plus fréquents que ceux des artères iliaques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "Les maladies du tissu élastique sont l’étiologie principale des anévrismes artériels.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "Le diamètre normal de l'aorte abdominale est de 30 mm chez l'homme.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Le tabagisme n'est pas associé à un risque accru d'anévrisme de l'aorte.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "Les antécédents familiaux d'anévrisme augmentent le risque de développer un anévrisme de l'aorte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "La prédominance des anévrismes de l'aorte chez l'homme est principalement due à l'athérome.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "Les anévrismes résultent de la perte de la résistance de la paroi artérielle à l'étirement.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "Les anévrismes de l'aorte tendent à augmenter de diamètre selon la loi de Laplace.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "Les anévrismes de l'aorte ne présentent aucun risque de rupture.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "Le risque de rupture d'un anévrisme augmente quand le diamètre de l’artère augmente.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "La rupture d'un anévrisme est généralement asymptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "Les anévrismes symptomatiques peuvent provoquer des douleurs abdominales aiguës.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "Les épreuves fonctionnelles respiratoires ne sont pas nécessaires pour évaluer l’opérabilité d’un anévrysme aortique abdominal.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "La surveillance par échographie est recommandée pour tous les anévrismes de l'aorte peu importe leur taille.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "Les anévrismes inflammatoires sont traités par des corticostéroïdes à dose élevée puis dégressive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "Les anévrismes inflammatoires ne nécessitent jamais de traitement chirurgical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "Les anévrismes infectieux présentent un risque élevé de rupture.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "Les anévrismes infectieux ne sont jamais associés à des douleurs abdominales ou lombaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "Le dépistage des anévrismes est recommandé uniquement pour les hommes de plus de 65 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "Les anévrismes de l'aorte sont souvent découverts de manière fortuite lors d'un examen échographique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "Le traitement endoluminal est toujours préférable à la chirurgie classique pour les anévrismes de l'aorte.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "L'endofuite est une complication courante après un traitement endoluminal des anévrismes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "La tomodensitométrie est plus efficace que l'échographie pour évaluer le diamètre maximal d'un anévrisme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "Les patients atteints d’AAA présentant des douleurs abdominales aiguës doivent être opérés en urgence.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "Les fonctions cardiaque et rénale doivent être évaluées chez les cas d’AAA candidats à la cure chirurgicale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "La fibrose périanévrismale est une caractéristique des anévrismes inflammatoires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "Les anévrismes infectieux sont généralement causés par une contamination par voie digestive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "Les AAA peuvent entraîner des coliques néphrétiques par compression de l’urètre.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "Les patients présentant un anévrisme de l'aorte ne nécessitent aucun suivi après la chirurgie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "Les hommes de 60 ans sans antécédents familiaux d'anévrisme de l’aorte ne nécessitent pas de dépistage.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "Les facteurs de risque cardiovasculaire n'ont aucun impact sur le développement d'un anévrisme.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "Les anévrismes de l'aorte ne peuvent pas être détectés par la palpation abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "Le traitement médical est la première option pour tous les types d'anévrismes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "La fibrose périanévrismale peut englober des structures adjacentes comme l'uretère, le sigmoïde et la VCS.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "La fièvre est un symptôme courant des anévrismes inflammatoires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "Les anévrismes inflammatoires de l'aorte peuvent entraîner un amaigrissement et une anorexie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "Le traitement chirurgical est le seul traitement nécessaire pour les anévrismes infectieux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "Le dépistage est recommandé pour patients âgés de 40 à 75 ans avec des antécédents familiaux d'anévrisme.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "Les patients présentant un petit anévrisme de l'aorte ne nécessitent pas de surveillance régulière.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "Les patients atteints d’AAA doivent être informés des conséquences du dépistage avant de le subir.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "Les complications postopératoires des anévrismes de l'aorte sont principalement d'ordre respiratoire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "Les endoprothèses sont préférable à la chirurgie chez les patients présentant des tortuosités aortiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "Les anévrismes de l'aorte sont plus fréquents chez les femmes que chez les hommes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "L'athérome est une étiologie rare des anévrismes de l'aorte.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "Les anévrismes inflammatoires peuvent être traités uniquement par des médicaments.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "Le dépistage des anévrysmes aortiques n’est pas indiqué chez les hommes de plus de 75 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "Les patients atteints d'anévrisme de l'aorte ne présentent aucun risque de décès prématuré.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "La palpation abdominale est un moyen efficace de diagnostiquer un anévrisme aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "Le traitement endoluminal des AAA est associés à une plus faible mortalité que la chirurgie classique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "Les antécédents familiaux d'anévrisme ne sont pas un critère de dépistage pour les femmes de 50 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "La prévalence des anévrismes de l'aorte est en baisse parallèlement à une augmentation du tabagisme.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "Le traitement médical est une option viable pour tous les types d'anévrismes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "La localisation la plus fréquente des anévrismes aortiques est l'aorte abdominale sous-rénale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "Les anévrismes thoraco-abdominaux impliquent uniquement l’aorte ascendante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "Les anévrismes de l'aorte thoracique sont rarement asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "La rupture d’un anévrysme de l’aorte thoracique peut se manifester par une hématémèse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "La tomodensitométrie thoracique est un examen utile pour évaluer les anévrismes de l'aorte thoracique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "Les anévrismes de l'aorte thoracique ne nécessitent jamais de traitement chirurgical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "La mortalité postopératoire est plus élevée avec les endoprothèses qu'avec les prothèses en Dacron après le traitement chirurgical d’un anévrysme thoraco-abdominal.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "La paraplégie est une complication des traitements des anévrysme de l’aorte abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "Les anévrismes iliaques sont souvent asymptomatiques et causés par une athérosclérose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "Les anévrismes poplités sont plus fréquents chez les femmes que chez les hommes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "Les anévrismes poplités sont rarement bilatéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "Les anévrismes poplités sont souvent associés à l'anévrisme de l'aorte abdominale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "La rupture est la présentation clinique la plus fréquente des anévrismes poplités.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "Les FAUX anévrismes fémoraux sont souvent iatrogènes post-ponction artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "Le traitement des FAUX anévrismes fémoraux implique toujours une intervention chirurgicale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "Les anévrismes des artères viscérales sont fréquents.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "Les anévrysmes des artères viscérales atteignent le plus souvent l’artère splénique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "Les anévrismes de l'artère splénique présentent un risque élevé de rupture lors de la grossesse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "Les anévrismes de l'artère splénique sont toujours traités par embolisation percutanée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "Les anévrismes de l'artère hépatique nécessitent rarement un traitement chirurgical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "Les anévrismes iliaques sont le plus souvent situés sur les iliaques externes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "Les anévrismes iliaques présentent un risque de rupture dans la veine iliaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "Les anévrismes poplités sont souvent traités par la mise en place d’une prothèse en Dacron.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "Une augmentation du diamètre artériel de 40% n’est pas considéré comme un anévrysme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "L’anévrysme VRAI comprend toutes les tuniques de la paroi.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "Le FAUX anévrysme correspond à un hématome sous-intimal encapsulé contenu par la média.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "Les anévrysmes des artères rénales ou carotides sont plus rares.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "Le diamètre de l’aorte abdominale normal est d’environ 20mm.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "L’anévrysme est défini par un diamètre antéropostérieur de l’aorte abdominale de >35mm chez la femme.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "Le tabagisme est un facteur de risque majeur d’anévrysme de l’aorte abdominale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "La prévalence de l’AAA est d’environ 4% chez les hommes ayant arrêté de fumer.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "La prévalence de l’AAA est de moins d’1% chez les hommes n’ayant jamais fumé.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "L’arrêt du tabac ne réduit par le risque d’anévrysme de l’aorte abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "La prévalence de l’AAA est de 0,4% chez les femmes et de 1,7% chez les hommes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "La prévalence de l’AAA est plus élevée en cas d’AOMI, d’antécédents d’AIT/AVC ou d’insuffisance coronaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "Les phénomènes inflammatoires entrainent une perte des fibres élastiques et un épaississement de la paroi en cas d’athéromatose.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "Les facteurs génétiques n’interviennent pas dans le risque d’anévrysme de l’aorte abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "Les anévrysmes dans le cadre de maladies du tissu élastique (Marfan, Ehlers-Danlos,…) sont rares.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "La maladie de Behçet peut entrainer un anévrysme inflammatoire de l’aorte abdominale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "Le diamètre augmente en moyenne de 8mm/an en cas d’anévrysme de l’aorte abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "La dilatation artérielle est de plus en plus lente quand le diamètre de l’artère augmente.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "Le risque de rupture d’anévrysme augmente nettement quand le diamètre artériel atteint 60mm.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "Une augmentation rapide du diamètre >5mm/6 mois est un facteur de risque de rupture d’anévrysme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "Un anévrysme aortique abdominal de 50mm de diamètre est à très haut risque de rupture.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "L’anévrysme est défini par un diamètre antéropostérieur de l’aorte abdominale de >35mm chez l’homme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "Le signe de De Bakey est caractéristique d’un anévrysme aortique sus-rénal.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "Une augmentation rapide du diamètre <1cm/an est un facteur de risque de rupture d’anévrysme.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "La palpation de l’abdomen montre une masse pulsatile refoulant les mains à chaque systole en cas d’AAA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "Un anévrysme de l’aorte abdominale douloureux est une indication de chirurgie peu urgente.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "La tomodensitométrie permet de diagnostiquer un AAA en cas de symptômes non spécifiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "Le signe de De Bakey est positif si on peut introduire la main entre l’anévrysme de l’AA et le rebord costal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "Des douleurs thoraciques ou lombaires aigues doivent faire suspecter la fissuration d’un AAA.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "La rupture intrapéritonéale d’un anévrysme est généralement mieux toléré que la rupture rétropéritonéale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "Un anévrysme de l’aorte abdominale peut se rompre dans un organe creux comme le colon ou la VCI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "La rupture rétropéritonéale d’un AAA provoque un collapsus sévère et brutal.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "Une compression de la veine cave supérieure par un AAA provoque un œdème du membre supérieur.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "Les AAA peuvent se manifester par la migration d’emboles provoquant des ischémies de membre.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "Les « orteils bleus » ne sont jamais associés aux anévrysmes de l’aorte abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "La radiographie de l’abdomen à blanc est l’examen de 1er choix pour diagnostiquer les AAA.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "La radiographie de l’abdomen à blanc permet de visualiser des calcifications de la paroi vasculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "L’échographie abdominale est l’examen de 1er choix pour le dépistage et la surveillance des AAA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "Le scanner sans produit de contraste n’est pas utile pour diagnostiquer les anévrysmes aortiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "La tomodensitométrie avec contraste est indiquée uniquement pour guider la stratégie thérapeutique en cas d’anévrysme de l’aorte abdominale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "Les antiagrégants plaquettaires comme l’héparine sont utilisés pour traiter l’AAA asymptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "Le traitement chirurgical des AAA est associé à une mortalité post-opératoire d’environ 4%.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "Le traitement chirurgical des AAA consiste à retirer le sac anévrysmal et à suturer la paroi artérielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "Les complications tardives de la cure chirurgicale classique de l’AAA sont fréquentes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "Le traitement chirurgical des AAA consiste à mettre une prothèse en Dacron à l’intérieur de l’anévrysme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "La nécrose colique fait partie des complications les plus fréquentes du traitement endoluminal des anévrysmes de l’aorte abdominal.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "L’IC, la pneumonie, l’infarctus myocardique, l’IR et l’insuffisance respiratoire font partie des complications post-opératoires les plus fréquentes du traitement chirurgical des anévrysmes de l’aorte abdominal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "Le traitement endoluminal de l’AAA provoque la thrombose complète du sac anévrysmal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 127,
+    "Proposition": "Le traitement endoluminal de l’AAA est associée à une mortalité plus importante que la chirurgie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 128,
+    "Proposition": "Le traitement endoluminal de l’AAA provoque moins de complications cardiaques ou pulmonaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 129,
+    "Proposition": "Le traitement endoluminal de l’AAA exclut l’anévrysme de la circulation.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 130,
+    "Proposition": "Les anévrysmes de l’aorte abdominale <55mm sont traités par chirurgie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 131,
+    "Proposition": "Les endofuites sont détectés par échographie abdominale après le traitement endoluminal des AAA.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 132,
+    "Proposition": "Le traitement endoluminal des AAA est plus bénéfique que la chirurgie sur la mortalité à long terme.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 133,
+    "Proposition": "Un AAA de >55cm ou qui augmente de >5mm en 6 mois est une indication opératoire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 134,
+    "Proposition": "L’espérance de vie et les comorbidités sont prises en compte dans les indications de traitement d’AAA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 135,
+    "Proposition": "Une coronaropathie doit être recherchée en cas de signes d’appel dans le bilan d’opérabilité d’un AAA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 136,
+    "Proposition": "Une altération de la fonction hépatique est associée à un risque hémorragique lors d’une opération.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 137,
+    "Proposition": "La fonction rénale est un facteur pronostique dans le traitement des AAA.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 138,
+    "Proposition": "Le bilan d’opérabilité des AAA inclut un CT-scanner des vaisseaux du cou.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 139,
+    "Proposition": "Les AAA de <55mm nécessitent uniquement une surveillance échographique tous les 6 mois.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 140,
+    "Proposition": "Les AAA asymptomatiques de >55mm ne doivent pas être opérés.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 141,
+    "Proposition": "Le traitement de l’anévrysme rompu se fait le plus souvent pas l’interposition d’une prothèse en Dacron.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 142,
+    "Proposition": "La mortalité péri-opératoire est de 70% dans le traitement de l’anévrysme aortique rompu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 143,
+    "Proposition": "Le dépistage et le traitement précoce permet une réduction de la mortalité liée aux AAA de 45%.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 144,
+    "Proposition": "Les anciennes fumeuses doivent être dépistées pour l’AAA entre 65 et 75 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 145,
+    "Proposition": "Les AAA de 30 à 40mm doivent être surveillés par échographie tous les 6 à 12 mois.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 146,
+    "Proposition": "Les anévrysmes inflammatoires représentent 5 à 10% de tous les anévrysmes de l’aorte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 147,
+    "Proposition": "Les AAA de 40 à 54mm doivent être surveillés par échographie tous les mois.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 148,
+    "Proposition": "Les anévrysmes aortiques atteignent le plus souvent l’aorte descendante intra-thoracique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 149,
+    "Proposition": "La chirurgie est indiquée pour les anévrysmes inflammatoires <55mm en cas d’échec du traitement médical par méthylprednisolone.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 150,
+    "Proposition": "Les AAA de 30 à 40mm doivent être surveillés par échographie tous les 1 à 3 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 151,
+    "Proposition": "Les anévrysmes infectieux sont toujours secondaires à une contamination par voie hématogène.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 152,
+    "Proposition": "La tomodensitométrie montre une couronne inflammatoire hyperdense dans la paroi aortique calcifiée en cas d’anévrysme inflammatoire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 153,
+    "Proposition": "Les anévrysmes isolés de l’aorte thoracique peuvent entrainer des douleurs interscapulaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 154,
+    "Proposition": "Les anévrysmes isolés de l’aorte thoracique peuvent entrainer des symptômes respiratoires par compression des voies aériennes : toux, dyspnée, bronchopneumonie, bronchiectasies,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 155,
+    "Proposition": "La rupture d’un anévrysme de l’aorte thoracique peut provoquer des hémoptysies et un hémothorax.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 156,
+    "Proposition": "La dysphagie est un symptôme des anévrysmes de l’aorte abdominale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 157,
+    "Proposition": "L’imagerie par résonance magnétique et la radio de thorax sont utilisés pour diagnostiquer les anévrysmes de l’aorte thoracique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 158,
+    "Proposition": "Les anévrysmes symptomatiques de l’aorte thoracique peuvent être opérés peu importe leur taille.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 159,
+    "Proposition": "Les anévrysmes de l’aorte thoracique ne sont jamais opérés en cas de maladie du tissu élastique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 160,
+    "Proposition": "Les anévrysmes de l’aorte ascendante de diamètre >55mm doivent être opérés.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 161,
+    "Proposition": "Un anévrysme de l’aorte descendante de 55mm n’est pas une indication de traitement chirurgical.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 162,
+    "Proposition": "La mortalité post-opératoire d’un anévrysme thoraco-abdominal est d’environ 2% si une prothèse en Dacron a été posée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 163,
+    "Proposition": "Les anévrysmes asymptomatiques de l’aorte descendante >60mm doivent être opérés.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 164,
+    "Proposition": "L’opération d’un anévrysme thoraco-abdominal nécessite la réimplantation des troncs viscéraux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 165,
+    "Proposition": "La paraplégie est une complication des traitements des anévrysme de l’aorte thoracique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 166,
+    "Proposition": "La rupture d’un anévrysme iliaque provoque un hématome péritonéal aigu.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 167,
+    "Proposition": "Les anévrysmes iliaques asymptomatiques de >4cm doivent être opérés.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 168,
+    "Proposition": "Les anévrysmes poplités représentent 70% des anévrysmes périphériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 169,
+    "Proposition": "Les anévrysmes iliaques <55mm doivent uniquement être surveillés par échographie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 170,
+    "Proposition": "La majorité des cas d’anévrysmes poplités sont unilatéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 171,
+    "Proposition": "La thrombose est la manifestation clinique la plus fréquente des anévrysmes poplités.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 172,
+    "Proposition": "Les anévrysmes poplités entrainent des embolisations périphériques et une ischémie chronique du MI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 173,
+    "Proposition": "Les anévrysmes poplités asymptomatiques de >2cm de diamètre doivent être opérés.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 174,
+    "Proposition": "Les anévrysmes iliaques sont le plus souvent traités par exclusion par greffe veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 175,
+    "Proposition": "Le pontage est le traitement de choix des anévrysmes fémoraux symptomatiques ou évoluant rapidement.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 176,
+    "Proposition": "Les FAUX anévrysmes poplités sont traités par compression et injection de thrombine sous contrôle écho.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 177,
+    "Proposition": "Les anévrysmes des artères viscérales ne touchent jamais le tronc coeliaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 178,
+    "Proposition": "Les anévrysmes des artères viscérales peuvent provoquer une HTA et une hématurie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 179,
+    "Proposition": "La rupture des anévrysmes des artères viscérales peut entrainer une hémobilie ou un hémothorax.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 180,
+    "Proposition": "Les anévrysmes asymptomatiques de l’artère splénique doivent être traités chez la femme jeune.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

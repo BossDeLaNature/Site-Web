@@ -1,0 +1,1136 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "La vascularisation de l'intestin grêle et du côlon est assurée uniquement par le tronc coeliaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "L’arcade de Riolan est une anastomose entre le tronc coeliaque et l’artère mésentérique supérieure.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "Les variations anatomiques des troncs viscéraux sont rares.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "Les lésions sténosantes des troncs viscéraux sont généralement d'origine athéroscléreuse (>95% des cas).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "La dysplasie fibromusculaire est une étiologie fréquente des lésions sténosantes des troncs viscéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "La plupart des sténoses des troncs viscéraux sont asymptomatiques grâce aux nombreuses suppléances.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Les patients atteints de sténoses serrées sur au moins 2 des 3 troncs viscéraux peuvent présenter des manifestations cliniques d'ischémie mésentérique chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "L'échographie-Doppler est l'examen de référence pour diagnostiquer les sténoses des troncs viscéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "L'angiographie conventionnelle est utilisé comme examen de dépistage des sténoses des troncs viscéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "Le traitement chirurgical est toujours préféré au traitement endoluminal pour les lésions sténosantes des troncs viscéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "Le traitement des sténoses des troncs viscéraux visent à prévenir la récidive des symptômes et l'ischémie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "Les patients atteints de lésions sténosantes des troncs viscéraux doivent recevoir une anticoagulation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "Les douleurs abdominales après le repas sont un symptôme courant de l'ischémie mésentérique chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "La sitophobie est une crainte vis-à-vis de l'alimentation observée en cas d'ischémie mésentérique chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "Le souffle systolique épigastrique est étendu à l’auscultation en cas d'ischémie mésentérique chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "Les lésions sténosantes des troncs viscéraux surviennent généralement chez les moins de 50 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "La thrombose veineuse mésentérique est une cause d'ischémie mésentérique aiguë.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "Des lésions cellulaires irréversibles surviennent après 2h en cas d’ischémie mésentérique totale et aiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "L’ischémie mésentérique aigue entraine d’abord des lésions muqueuses avec une nécrose de l’épithélium.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "Les emboles dans l'artère mésentérique inférieure sont une cause fréquente d'occlusion artérielle aiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "Les patients atteints d'ischémie mésentérique aiguë peuvent présenter des douleurs abdominales violentes et d’emblée continues, généralement localisées dans la région épigastrique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "L'examen clinique est souvent riche en informations au stade précoce de l'ischémie mésentérique aiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "La leucocytose est un signe biologique précoce de l'ischémie mésentérique aiguë.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "La distension des anses intestinales est un signe d'ischémie mésentérique aiguë à la tomodensitométrie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "L'héparinothérapie est le traitement de choix pour l'ischémie occlusive mésentérique aiguë.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "La thrombose veineuse mésentérique est toujours secondaire à une maladie inflammatoire ou néoplasique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "La sigmoïdoscopie avec insufflation est recommandée pour le diagnostic de la colite ischémique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "Le traitement chirurgical est souvent nécessaire dans la colite ischémique pour prévenir les complications.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "L'angio-scanner permet de visualiser les calcifications volumineuses dans les sténoses des troncs viscéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "L’angio-scanner a tendance à surestimer les sténoses serrés lors de l’examen des artères.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "Le traitement médicamenteux des lésions sténosantes des troncs viscéraux comprend des antiagrégants.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "Les douleurs abdominales après le repas sont un symptôme spécifique de l'ischémie mésentérique aiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "Les patients atteints de colite ischémique sont généralement jeunes et en bonne santé.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "La colite ischémique est la 2ème cause d’hémorragie digestive basse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "Le traitement chirurgical est souvent nécessaire en cas de thrombose veineuse mésentérique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "L’ischémie mésentérique aiguë se manifeste par une alcalose métabolique et une élévation des LDH.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "La tomodensitométrie montre un épaississement de la paroi veineuse en cas d'ischémie mésentérique aiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "L'antibiothérapie à large spectre est souvent utilisée dans le traitement de la colite ischémique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "Les thromboses veineuses mésentériques primaires sont souvent associées à des anomalies de l'hémostase.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "L’administration prolongée de catécholamines favorise l’ischémie mésentérique non-occlusive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "Les patients atteints d'ischémie mésentérique aiguë peuvent présenter une hypotension et un choc.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "Les thromboses veineuses mésentériques peuvent être visualisées par CT-scanner.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "L'anticoagulation est généralement utilisée dans le traitement des thromboses veineuses mésentériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "Les patients atteints d'ischémie mésentérique aiguë peuvent présenter une diarrhée et du méléna.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "Les thromboses veineuses mésentériques sont rarement associées à des néoplasies.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "La prévention cardiovasculaire est importante dans le traitement des lésions sténosantes des troncs viscéraux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "La leucocytose est un signe tardif de l’ischémie mésentérique aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "La tomodensitométrie sans contraste est généralement utilisée pour le diagnostic de la colite ischémique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "La sigmoïdoscopie avec insufflation risque de déchirer la séreuse en cas de colite ischémique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "Les patients atteints d'ischémie mésentérique aiguë ne présentent jamais de nausées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "Les thromboses veineuses mésentériques peuvent être associées à des pancréatites aiguës.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "L’ischémie mésentérique aigue non-occlusive est due à une vasoconstriction mésentérique disproportionnée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "La tomodensitométrie est l'examen de choix pour voir les emboles en cas d'ischémie mésentérique aiguë.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "Le ballonnement abdominal est un symptôme des thromboses veineuses mésentériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "Les thromboses veineuses mésentériques peuvent être associées à la cirrhose ou l’hypertension portale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "Les thromboses veineuses mésentériques peuvent être associées à la contraception orale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "La colite ischémique atteint le plus souvent le colon ascendant et le colon sigmoïde.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "Il existe des anastomoses entre l’artère mésentérique supérieure et les artères hypogastriques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "Il existe des anastomoses entre le tronc coeliaque et l’artère mésentérique supérieure.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "Les lésions sténosantes des troncs viscéraux siègent le plus souvent à l’ostium ou sur les 1ers cm du vaisseau.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "La maladie de Takotsubo est une cause très rare de lésions sténosantes des troncs viscéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "La plupart des lésions sténosantes des troncs viscéraux sont rapidement symptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "Une sténose serrée sur 1 des 3 troncs suffit à provoquer des symptômes d’ischémie mésentérique chronique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "Les patients atteints de sténoses des troncs viscéraux ont souvent d’autres atteintes athéroscléreuses.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "Des douleurs abdominales surviennent souvent précocement dans les 15-30 minutes après le repas en cas d'ischémie mésentérique chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "L’ischémie mésentérique chronique entraine très souvent une prise de poids.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "L’écho-Doppler ne permet pas de visualiser correctement les sténoses des troncs viscéraux chez l’obèse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "L’angiographie par résonance magnétique est un examen très précis pour les sténoses des troncs viscéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "L’angiographie conventionnelle nécessite l’injection d’un produit de contraste.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "L’angiographie conventionnelle ne permet qu’une analyse segmentaire de la vascularisation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "L’angiographie conventionnelle (face et profil) est l’examen de référence pour visualiser les sténoses des troncs viscéraux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "L’aspirine ou le clopidogrel sont utilisés dans le traitement des lésions sténosantes des troncs viscéraux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "Les lésions asymptomatiques étendues des troncs viscéraux sont une indication de traitement.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "Le traitement chirurgical consiste en un pontage par greffe veineuse ou une réimplantation aortique en cas d’ischémie mésentérique chronique symptomatique",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "Le traitement endoluminal est la technique de référence pour traiter les ischémies mésentériques chroniques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "L’occlusion veineuse est responsable de la majorité des cas d’ischémie mésentérique aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "L’ischémie mésentérique aigue peut être due à une cause extravasculaire : volvulus, hernie étranglée,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "Les lésions cellulaires irréversibles surviennent après 4h d’ischémie mésentérique aigue totale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "L’ischémie non-occlusive est responsable d’environ 10% des cas d’ischémie mésentérique aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "L’occlusion artérielle aigue est responsable d’environ 50-70% des cas d’ischémie mésentérique aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "L’occlusion veineuse est responsable d’environ 20% des cas d’ischémie mésentérique aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "L’ischémie mésentérique aigue atteint d’abord la séreuse et la musculeuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "Les emboles responsables d’une occlusion aigue de l’AMS sont le plus souvent d’origine cardiaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "Les emboles de microcristaux de cholestérol sont souvent trop petits pour occlure un tronc viscéral.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "L’atteinte de la musculeuse peut entrainer un infarctus transmural, une perforation intestinale et une péritonite en cas d’ischémie mésentérique aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "L’occlusion artérielle aigue peut être causée par une thrombose in situ sur une sténose athéroscléreuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "L’extension des lésions à la sous-muqueuse entraine un œdème et des hémorragies de la paroi intestinale en cas d’ischémie mésentérique aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "La dissection aortique n’entraine jamais d’occlusion artérielle mésentérique aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "Les traumatismes, les vasculites, la dysplasie fibromusculaire et la thrombocytose sont des causes plus rares d’ischémie mésentérique aigue par occlusion veineuse aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "L’ischémie mésentérique aigue provoque des douleurs abdominales violentes et crampoïdes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "L’ischémie mésentérique aigue est parfois paucisymptomatique chez le sujet âgé.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "L’ischémie mésentérique aigue entraine une douleur péri-ombilicale irradiée dans la fosse iliaque gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "L’examen clinique révèle une légère sensibilité abdominale et une douleur qui semble disproportionnée au stade précoce d’une ischémie mésentérique aigue.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "L’RM montre un embole avec un aspect caractéristique en cupule concave en cas d’occlusion artérielle mésentérique aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "La résection intestinale est toujours nécessaire en cas d’ischémie mésentérique aigue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "Le traitement de l’ischémie mésentérique aigue vise à rétablir la circulation mésentérique et à lever l’ischémie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "L’embolectomie et la revascularisation par endoprothèse sont des options de traitement pour les occlusions artérielles mésentériques aigues causées par une thrombose in situ sur sténose athéromateuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "L’hypotension, le choc et le bas débit cardiaque favorisent les ischémies mésentériques non-occlusives.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "L’artériographie montre une image « d’arbre mort » en cas d’ischémie mésentérique non-occlusive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "La tomodensitométrie est l’examen de choix pour repérer une ischémie mésentérique non-occlusive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "Le traitement des ischémies mésentériques aigues non-occlusives comprend des vasodilatateurs administrés par le cathéter d’artériographie et des anticoagulants.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "La splénectomie ou le contexte post-opératoire favorisent les thromboses veineuses mésentériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "La douleur abdominale est plus souvent subaigue en cas de thrombose veineuse mésentérique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "La colite ischémique représente 90% des ischémies digestives.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "La colite ischémique est l’atteinte vasculaire digestive la plus fréquente.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "La colite ischémique a une étiologie multifactorielle associée à l’HTA, le diabète et les pathologies CV.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "L’incidence de la colite ischémique est en diminution dans la population générale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "La colite ischémique est toujours due à une cause occlusive des artères mésentériques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "Les causes non-occlusives de colite ischémique sont nombreuses : choc (hypovolémique, septique, cardiogénique, anaphylactique), cocaïne, effort physique intense et prolongé, IC, déshydratation,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "Une vasodilatation soudaine peut entrainer une colite ischémique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "L’angle splénique et le sigmoïde sont les 2 zones du colon les plus sensibles à l’ischémie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "L’aortographie peut entrainer des thromboses ou des embolies des artères mésentériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "Une obstruction colique par un cancer ou un fécalome peut provoquer une colite ischémique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "La drépanocytose n’est jamais une cause de colite ischémique occlusive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "Le sepsis intra-abdominal, la cirrhose et la pancréatite aigue sont des causes de colite ischémique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "La colite ischémique peut être provoquée par des syndromes myéloprolifératifs ou une CIVD.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "La colite ischémique entraine des douleurs abdominales sévères dans le flanc et la fosse iliaque gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "La colite ischémique peut entrainer des rectorragies, des diarrhées sanglantes ou une péritonite.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "La présence d’un ulcère colique hémorragique n’est pas une contre-indication aux anticoagulants.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "Les antiagrégants plaquettaires ne sont pas nécessaires dans le traitement de la colite ischémique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "Le traitement chirurgical est réservé aux colites ischémiques compliquées (péritonite, hémorragies,…).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "Le traitement endovasculaire est inutile en cas de colite ischémique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "La sténose symptomatique secondaire à une colite ischémique est une indication chirurgicale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "La chirurgie est recommandé en cas d’échec du traitement médical pour les colites ischémiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "Une antibiothérapie à large spectre est administrée dans tous les cas de colites ischémiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "La tomodensitométrie avec injection de produit de contraste permet de faire le diagnostic différentiel de la colite ischémique et d’observer les vaisseaux mésentériques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

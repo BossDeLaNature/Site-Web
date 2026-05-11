@@ -1,0 +1,1802 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "Le réseau veineux des membres inférieurs comprend un réseau superficiel et un réseau profond.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "Les veines communicantes ou perforantes relient le réseau superficiel au réseau profond.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "Le réseau superficiel draine 9/10 du sang veineux des membres inférieurs",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "Le sang veineux des membres inférieurs est normalement drainé de la superficie vers la profondeur.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "Le réseau veineux profond est composé des veines saphènes (grande, petite et accessoire).",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "Les valvules veineuses parsèment le réseau profond et le réseau superficiel mais pas les veines perforantes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Les valvules veineuses servent à éviter le reflux du sang vers la périphérie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "La varice est une dilatation permanente physiologique d'une veine superficielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "L'insuffisance veineuse chronique est toujours causée par des varices.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "Le réseau veineux superficiel draine 1/10 du sang veineux des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "L’insuffisance veineuse chronique est un syndrome associant des symptômes et des signes causées par une anomalie anatomique ou fonctionnelle veineuse permanente.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "L'insuffisance veineuse chronique peut être causée par une malformation congénitale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "La prévalence de l’insuffisance veineuse chronique diminue avec l’âge.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "L’insuffisance veineuse chronique affecte 25% des Européens actifs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "L’insuffisance veineuse chronique affecte plus de la moitié des retraités.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "Le réseau veineux superficiel des membres inférieurs comprend les veines fémorale et poplitée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "Les varices sont plus courantes chez les hommes que chez les femmes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "La compression par un anévrysme, les séquelles de TVP et le reflux lié à une insuffisance valvulaire sont des causes d’insuffisance veineuse chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "Dans les pays industrialisés, 1 femme sur 2 a une maladie veineuse au cours de la vie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "Environ 10% de la population souffrira un jour d’une ulcération d’origine veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "La dysfonction de la pompe musculaire surale peut causer une insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "Les varices sont 3x plus fréquentes chez les femmes que chez les hommes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "La prévalence des varices dans la population adulte varie entre 15 et 20%.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "L’insuffisance veineuse chronique et la maladie variqueuse représentent près de 2% du budget des soins de santé dans les pays occidentaux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "Le traitement des ulcères chroniques représente un budget de 50 millions de dollars par an aux USA.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "L’insuffisance veineuse affecte 35% des européens actifs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "La prévalence des varices dans la population adulte peut atteindre 30%.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "La différence de pression entre une veine du pied et l’OD en position debout augmente à la marche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "La station bipède augmente considérablement la pression veineuse dans les membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "La pression hydrostatique entre une veine du pied et l'OD en position debout immobile est de 80 mmHg.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "Les valvules veineuses empêchent le flux centripète du sang lors de la contraction musculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "Les valvules veineuses sont situées uniquement dans le réseau veineux profond.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "Le sang contenu dans la semelle veineuse est comprimé à chaque pas et déplacé vers le mollet.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "La pompe respiratoire favorise le retour veineux vers la cage thoracique à l’expiration.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "L’insuffisance veineuse est spécifique de l’espèce humaine en raison de la station bipède.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "La différence de pression hydrostatique entre l'OD et le pied est de 15-30 mmHg à la marche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "Le flux veineux dépend de la contraction des muscles jambiers au sein d’aponévroses extensibles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "L'insuffisance valvulaire primaire a toujours une composante héréditaire probable.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "La stase veineuse n'a aucun effet sur la paroi veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "Le flux veineux turbulent a une action anti-oxydante et anti-inflammatoire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "L’hypertrophie de la paroi veineuse s’accompagne d’une diminution de son contenu en collagène.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "La dégradation de la matrice extracellulaire est causée par les cellules musculaires lisses.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "L'insuffisance veineuse secondaire est très souvent causée par des syndromes post-thrombotiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "L’hypoplasie ou l’agénésie des valvules ou de la VCI est une cause de l'insuffisance veineuse secondaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "Les tumeurs peuvent comprimer les veines et causer une insuffisance veineuse secondaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "Le syndrome de Cockett est une cause fréquente d'insuffisance veineuse secondaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "Le syndrome de Cocket correspond à une compression de la veine iliaque droite par l’artère iliaque gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "La grossesse induit une insuffisance veineuse secondaire uniquement en raison des facteurs hormonaux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "Les sportifs ont un risque accru de développer une insuffisance veineuse secondaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "La pression hydrostatique dans la jambe diminue pendant la marche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "La pompe veineuse surale est active uniquement pendant la marche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "Les altérations de la circulation veineuse peuvent être génétiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "Le flux veineux rétrograde et la stase veineuse ont un effet pro-inflammatoire et pro-thrombotique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "La désorganisation des fibres d'élastine contribuent à rendre la veine plus rigide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "L'insuffisance veineuse primaire est souvent causée par une thrombose veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "La survenue d'un flux veineux turbulent peut entraîner une inflammation de la paroi veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "Les altérations de la circulation veineuse sont toujours séquellaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "Les fistules artério-veineuses sont une cause d’insuffisance veineuse secondaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "Les altérations de la circulation veineuse sont toujours causées par des facteurs génétiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "La réduction du flux veineux n'a aucun effet sur les cellules endothéliales de la paroi veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "Les altérations de la circulation veineuse entrainent une extravasion de globules rouges.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "L'insuffisance valvulaire primaire ne survient jamais après une thrombose veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "L’hyperpression veineuse dans les membres inférieurs due à la station bipède disparait à la marche.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "La contraction musculaire et les valvules veineuses génèrent un flux sanguin veineux centrifuge.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "L’augmentation de pression intra-thoracique à l’inspiration facilite le retour veineux vers le cœur.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "Le sang veineux ne peut se diriger que vers la cuisse lors de la contraction des muscles jambiers car les valvules préviennent le reflux sanguin dans toutes les autres directions.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "L’incontinence des veines perforantes peut causer une insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "On propose au maximum une contention de classe II en cas d’insuffisance veineuse ou de varices.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "Le flux laminaire a une action pro-inflammatoire sur les cellules endothéliales de la paroi veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "L’hypertrophie de la paroi veineuse est caractérisée par une désorganisation des cellules musculaires lisses et par une augmentation de son contenu en collagène.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "L’extravasion des globules rouges est responsable de dépôts tissulaires d’hémosidérine anti-inflammatoire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "La veine insuffisante est caractérisée par une alternance de paroi hypertrophique et atrophique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "Les cellules inflammatoires dégradent les cellules musculaires lisses de la veine en cas d’inflammation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "La différence de pression hydrostatique entre l'OD et le pied est de 50 mmHg à la marche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "Le syndrome de Cockett provoque une insuffisance veineuse secondaire bilatérale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "L’âge et l’obésité sont des facteurs de risque d’insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "Les antécédents de traumatismes des membres inférieurs et de TVP ou les antécédents familiaux de varices sont des facteurs de risque d’insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "L’orthostatisme prolongé lié à certaines professions est un facteur protecteur d’insuffisance veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "La grossesse et le sexe féminin en général sont des facteurs de risque d’insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "L’exposition au soleil peut favoriser l’insuffisance veineuse par vasodilatation et fragilisation de la peau.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "Les manifestations cliniques de l'insuffisance veineuse sont souvent les mêmes pour tous les patients.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "Les douleurs jambières sont typiquement aggravées par la surélévation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "L’insuffisance veineuse est caractérisée par un œdème péri-malléolaire qui diminue au cours de la journée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "Le système CEAP prend en compte la clinique, l'étiologie, le siège anatomique de la lésion et la pathogénie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "La classification clinique du CEAP va de 1 à 5 selon la gravité des signes cliniques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "Les télangiectasies sont des varices non palpables de petit calibre.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "L’œdème rétromalléolaire positionnel est caractéristique du stade C4 de la classification CEAP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "L'eczéma variqueux est une conséquence de la stase veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "L'atrophie blanche est une plaque scléro-atrophique correspondant à une zone d’ischémie cutanée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "Les télangiectasies sont des dilatations hypodermiques des plexus veineux sous-papillaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "Les ulcères veineux sont généralement très douloureux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "Les ulcères veineux sont souvent localisés dans la région péri-malléolaire externe.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "Les manifestations de l’insuffisance veineuse vont d’une simple pesanteur jambière à des ulcères veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "Les perles variqueuses sont des dilatations des veines profondes visibles à la surface de la peau.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "L’insuffisance veineuse se manifeste souvent pas une sensibilité le long des veines inflammatoires dilatées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "Une lourdeur des jambes, une fatigue et une sensation désagréable à l’orthostatisme prolongé sont les premiers symptômes de l’insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "L’insuffisance veineuse peut provoquer des crampes musculaires nocturnes et un prurit au niveau des jambes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "La classification C1 de l’insuffisance veineuse désigne les sujets sans signe clinique visible ou palpable.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "La durée médiane d’un ulcère veineux avant cicatrisation complète est de 3 mois.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "Les télangiectasies sont des dilatations intradermiques des plexus veineux sous-papillaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "Les télangiectasies de 0,4 à 1mm ont généralement une couleur rouge.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "La classification C2 de l’insuffisance veineuse désigne les sujets qui présentent des varices non palpables.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "Les télangiectasies de 0,1 à 0,4mm ont généralement une couleur bleue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "Des varices réticulaires, de petit calibre (<3mm), hypodermiques et non palpables sont caractéristiques du stade C1 de la classification CEAP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "La classification C3 de l’insuffisance veineuse désigne les sujets qui présentent des oedèmes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "La dermatite de stase est caractérisée par des placards suintants et non prurigineux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "La dermite ocre est une manifestation de l'insuffisance veineuse causé par une hypoperfusion.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "L'hypodermite est une réaction inflammatoire fibrosante du tissu sous-cutané causée par des épisodes infectieux répétés.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "L'atrophie blanche est causée par une occlusion d’artérioles du derme superficiel.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "L'eczéma variqueux est caractérisé par une peau suintante, vésiculeuse et rougeâtre.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "Les varices peuvent parfois se compliquer d'une thrombose veineuse superficielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "L'atrophie blanche est une plaque scléro-atrophique causée par une occlusion veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "La classification C2 de l’insuffisance veineuse désigne les sujets qui présentent des varices sous-cutanées palpables de >3mm.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "La classification C6 de l’insuffisance veineuse désigne les sujets qui présentent un ulcère cicatrisé.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "La classification C4 de l’insuffisance veineuse désigne les sujets qui présentent des troubles trophiques d’origine veineuse (dermite ocre, eczéma variqueux, hypodermite, lipodermatosclérose,…).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "La classification C1 de l’insuffisance veineuse désigne les sujets qui présentent des télangiectasies.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "Les signes physiques de l’insuffisance veineuse sont classés sur une échelle de gravité croissante en tenant compte de la sévérité de la dysfonction veineuse et de son ancienneté.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "L’œdème vespéral de la cheville est une manifestation tardive de l’insuffisance veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "La dilatation des veines de l’arche plantaire interne et des régions malléolaires (corona phlebectatica) sont les premières manifestations de l’insuffisance veineuse des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "La dermite ocre est une complication trophique de la stase veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "La dermite ocre correspond à une coloration bleutée de la peau due à des dépôts d’hémosidérine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "La dermite ocre est la conséquence de l’hyperpression veineuse et de l’extravasion des GR.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "La lipodermatosclérose donne aux jambes un aspect typique « en guêtre de cheval ».",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "La lipodermatosclérose correspond à une fibrose progressive du tissu sous-cutané au niveau des cuisses.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "L’eczéma variqueux correspond à des manifestations cutanées localisées en regard d’une varice.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "L’eczéma variqueux est une dermatose non prurigineuse et érythémato-vésiculeuse en nappes/placards.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 127,
+    "Proposition": "Le siège préférentiel des ulcères variqueux est la région péri-malléolaire interne.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 128,
+    "Proposition": "Les ulcères veineux sont le plus souvent peu douloureux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 129,
+    "Proposition": "Les ulcères d’origine veineuse sont à bords fibreux, suitants ou rouges et bourgeonnant sans nécrose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 130,
+    "Proposition": "Les varices se compliquent très souvent d’une thrombose veineuse profonde.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 131,
+    "Proposition": "Les varices des MI peuvent se rompre lors d’un traumatisme et provoquer une hémorragie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 132,
+    "Proposition": "L’insuffisance veineuse altère peu la qualité de vie des patients.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 133,
+    "Proposition": "La classification C5 de l’insuffisance veineuse désigne les sujets qui présentent un ulcère actif.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 134,
+    "Proposition": "La durée médiane d’un ulcère veineux avant cicatrisation complète est de 9 mois.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 135,
+    "Proposition": "2/3 des ulcères veineux restent actifs pendant plus de 5 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 136,
+    "Proposition": "Les ulcères veineux prennent énormément de temps à guérir et récidivent très fréquemment.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 137,
+    "Proposition": "L'anamnèse comprend la recherche de facteurs de risque de varices primitives et d’antécédents de thrombose veineuse profonde en cas d’insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 138,
+    "Proposition": "L'examen clinique est souvent réalisé en position couchée pour détecter les varices.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 139,
+    "Proposition": "Le test de Schwartz évalue la continence des valvules dans les veines fémorales et poplitées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 140,
+    "Proposition": "Les varices sont toujours secondaires à une thrombose veineuse profonde ou à une compression.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 141,
+    "Proposition": "L'œdème péri-malléolaire est un signe spécifique de l’insuffisance veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 142,
+    "Proposition": "Le bilan complémentaire de l’insuffisance veineuse inclut toujours une phlébographie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 143,
+    "Proposition": "L'échographie Doppler est utile pour confirmer le diagnostic d'insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 144,
+    "Proposition": "Les médications veinotropes sont le traitement principal de l'insuffisance veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 145,
+    "Proposition": "L'exercice physique permet de diminuer de 2/3 la pression veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 146,
+    "Proposition": "La contention des membres inférieurs diminue la pression tissulaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 147,
+    "Proposition": "Les bas de contention doivent exercer une pression plus forte en proximal qu'à la cheville.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 148,
+    "Proposition": "Les stations debout prolongées sont bénéfiques pour les patients atteints d'insuffisance veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 149,
+    "Proposition": "Le traitement des varices est toujours chirurgical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 150,
+    "Proposition": "Les pansements adéquats sont essentiels pour traiter les ulcères variqueux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 151,
+    "Proposition": "L'examen clinique est réalisé en position assise pour détecter les varices.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 152,
+    "Proposition": "Le test de Schwartz évalue la continence des valvules dans les veines saphènes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 153,
+    "Proposition": "Les varices sont souvent idiopathiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 154,
+    "Proposition": "L'œdème péri-malléolaire peut être causée par un lymphoedème ou une origine cardiaque ou rénale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 155,
+    "Proposition": "L'examen clinique est réalisé en position debout pour détecter les varices.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 156,
+    "Proposition": "L'échographie-Doppler peut poser le diagnostic d'insuffisance veineuse de façon formelle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 157,
+    "Proposition": "Le décubitus et la surélévation des membres inférieurs sont des moyens de lutter contre la stase veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 158,
+    "Proposition": "Les bas de contention doivent exercer une pression plus forte à la cheville qu'en proximal pour éviter un effet garrot (bas de contention dégressive).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 159,
+    "Proposition": "Les douches d'eau froide matin et soir entraînent une vasoconstriction veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 160,
+    "Proposition": "Il existe un consensus clair sur le traitement des varices.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 161,
+    "Proposition": "Des greffes cutanées sont parfois proposées dans le traitement des ulcères veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 162,
+    "Proposition": "L’éviction des sources de chaleur est recommandée pour les personnes atteintes d'insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 163,
+    "Proposition": "La turgescence des varices augmente si le patient réalise une manœuvre de Valsalva.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 164,
+    "Proposition": "Le signe du flot évalue la transmission d’une onde de flux sur le trajet des veines saphènes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 165,
+    "Proposition": "La test de Schwartz nécessite les doigts des 2 mains pour la genèse et la transmission des percussions.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 166,
+    "Proposition": "La transmission de l’onde de flux vers l’amont est le résultat du test du Schwartz chez le sujet sain.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 167,
+    "Proposition": "La transmission d’une onde de flux vers l’aval traduit une insuffisance valvulaire au test de Schwartz.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 168,
+    "Proposition": "L’onde de flux ne doit pas se transmettre vers le pied en l’absence d’insuffisance valvulaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 169,
+    "Proposition": "La transmission d’une onde de flux vers l’amont traduit une insuffisance valvulaire au test de Schwartz.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 170,
+    "Proposition": "La percussion des veines saphènes transmet une onde de flux vers l’aval chez le sujet sain.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 171,
+    "Proposition": "Le diagnostic différentiel est primordial car le traitement de l’insuffisance veineuse par surélévation des jambes risque d’aggraver l’hypoperfusion des membres inférieurs en cas d’AOMI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 172,
+    "Proposition": "L’œdème des membres inférieurs n’est jamais idiopathique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 173,
+    "Proposition": "L’échographie-Doppler permet de poser le diagnostic d’insuffisance veineuse de façon formelle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 174,
+    "Proposition": "L’échographie-Doppler prend beaucoup de temps pour peu de bénéfices en cas d’insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 175,
+    "Proposition": "L’échographie-Doppler ne permet pas de réaliser une cartographie veineuse précise.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 176,
+    "Proposition": "Le duplex-scan est systématiquement réalisé lorsqu’une résection chirurgicale des varices est envisagée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 177,
+    "Proposition": "La phlébographie est un examen complémentaire non invasif.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 178,
+    "Proposition": "La phlébographie n’est presque plus jamais réalisée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 179,
+    "Proposition": "Le décubitus et la surélévation des membres inférieurs est le traitement de base des ulcères veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 180,
+    "Proposition": "La marche, le vélo, l’aquagym et la natation permettent de réduire l’hypertension veineuse par activation de la pompe veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 181,
+    "Proposition": "La station assise est recommandée chez les sujets atteints d’insuffisance veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 182,
+    "Proposition": "Les pieds doivent être surélevés de 20-30cm par rapport au lit durant la nuit.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 183,
+    "Proposition": "Il n’est pas nécessaire de lutter contre la surcharge pondérale en cas d’insuffisance veineuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 184,
+    "Proposition": "La contention augmente le différentiel entre la pression tissulaire et la pression capillaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 185,
+    "Proposition": "La contention normalise le syndrome d’hyperperméabilité qui caractérise la micro-angiopathie de l’insuffisance veineuse chronique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 186,
+    "Proposition": "La contention n’a pas d’effet sur le diamètre des varices mais diminue le reflux veineux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 187,
+    "Proposition": "Les bas de contention sans réglementation appliquent une pression d’environ 15-20 mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 188,
+    "Proposition": "Les bas ordinaires pour dames sont d’environ 10 deniers et n’exerce pas de contention.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 189,
+    "Proposition": "L’action des bas de contention de classe I est définie par le nombre de deniers.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 190,
+    "Proposition": "Les bas de contention de classe III appliquent une pression de >45 mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 191,
+    "Proposition": "Les bas de contention de classe II appliquent une pression d’environ 20-30 mmHg.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 192,
+    "Proposition": "Les bas de contention de classe III sont conseillés en cas d’insuffisance veineuse ou de varices.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 193,
+    "Proposition": "Une dysfonction de la pompe musculaire surale suffit à provoquer une insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 194,
+    "Proposition": "Le port de talons hauts permet une bonne compression de la sole veineuse plantaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 195,
+    "Proposition": "Les talons hauts et les mi-bas à élastiques trop serrés sont déconseillés en cas d’insuffisance veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 196,
+    "Proposition": "Les médicaments veinotropes peuvent parfois améliorer les symptômes mais sont d’un intérêt très limité.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 197,
+    "Proposition": "Diverses techniques (parfois risquées) permettent de « traiter » les varices : sclérose, échosclérose au polidocanol, ligatures étagées, saphénectomie par stripping, laser ou radiofréquence endoveineuse,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 198,
+    "Proposition": "La saphénectomie par stripping est un traitement curatif des varices superficielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 199,
+    "Proposition": "Tous les soignant sont aptes à réaliser les pansements d’ulcères veineux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 200,
+    "Proposition": "Les stations debout et assise prolongées sont à éviter dans la mesure du possible en cas de varices.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

@@ -1,0 +1,2189 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "La TVP est toujours définie comme une thrombose complète du réseau veineux profond des MI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "La TVP distale est limitée à l'étage poplité.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "La TVP proximale affecte uniquement le réseau veineux superficiel.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "La TVP est souvent associée à l'embolie pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "Environ 40-60% des patients atteints de TVP proximale ont une embolie pulmonaire symptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "L'incidence de la TVP dans la population générale est d'environ 1 cas par 1000 par an.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Les facteurs de risque de TVP sont tous réversibles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "La connaissance des facteurs de risque n’est pas nécessaire pour estimer la probabilité clinique de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "Le score de Wells est un outil utilisé pour estimer la probabilité clinique de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "Un score de Wells élevé indique une probabilité clinique faible de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "Le dosage des D-dimères est un test spécifique pour diagnostiquer la TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "Un résultat normal de D-dimères est utilisé pour exclure une TVP quand le score de Wells vaut",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "L'échographie-Doppler des membres inférieurs est l'examen de premier choix pour diagnostiquer la TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "L'échographie-Doppler est partiellement dépendante de l'opérateur.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "La thrombose veineuse superficielle est souvent asymptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "La phlegmatia alba dolens est une présentation classique de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "La thrombose veineuse profonde n'entraîne jamais de dilatation des veines superficielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "La thrombose veineuse profonde peut entraîner un syndrome post-thrombotique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "Le score de Wells simplifié comporte 3 niveaux d'estimation de la probabilité clinique de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "Un cancer actif confère un point dans le score de Wells simplifié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "L'échographie-Doppler est moins sensible que le dosage des D-dimères pour détecter la TVP proximale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "La phlegmatia caerulea dolens nécessite un traitement urgent.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "Le syndrome post-thrombotique une insuffisance veineuse sévère avec dilatations veineuse superficielles, lourdeur de jambes, crampes, œdème, troubles trophiques, ulcères veineux, dermite ocre, hypodermite,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "Le dosage des D-dimères est recommandé uniquement lorsque le score de Wells est égal ou supérieur à",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "Les patients âgés ont généralement des résultats de D-dimères faussement positifs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "Le traitement anticoagulant est toujours nécessaire en cas de TVP confirmée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "La TVP distale est souvent plus grave que la TVP proximale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "La TVP est plus fréquente chez les femmes enceintes ou en post-partum.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "Les traumatismes ou les chirurgies récentes sont des facteurs de risque réversibles de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "Les longs voyages en avion n'augmentent pas le risque de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "Le syndrome de Cockett est un facteur de risque non réversible de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "Les antécédents de TVP sont un facteur de risque réversible de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "La thrombose veineuse superficielle est toujours une complication de la thrombose veineuse profonde.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "L'érythème franc de l'érysipèle est souvent confondu avec l'érythrocyanose déclive de la TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "La TVP est souvent asymptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "50 à 70% des patients atteints d’embolie pulmonaire ont une TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "Les varices sont un facteur de risque réversible de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "Le syndrome post-thrombotique se caractérise par des crampes et un œdème des membres inférieurs.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "Les D-dimères sont un test spécifique pour diagnostiquer la TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "L'échographie-Doppler est très sensible (>95%) pour diagnostiquer une TVP distale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "Le syndrome post-thrombotique se caractérise par des veines superficielles dilatées et un érythème.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "Les embolies pulmonaires sont plus fréquentes que les TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "Les moyens thérapeutiques utilisés pour traiter la TVP incluent uniquement l'anticoagulation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "La fibrinolyse est un moyen thérapeutique couramment utilisé pour traiter la TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "Les indications de la chirurgie dans le traitement de la TVP sont très limitées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "Une TVP située sous le genou est considérée comme distale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "Les facteurs de risque de récidive de la TVP distale comprennent le cancer actif et l'âge >50 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "La mobilisation est recommandée avant le début du traitement anticoagulant pour la TVP proximale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "La TVP distale nécessite uniquement une anticoagulation de 3 mois si le risque de récidive est faible.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "La thérapie compressive immédiate (<24h) fait partie intégrante du traitement de la TVP proximale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "La compression recommandée en cas de TVP proximale comprend uniquement des bandages adhésifs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "L'anticoagulation est recommandée pendant au moins 6 mois pour les patients présentant une TVP proximale isolée et un risque intermédiaire de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "Les anticoagulants oraux directs ne nécessitent pas de contrôle sanguin ni d'ajustement de la dose.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "Le dosage des D-dimères est utile uniquement pour exclure une TVP si un autre test très sensible est normal.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "La contention et la mobilisation font partie du traitement de la TVP distale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "L'interruption partielle de la veine cave inférieure est recommandée pour tous les patients atteints de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "Le traitement chirurgical est souvent nécessaire pour traiter la TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "Le syndrome post-thrombotique survient 6 mois à 2 ans après une TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "Le diagnostic du syndrome post-thrombotique dépend principalement de l'imagerie médicale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "La thrombose de la veine cave inférieure entraine généralement des symptômes unilatéraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "La TVP des membres supérieurs peut être causée par une compression extrinsèque par une tumeur.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "La thrombose veineuse jugulaire est toujours associée à une thrombophilie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "La thrombose veineuse jugulaire se manifeste par des douleurs cervicales et un gonflement.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "Le traitement anticoagulant est nécessaire pour éviter l'extension de la TVP et prévenir les récidives..",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "Les anticoagulants directs sont éliminés essentiellement par voie rénale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "La thrombolyse est recommandée comme traitement de première intention pour la TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "Le syndrome post-thrombotique peut survenir jusqu’à 5 ans après une TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "La thrombose de la veine cave inférieure est rarement liée à une origine néoplasique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "La TVP des membres supérieurs est toujours causée par des cathéters.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "Le traitement anticoagulant est recommandé uniquement pour les TVP proximales.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "Les anticoagulants directs présentent un risque d'interaction médicamenteuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "Le traitement anticoagulant est recommandé pour tous les types de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "La thrombose de la veine cave inférieure est le plus souvent causée par l’extension d’un thrombus iliaque.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "La thrombose veineuse superficielle peut être causée par un cathétérisme veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "Dans 75% des cas, la thrombose veineuse superficielle survient sur des varices.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "La thrombophlébite ne survient jamais sur une veine saine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "La TVS est associée à une douleur sur le trajet veineux qui prend un aspect bleu et induré.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "L'hyperthermie locale est un signe courant dans la thrombose veineuse superficielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "L'échographie-Doppler est utile pour évaluer l'extension d’une thrombose veineuse superficielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "La thrombose veineuse superficielle peut parfois s'étendre au réseau profond via les veines perforantes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "Le traitement de la thrombose veineuse superficielle comprend l'utilisation d'anti-inflammatoires stéroïdiens.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "La contention et la mobilisation ne sont pas essentielles dans le traitement de la TVS.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "Le traitement anticoagulant n'est jamais utilisé dans la thrombose veineuse superficielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "Les anti-inflammatoires non stéroïdiens sont utilisés pour traiter les symptômes de la TVS.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "Le traitement anticoagulant est souvent proposé pour prévenir l'extension de la thrombose veineuse superficielle étendue à proximité de la jonction saphéno-fémorale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "La thrombose veineuse superficielle est toujours associée à des varices.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "La TVS est définie comme une thrombose partielle ou complète du réseau veineux profond des MI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "Une thrombose du réseau veineux profond poplité est considérée comme une TVP distale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "Les thromboses distales sont limitées à l’étage sous-poplité.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "Le TVP proximales peuvent toucher les veines fémorales, la veine iliaque ou la veine cave inférieure.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "La TVP est très fréquemment associée à l’embolie pulmonaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "40 à 60% des cas de TVP proximale symptomatique ont une embolie pulmonaire asymptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "La maladie thrombo-embolique veineuse désigne uniquement les thromboses veineuses profondes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "Tous les patients atteints d’embolie pulmonaire ont une TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "La maladie thromboembolique veineuse est l’affection cardiovasculaire la plus fréquente après les maladies coronariennes et les AVC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "L’incidence de l’embolie pulmonaire dans la population générale est de 0,5/1000 par an.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "La triade de Virchow regroupe les 3 facteurs favorisants les thromboses veineuses.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "La présence de facteurs de risque de TVP ne modifient pas la durée du traitement.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "Les anomalies du flux sanguin comme la stase veineuse ou le flux rétrograde prédisposent à la TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "Les lésions de la paroi des vaisseaux prédisposent à la TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "La composition chimique du sang ne modifie pas le risque de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "Les contraceptifs oraux et l’hormonothérapie sont des facteurs de risque réversibles de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "L’obésité est considéré comme un facteur de risque non réversible de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "Les anomalies de l’hémostase doivent être recherchées en cas de TVP : facteur V Leiden, excès en protéines C ou S, anomalies de la fibrinolyse, facteurs VIII, IX ou XI élevés, déficit en anti-thrombine,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "Une mutation dans le gène de la prothrombine ou une hypohomocystéinémie peuvent induire des TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "Une dysplasminogénie/dysfibrinogénémie ou des anticorps antiphospholipides peuvent induire des TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "La triade de Virchow associe stase veineuse, lésions pariétales et anomalies de l’hémostase.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "Cancer, désordres myéloprolifératifs, inflammation (Crohn, RCUH, Behçet,…) et syndrome néphrotique sont des causes d’anomalies de l’hémostase.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "L’âge n’est pas en soi un facteur de risque de thrombose veineuse profonde.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "Le risque de récidive est d’autant plus grand que la TVP survient après une immobilisation courte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "La phlegmatia caerulea dolens est la présentation la plus classique de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "Le signe de Homans correspond à une douleur spontanée ou provoquée du mollet en cas de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "La phlegmatia alba dolens se manifeste par un œdème bilatéral, une douleur du mollet, une dilatation des veines superficielles, une hyperthermie cutanée locale et une érythrocyanose déclive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "Le TVP ne provoque jamais un œdème de tout le membre inférieur.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "L’œdème est le plus souvent unilatéral ou asymétrique en cas de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "La TVP peut parfois provoquer une douleur à l’aine ou sur la face externe de la cuisse (trajet veineux).",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "L’hyperthermie cutanée locale est parfois le seul signe de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "L’arrêt du retour veineux profond en cas de TVP entraine une dilatation du réseau veineux superficiel et une coloration cyanique diffuse du membre inférieur en amont de l’occlusion.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "La TVP peut entrainer une érythrocyanose en position couchée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "L’érythème franc de l’érysipèle fait partie du diagnostic différentiel de la phlegmatia carulea dolens.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "La phlébite bleue se manifeste par un tableau d’ischémie aigue associée aux signes cliniques de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "Le syndrome post-thrombotique est la complication majeure de la TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "La TVP ne provoque jamais de signes inflammatoires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "La phlébite bleue correspond à une TVP distale extensive provoquant une stagnation veineuse aigue et un blocage de l’apport artériel.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "Les ulcères siègent souvent dans la région sus-malléolaires en cas de syndrome post-thrombotique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "La phlegmatia alba dolens est caractérisée par un arrêt de l’apport artériel et une ischémie aigue du MI.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 127,
+    "Proposition": "Un antécédent de cancer dans les 6 mois précédent confère un point dans le score de Wells simplifié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 128,
+    "Proposition": "Un gonflement du mollet est à déterminer au niveau de la tubérosité tibiale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 129,
+    "Proposition": "Un alitement récent de 2 jours confère un point dans le score de Wells simplifié.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 130,
+    "Proposition": "La TVP est probable si le score de Wells simplifié vaut 0 ou",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 131,
+    "Proposition": "Il faut soustraire un point au score de Wells simplifié si un diagnostic différentiel au moins aussi probable que la TVP est présent.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 132,
+    "Proposition": "Une douleur localisée sur un trajet veineux profond confère un point dans le score de Wells simplifié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 133,
+    "Proposition": "Une chirurgie majeure au cours des 4 dernières semaines confère un point dans le score de Wells simplifié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 134,
+    "Proposition": "Les antécédents de TVP ne sont pas pris en compte dans le score de Wells simplifié.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 135,
+    "Proposition": "Un gonflement généralisé du membre inférieur ou un gonflement du mollet >3cm confèrent un point dans le score de Wells simplifié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 136,
+    "Proposition": "Les varices ne sont pas prises en compte dans le score de Wells simplifié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 137,
+    "Proposition": "Un œdème prenant le godet confère un point dans le score de Wells simplifié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 138,
+    "Proposition": "Les veines superficielles collatérales confèrent un point dans le score de Wells simplifié.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 139,
+    "Proposition": "Une paralysie, une parésie ou une immobilisation plâtrée des membres inférieurs confère 2 points dans le score de Wells simplifié.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 140,
+    "Proposition": "Les performances diagnostiques du dosage des D-dimères dépend fortement du test utilisé.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 141,
+    "Proposition": "Le dosage des D-dimères a une bonne sensibilité et une bonne spécificité pour la TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 142,
+    "Proposition": "L’âge avancé, un syndrome inflammatoire, un cancer, un traumatisme ou une situation post-opératoire peuvent positiver le dosage des D-dimères en l’absence de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 143,
+    "Proposition": "Le dosage des D-dimères est utile pour confirmer le diagnostic de TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 144,
+    "Proposition": "Les anticoagulants oraux directs peuvent être utilisés sans pré-traitement par HBPM dans tous les cas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 145,
+    "Proposition": "Le dosage des D-dimères est nécessaire quand le score de Wells simplifié vaut 0 ou",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 146,
+    "Proposition": "Une TVP peut être raisonnablement exclue si le score de Wells vaut 1 et si les D-dimères sont normaux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 147,
+    "Proposition": "Une augmentation des D-dimères est une indication à l’échographie veineuse des membres inférieurs même en cas de TVP peu probable.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 148,
+    "Proposition": "Le dosage des D-dimères est nécessaire si le score de Wells vaut 2 ou plus.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 149,
+    "Proposition": "L’échographie veineuse des membres inférieurs est systématiquement réalisé en cas de TVP probable.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 150,
+    "Proposition": "L’écho-Doppler des membres inférieurs à une excellente sensibilité et spécificité pour les TVP proximales.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 151,
+    "Proposition": "Le traitement des TVP vise à prévenir les embolies pulmonaires et le syndrome post-thrombotique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 152,
+    "Proposition": "Le traitement des TVP comprend essentiellement une anticoagulation et une contention veineuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 153,
+    "Proposition": "Le traitement des TVP ne permet pas d’améliorer les symptômes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 154,
+    "Proposition": "Par définition, une TVP située sous le genou est une TVP proximale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 155,
+    "Proposition": "Les TVP proximales à faible risque de récidive nécessitent juste une courte anticoagulation par HBPM.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 156,
+    "Proposition": "Les TVP distales à faible risque de récidive nécessitent une surveillance échographique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 157,
+    "Proposition": "Les TVP affectant la trifurcation poplitée et/ou plus d’une veine du mollet sont à risque élevé de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 158,
+    "Proposition": "Le sexe féminin est un facteur de risque élevé de récidive de TVP distale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 159,
+    "Proposition": "Les TVP bilatérales sont à risque élevé de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 160,
+    "Proposition": "Les TVP distales à risque de récidive élevé nécessite uniquement une anticoagulation pendant 3 mois.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 161,
+    "Proposition": "Les TVP distales à risque de récidive faible nécessite une anticoagulation par héparine non fractionnée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 162,
+    "Proposition": "Les TPV distales idiopathiques sont à faible risque de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 163,
+    "Proposition": "Toutes les TVP proximales doivent être recevoir une anticoagulation pendant au moins 3 mois.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 164,
+    "Proposition": "Le syndrome post-thrombotique est causée par l’absence de dissolution complète des thrombus veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 165,
+    "Proposition": "La thérapie compressive immédiate doit être débutée dans les 12 heures après une TVP proximale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 166,
+    "Proposition": "La thérapie compressive immédiate contribue à la régression des symptômes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 167,
+    "Proposition": "La thérapie compressive immédiate ne réduit pas l’incidence du syndrome post-thrombotique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 168,
+    "Proposition": "La thérapie compressive utilise des bandages adhésifs en cas d’œdème important suite à une TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 169,
+    "Proposition": "Les bas de prévention de la thrombose exercent une pression de 15-18mmHg au niveau de la cheville.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 170,
+    "Proposition": "Les bas de maintien sans règlementation exercent généralement une pression de 10mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 171,
+    "Proposition": "Les bas de maintien sans règlementation ont généralement un nombre de deniers entre 30 et",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 172,
+    "Proposition": "Les bas de compression médicaux de classe III (forte) exercent une pression de 23-32mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 173,
+    "Proposition": "Les bas de compression médicaux de classe IV (très forte) exercent une pression de >49mmHg.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 174,
+    "Proposition": "Les bas de compression médicaux de classe A exercent une pression de 15-21mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 175,
+    "Proposition": "Les bas de compression médicaux de classe II (moyenne) exercent une pression de 34-46mmHg.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 176,
+    "Proposition": "La mobilisation est recommandé dès que le patient est correctement anti-coagulé après une TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 177,
+    "Proposition": "Toutes les TVP distales doivent être recevoir une anticoagulation pendant au moins 3 mois.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 178,
+    "Proposition": "Les TVPs proximales survenant après une chirurgie sous anesthésie générale de >30min sont à faible risque de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 179,
+    "Proposition": "Les TVPs proximales survenant après un alitement de <3 jours sont à faible risque de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 180,
+    "Proposition": "Les TVPs proximales survenant après un traumatisme avec fracture sont à faible risque de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 181,
+    "Proposition": "L’anticoagulation peut être stoppée après 6 mois en cas de TVP proximale à faible risque de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 182,
+    "Proposition": "Les TVPs proximales survenant après une chirurgie mineure sont à risque intermédiaire de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 183,
+    "Proposition": "Les TVPs proximales survenant après un vol long-courrier sont à faible risque de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 184,
+    "Proposition": "Les TVPs proximales survenant lors de la grossesse ou en péri-partum sont à risque élevé de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 185,
+    "Proposition": "Les TVPs proximales chez le patient obèse sont à risque intermédiaire de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 186,
+    "Proposition": "Les TVPs proximales après une anesthésie générale de >30min sont à risque intermédiaire de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 187,
+    "Proposition": "Les TVPs proximales chez le patient atteint de maladies inflammatoires de l’intestin ou de maladies auto- immunes persistantes et actives sont à risque intermédiaire de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 188,
+    "Proposition": "Les TVPs proximales avec poursuite du traitement oestrogénique sont à risque élevé de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 189,
+    "Proposition": "Les TVPs distales survenant après une blessure à la jambe sans fracture associée à une mobilité réduite pendant au moins 3 jours sont à risque intermédiaire de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 190,
+    "Proposition": "Les TVPs proximales chez les patients avec un cancer actif sont à risque élevé de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 191,
+    "Proposition": "Les TVPs proximales avec un syndrome des anticorps phospholipides sont à risque élevé de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 192,
+    "Proposition": "L’anticoagulation doit être poursuivie pendant >3 mois pour les TVP proximales à risque élevé de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 193,
+    "Proposition": "Il faut toujours envisager de poursuivre l’anticoagulation >3 mois pour les TVP proximales à risque intermédiaire de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 194,
+    "Proposition": "Les TVPs proximales avec une thrombophilie héréditaire majeure sont à risque intermédiaire de récidive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 195,
+    "Proposition": "La dose du traitement anticoagulant peut éventuellement être abaissée après 3 mois pour les TVP proximales à risque intermédiaire de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 196,
+    "Proposition": "Les patients avec des antécédents familiaux importants de TVP sont à risque élevé de récidive.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 197,
+    "Proposition": "Le dabigatran est un inhibiteur du facteur de coagulation Xa.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 198,
+    "Proposition": "Contrairement aux AVK, les AOD sont actifs d’emblée par voie orale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 199,
+    "Proposition": "L’apixaban, l’édoxaban et le rivaroxaban sont des inhibiteurs de la thrombine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 200,
+    "Proposition": "Certains ADO et les AVK nécessitent un pré-traitement par HBPM pendant 5 à 10 jours en cas de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 201,
+    "Proposition": "Les HBPM sont contre-indiqués en cas d’insuffisance rénale sévère (clearance de créatinine <30ml/min).",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 202,
+    "Proposition": "L’héparine non fractionnée est administrée en intra-musculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 203,
+    "Proposition": "Le taux de plaquettes doit être surveillé toutes les 6 heures lors du pré-traitement anticoagulant.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 204,
+    "Proposition": "Un allongement de l’APTT permet de vérifier l’activité anticoagulante lors du traitement par héparine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 205,
+    "Proposition": "L’activité anticoagulante doit être vérifiée toutes les 6h lors du pré-traitement anticoagulant.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 206,
+    "Proposition": "Les AVKs doivent être administrés le même jour ou le lendemain du début du traitement héparinique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 207,
+    "Proposition": "L’INR doit être compris entre 2,5 et 3,5 dans le traitement d’une TVP proximale par AVK.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 208,
+    "Proposition": "Le traitement de la TVP par des AVK doit toujours être précédé d’un pré-traitement par héparine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 209,
+    "Proposition": "Le traitement de la TVP par apixaban doit toujours être précédé d’un pré-traitement par héparine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 210,
+    "Proposition": "Le traitement héparinique doit être maintenu à doses thérapeutiques jusqu’à l’obtention d’un INR <",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 211,
+    "Proposition": "La dose d’AVK est adaptée selon le contrôle quotidien de l’INR de J3 à J",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 212,
+    "Proposition": "Contrairement aux anticoagulants directs, les AVK sont actifs d’emblée par voie orale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 213,
+    "Proposition": "Les anticoagulants directs sont généralement préférés aux AVK dans le traitement de la TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 214,
+    "Proposition": "L’héparine de bas poids moléculaire doit être administrée en perfusion IV continue.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 215,
+    "Proposition": "La chirurgie, la thrombolyse et l’interruption partielle de la VCI sont des traitement exceptionnels de TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 216,
+    "Proposition": "La thrombolyse utilise des schémas à base de streptokinase et d’urokinase.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 217,
+    "Proposition": "La thrombolyse permet de réduire efficacement l’incidence du syndrome post-thrombotique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 218,
+    "Proposition": "La thrombolyse augmente de 2x le risque d’hémorragies majeures par rapport à l’héparine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 219,
+    "Proposition": "La thrombolyse est réservée aux patients jeunes avec une TVP extensive (phlébite bleue) et sans CI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 220,
+    "Proposition": "Le traitement thrombolytique permet de se passer de la contention et de la mobilisation.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 221,
+    "Proposition": "L’interruption partielle de la VCI vise à empêcher la migration d’emboles vers les artères pulmonaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 222,
+    "Proposition": "L’interruption partielle de la VCI est réalisée par l’insertion chirurgicale d’un filtre dans la veine.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 223,
+    "Proposition": "Les « caillots flottants » sont une indication d’interruption partielle de la VCI en urgence.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 224,
+    "Proposition": "L’interruption partielle de la VCI est utilisée en cas de coexistence de TVP et d’embolie pulmonaire chez les patients qui présentent une contre-indication au traitement anticoagulant.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 225,
+    "Proposition": "Le filtre cave doit rapidement être retiré après une interruption partielle de la VCI.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 226,
+    "Proposition": "L’interruption partielle de la VCI n’est pas utilisée en cas de récidives thromboemboliques en présence d’un traitement anticoagulant bien adapté.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 227,
+    "Proposition": "L’anticoagulation doit être débuté dès la résolution de la CI même en présence d’un filtre cave.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 228,
+    "Proposition": "Le traitement chirurgical de la TVP est réalisé quand le membre est en danger en présence d’une contre- indication à la thrombolyse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 229,
+    "Proposition": "Le syndrome post-thrombotique se développe dans les 4 mois suivants une TVP.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 230,
+    "Proposition": "L’œdème du membre inférieur est d’emblée irréversible en cas de syndrome post-thrombotique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 231,
+    "Proposition": "Le syndrome post-thrombotique ne s’accompagne jamais de troubles trophiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 232,
+    "Proposition": "Le syndrome post-thrombotique est lié à plusieurs facteurs : obstruction veineuse persistante, incontinence valvulaire, perte de la fonction veineuse, hypertension veineuse et microcirculatoire,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 233,
+    "Proposition": "Le Doppler est inutile dans le diagnostic du syndrome post-thrombotique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 234,
+    "Proposition": "La thrombose veineuse des membres supérieurs donne une clinique similaire à une TVP.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 235,
+    "Proposition": "La thrombose veineuse des membres supérieurs peut parfois s’étendre à la veine cave supérieure.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 236,
+    "Proposition": "La TVS est très souvent d’origine iatrogène suite à un cathéterisme veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 237,
+    "Proposition": "La TVS survient le plus souvent sur le trajet de la veine saphène externe.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 238,
+    "Proposition": "Une thrombophlébite sur une veine saine doit faire suspecter une néoplasie ou une maladie de Buerger.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 239,
+    "Proposition": "La maladie de Behçet est associée aux TVP mais pas aux TVS.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 240,
+    "Proposition": "Une pathologie auto-immunitaire, une pathologie hématologique ou une anomalie de l’hémostase peuvent provoquer des thrombophlébites sur une veine saine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 241,
+    "Proposition": "La TVS entraine une hyperthermie locale, une rougeur et une douleur sur un trajet veineux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 242,
+    "Proposition": "La TVS a parfois un aspect « en battant de cloche » à la jonction entre la crosse de la saphène interne et de la veine fémorale superficielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 243,
+    "Proposition": "Les AVK sont parfois utilisés dans le traitement des TVS étendues pros de la jonction saphéno-fémorale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]

@@ -1,0 +1,1487 @@
+[
+  {
+    "Numero": 1,
+    "Proposition": "Les pathologies des troncs supra-aortiques incluent uniquement des lésions sténosantes des vaisseaux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 2,
+    "Proposition": "L'athérome est l'étiologie principale des lésions sténosantes des vaisseaux supra-aortiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 3,
+    "Proposition": "Les voies anastomotiques de suppléance comprennent entre autres le polygone de Willis.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 4,
+    "Proposition": "Les lésions carotidiennes sont uniquement d'origine athéroscléreuse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 5,
+    "Proposition": "La plupart des sténoses des carotides sont asymptomatiques et découvertes par échographie-Doppler.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 6,
+    "Proposition": "Les accidents vasculaires de 20h peuvent être considérés comme des AIT.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 7,
+    "Proposition": "Les AIT sont des accidents ischémiques qui durent moins de 12h.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 8,
+    "Proposition": "Les sténoses carotidiennes asymptomatiques sont parfois découvertes lors d'un bilan préopératoire de pontage coronaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 9,
+    "Proposition": "L’échographie-Doppler est un examen partiellement opérateur-dépendant.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 10,
+    "Proposition": "L’échographie-Doppler a une excellente sensibilité pour dépister une sténose de la carotide interne ≥70%.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 11,
+    "Proposition": "L'angiographie par résonance magnétique est l'examen de choix pour étudier les artères communicantes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 12,
+    "Proposition": "Le traitement endoluminal des sténoses carotidiennes est associé à un risque de lésion des nerfs crâniens.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 13,
+    "Proposition": "L'IRM peut détecter des signes d'hémorragie intra-plaque chez les patients atteints de sténose carotidienne.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 14,
+    "Proposition": "Les lésions sténosantes des vaisseaux supra-aortiques sont principalement causées par des tumeurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 15,
+    "Proposition": "Les voies anastomotiques de suppléance comprennent entre autres le confluent vertébrobasilaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 16,
+    "Proposition": "Les AIT sont des événements ischémiques transitoires qui durent moins de 24 heures.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 17,
+    "Proposition": "L’échographie-Doppler permet uniquement de visualiser la paroi vasculaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 18,
+    "Proposition": "L'angiographie conventionnelle est l’examen de 1er choix pour visualiser des sténoses carotidiennes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 19,
+    "Proposition": "La morbi-mortalité du traitement endoluminal des sténoses carotidiennes est supérieure à la chirurgie, surtout pour les patients jeunes et les patients asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 20,
+    "Proposition": "Les sténoses asymptomatiques des carotides sont souvent découvertes lors d'un bilan cardiovasculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 21,
+    "Proposition": "Les lésions carotidiennes sont la cause d'environ 50% des cas d'accidents vasculaires cérébraux.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 22,
+    "Proposition": "Les sténoses carotidiennes siègent principalement au niveau de la carotide primitive.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 23,
+    "Proposition": "L'angiographie par résonance magnétique a tendance à surestimer la sévérité des sténoses serrées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 24,
+    "Proposition": "Le traitement d’une sténose carotidienne asymptomatique est suggéré si l’espérance de vie est de 3 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 25,
+    "Proposition": "L'athérosclérose des artères vertébrales et/ou du tronc basilaire est de loin l’étiologie la plus fréquente des accidents ischémiques vertébrobasilaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 26,
+    "Proposition": "Un accident ischémique vertébrobasilaire peut être déclenché par une compression extrinsèque positionnelle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 27,
+    "Proposition": "Un mécanisme hémodynamique est rarement à l'origine d'un accident ischémique vertébrobasilaire.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 28,
+    "Proposition": "Les mouvements de tête peuvent diminuer le débit sanguin dans les artères vertébrales.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 29,
+    "Proposition": "Les accidents ischémiques vertébrobasilaires sont toujours causés par un mécanisme thromboembolique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 30,
+    "Proposition": "Les sténoses sous-clavières sont souvent symptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 31,
+    "Proposition": "Les sténoses sous-clavières sont souvent découvertes lors d'une prise de tension artérielle aux deux bras.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 32,
+    "Proposition": "La claudication intermittente du membre supérieur est un symptôme de sténose carotidienne.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 33,
+    "Proposition": "Les sténoses du tronc artériel brachio-céphalique sont toujours asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 34,
+    "Proposition": "Les sténoses du tronc artériel brachio-céphalique peuvent provoquer des accidents ischémiques transitoires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 35,
+    "Proposition": "Les dissections artérielles surviennent principalement après un traumatisme cervical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 36,
+    "Proposition": "Les dissections de la carotide interne provoquent des céphalées et des acouphènes pulsatiles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 37,
+    "Proposition": "L'échographie-Doppler est l'examen de choix en 1ère intention pour le diagnostic des dissections artérielles.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 38,
+    "Proposition": "L'imagerie par résonance magnétique cérébrale ne permet pas de visualiser l'hématome de paroi dans les dissections artérielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 39,
+    "Proposition": "L'angiographie conventionnelle est toujours nécessaire pour diagnostiquer les dissections artérielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 40,
+    "Proposition": "Les tumeurs du glomus carotidien se développent généralement dans l’intima du vaisseau.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 41,
+    "Proposition": "Les paragangliomes sont généralement des tumeurs malignes qui évoluent lentement.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 42,
+    "Proposition": "Les tumeurs du glomus carotidien peuvent être asymptomatiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 43,
+    "Proposition": "Les tumeurs du glomus carotidien se manifestent par une tuméfactation battante au niveau du cou.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 44,
+    "Proposition": "L'athérosclérose est la principale étiologie des accidents ischémiques vertébrobasilaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 45,
+    "Proposition": "Les dissections artérielles sont la 1ère cause d’ischémie cérébrale chez les patients de moins de 50 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 46,
+    "Proposition": "Les tumeurs du glomus carotidiens sont des tumeurs très vascularisées.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 47,
+    "Proposition": "Les paragangliomes surviennent généralement chez les personnes âgées de plus de 70 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 48,
+    "Proposition": "La majorité des dissections artérielles surviennent spontanément sans cause apparente.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 49,
+    "Proposition": "Les signes d'ischémie cérébrale secondaire se développent immédiatement après une dissection carotidienne.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 50,
+    "Proposition": "L'échographie-Doppler n'est pas fiable pour diagnostiquer les dissections artérielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 51,
+    "Proposition": "La radiothérapie peut induire des sténoses cicatricielles des troncs supra-aortiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 52,
+    "Proposition": "Les lésions sténosantes carotidiennes sont la cause d’environ 15% des AVC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 53,
+    "Proposition": "Les lésions carotidiennes siègent surtout au niveau de la bifurcation carotidienne ou du siphon carotidien.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 54,
+    "Proposition": "Les sténoses carotidiennes n’entrainent généralement pas de souffle à l’auscultation des vaisseaux du cou.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 55,
+    "Proposition": "Les ulcérations et les fragmentations de la plaque d’athérome sont à l’origine d’emboles fibrino-plaquettaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 56,
+    "Proposition": "Les déficits neurologiques focaux peuvent être provoqués par un épisode d’hypotension ou de bas débit cardiaque en cas de sténose peu serrée avec une suppléance vasculaire insuffisante.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 57,
+    "Proposition": "L’amaurose fugace, c’est-à-dire la perte transitoire de la vision, peut être la manifestation d’un AVC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 58,
+    "Proposition": "Un AVC peut se manifester par une hémiplégie à prédominance brachio-faciale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 59,
+    "Proposition": "Un AVC peut se manifester par une paraplégie des 2 membres inférieurs.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 60,
+    "Proposition": "Les AVC et les AIT peuvent se manifester par des troubles du langage.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 61,
+    "Proposition": "L’hémi-parésie ou l’hémiparesthésie sont situés du même côté que la lésion carotidienne à l’origine de l’AIT.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 62,
+    "Proposition": "La perte de vision transitoire est située du même côté que la lésion carotidienne à l’origine de l’AIT.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 63,
+    "Proposition": "L’hémianopsie, l’hémi-anesthésie et la monoplégie sont des symptômes d’AVC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 64,
+    "Proposition": "Un déficit neurologique aigu non latéralisé est compatible avec un accident ischémique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 65,
+    "Proposition": "L’épilepsie, la migraine et l’hyperglycémie font partie du diagnostic différentiel des AIT.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 66,
+    "Proposition": "L’hémorragie cérébrale, les tumeurs et l’encéphalite font partie du diagnostic différentiel des AVC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 67,
+    "Proposition": "L’AVC ischémique est causé par un embole d’origine cardiaque dans 50% des cas.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 68,
+    "Proposition": "L’AVC ischémique est causé par l’athérosclérose dans 15 à 20% des cas.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 69,
+    "Proposition": "La dissection artérielle est responsable de 20% des AVC chez les <50 ans.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 70,
+    "Proposition": "Les accidents vasculaires lacunaires correspondent l’obstruction d’un vaisseau de petit calibre.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 71,
+    "Proposition": "La dysplasie fibromusculaire est une cause rare d’AVC ischémique chez les hommes de 30-40 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 72,
+    "Proposition": "Les thrombophilies, la maladie de Horton et les vasculites cérébrales sont des causes rares d’AVC ischémique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 73,
+    "Proposition": "L’écho-Doppler est l’examen de 1er choix pour diagnostiquer les lésions carotidiennes sténosantes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 74,
+    "Proposition": "L’écho-Doppler est un examen efficace en cas de calcifications artérielles ou chez le sujet obèse.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 75,
+    "Proposition": "Une accélération du flux sanguin dans la carotide interne est le signe d’une sténose carotidienne.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 76,
+    "Proposition": "Le dépistage des sténoses carotidiennes est indiqué en cas d’AOMI ou d’anévrysme de l’aorte.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 77,
+    "Proposition": "L’écho-Doppler est réalisé après auscultation d’un souffle cervical ou après une chirurgie cardiaque pour rechercher une sténose carotidienne.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 78,
+    "Proposition": "L’angiographie par résonance magnétique est l’examen de référence pour les sténoses carotidiennes.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 79,
+    "Proposition": "L’angiographie conventionnelle permet une étude complète de la vascularisation par l’injection intraveineuse d’un produit de contraste iodé.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 80,
+    "Proposition": "L’angiographie conventionnelle peut entrainer des complications neurologiques par embolisation des plaques athéromateuses aortiques mobilisées par le cathéter.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 81,
+    "Proposition": "Le scanner cérébral sans contraste permet de détecter une rupture de la barrière hémato-méningée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 82,
+    "Proposition": "L’angiographie par résonance magnétique ne permet pas de visualiser le polygone de Willis.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 83,
+    "Proposition": "L’angiographie par résonance magnétique permet d’étudier le parenchyme cérébral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 84,
+    "Proposition": "L’écho-Doppler a tendance à surestimer la sévérité des sténoses serrées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 85,
+    "Proposition": "Le scanner cérébral sans contraste permet de visualiser les lésions ischémiques, hémorragiques et tumorales.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 86,
+    "Proposition": "L’angio-scanner permet de mesurer précisément le pourcentage des sténoses artérielles.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 87,
+    "Proposition": "Un contrôle strict des facteurs de risque et un traitement anti-agrégant plaquettaire par aspirine est nécessaire en cas de lésions sténosantes de la carotide.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 88,
+    "Proposition": "La thromboendartériectomie consiste à retirer la plaque d’athérome et l’intima par chirurgie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 89,
+    "Proposition": "Le traitement endoluminal des sténoses carotidiennes nécessitent une anesthésie générale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 90,
+    "Proposition": "Le traitement chirurgical des sténoses carotidiennes présente des complications : AVC/AIT, infarctus du myocarde, lésions de nerfs crâniens, hématome cervical compressif,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 91,
+    "Proposition": "Une bifurcation carotidienne haute est une contre-indication au traitement chirurgical des sténoses.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 92,
+    "Proposition": "Le traitement endoluminal des sténoses carotidiennes sera préféré en cas de récidive ou de sténose radique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 93,
+    "Proposition": "La morbi-mortalité du traitement endoluminal des sténoses carotidiennes est inférieure à la chirurgie.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 94,
+    "Proposition": "Le traitement est recommandé en cas de sténose de >50%, symptomatique (AVC/AIT dans les 6 mois précédents), avec une morbi-mortalité post-opératoire <6%.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 95,
+    "Proposition": "Le morbi-mortalité post-opératoire doit être <3% pour opérer une sténose carotidienne asymptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 96,
+    "Proposition": "Une sténose asymptomatique n’est opéré qu’en présence d’éléments cliniques ou d’imagerie suggérant un risque élevé d’AVC controlatéral.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 97,
+    "Proposition": "Les sténoses carotidiennes ne sont jamais opérées si elles sont <70%.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 98,
+    "Proposition": "Les sténoses carotidiennes bilatérales sont à risque plus élevé d’AVC.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 99,
+    "Proposition": "L’IRM permet de détecter les micro-emboles dans le tissu cérébral.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 100,
+    "Proposition": "Les sténoses carotidiennes avec baisse de la réserve vasculaire cérébrale sont à risque moins élevé d’AVC.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 101,
+    "Proposition": "L’IRM permet de détecter la rupture de la fine cape fibreuse recouvrant la plaque athéromateuse.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 102,
+    "Proposition": "L’écho-Doppler permet de détecter une plaque de surface irrégulière ou ulcérée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 103,
+    "Proposition": "Les ostéophytes/les tassements vertébraux peuvent être responsable d’accidents ischémiques carotidiens.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 104,
+    "Proposition": "La maladie de Takayasu est une cause rare d’AVC ischémique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 105,
+    "Proposition": "Un accident ischémique vertébrobasilaire symptomatique peut survenir suite à un mécanisme hémodynamique en cas de lésion unilatérale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 106,
+    "Proposition": "L’anémie, l’IC et les mouvements de la tête peuvent favoriser les accidents ischémiques vertébrobasilaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 107,
+    "Proposition": "Les accidents ischémiques vertébrobasilaires thromboemboliques sont toujours causés par un embole d’origine cardiaque.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 108,
+    "Proposition": "La plupart des cas d’insuffisance vertébrobasilaire sont asymptomatiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 109,
+    "Proposition": "Le scanner a peu d’intérêt pour détecter les lésions vertébrobasilaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 110,
+    "Proposition": "L’IRM permet de détecter les lésions ischémiques du tronc cérébral en cas d’insuffisance vertébrobasilaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 111,
+    "Proposition": "L’insuffisance vertébrobasilaire peut provoquer des troubles visuels aigus : amaurose unilatérale, diplopie, hémianopsie homolatérale homonyme,…",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 112,
+    "Proposition": "Le « drop-attack » est une perte soudaine de force dans les jambes entrainant une chute sans perte de connaissance typique des lésions de sténose carotidienne.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 113,
+    "Proposition": "L’insuffisance vertébrobasilaire peut provoquer une surdité uni- ou bilatérale soudaine.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 114,
+    "Proposition": "L’angio-IRM est un examen efficace pour détecter les lésions vertébrobasilaires.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 115,
+    "Proposition": "L’angiographie est indispensable au bilan préopératoire des lésions vertébrobasilaires.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 116,
+    "Proposition": "La plupart des cas de sténoses vertébrobasilaires bénéficient d’un traitement chirurgical.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 117,
+    "Proposition": "Les lésions des troncs supra-aortiques sont souvent situés à l’origine des artères sur la crosse aortique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 118,
+    "Proposition": "Les lésions carotidiennes sont toujours traitées avant les lésions vertébrobasilaires pour essayer d’améliorer les symptômes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 119,
+    "Proposition": "L’artère sous-clavière droite est la plus fréquemment touchée par les lésions des troncs supra-aortiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 120,
+    "Proposition": "Le tronc artériel brachio-céphalique est plus fréquemment touché que les carotides primitives.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 121,
+    "Proposition": "Une asymétrie de pulsatilité ou de PA doit faire suspecter une lésions des troncs supra-aortiques.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 122,
+    "Proposition": "Les lésions sous-clavières peuvent provoquer des lésions ischémiques distales d’origine embolique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 123,
+    "Proposition": "Le vol vertébral se produit en cas de sténose de la carotide en amont de l’origine de l’artère vertébrale.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 124,
+    "Proposition": "Les sténoses sous-clavières sont le plus souvent très symptomatiques avec une claudication intermittent du membre supérieur et des nécroses digitales.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 125,
+    "Proposition": "Le syndrome de vol sous-clavier est le plus souvent bien toléré.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 126,
+    "Proposition": "Le vol sous-clavier se manifeste par des symptômes d’insuffisance vertébrobasilaire provoqués par l’utilisation du bras.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 127,
+    "Proposition": "Le syndrome de vol sous-clavier est caractérisée par une inversion du flux dans l’artère vertébrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 128,
+    "Proposition": "Les sténoses des troncs supra-aortiques n’entrainent jamais de souffles artériels.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 129,
+    "Proposition": "Les examens complémentaires sont indiqués uniquement pour la sténose sous-clavière symptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 130,
+    "Proposition": "Les sténoses asymptomatiques des sous-clavières ne nécessitent pas de traitement",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 131,
+    "Proposition": "L’écho-Doppler permet d’objectiver le sens du flux sanguin en cas de vol vertébral.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 132,
+    "Proposition": "Les lésions du tronc brachio-céphalique entraine une insuffisance artérielle du membre supérieur gauche.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 133,
+    "Proposition": "Le traitement endoluminal est le traitement de choix pour les sténoses sous-clavières asymptomatiques.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 134,
+    "Proposition": "Des greffes veineuses carotido-sous-clavières sont utilisées pour traiter les sténoses sous-clavières.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 135,
+    "Proposition": "Les lésions du tronc brachio-céphalique peuvent provoquer des AVC dans le territoire vertébrobasilaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 136,
+    "Proposition": "Les lésions du tronc brachio-céphalique peuvent provoquer des AVC dans le territoire carotidien.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 137,
+    "Proposition": "Le traitement endovasculaire des lésions du tronc artériel brachio-céphalique présente des risques d’emboles cérébraux.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 138,
+    "Proposition": "Les dissections artérielles surviennent rarement spontanément.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 139,
+    "Proposition": "La dissection de la carotide interne entraine des AIT/AVC dans le territoire de la cérébrale antérieure.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 140,
+    "Proposition": "La déchirure de la paroi artérielle survient toujours entre la média et l’intima.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 141,
+    "Proposition": "Les dissections artérielles sont favorisés par la dysplasie fibromusculaire et le syndrome de Marfan.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 142,
+    "Proposition": "L’hématome sous-intimal provoque une augmentation du diamètre de l’artère disséquée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 143,
+    "Proposition": "La dissection artérielle peut évoluer vers un pseudo-anévrysme.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 144,
+    "Proposition": "L’hématome sous-adventitiel peut entrainer une sténose de l’artère disséquée.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 145,
+    "Proposition": "L’ischémie cérébrale secondaire survient quelques heures à 1 mois après une dissection carotidienne.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 146,
+    "Proposition": "La dissection artérielle peut entrainer des douleurs par compression des structures avoisinantes.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 147,
+    "Proposition": "La dissection de l’artère vertébrale peut provoquer une atteinte des nerfs crâniens.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 148,
+    "Proposition": "La dissection intracrânienne de l’artère vertébrale peut provoquer une hémorragie méningée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 149,
+    "Proposition": "L’angiographie par résonance magnétique ne permet pas de visualiser une artère disséquée.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 150,
+    "Proposition": "L’écho-Doppler montre une occlusion “en flamme de bougie” en cas de dissection artérielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 151,
+    "Proposition": "L’angiographie conventionnelle montre une sténose longue et irrégulière en cas de dissection artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 152,
+    "Proposition": "L’angiographie conventionnelle permet de diagnostiquer une dysplasie fibro-musculaire.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 153,
+    "Proposition": "L’écho-Doppler est l’examen de référence en cas de dissection artérielle.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 154,
+    "Proposition": "L’écho-Doppler permet de voir un décollement intimal, une double lumière et un hématome de paroi en cas de dissection artérielle.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 155,
+    "Proposition": "Un traitement antiplaquettaire est suffisant en cas de dissection artérielle sans signes d’ischémie cérébrale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 156,
+    "Proposition": "L’AVC secondaire à une dissection artérielle doit être traité par thrombolytique ou thrombectomie.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 157,
+    "Proposition": "Les tumeurs du glomus carotidien touche préférentiellement les femmes entre 40 et 60 ans.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 158,
+    "Proposition": "Les symptômes des tumeurs du glomus carotidien sont liés à une compression locale ou à l’atteinte d’un nerf : douleurs cervicales ou dans l’oreille, raucité de la voix, dysphagie,…",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 159,
+    "Proposition": "L’imagerie permet de détecter les tumeurs du glomus carotidien comme des lésions hypoperfusées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 160,
+    "Proposition": "Les tumeurs du glomus carotidien sont traités par exérèse chirurgicale.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 161,
+    "Proposition": "L’angio-IRM, l’écho-Doppler ou l’artériographie détecte un « blush tumoral » en cas de paragangliome.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 162,
+    "Proposition": "La morbi-mortalité doit être inférieure à 6% pour opérer une sténose carotidienne asymptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 163,
+    "Proposition": "Les sténoses carotidiennes doivent être supérieures à 80% pour être opérées.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 164,
+    "Proposition": "L’espérance de vie du patient doit être >5 ans pour opérer une sténose carotidienne asymptomatique.",
+    "Reponse": true,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  },
+  {
+    "Numero": 165,
+    "Proposition": "La morbi-mortalité doit être inférieure à 3% pour opérer une sténose carotidienne symptomatique.",
+    "Reponse": false,
+    "Justification": "",
+    "Reference": "",
+    "Question": "",
+    "image": "media/.png"
+  }
+]
