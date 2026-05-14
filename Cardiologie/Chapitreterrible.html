@@ -3,50 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabasser la Cardio - Mobile Friendly</title>
+    <title>Tabasser la Cardio - Mode Aléatoire</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
     <style>
         body { background-color: #953553; color: white; font-family: sans-serif; }
-        .quiz-card { background-color: #6c757d; border-radius: 15px; padding: 20px; margin-bottom: 20px; }
-        
-        /* Conteneur PDF spécial Mobile */
-        #pdf-wrapper { 
-            background: #444; 
-            border-radius: 10px; 
-            overflow: hidden; 
-            position: relative;
-            min-height: 400px;
-            display: none;
-        }
+        .quiz-card { background-color: #6c757d; border-radius: 15px; padding: 20px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        #pdf-wrapper { background: #444; border-radius: 10px; overflow: hidden; position: relative; min-height: 500px; display: none; }
         canvas { width: 100% !important; height: auto !important; }
-        .hidden { display: none !important; }
-        .btn-group-custom { display: flex; gap: 10px; justify-content: center; margin-top: 20px; }
-        #justif-container { background: rgba(0,0,0,0.3); padding: 15px; border-radius: 10px; margin-top: 15px; display: none; }
+        .btn-group-custom { display: flex; gap: 8px; justify-content: center; margin-top: 15px; flex-wrap: wrap; }
+        #justif-container { background: rgba(0,0,0,0.4); padding: 15px; border-radius: 10px; margin-top: 15px; display: none; border-left: 5px solid #2ecc71; }
+        .badge-numero { font-size: 1.1rem; background: #2c3e50; }
     </style>
 </head>
 <body>
 
 <div class="container py-3">
     <div class="text-center mb-3">
-        <video id="headerVideo" controls width="100%" style="max-width: 300px; border-radius: 10px;">
+        <video controls width="100%" style="max-width: 250px; border-radius: 10px;">
             <source src="media/Criminel.mp4" type="video/mp4">
         </video>
     </div>
 
     <div class="row">
         <div class="col-lg-5">
-            <div class="quiz-card shadow">
-                <div id="quiz-header" class="d-flex justify-content-between align-items-center mb-3">
-                    <span id="question-number" class="badge bg-dark">Question --</span>
-                    <button class="btn btn-sm btn-light" id="btn-menu">Menu</button>
+            <div class="quiz-card">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <span id="question-number" class="badge badge-numero">Question --</span>
+                    <button class="btn btn-sm btn-light" id="btn-menu">☰ Liste</button>
                 </div>
 
                 <div id="quiz-content" class="text-center">
-                    <h3 id="proposition-text" class="mb-4">Chargement...</h3>
+                    <h3 id="proposition-text" class="mb-4" style="min-height: 100px;">Chargement du syllabus...</h3>
                     <div class="btn-group-custom">
-                        <button class="btn btn-success btn-lg px-5" onclick="handleResponse(true)">VRAI</button>
-                        <button class="btn btn-danger btn-lg px-5" onclick="handleResponse(false)">FAUX</button>
+                        <button class="btn btn-success btn-lg px-4" onclick="handleResponse(true)">VRAI</button>
+                        <button class="btn btn-danger btn-lg px-4" onclick="handleResponse(false)">FAUX</button>
                     </div>
                 </div>
 
@@ -54,15 +45,16 @@
                 <div id="justif-container"></div>
 
                 <div class="btn-group-custom mt-4">
-                    <button class="btn btn-outline-light btn-sm" id="prev-btn">Précédent</button>
-                    <button class="btn btn-outline-light btn-sm" id="next-btn">Suivant</button>
+                    <button class="btn btn-outline-light btn-sm" id="prev-btn">⬅️ Préc.</button>
+                    <button class="btn btn-warning btn-sm fw-bold" id="random-btn">🎲 Aléatoire</button>
+                    <button class="btn btn-outline-light btn-sm" id="next-btn">Suiv. ➡️</button>
                 </div>
             </div>
         </div>
 
         <div class="col-lg-7">
-            <div id="pdf-placeholder" class="text-center p-5 border rounded" style="background: rgba(0,0,0,0.1);">
-                <p>La preuve apparaîtra ici après ta réponse.</p>
+            <div id="pdf-placeholder" class="text-center p-5 border rounded" style="background: rgba(255,255,255,0.05); border-style: dashed !important;">
+                <p>Réponds pour afficher la page correspondante du PDF.</p>
             </div>
             <div id="pdf-wrapper">
                 <canvas id="pdf-canvas"></canvas>
@@ -82,7 +74,6 @@
 
 <script src="js/bootstrap.bundle.min.js"></script>
 <script>
-    // Config PDF.js
     pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';
 
     let quizData = [];
@@ -90,7 +81,6 @@
     let pdfDoc = null;
     const pdfPath = 'pdf/Syllab cardio_4.pdf';
 
-    // Elements
     const propEl = document.getElementById('proposition-text');
     const qNumEl = document.getElementById('question-number');
     const feedbackEl = document.getElementById('feedback');
@@ -98,40 +88,21 @@
     const pdfWrapper = document.getElementById('pdf-wrapper');
     const pdfPlaceholder = document.getElementById('pdf-placeholder');
 
-    // 1. Charger PDF et JSON en parallèle
+    // Chargement initial
     Promise.all([
         fetch('Excel/cardio_4.json').then(r => r.json()),
         pdfjsLib.getDocument(pdfPath).promise
     ]).then(([data, pdf]) => {
         quizData = data;
         pdfDoc = pdf;
-        initQuiz();
-    }).catch(err => alert("Erreur de chargement. Vérifie tes fichiers !"));
-
-    function initQuiz() {
         showQuestion(0);
-        
-        // Menu Modal logic
-        const menuModal = new bootstrap.Modal(document.getElementById('menuModal'));
-        document.getElementById('btn-menu').onclick = () => {
-            const list = document.getElementById('menu-list');
-            list.innerHTML = '';
-            quizData.forEach((q, i) => {
-                let b = document.createElement('button');
-                b.className = 'btn btn-outline-primary w-100 mb-1';
-                b.textContent = `Q${q.Numero}`;
-                b.onclick = () => { currentIdx = i; showQuestion(i); menuModal.hide(); };
-                list.appendChild(b);
-            });
-            menuModal.show();
-        };
-    }
+        initMenu();
+    }).catch(err => propEl.textContent = "Erreur : Fichiers manquants.");
 
     function showQuestion(idx) {
         currentIdx = idx;
         const q = quizData[idx];
         
-        // Reset UI
         propEl.textContent = q.Proposition;
         qNumEl.textContent = `Question ${q.Numero}`;
         feedbackEl.innerHTML = '';
@@ -139,21 +110,19 @@
         pdfWrapper.style.display = 'none';
         pdfPlaceholder.style.display = 'block';
         
-        window.scrollTo(0, 0); // Remonte en haut sur mobile
+        window.scrollTo(0, 0);
     }
 
     async function handleResponse(choice) {
         const q = quizData[currentIdx];
         const isCorrect = choice === q.Reponse;
         
-        // Feedback
         new Audio(isCorrect ? 'media/sound/Correct.mp3' : 'media/sound/Wrong.mp3').play();
-        feedbackEl.innerHTML = `<h2 style="color:${isCorrect?'#2ecc71':'#e74c3c'}">${isCorrect?'BRAVO !':'OUPS...'}</h2>`;
+        feedbackEl.innerHTML = `<h2 style="color:${isCorrect?'#2ecc71':'#e74c3c'}">${isCorrect?'CORRECT !':'ERREUR'}</h2>`;
         
         justifEl.innerHTML = `<strong>Justification :</strong> ${q.Justification}`;
         justifEl.style.display = 'block';
 
-        // Afficher PDF
         if (q.Page) {
             pdfPlaceholder.style.display = 'none';
             pdfWrapper.style.display = 'block';
@@ -165,18 +134,41 @@
         const page = await pdfDoc.getPage(num);
         const canvas = document.getElementById('pdf-canvas');
         const context = canvas.getContext('2d');
-        
         const viewport = page.getViewport({ scale: 1.5 });
         canvas.height = viewport.height;
         canvas.width = viewport.width;
-
         await page.render({ canvasContext: context, viewport: viewport }).promise;
     }
 
+    // FONCTION ALÉATOIRE
+    function nextRandom() {
+        let newIdx;
+        do {
+            newIdx = Math.floor(Math.random() * quizData.length);
+        } while (newIdx === currentIdx && quizData.length > 1);
+        showQuestion(newIdx);
+    }
+
     // Navigation
+    document.getElementById('random-btn').onclick = nextRandom;
     document.getElementById('next-btn').onclick = () => { if(currentIdx < quizData.length-1) showQuestion(currentIdx+1); };
     document.getElementById('prev-btn').onclick = () => { if(currentIdx > 0) showQuestion(currentIdx-1); };
 
+    function initMenu() {
+        const menuModal = new bootstrap.Modal(document.getElementById('menuModal'));
+        document.getElementById('btn-menu').onclick = () => {
+            const list = document.getElementById('menu-list');
+            list.innerHTML = '';
+            quizData.forEach((q, i) => {
+                let b = document.createElement('button');
+                b.className = 'btn btn-outline-secondary w-100 mb-1 text-start';
+                b.textContent = `Q${q.Numero}: ${q.Proposition.substring(0, 30)}...`;
+                b.onclick = () => { showQuestion(i); menuModal.hide(); };
+                list.appendChild(b);
+            });
+            menuModal.show();
+        };
+    }
 </script>
 </body>
 </html>
