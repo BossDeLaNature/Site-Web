@@ -1,178 +1,182 @@
 <!DOCTYPE html>
-<html lang="fr" dir="ltr">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Objectif : Tabasser Cardiologie</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabasser la Cardio - Mobile Friendly</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
     <style>
-        body { background-color: #953553; color: white; }
-        .space { height: 20px; }
-        #pdf-viewer {
-            border: none;
-            border-radius: 10px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-            background-color: white;
+        body { background-color: #953553; color: white; font-family: sans-serif; }
+        .quiz-card { background-color: #6c757d; border-radius: 15px; padding: 20px; margin-bottom: 20px; }
+        
+        /* Conteneur PDF spécial Mobile */
+        #pdf-wrapper { 
+            background: #444; 
+            border-radius: 10px; 
+            overflow: hidden; 
+            position: relative;
+            min-height: 400px;
+            display: none;
         }
-        .quiz-card {
-            background-color: #6c757d !important;
-            min-height: 600px;
-        }
-        button { margin: 5px; }
+        canvas { width: 100% !important; height: auto !important; }
+        .hidden { display: none !important; }
+        .btn-group-custom { display: flex; gap: 10px; justify-content: center; margin-top: 20px; }
+        #justif-container { background: rgba(0,0,0,0.3); padding: 15px; border-radius: 10px; margin-top: 15px; display: none; }
     </style>
 </head>
 <body>
 
-    <div class="container space"></div>
-
-    <div class="container text-center mb-4">
-        <div class="row justify-content-center">
-            <video controls width="400">
-                <source src="media/Criminel.mp4" type="video/mp4" />
-            </video>
-        </div>
+<div class="container py-3">
+    <div class="text-center mb-3">
+        <video id="headerVideo" controls width="100%" style="max-width: 300px; border-radius: 10px;">
+            <source src="media/Criminel.mp4" type="video/mp4">
+        </video>
     </div>
 
-    <div class="container">
-        <div class="dropdown mb-3">
-            <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown">
-                Choix des questions
-            </button>
-            <div class="dropdown-menu" id="menu-container"></div>
-        </div>
+    <div class="row">
+        <div class="col-lg-5">
+            <div class="quiz-card shadow">
+                <div id="quiz-header" class="d-flex justify-content-between align-items-center mb-3">
+                    <span id="question-number" class="badge bg-dark">Question --</span>
+                    <button class="btn btn-sm btn-light" id="btn-menu">Menu</button>
+                </div>
 
-        <div class="row">
-            <div class="col-md-5">
-                <div class="container p-4 mb-2 quiz-card rounded">
-                    <img id="quizImage" src="" alt="" class="img-fluid mb-4 rounded shadow" style="max-height: 200px;">
-
-                    <div id="quiz-container">
-                        </div>
-
-                    <hr>
-                    <div id="reponse-container"></div>
-                    <div id="justif-container" class="mt-3 p-2 bg-dark rounded" style="display:none;"></div>
-
-                    <div class="mt-4">
-                        <button id="previous-question" class="btn btn-outline-light">Précédente</button>
-                        <button id="next-question" class="btn btn-outline-light">Suivante</button>
+                <div id="quiz-content" class="text-center">
+                    <h3 id="proposition-text" class="mb-4">Chargement...</h3>
+                    <div class="btn-group-custom">
+                        <button class="btn btn-success btn-lg px-5" onclick="handleResponse(true)">VRAI</button>
+                        <button class="btn btn-danger btn-lg px-5" onclick="handleResponse(false)">FAUX</button>
                     </div>
                 </div>
-            </div>
 
-            <div class="col-md-7">
-                <div id="pdf-placeholder" class="text-center p-5 border rounded" style="background: rgba(0,0,0,0.2);">
-                    <h4>Réponds pour voir la preuve dans le syllabus</h4>
-                </div>
-                <div id="pdf-container" style="display: none; height: 800px;">
-                    <iframe id="pdf-viewer" src="" width="100%" height="100%"></iframe>
+                <div id="feedback" class="text-center mt-3"></div>
+                <div id="justif-container"></div>
+
+                <div class="btn-group-custom mt-4">
+                    <button class="btn btn-outline-light btn-sm" id="prev-btn">Précédent</button>
+                    <button class="btn btn-outline-light btn-sm" id="next-btn">Suivant</button>
                 </div>
             </div>
         </div>
+
+        <div class="col-lg-7">
+            <div id="pdf-placeholder" class="text-center p-5 border rounded" style="background: rgba(0,0,0,0.1);">
+                <p>La preuve apparaîtra ici après ta réponse.</p>
+            </div>
+            <div id="pdf-wrapper">
+                <canvas id="pdf-canvas"></canvas>
+            </div>
+        </div>
     </div>
+</div>
 
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script>
-        let quizData = [];
-        let currentQuestionIndex = 0;
+<div class="modal fade" id="menuModal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content text-dark">
+            <div class="modal-header"><h5>Choisir une question</h5><button type="button" class="btn-close" data-bs-dismiss="modal"></button></div>
+            <div class="modal-body" id="menu-list"></div>
+        </div>
+    </div>
+</div>
 
-        const quizImage = document.getElementById("quizImage");
-        const pdfContainer = document.getElementById("pdf-container");
-        const pdfPlaceholder = document.getElementById("pdf-placeholder");
-        const pdfViewer = document.getElementById("pdf-viewer");
-        const justifContainer = document.getElementById("justif-container");
-        const reponseContainer = document.getElementById("reponse-container");
+<script src="js/bootstrap.bundle.min.js"></script>
+<script>
+    // Config PDF.js
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';
 
-        // 1. Charger le JSON
-        fetch('Excel/cardio_4.json')
-            .then(response => response.json())
-            .then(data => {
-                quizData = data;
-                showQuestion(currentQuestionIndex);
-            })
-            .catch(error => console.error('Erreur chargement JSON:', error));
+    let quizData = [];
+    let currentIdx = 0;
+    let pdfDoc = null;
+    const pdfPath = 'pdf/Syllab cardio_4.pdf';
 
-        // 2. Afficher la question
-        function showQuestion(index) {
-            resetDisplay();
-            const q = quizData[index];
+    // Elements
+    const propEl = document.getElementById('proposition-text');
+    const qNumEl = document.getElementById('question-number');
+    const feedbackEl = document.getElementById('feedback');
+    const justifEl = document.getElementById('justif-container');
+    const pdfWrapper = document.getElementById('pdf-wrapper');
+    const pdfPlaceholder = document.getElementById('pdf-placeholder');
 
-            // Image de la question (si elle existe)
-            quizImage.src = q.image || "";
+    // 1. Charger PDF et JSON en parallèle
+    Promise.all([
+        fetch('Excel/cardio_4.json').then(r => r.json()),
+        pdfjsLib.getDocument(pdfPath).promise
+    ]).then(([data, pdf]) => {
+        quizData = data;
+        pdfDoc = pdf;
+        initQuiz();
+    }).catch(err => alert("Erreur de chargement. Vérifie tes fichiers !"));
 
-            const quizContainer = document.getElementById('quiz-container');
-            quizContainer.innerHTML = `
-                <h5>Question ${q.Numero}</h5>
-                <h2 class="mb-4">${q.Proposition}</h2>
-                <button class="btn btn-success btn-lg" onclick="checkAnswer(true)">Vrai</button>
-                <button class="btn btn-danger btn-lg" onclick="checkAnswer(false)">Faux</button>
-            `;
-        }
-
-        // 3. Vérifier la réponse
-        function checkAnswer(selected) {
-            const q = quizData[currentQuestionIndex];
-            reponseContainer.innerHTML = '';
-
-            // Son et Message
-            if (selected === q.Reponse) {
-                new Audio('media/sound/Correct.mp3').play();
-                reponseContainer.innerHTML = '<h3 class="text-success">Correct :)</h3>';
-            } else {
-                new Audio('media/sound/Wrong.mp3').play();
-                reponseContainer.innerHTML = '<h3 class="text-warning">Dommage :(</h3>';
-            }
-
-            // Afficher Justification
-            justifContainer.style.display = 'block';
-            justifContainer.innerHTML = `<strong>Justification :</strong> ${q.Justification}`;
-
-            // Afficher le PDF à la bonne page
-            if (q.Page) {
-                pdfPlaceholder.style.display = 'none';
-                pdfContainer.style.display = 'block';
-                pdfViewer.src = `pdf/Syllab cardio_4.pdf#page=${q.Page}`;
-            }
-        }
-
-        // 4. Nettoyer l'écran entre deux questions
-        function resetDisplay() {
-            reponseContainer.innerHTML = '';
-            justifContainer.style.display = 'none';
-            pdfContainer.style.display = 'none';
-            pdfPlaceholder.style.display = 'block';
-            pdfViewer.src = '';
-        }
-
-        // 5. Navigation
-        document.getElementById('next-question').addEventListener('click', () => {
-            if (currentQuestionIndex + 1 < quizData.length) {
-                currentQuestionIndex++;
-                showQuestion(currentQuestionIndex);
-            }
-        });
-
-        document.getElementById('previous-question').addEventListener('click', () => {
-            if (currentQuestionIndex > 0) {
-                currentQuestionIndex--;
-                showQuestion(currentQuestionIndex);
-            }
-        });
-
-        // 6. Menu déroulant
-        function Menuderoulant() {
-            const container = document.getElementById('menu-container');
-            container.innerHTML = '';
-            quizData.forEach((q, idx) => {
-                const btn = document.createElement('button');
-                btn.className = 'dropdown-item';
-                btn.textContent = `Question ${q.Numero}`;
-                btn.onclick = () => { currentQuestionIndex = idx; showQuestion(idx); };
-                container.appendChild(btn);
+    function initQuiz() {
+        showQuestion(0);
+        
+        // Menu Modal logic
+        const menuModal = new bootstrap.Modal(document.getElementById('menuModal'));
+        document.getElementById('btn-menu').onclick = () => {
+            const list = document.getElementById('menu-list');
+            list.innerHTML = '';
+            quizData.forEach((q, i) => {
+                let b = document.createElement('button');
+                b.className = 'btn btn-outline-primary w-100 mb-1';
+                b.textContent = `Q${q.Numero}`;
+                b.onclick = () => { currentIdx = i; showQuestion(i); menuModal.hide(); };
+                list.appendChild(b);
             });
-        }
+            menuModal.show();
+        };
+    }
 
-        document.getElementById("dropdownMenuButton").addEventListener('click', Menuderoulant);
-    </script>
+    function showQuestion(idx) {
+        currentIdx = idx;
+        const q = quizData[idx];
+        
+        // Reset UI
+        propEl.textContent = q.Proposition;
+        qNumEl.textContent = `Question ${q.Numero}`;
+        feedbackEl.innerHTML = '';
+        justifEl.style.display = 'none';
+        pdfWrapper.style.display = 'none';
+        pdfPlaceholder.style.display = 'block';
+        
+        window.scrollTo(0, 0); // Remonte en haut sur mobile
+    }
+
+    async function handleResponse(choice) {
+        const q = quizData[currentIdx];
+        const isCorrect = choice === q.Reponse;
+        
+        // Feedback
+        new Audio(isCorrect ? 'media/sound/Correct.mp3' : 'media/sound/Wrong.mp3').play();
+        feedbackEl.innerHTML = `<h2 style="color:${isCorrect?'#2ecc71':'#e74c3c'}">${isCorrect?'BRAVO !':'OUPS...'}</h2>`;
+        
+        justifEl.innerHTML = `<strong>Justification :</strong> ${q.Justification}`;
+        justifEl.style.display = 'block';
+
+        // Afficher PDF
+        if (q.Page) {
+            pdfPlaceholder.style.display = 'none';
+            pdfWrapper.style.display = 'block';
+            renderPDFPage(parseInt(q.Page));
+        }
+    }
+
+    async function renderPDFPage(num) {
+        const page = await pdfDoc.getPage(num);
+        const canvas = document.getElementById('pdf-canvas');
+        const context = canvas.getContext('2d');
+        
+        const viewport = page.getViewport({ scale: 1.5 });
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        await page.render({ canvasContext: context, viewport: viewport }).promise;
+    }
+
+    // Navigation
+    document.getElementById('next-btn').onclick = () => { if(currentIdx < quizData.length-1) showQuestion(currentIdx+1); };
+    document.getElementById('prev-btn').onclick = () => { if(currentIdx > 0) showQuestion(currentIdx-1); };
+
+</script>
 </body>
 </html>
