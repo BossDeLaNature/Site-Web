@@ -10,6 +10,12 @@ from json import loads, dumps
 import json
 # Charger le fichier Excel
 
+import os
+import sys
+
+# --- CONFIGURATION DU DOSSIER ---
+# Force Python à travailler dans le dossier du script
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 Cardio = "cardio_"
 
 
