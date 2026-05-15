@@ -4,6 +4,7 @@
     "Proposition": "L'angor stable est défini comme la survenue imprévisible d’une sensation d’oppression thoracique ou d’étouffement lors d’effort physiques ou d’émotions.",
     "Reponse": false,
     "Justification": "survenue prévisible",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -13,6 +14,7 @@
     "Proposition": "L’angor stable peut se manifester par des éructations, des nausées ou de la fatigue.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -22,6 +24,7 @@
     "Proposition": "On parle d’angor chronique stable quand les symptôme sont stables depuis au moins 1 an.",
     "Reponse": false,
     "Justification": "3-6 mois",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -31,6 +34,7 @@
     "Proposition": "Les symptômes de l’angor chronique stable cèdent après 10 à 15 minutes de repos.",
     "Reponse": false,
     "Justification": "moins de 5 min au repos",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -40,6 +44,7 @@
     "Proposition": "Les dérivés nitrés sublinguaux aident à faire passer les symptômes de l’angor car le NO est un vasodilatateur.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -49,6 +54,7 @@
     "Proposition": "L'athérosclérose coronaire sévère est une cause fréquente d'angine de poitrine chronique stable.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -58,6 +64,7 @@
     "Proposition": "Les symptômes de l’angor stable sont provoqués par un rétrécissement d’au moins 75% du diamètre d’une artère coronaire endocardique.",
     "Reponse": false,
     "Justification": "épicardique",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -67,6 +74,7 @@
     "Proposition": "L’angine de poitrine est induite par un apport insuffisant d’oxygène lors de périodes de demande accrue.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -76,6 +84,7 @@
     "Proposition": "Les forces de cisaillement du flux sanguin induisent la libération de NO par les cellules endothéliales.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -85,6 +94,7 @@
     "Proposition": "Le débit coronaire peut augmenter jusqu'à 4 fois pendant l'effort physique.",
     "Reponse": false,
     "Justification": "5 à 8 fois",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -94,6 +104,7 @@
     "Proposition": "L'angor stable est souvent induit par une athérosclérose coronaire légère.",
     "Reponse": false,
     "Justification": "sévere",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -103,6 +114,7 @@
     "Proposition": "Les symptômes de l’angor stable surviennent toujours dans les mêmes circonstances.",
     "Reponse": true,
     "Justification": "oui psk la survenue est prévisible",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -112,6 +124,7 @@
     "Proposition": "Le débit coronaire peut être augmenté par la libération d’adénosine et de NO afin de dilater les coronaires.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -121,6 +134,7 @@
     "Proposition": "Les épisodes d'ischémie myocardique sont rarement asymptomatiques.",
     "Reponse": false,
     "Justification": "sont souvent asymptomatique",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -130,6 +144,7 @@
     "Proposition": "L’adénosine est produite à partir de la dégradation d’ATP et sert à diminuer les résistances coronaires quand la consommation d’énergie augmente.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -139,6 +154,7 @@
     "Proposition": "L’ischémie myocardique survient préférentiellement après le repas en début d’après-midi.",
     "Reponse": false,
     "Justification": "Nan c le matin",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -148,6 +164,7 @@
     "Proposition": "L’angor est favorisé par une dysfonction endothéliale coronaire provoquée par l’athérosclérose.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -157,6 +174,7 @@
     "Proposition": "Une ischémie myocardique peut survenir en présence d’artères coronaires épicardiques normales.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -166,6 +184,7 @@
     "Proposition": "L’hyperviscosité sanguine et l’anémie sévère peuvent causer une angine de poitrine.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -175,6 +194,7 @@
     "Proposition": "L’hypothyroïdie augmente les besoins en oxygène du myocarde et peut provoquer un angor d’effort.",
     "Reponse": false,
     "Justification": "non c'est l'hyperthyroïdie",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -184,6 +204,7 @@
     "Proposition": "Un cœur hypertrophié est plus sujet à l’angine de poitrine.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -193,6 +214,7 @@
     "Proposition": "Les épisodes d’ischémie myocardique asymptomatiques surviennent surtout entre 6 et 10h du matin.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -202,6 +224,7 @@
     "Proposition": "Le froid peut déclencher les symptômes de l’angor chronique stable.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -211,6 +234,7 @@
     "Proposition": "Les examens complémentaires sont indispensables au diagnostic de l’angor stable.",
     "Reponse": false,
     "Justification": "se base principalement sur le clinique",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -220,6 +244,7 @@
     "Proposition": "Les douleurs thoraciques de l'angor stable sont généralement rétro-sternales et irradiées vers le bras gauche.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -229,6 +254,7 @@
     "Proposition": "L'angor stable de classe IV survient au repos.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -238,6 +264,7 @@
     "Proposition": "L'examen clinique est souvent suffisant pour exclure les causes secondaires d'angor.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -247,6 +274,7 @@
     "Proposition": "L’oxygénation du myocarde se fait principalement en systole.",
     "Reponse": false,
     "Justification": "en diastole",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -256,6 +284,7 @@
     "Proposition": "La pression intra-myocardique épicardique est généralement plus élevée que la pression sous-endocardique.",
     "Reponse": false,
     "Justification": "c'est l'inverse",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -265,6 +294,7 @@
     "Proposition": "Le flux sanguin épicardique est plus élevée que le flux sanguin endocardique pendant la systole.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -274,6 +304,7 @@
     "Proposition": "Une pression diastolique augmentée s’oppose à la perfusion sous-endocardique.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -283,6 +314,7 @@
     "Proposition": "L’ischémie myocardique prédomine dans la région sous-endocardique, ce qui se traduit par un sus-décalage horizontal >1mm du segment ST à l’ECG.",
     "Reponse": false,
     "Justification": "par un sous-décalage",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -292,6 +324,7 @@
     "Proposition": "L’ECG au repos est anormal chez la majorité des patients atteints d’angine de poitrine chronique stable.",
     "Reponse": false,
     "Justification": "normal chez la majorité des patients",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -301,6 +334,7 @@
     "Proposition": "L'ECG à l'effort est toujours réalisé pour le diagnostic d'angor instable.",
     "Reponse": false,
     "Justification": "contre indiqué si angor instable ou infarctus myocardique",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -310,6 +344,7 @@
     "Proposition": "L’échographie cardiaque est utilisée pour rechercher une altération de la fonction ventriculaire si l’ECG de repos est normal.",
     "Reponse": false,
     "Justification": "si l'ECG au repos est anormale",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -319,6 +354,7 @@
     "Proposition": "L’ECG à l’effort montre un sous-décalage horizontal ou descendant >1mm du segment ST en cas d’angor.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -328,6 +364,7 @@
     "Proposition": "La scintigraphie myocardique utilise des traceurs de perfusion pour évaluer le flux sanguin myocardique.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -337,6 +374,7 @@
     "Proposition": "La scintigraphie myocardique est réalisée au repos.",
     "Reponse": false,
     "Justification": "à l'effort maximal",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -346,6 +384,7 @@
     "Proposition": "La dobutamine est un bêta-bloquant utilisé pour simuler un exercice physique pendant les examens du cœur.",
     "Reponse": false,
     "Justification": "C'est un beta mimétique",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -355,6 +394,7 @@
     "Proposition": "L’angor de classe I survient pour des efforts habituels.",
     "Reponse": false,
     "Justification": "efforts inhabituels",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -364,6 +404,7 @@
     "Proposition": "Le dipyridamole ou la dobutamine sont utilisés pour réaliser un CT-coronaire chez les patients qui ne peuvent pas réaliser un effort à cause d’une artérite des membres inférieurs ou d’un problème orthopédique.",
     "Reponse": false,
     "Justification": "c'est pour la scintigraphie myocardique",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -373,6 +414,7 @@
     "Proposition": "Le dipyridamole IV empêche la dégradation de l’adénosine endogène pour vasodilater les artères coronaires normales et induire un phénomène de vol coronaire dans les régions ischémiques. L’asymétrie de perfusion est le signe d’une sténose coronaire.",
     "Reponse": true,
     "Justification": "",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -382,6 +424,7 @@
     "Proposition": "Le CT-coronaire nécessite l’administration d’un produit de contraste iodé dans une artère du bras.",
     "Reponse": false,
     "Justification": "juste intraveineuse",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -391,6 +434,7 @@
     "Proposition": "Le CT-coronaire a une excellente valeur prédictive positive donc on peut exclure la sténose si il est normal.",
     "Reponse": false,
     "Justification": "excellent valeur prédictive négative",
+    "Page": "",
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -399,7 +443,8 @@
     "Numero": 45,
     "Proposition": "L’irradiation engendrée par une coronarographie est plus élevée que pour un CT-coronaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'irradiation du CT-coronaire est effectivement inférieure à celle de la coronarographie ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -408,7 +453,8 @@
     "Numero": 46,
     "Proposition": "Le CT-coronaire permet d’évaluer la perméabilité des stents métalliques.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le document mentionne au contraire une difficulté à évaluer la perméabilité des stents ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -417,7 +463,8 @@
     "Numero": 47,
     "Proposition": "Le CT-coronaire nécessite que le patient soit à jeun, avec un rythme cardiaque pas trop rapide ou irrégulier et qu’il sache effectuer une apnée volontaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "C'est la description exacte des conditions requises pour cet examen ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -426,7 +473,8 @@
     "Numero": 48,
     "Proposition": "Une coronarographie est effectuée chez la majorité des patients angoreux.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle n'est envisagée que sous certaines conditions (symptômes persistants, épreuve positive) ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -435,7 +483,8 @@
     "Numero": 49,
     "Proposition": "La coronarographie nécessite l’injection intraveineuse de produit de contracte iodé.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La coronarographie est un examen invasif utilisant une ponction artérielle ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -444,7 +493,8 @@
     "Numero": 50,
     "Proposition": "La coronarographie est un examen invasif avec un risque d’embolisation de plaques d’athérome aortiques.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le risque d'embolisation lié aux cathéters est explicitement mentionné ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -453,7 +503,8 @@
     "Numero": 51,
     "Proposition": "L'OCT est une technique d'imagerie intra-coronaire utilisée pour évaluer la perméabilité des stents coronaires.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'OCT permet de visualiser la rupture de plaque et la thrombose, sans mention des stents ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -462,7 +513,8 @@
     "Numero": 52,
     "Proposition": "Les antiagrégants plaquettaires sont généralement prescrits dans le traitement de l’angor stable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ils font partie des moyens de prévention cardiovasculaire cités ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -471,7 +523,8 @@
     "Numero": 53,
     "Proposition": "L’aspirine est prescrite en 2ème intention si le patient présente une contre-indication au clopidogrel.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "C'est l'inverse : le clopidogrel est prescrit si l'aspirine est contre-indiquée ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -480,7 +533,8 @@
     "Numero": 54,
     "Proposition": "Les bêta-bloquants sont prescrits à tous les patients angoreux (sauf contre-indications).",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les bêta-bloquants sont recommandés systématiquement sauf contre-indication ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -489,7 +543,8 @@
     "Numero": 55,
     "Proposition": "La dilatation coronaire percutanée (PTCA) est utilisée comme traitement curatif pour l’angor chronique stable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le document précise qu'il s'agit d'un traitement symptomatique et non curatif ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -498,7 +553,8 @@
     "Numero": 56,
     "Proposition": "La dilatation coronaire percutanée est proposée si l’angor persiste malgré un traitement médical optimal.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "C'est l'indication principale mentionnée pour la PTCA ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -507,7 +563,8 @@
     "Numero": 57,
     "Proposition": "La PTCA utilise un ballon gonflé à 2 atmosphères pour écraser la plaque d’athérome et poser un stent.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La pression du ballon doit être supérieure à 4 atmosphères ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -516,7 +573,8 @@
     "Numero": 58,
     "Proposition": "Le dinitrate d’isosorbide est utilisé sous forme orale ou transdermique dans le traitement de l’angor stable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ces deux modes d'administration sont effectivement cités ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -525,7 +583,8 @@
     "Numero": 59,
     "Proposition": "Une association de 2 antiagrégants plaquettaires (aspirine + clopidogrel) est nécessaire pendant quelques mois après une dilatation coronaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La double antiagrégation est requise après la pose d'un stent ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -534,7 +593,8 @@
     "Numero": 60,
     "Proposition": "Les pontages coronariens chirurgicaux sont recommandés pour les lésions coronaires monotronculaires.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont recommandés pour les sténoses du tronc commun ou les lésions tritronculaires ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -543,7 +603,8 @@
     "Numero": 61,
     "Proposition": "Le traitement de l'angine de poitrine chronique stable vise notamment à supprimer les crises d'angor.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "C'est l'un des premiers objectifs thérapeutiques listés ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -552,7 +613,8 @@
     "Numero": 62,
     "Proposition": "L'arrêt du tabac est recommandé comme traitement de 1ère intention pour l’angor chronique stable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le contrôle des facteurs de risque, dont le tabac, est fondamental ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -561,7 +623,8 @@
     "Numero": 63,
     "Proposition": "La dilatation coronaire percutanée est souvent réalisée en cas d'échec du traitement médical.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Elle est proposée lorsque le traitement médical ne suffit plus à contrôler l'angor ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -570,7 +633,8 @@
     "Numero": 64,
     "Proposition": "Les stents coronaires réduisent le risque de resténose de 30-40% à <20% endéans les 6 mois.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document confirme ces chiffres de réduction du risque de resténose ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -579,7 +643,8 @@
     "Numero": 65,
     "Proposition": "Les pontages coronariens chirurgicaux sont indiqués pour les lésions coronaires tritronculaires seulement si elles sont associées à une altération de la fonction systolique ventriculaire gauche (FEVG <50%).",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont indiqués pour les lésions tritronculaires, qu'il y ait ou non altération de la fonction ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -588,7 +653,8 @@
     "Numero": 66,
     "Proposition": "La sténose du tronc commun coronaire gauche n’est pas une indication chirurgicale.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle constitue au contraire une indication majeure pour le pontage aorto-coronarien ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -597,7 +663,8 @@
     "Numero": 67,
     "Proposition": "Le risque de resténose après dilatation coronaire est plus élevé chez les patients diabétiques.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document confirme que le risque de resténose est accru chez les diabétiques ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -606,7 +673,8 @@
     "Numero": 68,
     "Proposition": "Les stents coronaires sont souvent enrobés d'un agent anti-mitotique comme le tacrolimus pour réduire le risque de resténose à quelques %.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'utilisation de stents actifs (enrobés) réduit drastiquement la resténose ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -615,7 +683,8 @@
     "Numero": 69,
     "Proposition": "L’aspirine ne peut jamais être associée au clopidogrel.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Leur association est au contraire requise après une dilatation coronaire avec stent ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -624,7 +693,8 @@
     "Numero": 70,
     "Proposition": "Les lésions tritronculaires qui atteignent les artères interventriculaire antérieure proximale, circonflexe et coronaire droite sont une indication de pontage coronaire chirurgical.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Cette description anatomique correspond à l'indication de pontage ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -633,7 +703,8 @@
     "Numero": 71,
     "Proposition": "Le contrôle des facteurs de risques (dyslipidémie, HTA,…) est essentiel dans le traitement de l’angor.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "C'est un pilier fondamental du traitement médical et de la prévention ",
+    "Page": 3.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -642,7 +713,8 @@
     "Numero": 72,
     "Proposition": "Le spasme artériel de l’angor spastique induit une ischémie rarement mortelle.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document confirme que l'issue fatale de cette ischémie est rare ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -651,7 +723,8 @@
     "Numero": 73,
     "Proposition": "L’angor variant survient principalement pendant l'exercice.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Il survient principalement au repos, bien qu'il puisse apparaître après l'exercice ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -660,7 +733,8 @@
     "Numero": 74,
     "Proposition": "Les spasmes des artères coronaires sont plus fréquents entre 8h du soir et minuit.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les épisodes sont au contraire plus fréquents durant la nuit (minuit à 8h) ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -669,7 +743,8 @@
     "Numero": 75,
     "Proposition": "L’angine de poitrine spastique est plus fréquente chez les hommes.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le texte indique que la prévalence est la même pour les deux sexes ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -678,7 +753,8 @@
     "Numero": 76,
     "Proposition": "La majorité des patients atteints d’angor spastique n’ont pas de lésions athéromateuses coronaires.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Au contraire, des lésions d'athéromatose coexistent dans 60 % des cas ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -687,7 +763,8 @@
     "Numero": 77,
     "Proposition": "Les dérivés nitrés et les antagonistes calciques sont efficaces dans le traitement de l’angor spastique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ces deux classes thérapeutiques constituent le traitement de référence ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -696,7 +773,8 @@
     "Numero": 78,
     "Proposition": "Le spasme artériel survient après l’effort (et pas pendant) chez 30% des patients atteints d’angor spastique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le spasme est effectivement plus typique après l'effort pour cette proportion de patients ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -705,7 +783,8 @@
     "Numero": 79,
     "Proposition": "Le spasme artériel dans l'angine de poitrine spastique est toujours dû à une athérosclérose coronaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'athérosclérose coexiste dans 60 % des cas, mais n'est pas systématique ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -714,7 +793,8 @@
     "Numero": 80,
     "Proposition": "Dans l’angor spastique, le segment ST est sus-décalé en raison d'une ischémie légère sous-endocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le sus-décalage traduit au contraire une ischémie sévère et transmurale ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -723,7 +803,8 @@
     "Numero": 81,
     "Proposition": "Les bêta-bloquants sont recommandés dans le traitement chronique de l'angine de poitrine spastique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont au contraire à éviter car ils aggravent la vasoconstriction ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -732,7 +813,8 @@
     "Numero": 82,
     "Proposition": "Les tachyarythmies ventriculaires surviennent lors de la reperfusion des artères coronaires spastiques.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ces troubles du rythme peuvent effectivement se produire pendant la reperfusion ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -741,7 +823,8 @@
     "Numero": 83,
     "Proposition": "La cocaïne, le tabac, l’alcool ou l’hypoventilation peuvent déclencher l’angine de poitrine spastique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le document cite l’hyperventilation (et non l’hypoventilation) comme facteur déclenchant ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -750,7 +833,8 @@
     "Numero": 84,
     "Proposition": "La coronarographie est inutile dans le diagnostic de l'angine de poitrine spastique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle est utilisée, souvent avec des tests de provocation, pour le diagnostic ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -759,7 +843,8 @@
     "Numero": 85,
     "Proposition": "Il faut éviter les bêta-bloquants en cas d’angor spastique car ils favorisent le spasme artériel en antagonisant les récepteurs bêta-2 adrénergiques vasoconstricteurs.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils bloquent les récepteurs bêta-2 vasodilatateurs (et non vasoconstricteurs) ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -768,7 +853,8 @@
     "Numero": 86,
     "Proposition": "Les antagonistes calciques sont contre-indiqués dans le traitement chronique de l'angine de poitrine spastique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils constituent au contraire la base du traitement chronique ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -777,7 +863,8 @@
     "Numero": 87,
     "Proposition": "Un test de provocation des spasmes par l’hyperventilation, l’ergonovine ou l’acétylcholine intra-coronaire peut être proposé pour le diagnostic d’angine de poitrine spastique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ce sont les trois tests de provocation cités pour cet examen ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -786,7 +873,8 @@
     "Numero": 88,
     "Proposition": "L’angor variant est de bon pronostic si il n’est pas associé à des lésions coronaires athéroscléreuses.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document confirme que l'absence d'athérome associé est un facteur de bon pronostic ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -795,7 +883,8 @@
     "Numero": 89,
     "Proposition": "Dans l’angor spastique, le segment ST est sous-décalé en raison d’une ischémie sévère et transmurale.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Il y a un sus-décalage (pas sous-décalage) en cas d'ischémie transmurale ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -804,7 +893,8 @@
     "Numero": 90,
     "Proposition": "Le Holter est très utile pour diagnostiquer un angor de Prinzmetal.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'enregistrement ambulatoire permet effectivement de capter les anomalies transitoires ",
+    "Page": 4.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -813,7 +903,8 @@
     "Numero": 91,
     "Proposition": "L’hypertension artérielle induit un amincissement de la média des artérioles.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'hypertension induit au contraire un épaississement de la média ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -822,7 +913,8 @@
     "Numero": 92,
     "Proposition": "Les artères épicardiques sont normales à la coronarographie en cas d’angine de poitrine microvasculaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "C'est une caractéristique diagnostique de l'angor microvasculaire ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -831,7 +923,8 @@
     "Numero": 93,
     "Proposition": "L'angine de poitrine microvasculaire est souvent associée à des pathologies valvulaires.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les pathologies valvulaires sont effectivement citées comme facteur favorisant ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -840,7 +933,8 @@
     "Numero": 94,
     "Proposition": "La dilatation ventriculaire et la diminution de pression intra-cavitaire réduisent la perfusion coronaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "C'est l'augmentation (pas la diminution) de la pression intra-cavitaire qui réduit la perfusion ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -849,7 +943,8 @@
     "Numero": 95,
     "Proposition": "Les femmes sont plus fréquemment touchés par l'angine de poitrine microvasculaire que les hommes.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte confirme une nette prédominance féminine pour cette pathologie ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -858,7 +953,8 @@
     "Numero": 96,
     "Proposition": "Les douleurs de l'angine de poitrine microvasculaire répondent généralement bien aux dérivés nitrés.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Réponse imparfaite aux dérivés nitrés sublinguaux ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -867,7 +963,8 @@
     "Numero": 97,
     "Proposition": "L'échographie cardiaque montre souvent une altération de la cinétique ventriculaire sous perfusion de dobutamine chez les patients atteints d'angine de poitrine microvasculaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La cinétique ventriculaire sous dobutamine est normale ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -876,7 +973,8 @@
     "Numero": 98,
     "Proposition": "L’angor microvasculaire est souvent associée au syndrome dysmétabolique ou à l’anxiété.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Souvent associée au syndrome dysmétabolique ou au contexte d'anxiété ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -885,7 +983,8 @@
     "Numero": 99,
     "Proposition": "Le diabète sucré peut causer une angine de poitrine microvasculaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La dysfonction microvasculaire est favorisée par le diabète sucré ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -894,7 +993,8 @@
     "Numero": 100,
     "Proposition": "La coronarographie est souvent anormale chez les patients atteints d'angine de poitrine microvasculaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les artères épicardiques sont normales à la coronarographie ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -903,7 +1003,8 @@
     "Numero": 101,
     "Proposition": "Les dérivés nitrés sont efficaces chez la moitié des patients atteints d'angine de poitrine microvasculaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les dérivés nitrés sont efficaces chez 50 % des patients ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -912,7 +1013,8 @@
     "Numero": 102,
     "Proposition": "Les bêta-bloquants sont contre-indiqués dans le traitement de l'angine de poitrine microvasculaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Sont indiqués si la fréquence cardiaque est élevée ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -921,7 +1023,8 @@
     "Numero": 103,
     "Proposition": "L'aminophylline bloque les récepteurs à l'adénosine et est utilisée dans le traitement de l’angine de poitrine microvasculaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Bloque les récepteurs à l'adénosine ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -930,7 +1033,8 @@
     "Numero": 104,
     "Proposition": "L'imipramine est un antidépresseur tricyclique utilisé en 1ère intention dans le traitement de l'angine de poitrine microvasculaire pour bloquer la perception de la douleur.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Utilisée en dernier recours pour réduire la perception de la douleur ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -939,7 +1043,8 @@
     "Numero": 105,
     "Proposition": "Le pronostic de l'angine de poitrine microvasculaire dépend de la gravité de l'affection sous-jacente.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Dépend de l'affection sous-jacente ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -948,7 +1053,8 @@
     "Numero": 106,
     "Proposition": "La scintigraphie myocardique au thallium montre des déficits de perfusion chez 50% des cas d’angor microvasculaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Montre des déficits de perfusion chez 98 % des patients ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -957,7 +1063,8 @@
     "Numero": 107,
     "Proposition": "L’angine de poitrine microvasculaire se manifeste par des douleurs thoracique intenses et brèves.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les douleurs sont parfois prolongées ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -966,7 +1073,8 @@
     "Numero": 108,
     "Proposition": "L’enregistrement ambulatoire du rythme cardiaque (Holter) montre fréquemment des sous-décalages asymptomatiques du segment ST chez les patients coronariens.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Découverte fréquente de sous-décalages ST asymptomatiques au Holter ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -975,7 +1083,8 @@
     "Numero": 109,
     "Proposition": "La mort subite est la 1ère manifestation de la pathologie coronaire chez 30% des patients coronariens.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La mort subite est la première manifestation chez 20 % des patients ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -984,7 +1093,8 @@
     "Numero": 110,
     "Proposition": "L'angine de poitrine asymptomatique est rarement détectée chez les patients traités.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'ischémie myocardique asymptomatique persiste fréquemment chez le patient traité ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -993,7 +1103,8 @@
     "Numero": 111,
     "Proposition": "Les activités routinières qui augmentent des demandes en oxygène peuvent provoquer une ischémie myocardique asymptomatique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Survient lors d'activités routinières augmentant la demande en oxygène ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1002,7 +1113,8 @@
     "Numero": 112,
     "Proposition": "La mort subite est rarement la première manifestation de la pathologie coronaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle est la première manifestation pour 20 % des patients ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1011,7 +1123,8 @@
     "Numero": 113,
     "Proposition": "La moitié des morts subites ne sont pas précédées de symptômes coronaires.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "50 % des morts subites ne sont pas précédées de symptômes ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1020,7 +1133,8 @@
     "Numero": 114,
     "Proposition": "Les patients diabétiques ont une sensibilité réduite à la douleur à cause d’une neuropathie autonome.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Réduite en raison d'une neuropathie autonome ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1029,7 +1143,8 @@
     "Numero": 115,
     "Proposition": "L'épreuve d'effort est généralement négative chez les patients atteints d’angor asymptomatique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le document mentionne un sous-décalage ST > 1mm positif à l'épreuve ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1038,7 +1153,8 @@
     "Numero": 116,
     "Proposition": "L’ischémie asymptomatique est de meilleur pronostic que l’ischémie symptomatique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle est au contraire de mauvais pronostic ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1047,7 +1163,8 @@
     "Numero": 117,
     "Proposition": "L'enregistrement du rythme cardiaque permet de détecter un sus-décalage du segment ST.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'enregistrement permet d'analyser le sous-décalage du segment ST ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1056,7 +1173,8 @@
     "Numero": 118,
     "Proposition": "La persistance d’une ischémie silencieuse prédit un risque accru d’évènements coronaires et de mort cardiaque.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Prédit un risque accru d'événements coronaires et de mort cardiaque ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1065,7 +1183,8 @@
     "Numero": 119,
     "Proposition": "L’angine de poitrine silencieuse prédomine le matin en raison d’une augmentation concomitante du rythme cardiaque et de la pression artérielle.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Due à l'augmentation concomitante du rythme cardiaque et de la pression artérielle ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1074,7 +1193,8 @@
     "Numero": 120,
     "Proposition": "Les modifications à l’ECG précèdent la douleur durant l’ischémie myocardique",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les modifications ECG précèdent la douleur durant l'ischémie ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1083,7 +1203,8 @@
     "Numero": 121,
     "Proposition": "Les ischémies peu sévères et peu prolongées sont insuffisantes pour provoquer de la fibrose.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elles favorisent au contraire la fibrose myocardique ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1092,7 +1213,8 @@
     "Numero": 122,
     "Proposition": "Les ischémies asymptomatiques témoignent de l’instabilité de la plaque athéromateuse.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Témoignent de l'instabilité de la plaque athéromateuse ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1101,7 +1223,8 @@
     "Numero": 123,
     "Proposition": "Le traitement de l'angine de poitrine silencieuse vise surtout à supprimer les épisodes symptomatiques pour améliorer la qualité de vie du patient.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Vise à supprimer tous les épisodes car ils grèvent le pronostic ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1110,7 +1233,8 @@
     "Numero": 124,
     "Proposition": "L’angine de poitrine asymptomatique est un indicateur de mauvais pronostic. 114 . VRAI",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'angine de poitrine asymptomatique est de mauvais pronostic ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1119,7 +1243,8 @@
     "Numero": 125,
     "Proposition": "Les statines ne sont pas utiles dans le traitement de l'angine de poitrine asymptomatique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Leur utilisation est importante pour la correction des facteurs de risque ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1128,7 +1253,8 @@
     "Numero": 126,
     "Proposition": "Les dérivés nitrés sont administrés en continu pour éviter les épisodes d’ischémie asymptomatique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Respecter une fenêtre de 10-12 h pour éviter la tolérance ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1137,7 +1263,8 @@
     "Numero": 127,
     "Proposition": "Les bêta-bloquants suppriment totalement l'ischémie chez 60% des patients atteints d'angine de poitrine asymptomatique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Suppression totale de l'ischémie chez 60 % des patients ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1146,7 +1273,8 @@
     "Numero": 128,
     "Proposition": "Les antagonistes calciques à longue durée d’action sont à éviter dans le traitement de l’angine de poitrine silencieuse car ils induisent une tachycardie réflexe.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les formes à longue durée d'action sont utilisées pour éviter la tachycardie réflexe ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1155,7 +1283,8 @@
     "Numero": 129,
     "Proposition": "Les antiagrégants plaquettaires sont nécessaires dans le traitement de l'angor asymptomatique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Listés parmi les moyens de traitement ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1164,7 +1293,8 @@
     "Numero": 130,
     "Proposition": "Les patients diabétiques sont plus susceptibles de présenter une angine de poitrine asymptomatique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Plus susceptibles par sensibilité réduite à la douleur ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1173,7 +1303,8 @@
     "Numero": 131,
     "Proposition": "Le Holter enregistre des sous-décalages >1mm du segment ST de plus d’une minute et séparé de 1 minute de l’évènement précédent en cas d’angine de poitrine silencieuse.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "ST > 1mm, > 1 minute, séparé de 1 minute ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1182,7 +1313,8 @@
     "Numero": 132,
     "Proposition": "L’ischémie silencieuse peut être confirmée par la scintigraphie myocardique de perfusion ou par l’échographie cardiaque de stress sous dobutamine.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Confirmée par scintigraphie de perfusion ou échographie de stress ",
+    "Page": 6.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1191,7 +1323,8 @@
     "Numero": 133,
     "Proposition": "Les dérivés nitrés doivent être administrés avec une fenêtre thérapeutique de 10 à 12 heures pour éviter une perte d’efficacité par un phénomène de tolérance.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Fenêtre de 10-12 h nécessaire pour éviter la tolérance ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1200,7 +1333,8 @@
     "Numero": 134,
     "Proposition": "Certains antagonistes calciques peuvent être associés avec des bêta-bloquants.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Association possible avec des antagonistes non bradycardisants ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1209,7 +1343,8 @@
     "Numero": 135,
     "Proposition": "Les statines sont importantes dans le traitement de l'angine de poitrine asymptomatique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Importance de la correction énergique des facteurs de risque ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1218,7 +1353,8 @@
     "Numero": 136,
     "Proposition": "L'angor instable est trois fois plus fréquent que l'infarctus myocardique avec élévation ST.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Affection 3 fois plus fréquente que l'infarctus avec élévation ST ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1227,7 +1363,8 @@
     "Numero": 137,
     "Proposition": "L’infarctus NSTEMI est caractérisé par une ischémie transmurale du myocarde.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "C'est au contraire une ischémie non transmurale ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1236,7 +1373,8 @@
     "Numero": 138,
     "Proposition": "L’ECG de l’infarctus NSTEMI montre une onde Q de nécrose.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Il n'y aura pas d'onde Q car il n'y a pas de nécrose transmurale ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1245,7 +1383,8 @@
     "Numero": 139,
     "Proposition": "L’angor instable peut se compliquer par une mort subite suite à une arythmie ventriculaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Peut être compliqué par une mort subite par arythmie ventriculaire ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1254,7 +1393,8 @@
     "Numero": 140,
     "Proposition": "Les patients atteints d'angor instable ont un risque important de réinfarcissement.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ces patients présentent un risque important de réinfarcissement ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1263,7 +1403,8 @@
     "Numero": 141,
     "Proposition": "L’infarctus NSTEMI est provoqué par une réduction sévère ou un arrêt permanent de l’apport sanguin.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Provoqué par une réduction sévère ou un arrêt transitoire (pas permanent) ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1272,7 +1413,8 @@
     "Numero": 142,
     "Proposition": "Il n’y a pas d’élévation du segment ST et pas d’onde Q à l’ECG en cas d’angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Pas d'élévation du segment ST ni d'onde Q à l'ECG ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1281,7 +1423,8 @@
     "Numero": 143,
     "Proposition": "Les lésions d’angor instable sont souvent diffuses et ne traversent pas la paroi ventriculaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Souvent diffuses et ne traversent pas la paroi ventriculaire ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1290,7 +1433,8 @@
     "Numero": 144,
     "Proposition": "Les symptômes de l'angine de poitrine instable sont souvent moins sévères mais plus prolongés que ceux de l'angor chronique stable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont au contraire souvent plus sévères ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1299,7 +1443,8 @@
     "Numero": 145,
     "Proposition": "Les symptômes de l’angor instable peuvent durer jusqu’à plus d’une heure.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les symptômes durent moins de 30 minutes ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1308,7 +1453,8 @@
     "Numero": 146,
     "Proposition": "L’angor instable est parfois asymptomatique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'angor instable peut effectivement être asymptomatique, notamment chez le patient diabétique ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1317,7 +1463,8 @@
     "Numero": 147,
     "Proposition": "Les dérivés nitrés sublinguaux sont très efficaces pour soulager la douleur dans l'angor instable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La douleur rétro-sternale cède au contraire incomplètement ou transitoirement aux dérivés nitrés ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1326,7 +1473,8 @@
     "Numero": 148,
     "Proposition": "L'angine de poitrine instable survient principalement pendant l'effort.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'angor instable survient au contraire typiquement au repos, la nuit ou pour un effort minime ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1335,7 +1483,8 @@
     "Numero": 149,
     "Proposition": "L’angor instable survient suite à l’embolisation distale d’un thrombus formé par la fissuration d’une plaque athéro-sclérotique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "C'est la physiopathologie caractéristique de la lésion de Type VI associée au syndrome coronaire instable ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1344,7 +1493,8 @@
     "Numero": 150,
     "Proposition": "Les symptômes surviennent souvent la nuit dans l’angor stable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Surviennent au contraire en cas d'angor instable (l'angor stable cède au repos) ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1353,7 +1503,8 @@
     "Numero": 151,
     "Proposition": "L'ECG montre un sous-décalage du segment ST dans l'angine de poitrine instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'ECG montre effectivement un sous-décalage du segment ST > 1 mm ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1362,7 +1513,8 @@
     "Numero": 152,
     "Proposition": "L’angor instable est caractérisé par des symptômes d’apparition récente, en aggravation ou de repos.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "C'est la définition même du caractère instable de l'angor ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1371,7 +1523,8 @@
     "Numero": 153,
     "Proposition": "Les infections, la fièvre et l’hypoxémie favorisent les crises d’angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ces facteurs métaboliques ou infectieux sont effectivement cités comme favorisants ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1380,7 +1533,8 @@
     "Numero": 154,
     "Proposition": "L’amplitude de l’onde R augmente après quelques heures/jours en cas d’infarctus NSTEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L’amplitude de l’onde R diminue (et non augmente) dans l’infarctus NSTEMI ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1389,7 +1543,8 @@
     "Numero": 155,
     "Proposition": "Le sous-décalage du segment ST est accompagné par des ondes T positives, symétriques et profondes à l’ECG en cas d’infarctus NSTEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les ondes T sont au contraire décrites comme négatives, symétriques et profondes ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1398,7 +1553,8 @@
     "Numero": 156,
     "Proposition": "La nécrose est uniquement sous-endocardique dans les lésions NSTEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'ischémie myocardique est effectivement décrite comme non transmurale (ne traverse pas la paroi) ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1407,7 +1563,8 @@
     "Numero": 157,
     "Proposition": "L’examen clinique est souvent banal en cas d’angine de poitrine instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document précise que l'examen clinique est effectivement souvent banal ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1416,7 +1573,8 @@
     "Numero": 158,
     "Proposition": "Le sous-décalage du segment ST persiste après un infarctus STEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'infarctus NSTEMI est par définition sans élévation du segment ST ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1425,7 +1583,8 @@
     "Numero": 159,
     "Proposition": "En cas d’angor instable, la présence de séquelles anciennes d’infarctus avec onde Q à l’ECG témoignent de la présence d’une cardiopathie hypertrophique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ces signes témoignent de la présence d’une cardiopathie ischémique préalable ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1434,7 +1593,8 @@
     "Numero": 160,
     "Proposition": "Il est impossible d’exclure un syndrome coronarien aigu sur base des marqueurs biologiques.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document confirme qu'aucun marqueur n'est assez sensible lors de la présentation initiale ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1443,7 +1603,8 @@
     "Numero": 161,
     "Proposition": "La troponine est élevée dans l’angor instable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'élévation de la troponine est absente dans l'angor instable ; elle définit le NSTEMI ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1452,7 +1613,8 @@
     "Numero": 162,
     "Proposition": "Les troponines H et T sont très sensibles et spécifiques pour le myocarde.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les troponines spécifiques du myocarde mentionnées sont les troponines I et T (pas H) ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1461,7 +1623,8 @@
     "Numero": 163,
     "Proposition": "La troponine est un marqueur d’ischémie myocardique plus sensible que les CK-MB.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte confirme que les troponines sont des marqueurs plus sensibles que les CK-MB ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1470,7 +1633,8 @@
     "Numero": 164,
     "Proposition": "Les troponines augmentent immédiatement après l'ischémie myocardique et restent élevées >2 semaines.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elles augmentent > 3 heures après l'ischémie et restent élevées < 14 jours (pas > 2 semaines) ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1479,7 +1643,8 @@
     "Numero": 165,
     "Proposition": "L’amplitude de l’onde Q diminue quelques jours après l’infarctus NSTEMI à cause de la perte de fibres myocardiques.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L’amplitude de l’onde R diminue ; l’onde Q est absente car il n’y a pas de nécrose transmurale ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1488,7 +1653,8 @@
     "Numero": 166,
     "Proposition": "Aucun marqueur biologique n’est suffisamment sensible pour exclure un syndrome coronarien aigu.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte souligne l'absence de marqueur suffisamment sensible à la présentation initiale ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1497,7 +1663,8 @@
     "Numero": 167,
     "Proposition": "La mesure de CK-MB est utilisée pour le diagnostic différentiel de l’angor instable et de l’infarctus NSTEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les CK-MB étaient mesurées autrefois, mais le diagnostic repose désormais sur la troponine ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1506,7 +1673,8 @@
     "Numero": 168,
     "Proposition": "30% des patients qui ont un NSTEMI ne sont pas diagnostiqués sur base de la clinique, de l’ECG et de l’absence d’élévation d’enzymes moins sensibles que la troponine.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ces 30% de patients ont en réalité un NSTEMI car ils augmentent leurs troponines ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1515,7 +1683,8 @@
     "Numero": 169,
     "Proposition": "Les nouveaux dosages ultrasensibles de troponine sont exprimés en µg/L.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les dosages ultrasensibles sont effectivement exprimés en ng/L (et non µg/L) ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1524,7 +1693,8 @@
     "Numero": 170,
     "Proposition": "Des prélèvements répétés sont nécessaires pendant les 12 premières heures de l’infarctus pour mesurer une élévation dynamique de la troponine.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Il est nécessaire de faire des prélèvements répétés durant les 12 premières heures ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1533,7 +1703,8 @@
     "Numero": 171,
     "Proposition": "L’infarctus NSTEMI entraine des modifications réversibles de l’ECG.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'ECG montre des modifications réversibles du segment ST et de l'onde T ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1542,7 +1713,8 @@
     "Numero": 172,
     "Proposition": "Un taux de troponine augmentée signifie un risque cardiovasculaire augmenté à long terme.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le risque cardiovasculaire à court et long terme est augmenté en cas d'élévation de la troponine ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1551,7 +1723,8 @@
     "Numero": 173,
     "Proposition": "L’augmentation de la CRP et du plasminogène prédit le risque de complications ultérieures en cas d’infarctus NSTEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "C'est l'augmentation de la CRP et du fibrinogène (pas plasminogène) qui est prédictive ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1560,7 +1733,8 @@
     "Numero": 174,
     "Proposition": "L’élévation de la troponine est un signe spécifique de l’infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La troponine est très sensible et spécifique pour l’ischémie du myocarde ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1569,7 +1743,8 @@
     "Numero": 175,
     "Proposition": "D’autres enzymes cardiaques comme la LDH ou la CPK peuvent augmenter en cas d’infarctus NSTEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document cite effectivement l'augmentation possible de la LDH, CPK (CK-MB) et SGOT ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1578,7 +1753,8 @@
     "Numero": 176,
     "Proposition": "L'échographie cardiaque est utilisée pour diagnostiquer l'angine de poitrine instable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'échographie a une importance pronostique en évaluant la réduction de la fonction systolique ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1587,7 +1763,8 @@
     "Numero": 177,
     "Proposition": "Les tests fonctionnels sont réalisés immédiatement après la stabilisation des symptômes pour évaluer l’impact de l’infarctus NSTEMI et adapter le traitement.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les tests (effort, dobutamine, dipyridamole) se font quelques jours après la stabilisation ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1596,7 +1773,8 @@
     "Numero": 178,
     "Proposition": "La coronarographie est réalisée chez tous les patients atteints d'angor instable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle est effectuée endéans les 12-24 heures si le risque est élevé ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1605,7 +1783,8 @@
     "Numero": 179,
     "Proposition": "Le traitement médical aigu de l’infarctus NSTEMI vise à réduire la douleur, limiter la nécrose et prévenir les récidives.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "C'est l'un des quatre grands objectifs du traitement-principes généraux ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1614,7 +1793,8 @@
     "Numero": 180,
     "Proposition": "L’effet inotrope négatif des bêta-bloquants est favorable pour diminuer la consommation d’oxygène du cœur en cas d’angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le traitement par bêta-bloquants permet de lutter contre l'ischémie ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1623,7 +1803,8 @@
     "Numero": 181,
     "Proposition": "L’héparine non fractionnée ou de bas poids moléculaire est indiquée dans le traitement aigu de l’angor instable ou de l’infarctus NSTEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les deux types d'héparine sont indiqués dans le traitement de la thrombose ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1632,7 +1813,8 @@
     "Numero": 182,
     "Proposition": "L'aspirine est utilisée pour réduire l'inflammation dans l'angor instable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'aspirine agit contre la thrombose en inhibant l'agrégation plaquettaire (pas l'inflammation) ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1641,7 +1823,8 @@
     "Numero": 183,
     "Proposition": "Les patients atteints d’infarctus sont généralement hospitalisés pendant 2 semaines.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La stabilisation et le retour à domicile se font endéans les 3 à 7 jours ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1650,7 +1833,8 @@
     "Numero": 184,
     "Proposition": "On administre de l’oxygène nasal à tous les patients atteints d’angor instable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'oxygène nasal est administré spécifiquement si le patient est hypoxémique ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1659,7 +1843,8 @@
     "Numero": 185,
     "Proposition": "La fibrillation auriculaire est un facteur associé à un mauvais pronostic dans l'angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La fibrillation auriculaire est citée parmi les facteurs associés à un mauvais pronostic ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1668,7 +1853,8 @@
     "Numero": 186,
     "Proposition": "Les troponines augmentent plus de 3 heures après l'infarctus NSTEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte confirme que les troponines augmentent plus de 3 heures après l'épisode ",
+    "Page": 8.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1677,7 +1863,8 @@
     "Numero": 187,
     "Proposition": "Des diurétiques et des inhibiteurs de l’enzyme de conversion peuvent être administrés en cas d’infarctus NSTEMI pour agir contre l’insuffisance cardiaque.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ces traitements sont utilisés si une insuffisance cardiaque est associée ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1686,7 +1873,8 @@
     "Numero": 188,
     "Proposition": "Une coronarographie est effectuée 48h après un infarctus NSTEMI chez les patients à risque élevé.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La coronarographie est effectuée endéans les 12-24 heures (et non 48h) si le risque est élevé ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1695,7 +1883,8 @@
     "Numero": 189,
     "Proposition": "Des fluctuations du segment ST au repos sont associés à un mauvais pronostic en cas d’angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Ces fluctuations au repos sont effectivement un facteur de mauvais pronostic ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1704,7 +1893,8 @@
     "Numero": 190,
     "Proposition": "Les anti-thrombotiques sont indispensables dans le traitement de l’angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'aspirine, le clopidogrel et l'héparine sont des piliers du traitement anti-thrombotique ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1713,7 +1903,8 @@
     "Numero": 191,
     "Proposition": "Le retour à domicile dans les 3 à 7 jours est possible dans 95% des cas après un infarctus NSTEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte confirme ce délai de sortie pour 95% des cas ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1722,7 +1913,8 @@
     "Numero": 192,
     "Proposition": "Les bêta-bloquants sont contre-indiqués si la PAS est >100 mmHg et le RC <60 bpm.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont indiqués si la PAS > 100 mmHg et le RC > 60 bpm ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1731,7 +1923,8 @@
     "Numero": 193,
     "Proposition": "Les dihydropyridines peuvent être associés aux bêta-bloquants dans le traitement aigu de l’angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les dihydropyridines (antagonistes calciques) peuvent effectivement être associées ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1740,7 +1933,8 @@
     "Numero": 194,
     "Proposition": "La morphine est utilisée pour réduire la douleur dans l'angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La morphine est utilisée pour agir contre la douleur ",
+    "Page": 9.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1749,7 +1943,8 @@
     "Numero": 195,
     "Proposition": "Le clopidogrel est un agoniste des récepteurs à l’ADP plaquettaire et exerce une action anti-thrombotique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le clopidogrel est un antagoniste (pas un agoniste) des récepteurs à l'ADP ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1758,7 +1953,8 @@
     "Numero": 196,
     "Proposition": "Le traitement médical permet de limiter la mortalité aigue de l’infarctus NSTEMI à <1%.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La mortalité aiguë est limitée entre 2 et 4 % par la combinaison des médicaments ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1767,7 +1963,8 @@
     "Numero": 197,
     "Proposition": "Le LDL-cholestérol doit être réduit <115mg/dl avec des statines (±ézétimibe) après un infarctus NSTEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le LDL-cholestérol doit être réduit sous la barre des 55 mg/dl ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1776,7 +1973,8 @@
     "Numero": 198,
     "Proposition": "1/4 des patients doivent bénéficier d’une revascularisation coronaire dans l’année après un épisode d’angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Environ 25 % des patients devront bénéficier d'une revascularisation coronaire dans l'année ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1785,7 +1983,8 @@
     "Numero": 199,
     "Proposition": "Le clopidogrel doit être associé à l’aspirine pendant un an après un infarctus NSTEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le clopidogrel est prescrit en association avec l'aspirine durant un an ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1794,7 +1993,8 @@
     "Numero": 200,
     "Proposition": "L’aspirine à petite dose inhibe l’agrégation des plaquettes par une acétylation réversible de la cyclooxygénase plaquettaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'acétylation de la cyclooxygénase par l'aspirine est effectivement irréversible ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1803,7 +2003,8 @@
     "Numero": 201,
     "Proposition": "L’aspirine inhibe la production de thromboxane A2 et réduit le thrombus au niveau des lésions athéromateuses.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L’aspirine inhibe la production de thromboxane A2 et réduit le thrombus ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1812,7 +2013,8 @@
     "Numero": 202,
     "Proposition": "La prise d’aspirine réduit le risque relatif de décès et d’infarcissement de >70% après un épisode d’angor instable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La prise d'aspirine réduit le risque de décès et d'infarcissement de plus de 50 % ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1821,7 +2023,8 @@
     "Numero": 203,
     "Proposition": "Les bêta-bloquants sont administrés par voie orale dans le traitement aigu de l’angor instable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les bêta-bloquants sont administrés par voie intraveineuse puis par voie orale ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1830,7 +2033,8 @@
     "Numero": 204,
     "Proposition": "Les héparines de bas poids moléculaire inhibent surtout le facteur de coagulation Xa.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les héparines de bas poids moléculaire inhibent spécifiquement le facteur Xa ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1839,7 +2043,8 @@
     "Numero": 205,
     "Proposition": "L’héparine non fractionnée à une relation dose-réponse plus fiable que les héparines de bas poids moléculaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La relation dose-réponse est plus fiable pour les HBPM que pour l'héparine non fractionnée ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1848,7 +2053,8 @@
     "Numero": 206,
     "Proposition": "Les héparines de bas poids moléculaire sont administrées par voie sous-cutanée.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les héparines de bas poids moléculaire s'administrent par voie sous-cutanée ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1857,7 +2063,8 @@
     "Numero": 207,
     "Proposition": "Le suivi biologique de l’anticoagulation n’est pas nécessaire pour les héparines de bas poids moléculaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le suivi biologique de l'anticoagulation n'est pas nécessaire pour les HBPM ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1866,7 +2073,8 @@
     "Numero": 208,
     "Proposition": "Les héparines de bas poids moléculaire réduisent de 50% (en présence d’aspirine) les risque de décès et d’infarctus myocardique en cas d’angor instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La réduction du risque est de 50 % en présence d'un traitement par aspirine ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1875,7 +2083,8 @@
     "Numero": 209,
     "Proposition": "Le vérapamil est utilisé pour le traitement de l’angor instable en cas de contre-indication aux β-bloquants.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le diltiazem est utilisé en cas de contre-indication aux bêta-bloquants ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1884,7 +2093,8 @@
     "Numero": 210,
     "Proposition": "La nécrose myocardique survient après environ 20 minutes d’ischémie.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La nécrose myocardique débute effectivement après une vingtaine de minutes d'occlusion ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1893,7 +2103,8 @@
     "Numero": 211,
     "Proposition": "L'infarctus myocardique est généralement dû à une augmentation brutale de la perfusion coronaire dans un territoire myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'infarctus est dû à une réduction brutale et non à une augmentation de la perfusion ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1902,7 +2113,8 @@
     "Numero": 212,
     "Proposition": "L'infarctus myocardique est la forme maligne du syndrome coronaire instable.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'infarctus myocardique représente effectivement la forme maligne de ce syndrome ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1911,7 +2123,8 @@
     "Numero": 213,
     "Proposition": "L’étendue de la nécrose myocardique est souvent plus limitée en cas d’ischémie chronique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'athérosclérose chronique favorise des collatérales qui limitent l'étendue de la nécrose ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1920,7 +2133,8 @@
     "Numero": 214,
     "Proposition": "L'instabilité électrique induite par un infarctus peut conduire à la fibrillation ventriculaire et à la mort subite.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'instabilité électrique induite risque de dégénérer en fibrillation ventriculaire ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1929,7 +2143,8 @@
     "Numero": 215,
     "Proposition": "L'occlusion de l'artère coronaire conduit immédiatement à une nécrose myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La nécrose est progressive et ne devient effective qu'au bout d'une vingtaine de minutes ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1938,7 +2153,8 @@
     "Numero": 216,
     "Proposition": "Au plus l’occlusion est proximale, au moins l’étendue de la nécrose sera importante.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Au contraire, plus l'occlusion est proximale, plus l'étendue de la nécrose sera importante ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1947,7 +2163,8 @@
     "Numero": 217,
     "Proposition": "L'étendue de la nécrose myocardique dépend uniquement du site de l’occlusion.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'étendue dépend du site, mais aussi du caractère de l'ischémie et des collatérales ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1956,7 +2173,8 @@
     "Numero": 218,
     "Proposition": "Les infarctus surviennent souvent sur des lésions coronaires peu serrées.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Beaucoup d'infarctus surviennent effectivement sur des lésions coronaires peu serrées ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1965,7 +2183,8 @@
     "Numero": 219,
     "Proposition": "L’infarctus STEMI est dû à la rupture progressive d’une plaque athéromateuse instable et à une thrombose.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'infarctus est dû à une rupture soudaine (et non progressive) de la plaque instable ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1974,7 +2193,8 @@
     "Numero": 220,
     "Proposition": "Les symptômes sont généralement plus sévères en cas d’infarctus STEMI qu’en cas de NSTEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les symptômes sont effectivement décrits comme plus intenses que dans l'angor stable ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1983,7 +2203,8 @@
     "Numero": 221,
     "Proposition": "L’infarctus STEMI touche plus souvent les femmes de >55 ans.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'infarctus STEMI touche les hommes de plus de 55 ans et les femmes de plus de 65 ans ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -1992,7 +2213,8 @@
     "Numero": 222,
     "Proposition": "Des nausées, une dyspnée et une transpiration abondante peuvent être associés à l’infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'anxiété, la dyspnée, les nausées et la transpiration sont des symptômes associés ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2001,7 +2223,8 @@
     "Numero": 223,
     "Proposition": "Le principal symptôme de l’infarctus myocardique est une douleur rétro-sternale violente et non irradiée.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La douleur est au contraire irradiée dans la mâchoire, les bras ou le dos ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2010,7 +2233,8 @@
     "Numero": 224,
     "Proposition": "L’infarctus est la 1ère manifestation de la pathologie coronaire chez 50% des patients.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L’infarctus représente effectivement la première manifestation coronaire chez 50 % des patients ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2019,7 +2243,8 @@
     "Numero": 225,
     "Proposition": "La douleur thoracique dans l’infarctus dure généralement une vingtaine de minutes.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La douleur thoracique dans l'infarctus dure au contraire plus de 30 minutes ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2028,7 +2253,8 @@
     "Numero": 226,
     "Proposition": "L’infarctus inférieur peut être confondu avec une simple indigestion avec nausées, vomissements et manifestations vagales.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L’infarctus inférieur peut effectivement être confondu avec une simple indigestion ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2037,7 +2263,8 @@
     "Numero": 227,
     "Proposition": "Le système de collatérales développé suite à l’ischémie myocardique chronique n’est généralement pas suffisamment fonctionnel pour limiter la nécrose dans l’infarctus.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les collatérales favorisées par l'ischémie chronique permettent au contraire de limiter la nécrose ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2046,7 +2273,8 @@
     "Numero": 228,
     "Proposition": "La pression thoracique ressentie est de la même intensité dans l’infarctus et dans l’angor stable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La douleur est décrite comme étant plus intense que celle de la douleur angoreuse stable ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2055,7 +2283,8 @@
     "Numero": 229,
     "Proposition": "L’examen physique peut parfois montrer une PA et des bruits cardiaques normaux en cas d’infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'examen physique peut effectivement montrer une PA et des bruits cardiaques normaux ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2064,7 +2293,8 @@
     "Numero": 230,
     "Proposition": "L'infarctus peut se compliquer d’une communication interventriculaire ou d’un œdème pulmonaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'infarctus peut se compliquer d'une communication interventriculaire ou d'un œdème pulmonaire ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2073,7 +2303,8 @@
     "Numero": 231,
     "Proposition": "L'ECG est le seul test nécessaire pour diagnostiquer un infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'anamnèse prime car 10 % des patients ont un ECG normal au début ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2082,7 +2313,8 @@
     "Numero": 232,
     "Proposition": "La péricardite fait partie du diagnostic différentiel de l’infarctus myocardique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La péricardite fait partie du diagnostic différentiel de la douleur thoracique ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2091,7 +2323,8 @@
     "Numero": 233,
     "Proposition": "Les marqueurs biologiques sont plus fiables que l'ECG pour diagnostiquer un infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L’ECG est au contraire affecté immédiatement, bien avant les marqueurs biologiques ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2100,7 +2333,8 @@
     "Numero": 234,
     "Proposition": "Le diagnostic de l’infarctus est avant tout clinique car 10% des patients ont un ECG normal.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le diagnostic est avant tout clinique car l'ECG est normal dans 10 % des cas ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2109,7 +2343,8 @@
     "Numero": 235,
     "Proposition": "Le sous-décalage du segment ST est un signe spécifique de réduction de la perfusion myocardique transmurale.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "C'est le sus-décalage du segment ST (et non sous-décalage) qui signe l'ischémie transmurale ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2118,7 +2353,8 @@
     "Numero": 236,
     "Proposition": "L'infarctus antérieur se manifeste par un sus-décalage du segment ST en D2, aVF et D",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "D2, aVF et D3 correspondent au contraire à un infarctus de localisation inférieure ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2127,7 +2363,8 @@
     "Numero": 237,
     "Proposition": "L’infarctus antéro-septal se manifeste par un sus-décalage du segment ST de V1 à V",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L’infarctus antéro-septal se manifeste effectivement par un sus-décalage de V1 à V3 ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2136,7 +2373,8 @@
     "Numero": 238,
     "Proposition": "Le segment ST peut être sous-décalé dans certaines dérivations en cas d’infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Il existe effectivement une possibilité de sous-décalage du segment ST en miroir ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2145,7 +2383,8 @@
     "Numero": 239,
     "Proposition": "Le sus-décalage du segment ST <1mm dans 2 dérivations adjacentes est le signe le plus spécifique et sensible de la réduction de la perfusion myocardique transmurale.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le sus-décalage doit être supérieur (et non inférieur) à 1 mm pour être significatif ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2154,7 +2393,8 @@
     "Numero": 240,
     "Proposition": "La nécrose atteint toute l’épaisseur du myocarde en cas d’infarctus NSTEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'infarctus NSTEMI correspond au contraire à une ischémie non transmurale ",
+    "Page": 7.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2163,7 +2403,8 @@
     "Numero": 241,
     "Proposition": "L’infarctus antéro-latéral se manifeste par un sus-décalage du segment ST en V5, V6, D1 et aVR.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'infarctus antéro-latéral se manifeste en V5, V6, D1 et aVL (et non aVR) ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2172,7 +2413,8 @@
     "Numero": 242,
     "Proposition": "L’infarctus inférieur se manifeste par un sus-décalage du segment ST en D2, aVF et D",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L’infarctus inférieur se manifeste effectivement par un sus-décalage en D2, aVF et D3 ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2181,7 +2423,8 @@
     "Numero": 243,
     "Proposition": "L’infarctus antérieur étendu se manifeste par un sous-décalage du segment ST de V1 à V6, en D1 et en aVL.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'infarctus antérieur étendu se manifeste par un sus-décalage (et non sous-décalage) ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2190,7 +2433,8 @@
     "Numero": 244,
     "Proposition": "L’infarctus apical se manifeste par un sus-décalage en V",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'infarctus apical se manifeste effectivement par un sus-décalage spécifique en V4 ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2199,7 +2443,8 @@
     "Numero": 245,
     "Proposition": "L’infarctus latéral haut se manifeste par un sus-décalage en aVR.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L’infarctus latéral haut se manifeste par un sus-décalage en aVL (et non aVR) ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2208,7 +2453,8 @@
     "Numero": 246,
     "Proposition": "L'évolution temporelle de l'ECG dans l'infarctus transmural montre une augmentation de l'amplitude des ondes T (qui deviennent symétriques) dès les premières heures.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'évolution temporelle montre effectivement une augmentation de l'amplitude des ondes T symétriques au début ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2217,7 +2463,8 @@
     "Numero": 247,
     "Proposition": "L'examen physique montre généralement une pression artérielle élevée en cas d'infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'examen physique montre au contraire une pression artérielle normale ou basse ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2226,7 +2473,8 @@
     "Numero": 248,
     "Proposition": "L’onde Q de nécrose apparait dès les premières heures de l’infarctus STEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'onde Q de nécrose apparaît après quelques heures ou jours (après la réduction du sus-décalage ST) ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2235,7 +2483,8 @@
     "Numero": 249,
     "Proposition": "La négativation de l’onde T n’apparait que après quelques heures/jours en cas d’infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La négativation de l'onde T débute effectivement après quelques heures ou jours ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2244,7 +2493,8 @@
     "Numero": 250,
     "Proposition": "Le segment ST redevient isoélectrique quelques semaines après un infarctus myocardique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le segment ST redevient isoélectrique après quelques jours ou semaines ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2253,7 +2503,8 @@
     "Numero": 251,
     "Proposition": "Une élévation du segment ST >1mm en V4 est le signe d’un infarctus ventriculaire droit associé à un infarctus myocardique inférieur.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'élévation du ST > 1mm témoignant d'un infarctus du VD se recherche en V4R (et non V4) ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2262,7 +2513,8 @@
     "Numero": 252,
     "Proposition": "L’amplitude des ondes T augmente au début de l’infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'amplitude des ondes T (\"ondes T géantes\") augmente effectivement dès les premières minutes/heures ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2271,7 +2523,8 @@
     "Numero": 253,
     "Proposition": "Le sus-décalage du segment ST peut atteindre 50% de l’amplitude de l’onde R en cas d’infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte ne mentionne pas de critère de 50% par rapport à l'onde R pour le sus-décalage ST ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2280,7 +2533,8 @@
     "Numero": 254,
     "Proposition": "L’onde Q disparait quelques mois après un infarctus STEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'onde Q de nécrose persiste au contraire après quelques mois ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2289,7 +2543,8 @@
     "Numero": 255,
     "Proposition": "L’onde T reste toujours négative après un infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'onde T peut rester négative, devenir isoélectrique ou se positiver après quelques mois ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2298,7 +2553,8 @@
     "Numero": 256,
     "Proposition": "Les « ondes T géantes » sont le tout 1er signe d’infarctus myocardique à l’ECG (avant l’élévation du ST).",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les ondes T géantes sont effectivement le tout premier signe à l'ECG ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2307,7 +2563,8 @@
     "Numero": 257,
     "Proposition": "Les ondes Q témoignant d'un infarctus postérieur peuvent se présenter sous la forme d’un sous-décalage en miroir en V1-V",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'infarctus postérieur se présente par des ondes R amples en V1-V2 et un sous-décalage ST en V1-V3 ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2316,7 +2573,8 @@
     "Numero": 258,
     "Proposition": "La réduction de l’amplitude de l’onde T persiste des mois après l’infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le texte indique que l'onde Q et la réduction de l'onde R persistent après quelques mois ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2325,7 +2583,8 @@
     "Numero": 259,
     "Proposition": "Le diagnostic de l’infarctus à l’ECG est difficile en cas de bloc de branche droit.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'ECG reste interprétable pour le bloc droit, mais est plus difficile pour le bloc gauche ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2334,7 +2593,8 @@
     "Numero": 260,
     "Proposition": "La radiographie du thorax est inutile dans le diagnostic de l'infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La radiographie du thorax est listée parmi les examens complémentaires utiles ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2343,7 +2603,8 @@
     "Numero": 261,
     "Proposition": "L’échographie cardiaque permet le diagnostic différentiel de l’infarctus STEMI et de la péricardite.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'échographie cardiaque permet effectivement de faire le diagnostic différentiel de la péricardite ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2352,7 +2613,8 @@
     "Numero": 262,
     "Proposition": "La présentation clinique ne permet pas de différencier des infarctus STEMI et NSTEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La présentation clinique (douleur, symptômes associés) est effectivement identique pour les deux ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2361,7 +2623,8 @@
     "Numero": 263,
     "Proposition": "Les troponines I et T et la CPK (créatine phosphokinase) sont très spécifiques pour le myocarde.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Seules les troponines sont très spécifiques pour le myocarde (la CPK ne l'est pas) ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2370,7 +2633,8 @@
     "Numero": 264,
     "Proposition": "Les troponines s’élèvent en 3 à 12 heures après l’infarctus et se normalisent en 2 à 3 jours.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le pic est à 24 heures et la normalisation prend entre 5 et 14 jours (pas 2 à 3 jours) ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2379,7 +2643,8 @@
     "Numero": 265,
     "Proposition": "Les CPK augmentent plus rapidement que les troponines et diminuent plus rapidement en cas de reperfusion coronaire précoce.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La CPK augmente effectivement plus vite et diminue plus rapidement en cas de reperfusion précoce ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2388,7 +2653,8 @@
     "Numero": 266,
     "Proposition": "L'échographie cardiaque permet d’évaluer l'altération de la contractilité myocardique après un infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'échographie permet effectivement d'évaluer l'altération de la contractilité ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2397,7 +2663,8 @@
     "Numero": 267,
     "Proposition": "Des ondes R amples en V1-V2 à l’ECG peuvent être l’image en miroir d’un infarctus postérieur.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Des ondes R amples en V1-V2 sont effectivement l'image en miroir d'un infarctus postérieur ",
+    "Page": 12.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2406,7 +2673,8 @@
     "Numero": 268,
     "Proposition": "L’aspartate aminotransférase (SGOT) et la lactate déshydrogénase (LDH) sont d’autres marqueurs biologiques de l’infarctus myocardique avec une cinétique plus lente.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La SGOT et la LDH ont effectivement une cinétique biologique plus lente ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2415,7 +2683,8 @@
     "Numero": 269,
     "Proposition": "La morphine est administrée en intra-musculaire pour soulager la douleur de l’infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La morphine est administrée par voie intraveineuse (i.v.) et non intra-musculaire ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2424,7 +2693,8 @@
     "Numero": 270,
     "Proposition": "La douleur de l’infarctus STEMI ne cède pas aux dérivés nitrés.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La douleur d'un infarctus STEMI résiste effectivement aux dérivés nitrés ",
+    "Page": 11.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2433,7 +2703,8 @@
     "Numero": 271,
     "Proposition": "Une dose de charge d’aspirine et de clopidogrel est administrée en urgence en cas d’infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'aspirine et le clopidogrel sont administrés en dose de charge à la phase aiguë ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2442,7 +2713,8 @@
     "Numero": 272,
     "Proposition": "Le traitement de l'infarctus aigu vise principalement à rétablir la perméabilité de l'artère thrombosée.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'objectif est effectivement de rétablir la perméabilité de l'artère thrombosée ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2451,7 +2723,8 @@
     "Numero": 273,
     "Proposition": "La thrombolyse est toujours préférée à la dilatation percutanée dans le traitement de l'infarctus aigu.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La dilatation percutanée est au contraire plus efficace que la thrombolyse ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2460,7 +2733,8 @@
     "Numero": 274,
     "Proposition": "La dilatation percutanée est plus efficace que la thrombolyse pour traiter un infarctus aigu du myocarde.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La dilatation percutanée (90% d'ouverture) est plus efficace que la thrombolyse (50%) ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2469,7 +2743,8 @@
     "Numero": 275,
     "Proposition": "L’administration d’un activateur du plasminogène permet de rouvrir 70% des artères thrombosées en cas d’infarctus.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La thrombolyse permet de rouvrir 50% des artères (et non 70%) ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2478,7 +2753,8 @@
     "Numero": 276,
     "Proposition": "La dilatation percutanée permet de rouvrir 90% des artères thrombosées en cas d’infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La dilatation percutanée permet effectivement de rouvrir 90% des artères ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2487,7 +2763,8 @@
     "Numero": 277,
     "Proposition": "La thrombolyse est associée à un risque d’hémorragie cérébrale.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La thrombolyse présente un risque d’hémorragie cérébrale chez 0,5% des patients ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2496,7 +2773,8 @@
     "Numero": 278,
     "Proposition": "La thrombolyse est parfois préférable à la dilatation percutanée si les symptômes durent depuis >3h.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La dilatation percutanée est au contraire toujours préférable si le délai est > 3 heures ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2505,7 +2783,8 @@
     "Numero": 279,
     "Proposition": "Le traitement médicamenteux aigu de l’infarctus STEMI est composé de bêta-bloquants, d’héparine de bas poids moléculaire, d’inhibiteurs de l’enzyme de conversion, de statines et d’antagonistes calciques.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le traitement comprend bêta-bloquants, héparine, IEC et statines (les antagonistes calciques sont à éviter) ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2514,7 +2793,8 @@
     "Numero": 280,
     "Proposition": "Les bêta-bloquants sont contre-indiqués dans le traitement aigu de l'infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les bêta-bloquants i.v. puis per os font partie du traitement de la phase aiguë ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2523,7 +2803,8 @@
     "Numero": 281,
     "Proposition": "La thrombolyse peut être efficace si le traitement est très précoce et le caillot pas encore consolidé.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La thrombolyse est efficace si elle est précoce, car le thrombus n'est pas encore consolidé ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2532,7 +2813,8 @@
     "Numero": 282,
     "Proposition": "Le meilleur traitement de l’infarctus STEMI est la chirurgie coronaire en urgence.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La chirurgie coronaire est au contraire à limiter dans l’infarctus aigu car la mortalité est importante ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2541,7 +2823,8 @@
     "Numero": 283,
     "Proposition": "Le risque de décès est très important avant le transfert à l’hôpital dans la phase aigüe de l’infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le risque de décès est effectivement très important avant le transfert à l’hôpital ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2550,7 +2833,8 @@
     "Numero": 284,
     "Proposition": "La dilatation percutanée est toujours préférable à la thrombolyse pour traiter un infarctus myocardique aigu en cas d’insuffisance cardiaque ou de choc cardiogénique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La dilatation est effectivement préférable dans ces situations de complications hémodynamiques ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2559,7 +2843,8 @@
     "Numero": 285,
     "Proposition": "Les micro-emboles générées par le thrombus contribuent aux lésions myocardiques après un infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les micro-emboles générés par le thrombus contribuent effectivement aux lésions ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2568,7 +2853,8 @@
     "Numero": 286,
     "Proposition": "Le ventricule se dilate au niveau de la zone infarcie pour diminuer la tension pariétale.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La dilatation ventriculaire (remodelage) augmente au contraire la tension pariétale ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2577,7 +2863,8 @@
     "Numero": 287,
     "Proposition": "Le myocarde « sidéré » autour de zone de nécrose est normalement perfusé mais ne retrouve pas sa fonction contractile initiale après l’infarctus.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le myocarde sidéré retrouve au contraire une fonction normale après reperfusion ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2586,7 +2873,8 @@
     "Numero": 288,
     "Proposition": "L’activation neuro-humorale après l’infarctus provoque une surcharge volémique délétère pour le cœur.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'activation neuro-humorale provoque effectivement une surcharge volémique délétère ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2595,7 +2883,8 @@
     "Numero": 289,
     "Proposition": "L’activation neuro-humorale est caractérisée par une activation du système rénine-angiotensine- aldostérone et du système orthosympathique et par une augmentation du LDL-cholestérol et de l’ADH.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'activation neuro-humorale comprend ces éléments, mais une réduction (pas augmentation) du LDL ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2604,7 +2893,8 @@
     "Numero": 290,
     "Proposition": "L’échographie cardiaque permet d’évaluer la fonction auriculaire gauche après un infarctus.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'échographie permet d'évaluer la fonction ventriculaire gauche (pas auriculaire) ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2613,7 +2903,8 @@
     "Numero": 291,
     "Proposition": "Une épreuve d’effort sub-maximale permet de rechercher une ischémie résiduelle chez les patients stabilisés après un infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'épreuve d'effort sub-maximale recherche effectivement une ischémie résiduelle ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2622,7 +2913,8 @@
     "Numero": 292,
     "Proposition": "La tachycardie ventriculaire et la fibrillation ventriculaire dans les 48h suivant l’infarctus sont des indications de mise en place d’un défibrillateur implantable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le défibrillateur est indiqué uniquement si les troubles surviennent > 48h après l’infarctus ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2631,7 +2923,8 @@
     "Numero": 293,
     "Proposition": "Le Holter est utilisée pour observer l’évolution des ondes T après un infarctus STEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le Holter est utilisé pour évaluer l’instabilité électrique (pas l'évolution des ondes T) ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2640,7 +2933,8 @@
     "Numero": 294,
     "Proposition": "L’aspirine doit être prise pendant 1 an après un infarctus STEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'aspirine est prescrite à vie (80 à 160 mg/j) et non uniquement pendant 1 an ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2649,7 +2943,8 @@
     "Numero": 295,
     "Proposition": "Le clopidogrel doit être associé à l’aspirine pendant au moins 3 à 6 mois après la mise en place d’un stent par angioplastie coronaire.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le clopidogrel est effectivement ajouté à l'aspirine durant 3 à 6 mois après un stent ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2658,7 +2953,8 @@
     "Numero": 296,
     "Proposition": "Les bêta-bloquants doivent être pris à vie après un infarctus aigu du myocarde.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les bêta-bloquants sont maintenus durant au moins 2 à 3 années (pas forcément à vie) ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2667,7 +2963,8 @@
     "Numero": 297,
     "Proposition": "On observe un remodelage ventriculaire après un infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La dilatation ventriculaire (remodelage) est mentionnée comme une conséquence de l'infarctus ",
+    "Page": 14.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2676,7 +2973,8 @@
     "Numero": 298,
     "Proposition": "L’anticoagulation par antivitamine K est recommandée chez tous les patients après un infarctus STEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L’anticoagulation par AVK est indiquée uniquement en cas de thrombus, d’akinésie vaste ou de FA ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2685,7 +2983,8 @@
     "Numero": 299,
     "Proposition": "Les héparines de bas poids moléculaire et les bas de contention sont utilisés en prévention de la thrombose veineuse profonde après un infarctus du myocarde.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les HBPM et les bas de contention sont prescrits comme prophylaxie de la TVP ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2694,7 +2993,8 @@
     "Numero": 300,
     "Proposition": "Les inhibiteurs de l’enzyme de conversion doivent être pris à vie après un infarctus aigu du myocarde.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte stipule que les IEC doivent être maintenus à vie après l'épisode aigu ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2703,7 +3003,8 @@
     "Numero": 301,
     "Proposition": "Les dérivés nitrés sont utilisés dans le traitement chronique de l'infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les dérivés nitrés doivent au contraire être arrêtés endéans les 48 heures ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2712,7 +3013,8 @@
     "Numero": 302,
     "Proposition": "Les programmes de réhabilitation cardiaque sont aussi importants que les bêta-bloquants ou les hypocholestérolémiants pour améliorer la survie après un infarctus myocardique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document affirme qu'ils sont aussi importants que les traitements médicamenteux cités ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2721,7 +3023,8 @@
     "Numero": 303,
     "Proposition": "L'arrêt du tabac ne réduit pas les risques après un infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L’arrêt du tabac réduit les risques cardiovasculaires endéans 3 à 4 années ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2730,7 +3033,8 @@
     "Numero": 304,
     "Proposition": "Le vérapamil est recommandé dans le traitement chronique de l’infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le vérapamil n'est pas recommandé ; seul le diltiazem est cité pour des cas spécifiques ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2739,7 +3043,8 @@
     "Numero": 305,
     "Proposition": "La prise chronique d’aspirine réduit la mortalité de 25% après un infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La prise chronique d’aspirine réduit effectivement la mortalité de 25 % ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2748,7 +3053,8 @@
     "Numero": 306,
     "Proposition": "Les bêta-bloquants sont utilisés pour augmenter la fréquence cardiaque après un infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont au contraire utilisés pour réduire la fréquence cardiaque vers 50-55 bpm ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2757,7 +3063,8 @@
     "Numero": 307,
     "Proposition": "Les inhibiteurs de l'enzyme de conversion ne sont pas recommandés pour les patients avec une fraction d'éjection ventriculaire gauche < 40 %.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont au contraire particulièrement recommandés si la fraction d’éjection est < 40 % ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2766,7 +3073,8 @@
     "Numero": 308,
     "Proposition": "Il faut réduire le LDL-cholestérol sous 55mg/dl le plus rapidement possible après un infarctus STEMI.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La cible thérapeutique est effectivement une réduction sous 55 mg/dl ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2775,7 +3083,8 @@
     "Numero": 309,
     "Proposition": "Les anticoagulants sont recommandés uniquement en présence de certaines conditions spécifiques après un infarctus myocardique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'anticoagulation par AVK est réservée aux cas avec thrombus, akinésie vaste ou FA ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2784,7 +3093,8 @@
     "Numero": 310,
     "Proposition": "La radiographie du thorax est utile pour évaluer la taille du cœur après un infarctus myocardique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document cite la Rx thorax parmi les examens, mais l'écho est préférée pour la taille ",
+    "Page": 13.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2793,7 +3103,8 @@
     "Numero": 311,
     "Proposition": "Les antagonistes calciques sont recommandés pour le traitement aigu de l'infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont utilisés en seconde intention uniquement si les bêta-bloquants sont contre-indiqués ",
+    "Page": 10.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2802,7 +3113,8 @@
     "Numero": 312,
     "Proposition": "Les inhibiteurs de l'enzyme de conversion sont administrés par voie intraveineuse dans le traitement aigu de l’infarctus myocardique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le texte précise qu'ils ne doivent pas être administrés par voie IV car cela augmente la mortalité ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2811,7 +3123,8 @@
     "Numero": 313,
     "Proposition": "La prise chronique de bêta-bloquants réduisent la mortalité de 50% après un infarctus STEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La prise chronique de bêta-bloquants réduit la mortalité de 20 % (et non 50 %) ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2820,7 +3133,8 @@
     "Numero": 314,
     "Proposition": "Les hypocholestérolémiants sont recommandés pour réduire le HDL-cholestérol après un infarctus STEMI.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Ils sont utilisés pour réduire le LDL-cholestérol (l'exercice peut augmenter le HDL) ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2829,7 +3143,8 @@
     "Numero": 315,
     "Proposition": "Le LDL-cholestérol est faussement abaissé en post-infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte avertit que le taux de LDL est faussement abaissé juste après l'infarctus ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2838,7 +3153,8 @@
     "Numero": 316,
     "Proposition": "La réduction de la fonction ventriculaire gauche nécessite des inhibiteurs de l'enzyme de conversion.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les IEC sont indispensables pour traiter la réduction de la fonction ventriculaire gauche ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2847,7 +3163,8 @@
     "Numero": 317,
     "Proposition": "La prise chronique d’inhibiteurs de l’enzyme de conversion réduisent la mortalité de 25% post-infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document confirme que le traitement par IEC réduit la mortalité de 25 % ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2856,7 +3173,8 @@
     "Numero": 318,
     "Proposition": "Le diltiazem est le seul antagoniste calcique recommandé dans le traitement chronique de l’infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le diltiazem est cité comme utile si l'infarctus est sans onde Q ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2865,7 +3183,8 @@
     "Numero": 319,
     "Proposition": "Les dérivés nitrés doivent être arrêtés 48h après un infarctus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'arrêt des nitrés est effectivement préconisé après les 48 premières heures ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2874,7 +3193,8 @@
     "Numero": 320,
     "Proposition": "L’administration intra-veineuse d’inhibiteurs de l’enzyme de conversion augmente la mortalité.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document précise explicitement que la voie IV augmente la mortalité ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2883,7 +3203,8 @@
     "Numero": 321,
     "Proposition": "Les arythmies ventriculaires tardives post-infarctus ne sont pas une indication de mise en place d’un défibrillateur implantable.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elles sont au contraire une indication de défibrillateur si elles surviennent après 48h ",
+    "Page": 15.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2892,7 +3213,8 @@
     "Numero": 322,
     "Proposition": "La dissection aortique est 3 fois plus fréquente que la rupture d’un anévrysme aortique abdominal.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La dissection est au contraire décrite comme deux fois plus fréquente ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2901,7 +3223,8 @@
     "Numero": 323,
     "Proposition": "La dissection aortique est plus fréquente chez les femmes que chez les hommes.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle atteint au contraire principalement les hommes entre 50 et 70 ans ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2910,7 +3233,8 @@
     "Numero": 324,
     "Proposition": "L'HTA est un facteur de risque mineur pour la dissection aortique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'hypertension artérielle est au contraire désignée comme un facteur de risque important ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2919,7 +3243,8 @@
     "Numero": 325,
     "Proposition": "La dissection aortique peut être favorisée par une augmentation très rapide de la pression artérielle, comme lors d’un exercice isométrique ou de la prise de cocaïne.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'exercice isométrique et la cocaïne sont cités comme facteurs favorisant les poussées de PA ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2928,7 +3253,8 @@
     "Numero": 326,
     "Proposition": "La dissection aortique est rare chez les sujets jeunes, sauf s'ils présentent des facteurs de fragilité tissulaire ou des modifications hémodynamiques.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Les sujets jeunes ne sont touchés qu'en présence de fragilité tissulaire ou de modifications hémodynamiques ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2937,7 +3263,8 @@
     "Numero": 327,
     "Proposition": "La dissection aortique touche principalement les hommes entre 40 et 50 ans.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le document précise que la dissection atteint surtout les hommes entre 50 et 70 ans ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2946,7 +3273,8 @@
     "Numero": 328,
     "Proposition": "La dissection aortique survient principalement dans l'aorte descendante.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La déchirure initiale siège au contraire dans l’aorte ascendante dans 2/3 des cas ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2955,7 +3283,8 @@
     "Numero": 329,
     "Proposition": "Dans la classification de Stanford, le Type A concerne l'aorte ascendante et l'arche aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le Type A est défini par l'atteinte de l'aorte ascendante et de l'arche aortique ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2964,7 +3293,8 @@
     "Numero": 330,
     "Proposition": "Les sujets atteints de dissection aortique de type A sont souvent hypertendus.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le texte précise au contraire que les Type A n'ont souvent pas d'hypertension préalable ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2973,7 +3303,8 @@
     "Numero": 331,
     "Proposition": "La douleur brutale et très sévère est le symptôme le plus fréquent de la dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La douleur est décrite comme le symptôme le plus fréquent, brutale et très sévère ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2982,7 +3313,8 @@
     "Numero": 332,
     "Proposition": "La grossesse augmente le risque de dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La grossesse est listée parmi les facteurs favorisant la fragilité chez les sujets jeunes ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -2991,7 +3323,8 @@
     "Numero": 333,
     "Proposition": "La tricuspidie aortique est un facteur de risque de dissection aortique chez les sujets jeunes.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "C'est la bicuspidie aortique (et non tricuspidie) qui est un facteur de risque ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3000,7 +3333,8 @@
     "Numero": 334,
     "Proposition": "Dans la dissection aortique, une fausse lumière se crée entre la média et l’adventice.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La fausse lumière se crée au sein de la paroi aortique, entre l'intima et la média ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3009,7 +3343,8 @@
     "Numero": 335,
     "Proposition": "La déchirure de l’intima touche l’aorte ascendante dans 2/3 des cas de dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le texte confirme que 2/3 des déchirures intimales se situent dans l'aorte ascendante ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3018,7 +3353,8 @@
     "Numero": 336,
     "Proposition": "La fausse lumière créée par la dissection s’étend au moins sur la moitié de la circonférence aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La fausse lumière s'étend effectivement sur la moitié au 2/3 de la circonférence ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3027,7 +3363,8 @@
     "Numero": 337,
     "Proposition": "Les branches de division de l’aorte peuvent parfois être alimentées par la fausse lumière en cas de dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document précise que les branches peuvent être alimentées par la fausse lumière ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3036,7 +3373,8 @@
     "Numero": 338,
     "Proposition": "La dissection aortique peut parfois entreprendre la valve mitrale ou les artères coronaires.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La dissection peut effectivement entreprendre la valve aortique (pas mitrale) et les coronaires ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3045,7 +3383,8 @@
     "Numero": 339,
     "Proposition": "La dissection aortique de type A de Stanford touche plus souvent les jeunes sans affection prédisposante.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Les Type A concernent effectivement souvent des jeunes avec affection prédisposante ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3054,7 +3393,8 @@
     "Numero": 340,
     "Proposition": "Dans la classification de Stanford, le type B touche les vaisseaux après l’artère sous-clavière, c’est-à-dire l’aorte ascendante et l’aorte abdominale.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le Type B concerne l'aorte descendante et abdominale (après l'artère sous-clavière) ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3063,7 +3403,8 @@
     "Numero": 341,
     "Proposition": "La dissection aortique n’entraine pas toujours de rupture de l’aorte.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'aorte ne se rompt que si l'adventice et la média cèdent également ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3072,7 +3413,8 @@
     "Numero": 342,
     "Proposition": "Les sujets atteints de dissection aortique de type B sont souvent âgés et hypertendus.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le Type B se rencontre effectivement souvent chez le sujet plus âgé et hypertendu ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3081,7 +3423,8 @@
     "Numero": 343,
     "Proposition": "La dissection aortique se manifeste par une douleur pulsatile et migrante selon l’étendue de la lésion.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La douleur est décrite comme brutale et migrante, mais pas spécifiquement pulsatile ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3090,7 +3433,8 @@
     "Numero": 344,
     "Proposition": "La dissection aortique peut entraîner une insuffisance aortique aiguë.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'insuffisance aortique aiguë est citée comme une cause possible de décès ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3099,7 +3443,8 @@
     "Numero": 345,
     "Proposition": "La dissection aortique peut être confondue avec un infarctus myocardique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Elle est listée comme l'un des principaux diagnostics différentiels de la douleur thoracique ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3108,7 +3453,8 @@
     "Numero": 346,
     "Proposition": "L’examen physique de la dissection aortique montre un nouveau souffle d’insuffisance aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'examen physique peut effectivement révéler un nouveau souffle d'insuffisance aortique ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3117,7 +3463,8 @@
     "Numero": 347,
     "Proposition": "Le traitement de la dissection aortique de type B nécessite généralement une chirurgie urgente.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le Type B non compliqué fait l'objet d'un traitement médical ; la chirurgie est pour le Type A ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3126,7 +3473,8 @@
     "Numero": 348,
     "Proposition": "Le traitement de la dissection aortique de type B est toujours médical.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le traitement du Type B est généralement médical, mais peut inclure une prothèse endovasculaire ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3135,7 +3483,8 @@
     "Numero": 349,
     "Proposition": "Le traitement chronique de la dissection aortique consiste à traiter l'HTA et à surveiller la taille de l'aorte au moins 2 fois par an par résonance magnétique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le traitement chronique nécessite une surveillance au moins annuelle (1 fois par an) par RMN ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3144,7 +3493,8 @@
     "Numero": 350,
     "Proposition": "L’examen physique de la dissection aortique peut montrer un frottement péricardique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'examen physique peut effectivement révéler un frottement péricardique ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3153,7 +3503,8 @@
     "Numero": 351,
     "Proposition": "L’opération de Bentall consiste à remplacer l’aorte ascendante par une prothèse en dacron.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'opération de Bentall est citée au chapitre 4 (valvulopathies) pour le remplacement de l'aorte ascendante ",
+    "Page": 5.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3162,7 +3513,8 @@
     "Numero": 352,
     "Proposition": "La dissection aortique peut se manifester par des signes d’ischémie des branches de divisions de l’aorte : AVC, syncope, paraplégie, polyurie,…",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle peut causer une ischémie des branches avec oligurie ou anurie (pas polyurie) ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3171,7 +3523,8 @@
     "Numero": 353,
     "Proposition": "La radiographie de thorax peut montrer une cardiomégalie en cas de dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La Rx thorax peut montrer une cardiomégalie en raison d'une tamponnade associée ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3180,7 +3533,8 @@
     "Numero": 354,
     "Proposition": "La dissection aortique peut entrainer le décès du patient par mort subite ou choc (hypovolémique, tamponnade, insuffisance aortique aigue, infarctus myocardique,…).",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le décès peut effectivement survenir par choc hypovolémique, tamponnade ou infarctus ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3189,7 +3543,8 @@
     "Numero": 355,
     "Proposition": "L’embolie pulmonaire fait partie du diagnostic différentiel de la dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'embolie pulmonaire est listée parmi les diagnostics différentiels de la douleur thoracique ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3198,7 +3553,8 @@
     "Numero": 356,
     "Proposition": "Le traitement en urgence de la dissection aortique comprend une réduction agressive de la PA.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le traitement d'urgence impose une réduction agressive de la pression artérielle ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3207,7 +3563,8 @@
     "Numero": 357,
     "Proposition": "Le scanner spiralé est le meilleur examen pour diagnostiquer une dissection aortique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'échographie (externe et ETO) est souvent préférée au scanner car disponible sans irradiation ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3216,7 +3573,8 @@
     "Numero": 358,
     "Proposition": "La prévention de la dissection aortique consiste à traiter l’HTA et à surveiller régulièrement la taille de l’aorte par échographie chez les patients à risque (Marfan, bicuspidie aortique, coarctation aortique,…).",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La surveillance régulière chez les patients à risque se fait par résonance magnétique (RMN) ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3225,7 +3583,8 @@
     "Numero": 359,
     "Proposition": "Le traitement chronique de la dissection aortique nécessite un contrôle strict de la pression artérielle.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le traitement chronique repose sur un contrôle strict de la PA ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3234,7 +3593,8 @@
     "Numero": 360,
     "Proposition": "Tous les patients doivent prendre un bêta-bloquant après une dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le traitement chronique doit effectivement comporter un bêtabloquant ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3243,7 +3603,8 @@
     "Numero": 361,
     "Proposition": "La cocaïne peut favoriser la survenue d'une dissection aortique en raison de son effet vasodilatateur.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La cocaïne favorise la dissection par une augmentation très rapide de la pression artérielle ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3252,7 +3613,8 @@
     "Numero": 362,
     "Proposition": "La dissection aortique survient principalement chez les personnes jeunes et en bonne santé.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Elle atteint surtout les hommes entre 50 et 70 ans ; les jeunes sont rarement touchés ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3261,7 +3623,8 @@
     "Numero": 363,
     "Proposition": "La dissection aortique peut entraîner une embolie pulmonaire.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "L'embolie pulmonaire est un diagnostic différentiel, pas une conséquence directe citée ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3270,7 +3633,8 @@
     "Numero": 364,
     "Proposition": "L'ischémie des branches de division de l'aorte peut causer une anurie.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'ischémie des branches de division de l'aorte peut effectivement causer une anurie ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3279,7 +3643,8 @@
     "Numero": 365,
     "Proposition": "La dissection aortique est facilement différenciable de l'infarctus myocardique grâce à l'ECG.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le document liste l'infarctus comme diagnostic différentiel et complication possible à l'ECG ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3288,7 +3653,8 @@
     "Numero": 366,
     "Proposition": "La dissection aortique doit être traitée en urgence par l’association d’un bêta-bloquant et d’un vasodilatateur en intra-veineux.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le traitement d'urgence repose sur l'association d'un vasodilatateur et d'un bêta-bloquant IV ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3297,7 +3663,8 @@
     "Numero": 367,
     "Proposition": "Les personnes atteintes de syndrome de Marfan ont un risque accru de dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le syndrome de Marfan est cité comme une affection prédisposante majeure ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3306,7 +3673,8 @@
     "Numero": 368,
     "Proposition": "La visualisation de l’arc aortique est parfois difficile à l’échographie.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document précise que la visualisation de l’arc aortique est parfois plus difficile à l’échographie ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3315,7 +3683,8 @@
     "Numero": 369,
     "Proposition": "La dissection aortique de type A nécessite généralement un traitement médical.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "Le Type A de Stanford nécessite au contraire une chirurgie urgente ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3324,7 +3693,8 @@
     "Numero": 370,
     "Proposition": "Les personnes atteintes de coarctation aortique ont un risque accru de dissection aortique.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "La coarctation aortique est listée parmi les facteurs favorisants chez les sujets jeunes ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3333,7 +3703,8 @@
     "Numero": 371,
     "Proposition": "La dissection aortique peut être confondue avec un abdomen aigu.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "L'abdomen aigu fait effectivement partie du diagnostic différentiel ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3342,7 +3713,8 @@
     "Numero": 372,
     "Proposition": "La déchirure de l’intima survient près de l’isthme dans 1/20 des cas de dissection aortique.",
     "Reponse": false,
-    "Justification": "",
+    "Justification": "La déchirure de l'intima survient près de l'isthme dans 1/10 des cas (et non 1/20) ",
+    "Page": 16.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"
@@ -3351,7 +3723,8 @@
     "Numero": 373,
     "Proposition": "La mortalité de la dissection aortique est très élevée en l’absence de traitement.",
     "Reponse": true,
-    "Justification": "",
+    "Justification": "Le document confirme que la mortalité du patient non traité est élevée ",
+    "Page": 17.0,
     "Reference": "-",
     "Question": "-",
     "image": "media/.png"

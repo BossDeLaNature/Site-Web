@@ -982,7 +982,7 @@
   {
     "Numero": 99,
     "Proposition": "La valve aortique sténosée ne peut pas être remplacée par une valve mécanique si le patient présente une contre-indication aux vitamines K.",
-    "Reponse": false,
+    "Reponse": true,
     "Justification": "La valve mécanique nécessite des AVK, ce qui est une contre-indication ",
     "Page": 5,
     "Reference": "-",
