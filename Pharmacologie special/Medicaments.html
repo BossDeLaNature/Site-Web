@@ -1,9 +1,10 @@
-
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PharmacoMemo - Système Expert</title>
+    <!-- Chargement de Tailwind CSS pour un design premium et moderne -->
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
     <style>
@@ -43,7 +44,7 @@
             <!-- Onglets de Navigation -->
             <div class="inline-flex p-1.5 bg-slate-200/60 rounded-2xl mb-6">
                 <button id="tabQuizBtn" onclick="switchTab('quiz')" class="px-6 py-2.5 rounded-xl font-bold text-sm text-indigo-900 bg-white shadow-sm transition-all">
-                    🎯 Mode Cartes / Quiz
+                    🎯 Mode Association / Quiz
                 </button>
                 <button id="tabSummaryBtn" onclick="switchTab('summary')" class="px-6 py-2.5 rounded-xl font-bold text-sm text-slate-600 hover:text-indigo-900 transition-all">
                     📚 Synthèse par Classe
@@ -88,60 +89,46 @@
             <div id="quizCard" class="bg-white rounded-[2.5rem] custom-shadow border border-white overflow-hidden transition-all duration-500 min-h-[500px] flex flex-col">
                 <div class="p-8 md:p-12 flex-grow">
                     
-                    <div class="text-center mb-10">
-                        <span class="text-[10px] font-black uppercase tracking-[0.3em] text-slate-400 mb-2 block">DCI / Nom du Médicament</span>
-                        <h2 id="medName" class="text-4xl md:text-5xl font-black text-slate-800 tracking-tighter">Chargement...</h2>
+                    <!-- En-tête dynamique du Quiz -->
+                    <div class="text-center mb-8">
+                        <span id="quizInstruction" class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-4 block">Trouvez la classe commune de ces médicaments :</span>
+                        
+                        <!-- Liste des molécules présentées ensemble -->
+                        <div id="medGroupContainer" class="flex flex-wrap justify-center gap-3 max-w-2xl mx-auto my-4">
+                            <!-- Injecté dynamiquement par le script -->
+                        </div>
                     </div>
 
                     <!-- ÉTAPE 1 : DEVINER LA CLASSE -->
                     <div id="step1_GuessClass" class="max-w-md mx-auto mb-10 reveal-anim">
                         <div class="relative">
-                            <label class="block text-center text-xs font-bold text-slate-500 mb-4">Trouvez la classe pharmacologique du médicament :</label>
+                            <label class="block text-center text-xs font-bold text-slate-500 mb-4">Saisissez ou sélectionnez la classe pharmacologique :</label>
                             <input type="text" id="classInput" list="allClassesList" autocomplete="off" 
                                 class="w-full p-5 bg-slate-50 border-2 border-slate-100 rounded-2xl text-center font-bold text-lg focus:border-indigo-500 focus:ring-8 focus:ring-indigo-100 outline-none transition-all"
-                                placeholder="Commencez à taper pour de l'aide...">
+                                placeholder="Tapez la classe thérapeutique...">
                             <datalist id="allClassesList"></datalist>
                         </div>
                         <div id="feedback" class="mt-4 text-center h-6 text-sm font-bold"></div>
                         <button onclick="giveUpClass()" class="mt-6 block mx-auto text-[10px] font-black text-slate-400 hover:text-indigo-500 uppercase tracking-widest transition-colors">
-                            Je ne sais pas, révéler la classe →
+                            Je ne sais pas, révéler la classe commune →
                         </button>
                     </div>
 
                     <!-- ÉTAPE 2 : CLASSE RÉVÉLÉE (Active Recall) -->
                     <div id="step2_ClassRevealed" class="hidden-step reveal-anim max-w-md mx-auto text-center">
                         <div class="bg-indigo-600 text-white p-6 rounded-3xl shadow-xl shadow-indigo-100 mb-6">
-                            <p class="text-[10px] font-black uppercase tracking-widest mb-1.5 opacity-70">Classe confirmée</p>
+                            <p class="text-[10px] font-black uppercase tracking-widest mb-1.5 opacity-70">Classe thérapeutique confirmée</p>
                             <p id="confirmedClassName" class="text-xl md:text-2xl font-black leading-tight"></p>
                         </div>
                         <div class="space-y-2 bg-slate-50 p-5 rounded-3xl border border-slate-100">
                             <p class="text-slate-800 text-md font-black">🧠 Effort de rappel !</p>
-                            <p class="text-slate-400 text-xs font-medium leading-relaxed">Réfléchissez aux indications, contre-indications, <br>interactions, effets secondaires et précautions avant d'afficher.</p>
+                            <p class="text-slate-400 text-xs font-medium leading-relaxed">Avant de dévoiler, essayez de vous souvenir des indications, contre-indications, effets secondaires et précautions de chaque molécule affichée ci-dessus.</p>
                         </div>
                     </div>
 
-                    <!-- ÉTAPE 3 : DÉTAILS COMPLETS -->
-                    <div id="step3_AllDetails" class="hidden-step reveal-anim grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pb-6">
-                        <div class="bg-blue-50/40 p-5 rounded-2xl border border-blue-100">
-                            <h3 class="text-[10px] font-black text-blue-600 uppercase tracking-widest mb-3">🎯 Indications</h3>
-                            <div id="medIndications" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
-                        </div>
-                        <div class="bg-rose-50/40 p-5 rounded-2xl border border-rose-100">
-                            <h3 class="text-[10px] font-black text-rose-600 uppercase tracking-widest mb-3">🚫 Contre-indications</h3>
-                            <div id="medContra" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
-                        </div>
-                        <div class="bg-amber-50/40 p-5 rounded-2xl border border-amber-100">
-                            <h3 class="text-[10px] font-black text-amber-600 uppercase tracking-widest mb-3">🔄 Interactions</h3>
-                            <div id="medInteractions" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
-                        </div>
-                        <div class="bg-purple-50/40 p-5 rounded-2xl border border-purple-100">
-                            <h3 class="text-[10px] font-black text-purple-600 uppercase tracking-widest mb-3">⚠️ Effets Indésirables</h3>
-                            <div id="medSideEffects" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
-                        </div>
-                        <div class="bg-emerald-50/40 p-5 rounded-2xl border border-emerald-100 lg:col-span-2">
-                            <h3 class="text-[10px] font-black text-emerald-600 uppercase tracking-widest mb-3">🛡️ Précautions</h3>
-                            <div id="medPrecaution" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
-                        </div>
+                    <!-- ÉTAPE 3 : DÉTAILS COMPLETS SOUS FORME D'ACCORDÉONS COMPACTS -->
+                    <div id="step3_AllDetails" class="hidden-step reveal-anim space-y-4 max-w-4xl mx-auto pb-6">
+                        <!-- Injecté dynamiquement par JS (1 accordéon par médicament du groupe) -->
                     </div>
                 </div>
 
@@ -164,7 +151,7 @@
                 <div class="mb-6">
                     <h2 class="text-xl font-black text-slate-800">📚 Répertoire d'Étude par Classe</h2>
                     <p class="text-xs text-slate-400 font-semibold mt-1">
-                        Consultez tous vos médicaments regroupés de manière compacte par classe pharmacologique pour réviser rapidement.
+                        Consultez vos molécules regroupées de manière logique et synthétique. La catégorie "Autre" recense les molécules isolées.
                     </p>
                 </div>
                 
@@ -176,48 +163,76 @@
         </div>
     </div>
 
+    <!-- Script principal de l'application -->
     <script>
-        // 1. Initialisation des variables globales
         let medicationsDB = [];
-        let filteredMeds = [];
+        let quizGroups = []; // Groupes de quiz préparés (un groupe = une classe, ou un médoc "Autre")
+        let filteredGroups = [];
         let currentIndex = 0;
         let flowState = 'GUESSING';
         let isRandom = false;
         let activeTab = 'quiz';
-        let playedIndexes = []; // Pour ne pas rejouer les mêmes cartes en mode aléatoire
+        let playedIndexes = [];
 
-        // 2. Base de données de secours locale pour que l'app fonctionne par défaut ou si le JSON a un problème
+        // Base de secours riche montrant les 2 types : les groupés et les individuels ("Autre")
         const fallbackDB = [
             {
-                "nom_medicament": "Paracétamol",
-                "type_medicament": "Antalgique non opioïde",
-                "indications": ["Douleurs d'intensité légère à modérée", "États fébriles"],
-                "contre_indications": ["Insuffisance hépatocellulaire sévère", "Hypersensibilité au paracétamol"],
-                "interactions": ["Anticoagulants oraux (surveillance accrue si dose maximale)", "Alcool (majoration de la toxicité)"],
-                "effets_indésirables": ["Réactions d'hypersensibilité", "Hépatotoxicité en cas de surdosage"],
-                "precaution": ["Respecter la posologie maximale (4g/jour chez l'adulte)", "Espacer les prises de 4h minimum"]
+                "nom_medicament": "Amoxicilline",
+                "type_medicament": "Antibiotique bêta-lactamine",
+                "indications": ["Infections bronchopulmonaires", "Otites moyennes aiguës", "Infections urinaires"],
+                "contre_indications": ["Allergie aux bêta-lactamines / pénicillines"],
+                "interactions": ["Méthotrexate (toxicité accrue)"],
+                "effets_indésirables": ["Diarrhées, nausées", "Éruptions cutanées"],
+                "precaution": ["Maintenir un apport hydrique suffisant"]
+            },
+            {
+                "nom_medicament": "Pénicilline V",
+                "type_medicament": "Antibiotique bêta-lactamine",
+                "indications": ["Angines à streptocoque A", "Prophylaxie d'infections bactériennes"],
+                "contre_indications": ["Allergie connue aux pénicillines"],
+                "interactions": ["Méthotrexate"],
+                "effets_indésirables": ["Réactions allergiques", "Troubles digestifs temporaires"],
+                "precaution": ["Prendre de préférence en dehors des repas pour une meilleure absorption"]
             },
             {
                 "nom_medicament": "Ibuprofène",
                 "type_medicament": "AINS (Anti-inflammatoire non stéroïdien)",
-                "indications": ["Fièvre", "Douleurs légères à modérées", "Inflammations articulaires"],
-                "contre_indications": ["Grossesse (à partir du 6ème mois)", "Ulcère gastro-duodénal actif", "Insuffisance rénale sévère"],
-                "interactions": ["Autres AINS", "Anticoagulants (risque hémorragique majoré)", "Lithium"],
-                "effets_indésirables": ["Troubles digestifs (brûlures d'estomac)", "Insuffisance rénale aiguë", "Éruptions cutanées"],
-                "precaution": ["Prendre au milieu d'un repas", "Hydratation adéquate", "Durée de traitement la plus courte possible"]
+                "indications": ["Fièvre", "Douleurs légères à modérées", "Inflammations articulaires de l'adulte"],
+                "contre_indications": ["Grossesse (dès le 6ème mois)", "Ulcère gastro-duodénal actif", "Insuffisance rénale sévère"],
+                "interactions": ["Autres AINS", "Anticoagulants (risque hémorragique)", "Lithium"],
+                "effets_indésirables": ["Troubles gastriques", "Altération de la fonction rénale", "Éruption cutanée"],
+                "precaution": ["Prendre au cours d'un repas", "Utiliser la dose minimale efficace sur la durée la plus courte"]
             },
             {
-                "nom_medicament": "Amoxicilline",
-                "type_medicament": "Antibiotique bêta-lactamine",
-                "indications": ["Infections bronchopulmonaires", "Otites moyennes aiguës", "Infections urinaires documentées"],
-                "contre_indications": ["Allergie aux bêta-lactamines / pénicillines"],
-                "interactions": ["Méthotrexate (augmentation de sa toxicité)", "Vaccin contre le choléra"],
-                "effets_indésirables": ["Diarrhées, nausées", "Éruptions cutanées maculopapuleuses", "Candidose digestive"],
-                "precaution": ["Maintenir un apport hydrique suffisant", "Surveillance de la fonction rénale chez le sujet âgé"]
+                "nom_medicament": "Kétoprofène",
+                "type_medicament": "AINS (Anti-inflammatoire non stéroïdien)",
+                "indications": ["Arthrites aiguës", "Tendinites", "Douleurs lombaires aiguës"],
+                "contre_indications": ["Grossesse (dès le 6ème mois)", "Insuffisance cardiaque sévère", "Ulcère gastroduodénal"],
+                "interactions": ["Aspirine à forte dose", "Anticoagulants oraux", "Lithium"],
+                "effets_indésirables": ["Photosensibilisation cutanée", "Douleurs épigastriques"],
+                "precaution": ["Éviter toute exposition au soleil ou UV pendant le traitement"]
+            },
+            {
+                "nom_medicament": "Charbon actif",
+                "type_medicament": "Autre",
+                "indications": ["Intoxications médicamenteuses aiguës", "Ballonnements intestinaux"],
+                "contre_indications": ["Risque d'obstruction intestinale", "Ingestion de produits corrosifs"],
+                "interactions": ["Diminue l'absorption de la plupart des autres médicaments oraux"],
+                "effets_indésirables": ["Coloration noire des selles", "Constipation à forte dose"],
+                "precaution": ["Respecter un intervalle d'au moins 2 heures entre le charbon et un autre traitement"]
+            },
+            {
+                "nom_medicament": "Mélatonine",
+                "type_medicament": "Autre",
+                "indications": ["Décalage horaire (Jet lag)", "Difficultés d'endormissement chez l'adulte âgé"],
+                "contre_indications": ["Maladies auto-immunes (par précaution)"],
+                "interactions": ["Fluvoxamine", "Alcool"],
+                "effets_indésirables": ["Somnolence diurne", "Céphalées passagères"],
+                "precaution": ["Ne pas conduire de véhicule dans les heures suivant la prise"]
             }
         ];
 
-        // 3. Chargement de la base de données (sur GitHub ou fallback)
+        // Chargement initial
         fetch("data/medicaments.json")
             .then(response => {
                 if (!response.ok) throw new Error("Fichier local introuvable, utilisation de la base interne.");
@@ -229,13 +244,13 @@
             })
             .catch(error => {
                 console.warn(error.message);
-                // Utilisation des données par défaut si l'appel fetch échoue
                 medicationsDB = fallbackDB;
                 startApp();
             });
 
         function startApp() {
-            filteredMeds = [...medicationsDB];
+            prepareQuizGroups();
+            filteredGroups = [...quizGroups];
             populateClasses();
             populateSummary();
             resetFlow();
@@ -250,16 +265,61 @@
             return data || "Non spécifié";
         }
 
-        // Remplit les options de filtre
+        // Regroupe les médicaments par classe. Les "Autre" sont séparés individuellement.
+        function prepareQuizGroups() {
+            const tempGroups = {};
+            
+            medicationsDB.forEach(med => {
+                // Uniformiser le nom de la classe
+                let rawType = med.type_medicament ? med.type_medicament.trim() : "Autre";
+                if (!rawType || rawType === "" || rawType.toLowerCase() === "autre") {
+                    rawType = "Autre";
+                }
+                
+                if (!tempGroups[rawType]) {
+                    tempGroups[rawType] = [];
+                }
+                tempGroups[rawType].push(med);
+            });
+
+            quizGroups = [];
+
+            // 1. Ajouter les classes légitimes en tant que Groupes
+            Object.keys(tempGroups).forEach(className => {
+                if (className !== "Autre") {
+                    quizGroups.push({
+                        type: 'GROUP',
+                        className: className,
+                        medications: tempGroups[className]
+                    });
+                }
+            });
+
+            // 2. Ajouter les "Autre" individuellement (molécules sans classe commune)
+            if (tempGroups["Autre"]) {
+                tempGroups["Autre"].forEach(med => {
+                    quizGroups.push({
+                        type: 'INDIVIDUAL',
+                        className: "Autre",
+                        medications: [med]
+                    });
+                });
+            }
+        }
+
+        // Remplit le menu déroulant et l'autocomplétion
         function populateClasses() {
             const select = document.getElementById('classFilter');
             const datalist = document.getElementById('allClassesList');
             
-            // Réinitialiser les listes
             select.innerHTML = '<option value="all">Toutes les classes</option>';
             datalist.innerHTML = '';
             
-            const classes = [...new Set(medicationsDB.map(m => m.type_medicament))].sort();
+            // Récupérer toutes les classes uniques incluant "Autre"
+            const classes = [...new Set(medicationsDB.map(m => {
+                let type = m.type_medicament ? m.type_medicament.trim() : "Autre";
+                return (!type || type === "" || type.toLowerCase() === "autre") ? "Autre" : type;
+            }))].sort();
             
             classes.forEach(c => {
                 const optSelect = document.createElement('option');
@@ -271,6 +331,21 @@
                 optData.value = c;
                 datalist.appendChild(optData);
             });
+        }
+
+        // Système d'accordéon pour consulter les molécules du groupe dévoilé
+        let openAccordionIdx = 0;
+        function toggleAccordion(idx) {
+            const content = document.getElementById(`accordion-content-${idx}`);
+            const arrow = document.getElementById(`accordion-arrow-${idx}`);
+            
+            if (content.classList.contains('hidden')) {
+                content.classList.remove('hidden');
+                arrow.classList.add('rotate-180');
+            } else {
+                content.classList.add('hidden');
+                arrow.classList.remove('rotate-180');
+            }
         }
 
         // Basculer d'onglet
@@ -299,7 +374,7 @@
                 btnQuiz.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-slate-600 hover:text-indigo-900 transition-all";
                 btnSummary.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-indigo-900 bg-white shadow-sm transition-all";
                 
-                populateSummary(); // Recréer ou mettre à jour la liste consolidée
+                populateSummary();
             }
         }
 
@@ -313,24 +388,25 @@
                 return;
             }
 
-            // Grouper les médicaments par classe
+            // Regrouper par classe
             const grouped = {};
             medicationsDB.forEach(med => {
-                const type = med.type_medicament || "Classe non spécifiée";
+                let type = med.type_medicament ? med.type_medicament.trim() : "Autre";
+                if (!type || type === "" || type.toLowerCase() === "autre") {
+                    type = "Autre";
+                }
                 if (!grouped[type]) {
                     grouped[type] = [];
                 }
                 grouped[type].push(med);
             });
 
-            // Trier les clés de classe
             const sortedClasses = Object.keys(grouped).sort();
 
             sortedClasses.forEach((className, groupIdx) => {
                 const groupContainer = document.createElement('div');
                 groupContainer.className = "border border-slate-100 rounded-2xl overflow-hidden shadow-sm bg-slate-50/50";
 
-                // En-tête de la classe (Bouton d'accordéon)
                 groupContainer.innerHTML = `
                     <button onclick="toggleGroupAccordion(${groupIdx})" class="w-full flex justify-between items-center p-5 bg-white hover:bg-slate-50 transition-all text-left">
                         <div>
@@ -351,7 +427,6 @@
                 container.appendChild(groupContainer);
                 const listContent = document.getElementById(`content-${groupIdx}`);
 
-                // Rendre chaque médicament de cette classe de manière très concise
                 grouped[className].forEach(med => {
                     const medEl = document.createElement('div');
                     medEl.className = "border-b border-slate-100 last:border-0 pb-6 last:pb-0";
@@ -376,7 +451,7 @@
                                 <span class="font-black text-purple-600 block uppercase text-[8px] mb-1">⚠️ Effets indésirables</span>
                                 <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.effets_indésirables)}</div>
                             </div>
-                            <div class="bg-emerald-50/30 p-3 rounded-xl border border-emerald-100/40 text-[11px] lg:col-span-1">
+                            <div class="bg-emerald-50/30 p-3 rounded-xl border border-emerald-100/40 text-[11px]">
                                 <span class="font-black text-emerald-600 block uppercase text-[8px] mb-1">🛡️ Précautions</span>
                                 <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.precaution)}</div>
                             </div>
@@ -403,7 +478,15 @@
         // ================= GESTION DU QUIZ (ONGLET PRINCIPAL) =================
         function filterMeds() {
             const classVal = document.getElementById('classFilter').value;
-            filteredMeds = medicationsDB.filter(m => classVal === 'all' || m.type_medicament === classVal);
+            
+            if (classVal === 'all') {
+                filteredGroups = [...quizGroups];
+            } else if (classVal === 'Autre') {
+                filteredGroups = quizGroups.filter(g => g.className === 'Autre');
+            } else {
+                filteredGroups = quizGroups.filter(g => g.className === classVal);
+            }
+            
             currentIndex = 0;
             playedIndexes = [];
             resetFlow();
@@ -441,9 +524,10 @@
         }
 
         function updateDisplay() {
-            const med = filteredMeds[currentIndex];
+            const group = filteredGroups[currentIndex];
             const ui = {
-                name: document.getElementById('medName'),
+                instruction: document.getElementById('quizInstruction'),
+                groupContainer: document.getElementById('medGroupContainer'),
                 counter: document.getElementById('counter'),
                 step1: document.getElementById('step1_GuessClass'),
                 step2: document.getElementById('step2_ClassRevealed'),
@@ -453,8 +537,9 @@
                 statusTag: document.getElementById('statusTag')
             };
 
-            if (!med) {
-                ui.name.textContent = "Aucun médicament";
+            if (!group) {
+                ui.instruction.textContent = "Aucun médicament";
+                ui.groupContainer.innerHTML = "";
                 ui.counter.textContent = "0 / 0";
                 ui.step1.classList.add('hidden-step');
                 ui.step2.classList.add('hidden-step');
@@ -465,17 +550,35 @@
             }
 
             ui.mainBtn.disabled = false;
-            ui.name.textContent = med.nom_medicament;
-            ui.counter.textContent = `${currentIndex + 1} / ${filteredMeds.length}`;
+            ui.counter.textContent = `${currentIndex + 1} / ${filteredGroups.length}`;
 
-            // Masquer d'office toutes les étapes
+            // 1. Adapter les en-têtes selon si c'est une classe isolée ("Autre") ou un groupe
+            if (group.type === 'INDIVIDUAL') {
+                ui.instruction.textContent = "Trouvez la classe de cette molécule isolée :";
+                ui.groupContainer.innerHTML = `
+                    <div class="bg-indigo-950 border border-indigo-900 text-white font-bold px-6 py-4 rounded-2xl flex items-center gap-2 shadow-md">
+                        <span class="text-xl">🧪</span>
+                        <span class="text-lg tracking-tight font-black">${group.medications[0].nom_medicament}</span>
+                    </div>
+                `;
+            } else {
+                ui.instruction.textContent = "Trouvez la classe thérapeutique commune à ces molécules :";
+                ui.groupContainer.innerHTML = group.medications.map(m => `
+                    <div class="bg-indigo-50 border border-indigo-100 text-indigo-950 font-bold px-5 py-3.5 rounded-2xl flex items-center gap-2 shadow-sm">
+                        <span class="text-lg">💊</span>
+                        <span class="tracking-tight font-black">${m.nom_medicament}</span>
+                    </div>
+                `).join('');
+            }
+
+            // Masquer les étapes
             ui.step1.classList.add('hidden-step');
             ui.step2.classList.add('hidden-step');
             ui.step3.classList.add('hidden-step');
 
             if (flowState === 'GUESSING') {
                 ui.step1.classList.remove('hidden-step');
-                ui.mainBtn.textContent = "Valider la classe";
+                ui.mainBtn.textContent = "Valider la classe commune";
                 ui.mainBtn.className = "w-full py-5 bg-indigo-600 hover:bg-indigo-700 text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 1/3";
                 setTimeout(() => {
@@ -484,29 +587,67 @@
                 }, 100);
             } 
             else if (flowState === 'RECALLING') {
-                ui.confirmedClass.textContent = med.type_medicament;
+                ui.confirmedClass.textContent = group.className;
                 ui.step2.classList.remove('hidden-step');
-                ui.mainBtn.textContent = "Dévoiler les propriétés du médicament";
+                ui.mainBtn.textContent = "Dévoiler les propriétés de ces médicaments";
                 ui.mainBtn.className = "w-full py-5 bg-slate-900 hover:bg-black text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 2/3";
             } 
             else if (flowState === 'REVEALED') {
-                // Injection tardive et stricte pour s'assurer que rien ne transpire avant cette étape
-                document.getElementById('medIndications').innerHTML = formatData(med.indications);
-                document.getElementById('medContra').innerHTML = formatData(med.contre_indications);
-                document.getElementById('medInteractions').innerHTML = formatData(med.interactions);
-                document.getElementById('medSideEffects').innerHTML = formatData(med.effets_indésirables);
-                document.getElementById('medPrecaution').innerHTML = formatData(med.precaution);
-
                 ui.step2.classList.remove('hidden-step');
+                
+                // Générer les fiches de propriétés sous forme d'accordéons
+                let detailsHTML = `<div class="space-y-4 w-full">`;
+                group.medications.forEach((med, idx) => {
+                    const isFirst = (idx === 0);
+                    detailsHTML += `
+                    <div class="border border-slate-100 rounded-3xl overflow-hidden shadow-sm bg-white">
+                        <!-- En-tête de l'accordéon -->
+                        <button onclick="toggleAccordion(${idx})" class="w-full flex justify-between items-center p-5 bg-slate-50 hover:bg-slate-100/80 transition-all text-left">
+                            <span class="font-black text-indigo-900 flex items-center gap-2">
+                                <span>💊</span> ${med.nom_medicament}
+                            </span>
+                            <svg id="accordion-arrow-${idx}" class="w-5 h-5 text-indigo-500 transform transition-transform ${isFirst ? 'rotate-180' : ''}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </button>
+                        
+                        <!-- Contenu des caractéristiques -->
+                        <div id="accordion-content-${idx}" class="${isFirst ? '' : 'hidden'} p-6 border-t border-slate-100 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 bg-white">
+                            <div class="bg-blue-50/40 p-4 rounded-2xl border border-blue-100 text-xs">
+                                <h4 class="font-black text-blue-600 uppercase text-[9px] mb-2 tracking-wider">🎯 Indications</h4>
+                                <div>${formatData(med.indications)}</div>
+                            </div>
+                            <div class="bg-rose-50/40 p-4 rounded-2xl border border-rose-100 text-xs">
+                                <h4 class="font-black text-rose-600 uppercase text-[9px] mb-2 tracking-wider">🚫 Contre-indications</h4>
+                                <div>${formatData(med.contre_indications)}</div>
+                            </div>
+                            <div class="bg-amber-50/40 p-4 rounded-2xl border border-amber-100 text-xs">
+                                <h4 class="font-black text-amber-600 uppercase text-[9px] mb-2 tracking-wider">🔄 Interactions</h4>
+                                <div>${formatData(med.interactions)}</div>
+                            </div>
+                            <div class="bg-purple-50/40 p-4 rounded-2xl border border-purple-100 text-xs">
+                                <h4 class="font-black text-purple-600 uppercase text-[9px] mb-2 tracking-wider">⚠️ Effets Indésirables</h4>
+                                <div>${formatData(med.effets_indésirables)}</div>
+                            </div>
+                            <div class="bg-emerald-50/40 p-4 rounded-2xl border border-emerald-100 text-xs">
+                                <h4 class="font-black text-emerald-600 uppercase text-[9px] mb-2 tracking-wider">🛡️ Précautions</h4>
+                                <div>${formatData(med.precaution)}</div>
+                            </div>
+                        </div>
+                    </div>`;
+                });
+                detailsHTML += `</div>`;
+                
+                ui.step3.innerHTML = detailsHTML;
                 ui.step3.classList.remove('hidden-step');
-                ui.mainBtn.textContent = "Médicament Suivant";
+                
+                ui.mainBtn.textContent = "Groupe Suivant";
                 ui.mainBtn.className = "w-full py-5 bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 3/3";
             }
         }
 
-        // Gère l'action du gros bouton d'action selon l'étape actuelle
         function handleMainAction() {
             if (flowState === 'GUESSING') {
                 validateClass();
@@ -521,14 +662,14 @@
         function validateClass() {
             const input = document.getElementById('classInput');
             const feedback = document.getElementById('feedback');
-            const med = filteredMeds[currentIndex];
-            if (!med) return;
+            const group = filteredGroups[currentIndex];
+            if (!group) return;
 
             const val = input.value.trim().toLowerCase();
-            const correctVal = med.type_medicament.toLowerCase();
+            const correctVal = group.className.toLowerCase();
 
             if (val === correctVal) {
-                feedback.innerHTML = "✨ Correct !";
+                feedback.innerHTML = "✨ Correct ! Excellent raisonnement.";
                 feedback.className = "mt-4 text-center text-emerald-500 text-sm font-bold reveal-anim";
                 input.classList.add('border-emerald-500');
                 
@@ -537,11 +678,10 @@
                     updateDisplay();
                 }, 400);
             } else {
-                feedback.innerHTML = "Ce n'est pas tout à fait ça...";
+                feedback.innerHTML = "Ce n'est pas la classe correcte...";
                 feedback.className = "mt-4 text-center text-red-500 text-sm font-bold shake";
                 input.classList.add('border-red-500');
                 
-                // Effet shake de l'input
                 input.classList.add('shake');
                 setTimeout(() => {
                     input.classList.remove('shake');
@@ -554,32 +694,29 @@
             updateDisplay();
         }
 
-        // Passe au médicament suivant
         function nextMed() {
-            if (filteredMeds.length <= 1) {
+            if (filteredGroups.length <= 1) {
                 resetFlow();
                 return;
             }
 
             if (isRandom) {
-                // Stocker l'index actuel dans l'historique joué
                 if (!playedIndexes.includes(currentIndex)) {
                     playedIndexes.push(currentIndex);
                 }
 
-                // Si toutes les fiches ont été jouées, réinitialiser l'historique
-                if (playedIndexes.length >= filteredMeds.length) {
+                if (playedIndexes.length >= filteredGroups.length) {
                     playedIndexes = [];
                 }
 
                 let nextIndex;
                 do {
-                    nextIndex = Math.floor(Math.random() * filteredMeds.length);
+                    nextIndex = Math.floor(Math.random() * filteredGroups.length);
                 } while (nextIndex === currentIndex || playedIndexes.includes(nextIndex));
 
                 currentIndex = nextIndex;
             } else {
-                if (currentIndex < filteredMeds.length - 1) {
+                if (currentIndex < filteredGroups.length - 1) {
                     currentIndex++;
                 } else {
                     currentIndex = 0;
@@ -588,19 +725,18 @@
             resetFlow();
         }
 
-        // Revient au médicament précédent (mode séquentiel)
         function prevMed() {
-            if (filteredMeds.length <= 1) return;
+            if (filteredGroups.length <= 1) return;
             
             if (currentIndex > 0) {
                 currentIndex--;
             } else {
-                currentIndex = filteredMeds.length - 1;
+                currentIndex = filteredGroups.length - 1;
             }
             resetFlow();
         }
 
-        // Ecouteur d'événement clavier pour [Entrée]
+        // Écouteur de la touche Entrée pour naviguer rapidement
         document.addEventListener('keydown', (e) => {
             if (activeTab === 'quiz' && e.key === 'Enter') {
                 handleMainAction();
