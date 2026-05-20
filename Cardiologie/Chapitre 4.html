@@ -3,26 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabasser la Cardio - Mode Aléatoire</title>
+    <title>Objectif : Tabasser la Cardiologie</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
     <style>
         body { background-color: #953553; color: white; font-family: sans-serif; }
+        .space { height: 20px; }
         .quiz-card { background-color: #6c757d; border-radius: 15px; padding: 20px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
         #pdf-wrapper { background: #444; border-radius: 10px; overflow: hidden; position: relative; min-height: 500px; display: none; }
         canvas { width: 100% !important; height: auto !important; }
         .btn-group-custom { display: flex; gap: 8px; justify-content: center; margin-top: 15px; flex-wrap: wrap; }
         #justif-container { background: rgba(0,0,0,0.4); padding: 15px; border-radius: 10px; margin-top: 15px; display: none; border-left: 5px solid #2ecc71; }
         .badge-numero { font-size: 1.1rem; background: #2c3e50; }
+        #image-correction-container { display: none; text-align: center; background: rgba(0,0,0,0.2); padding: 10px; border-radius: 10px; }
+        #image-correction { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
     </style>
 </head>
 <body>
 
-<div class="container py-3">
-    <div class="text-center mb-3">
+<div class="container space"></div>
+
+<div class="container text-center mb-4">
+    <div class="row justify-content-center">
         <video controls width="100%" style="max-width: 250px; border-radius: 10px;">
-            <source src="media/Criminel.mp4" type="video/mp4">
+            <source src="media/Criminel.mp4" type="video/mp4" />
         </video>
+    </div>
+</div>
+
+<div class="container">
+    <div class="dropdown mb-3">
+        <button class="btn btn-dark dropdown-toggle" type="button" id="btn-menu">
+            ☰ Liste des questions
+        </button>
     </div>
 
     <div class="row">
@@ -30,14 +44,14 @@
             <div class="quiz-card">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                     <span id="question-number" class="badge badge-numero">Question --</span>
-                    <button class="btn btn-sm btn-light" id="btn-menu">☰ Liste</button>
                 </div>
 
                 <div id="quiz-content" class="text-center">
-                    <h3 id="proposition-text" class="mb-4" style="min-height: 100px;">Chargement du syllabus...</h3>
+                    <h3 id="proposition-text" class="mb-4" style="min-height: 100px;">Chargement...</h3>
                     <div class="btn-group-custom">
                         <button class="btn btn-success btn-lg px-4" onclick="handleResponse(true)">VRAI</button>
                         <button class="btn btn-danger btn-lg px-4" onclick="handleResponse(false)">FAUX</button>
+                        <button class="btn btn-secondary btn-lg" id="mute-btn" title="Couper le son">🔊</button>
                     </div>
                 </div>
 
@@ -47,6 +61,7 @@
                 <div class="btn-group-custom mt-4">
                     <button class="btn btn-outline-light btn-sm" id="prev-btn">⬅️ Préc.</button>
                     <button class="btn btn-warning btn-sm fw-bold" id="random-btn">🎲 Aléatoire</button>
+                    <button class="btn btn-info btn-sm fw-bold text-white" id="express-btn">⚡ Mode Express</button>
                     <button class="btn btn-outline-light btn-sm" id="next-btn">Suiv. ➡️</button>
                 </div>
             </div>
@@ -54,10 +69,15 @@
 
         <div class="col-lg-7">
             <div id="pdf-placeholder" class="text-center p-5 border rounded" style="background: rgba(255,255,255,0.05); border-style: dashed !important;">
-                <p>Réponds pour afficher la page correspondante du PDF.</p>
+                <p>Réponds pour afficher la preuve (PDF ou Image).</p>
             </div>
+            
             <div id="pdf-wrapper">
                 <canvas id="pdf-canvas"></canvas>
+            </div>
+
+            <div id="image-correction-container">
+                <img id="image-correction" src="" alt="Preuve en image">
             </div>
         </div>
     </div>
@@ -66,7 +86,10 @@
 <div class="modal fade" id="menuModal" tabindex="-1">
     <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content text-dark">
-            <div class="modal-header"><h5>Choisir une question</h5><button type="button" class="btn-close" data-bs-dismiss="modal"></button></div>
+            <div class="modal-header">
+                <h5>Choisir une question</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
             <div class="modal-body" id="menu-list"></div>
         </div>
     </div>
@@ -74,32 +97,60 @@
 
 <script src="js/bootstrap.bundle.min.js"></script>
 <script>
+    // ==========================================
+    //  VARIABLES DE CONFIGURATION (A MODIFIER)
+    // ==========================================
+    const CONFIG = {
+        NOM_CHAPITRE: "cardio_4" // Change juste ça (ex: "cardio_5") pour basculer de chapitre !
+    };
+
+    // Chemins dynamiques basés sur ton chapitre
+    const JSON_PATH = `Excel/${CONFIG.NOM_CHAPITRE}.json`;
+    const PDF_PATH  = `pdf/Syllab ${CONFIG.NOM_CHAPITRE}.pdf`; 
+    const IMG_DIR   = `media/dias/${CONFIG.NOM_CHAPITRE}/`;
+
+    // Configuration globale du moteur de rendu PDF
     pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';
 
-    let quizData = [];
+    // Variables d'état de l'application
+    let originalQuizData = []; 
+    let quizData = [];         
     let currentIdx = 0;
     let pdfDoc = null;
-    const pdfPath = 'pdf/Syllab cardio_4.pdf';
+    let isMuted = false; 
 
+    // DOM Elements
     const propEl = document.getElementById('proposition-text');
     const qNumEl = document.getElementById('question-number');
     const feedbackEl = document.getElementById('feedback');
     const justifEl = document.getElementById('justif-container');
     const pdfWrapper = document.getElementById('pdf-wrapper');
     const pdfPlaceholder = document.getElementById('pdf-placeholder');
+    const imageContainer = document.getElementById('image-correction-container');
+    const imageEl = document.getElementById('image-correction');
+    const muteBtn = document.getElementById('mute-btn');
 
-    // Chargement initial
+    // 1. Initialisation et chargements des fichiers
     Promise.all([
-        fetch('Excel/cardio_4.json').then(r => r.json()),
-        pdfjsLib.getDocument(pdfPath).promise
+        fetch(JSON_PATH).then(r => r.json()),
+        pdfjsLib.getDocument(PDF_PATH).promise
     ]).then(([data, pdf]) => {
-        quizData = data;
+        originalQuizData = data; 
+        quizData = [...originalQuizData]; 
         pdfDoc = pdf;
         showQuestion(0);
         initMenu();
-    }).catch(err => propEl.textContent = "Erreur : Fichiers manquants.");
+    }).catch(err => {
+        console.error(err);
+        propEl.textContent = `Erreur : Impossible de charger ${JSON_PATH} ou ${PDF_PATH}.`;
+    });
 
+    // 2. Affichage de la question active
     function showQuestion(idx) {
+        if (quizData.length === 0) {
+            propEl.textContent = "Aucune question disponible.";
+            return;
+        }
         currentIdx = idx;
         const q = quizData[idx];
         
@@ -107,53 +158,102 @@
         qNumEl.textContent = `Question ${q.Numero}`;
         feedbackEl.innerHTML = '';
         justifEl.style.display = 'none';
+        
         pdfWrapper.style.display = 'none';
+        imageContainer.style.display = 'none';
         pdfPlaceholder.style.display = 'block';
         
-        window.scrollTo(0, 0);
+        window.scrollTo(0, 0); // Remonte l'écran (pratique sur mobile)
     }
 
+    // 3. Gestion de la réponse de l'utilisateur
     async function handleResponse(choice) {
         const q = quizData[currentIdx];
         const isCorrect = choice === q.Reponse;
         
-        new Audio(isCorrect ? 'media/sound/Correct.mp3' : 'media/sound/Wrong.mp3').play();
-        feedbackEl.innerHTML = `<h2 style="color:${isCorrect?'#2ecc71':'#e74c3c'}">${isCorrect?'CORRECT !':'ERREUR'}</h2>`;
+        // Audio
+        if (!isMuted) {
+            const audioPath = isCorrect ? 'media/sound/Correct.mp3' : 'media/sound/Wrong.mp3';
+            new Audio(audioPath).play().catch(e => console.log("Audio bloqué par le navigateur"));
+        }
         
+        feedbackEl.innerHTML = `<h2 style="color:${isCorrect?'#2ecc71':'#e74c3c'}">${isCorrect?'CORRECT !':'ERREUR'}</h2>`;
         justifEl.innerHTML = `<strong>Justification :</strong> ${q.Justification}`;
         justifEl.style.display = 'block';
+        pdfPlaceholder.style.display = 'none';
 
-        if (q.Page) {
-            pdfPlaceholder.style.display = 'none';
+        // Logique Hybride (Affiche la page du PDF, sinon l'image)
+        if (q.Page && q.Page !== "" && !isNaN(q.Page)) {
+            imageContainer.style.display = 'none';
             pdfWrapper.style.display = 'block';
             renderPDFPage(parseInt(q.Page));
+        } else {
+            pdfWrapper.style.display = 'none';
+            imageEl.src = `${IMG_DIR}${q.Numero}.png`;
+            imageContainer.style.display = 'block';
         }
     }
 
+    // 4. Rendu de la page PDF sur le Canvas HTML5
     async function renderPDFPage(num) {
         const page = await pdfDoc.getPage(num);
         const canvas = document.getElementById('pdf-canvas');
         const context = canvas.getContext('2d');
-        const viewport = page.getViewport({ scale: 1.5 });
+        const viewport = page.getViewport({ scale: 1.5 }); // Augmente à 2.0 si tu veux zoomer plus le PDF
         canvas.height = viewport.height;
         canvas.width = viewport.width;
         await page.render({ canvasContext: context, viewport: viewport }).promise;
     }
 
-    // FONCTION ALÉATOIRE
-    function nextRandom() {
-        let newIdx;
-        do {
-            newIdx = Math.floor(Math.random() * quizData.length);
-        } while (newIdx === currentIdx && quizData.length > 1);
-        showQuestion(newIdx);
-    }
+    // 5. Gestion du bouton Mute
+    muteBtn.onclick = () => {
+        isMuted = !isMuted;
+        if (isMuted) {
+            muteBtn.textContent = '🔇';
+            muteBtn.classList.replace('btn-secondary', 'btn-dark');
+        } else {
+            muteBtn.textContent = '🔊';
+            muteBtn.classList.replace('btn-dark', 'btn-secondary');
+        }
+    };
 
-    // Navigation
-    document.getElementById('random-btn').onclick = nextRandom;
+    // 6. Mode Express (Max 5 questions par page au hasard)
+    document.getElementById('express-btn').onclick = () => {
+        const questionsParPage = {};
+        originalQuizData.forEach(q => {
+            const clePage = (q.Page && q.Page !== "") ? q.Page.toString() : "SansPage";
+            if (!questionsParPage[clePage]) questionsParPage[clePage] = [];
+            questionsParPage[clePage].push(q);
+        });
+
+        let questionnaireLite = [];
+        for (const page in questionsParPage) {
+            const listeQuestions = questionsParPage[page];
+            // Mélange interne des questions de la page
+            for (let i = listeQuestions.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [listeQuestions[i], listeQuestions[j]] = [listeQuestions[j], listeQuestions[i]];
+            }
+            questionnaireLite = questionnaireLite.concat(listeQuestions.slice(0, 5));
+        }
+
+        quizData = questionnaireLite;
+        alert(`⚡ Mode Express activé ! Quiz réduit à : ${quizData.length} questions.`);
+        showQuestion(0);
+    };
+
+    // 7. Navigation et mode Aléatoire standard
+    document.getElementById('random-btn').onclick = () => {
+        let newIdx;
+        do { newIdx = Math.floor(Math.random() * quizData.length); } 
+        while (newIdx === currentIdx && quizData.length > 1);
+        showQuestion(newIdx);
+    };
+
     document.getElementById('next-btn').onclick = () => { if(currentIdx < quizData.length-1) showQuestion(currentIdx+1); };
     document.getElementById('prev-btn').onclick = () => { if(currentIdx > 0) showQuestion(currentIdx-1); };
 
+    // 8. Génération dynamique du menu de navigation
     function initMenu() {
         const menuModal = new bootstrap.Modal(document.getElementById('menuModal'));
         document.getElementById('btn-menu').onclick = () => {
@@ -162,7 +262,7 @@
             quizData.forEach((q, i) => {
                 let b = document.createElement('button');
                 b.className = 'btn btn-outline-secondary w-100 mb-1 text-start';
-                b.textContent = `Q${q.Numero}: ${q.Proposition.substring(0, 30)}...`;
+                b.textContent = `Q${q.Numero}: ${q.Proposition.substring(0, 40)}...`;
                 b.onclick = () => { showQuestion(i); menuModal.hide(); };
                 list.appendChild(b);
             });

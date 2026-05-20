@@ -1,260 +1,274 @@
 <!DOCTYPE html>
-<html lang="fr" dir="ltr">
-  <head>
+<html lang="fr">
+<head>
     <meta charset="UTF-8">
-    <title>Objectif : Tabasser Cardiologie</title>
-
-    <!-- css -->
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objectif : Tabasser la Cardiologie</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-  </head>
-  <body style="background-color:  #953553 ;">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <style>
+        body { background-color: #953553; color: white; font-family: sans-serif; }
+        .space { height: 20px; }
+        .quiz-card { background-color: #6c757d; border-radius: 15px; padding: 20px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        #pdf-wrapper { background: #444; border-radius: 10px; overflow: hidden; position: relative; min-height: 500px; display: none; }
+        canvas { width: 100% !important; height: auto !important; }
+        .btn-group-custom { display: flex; gap: 8px; justify-content: center; margin-top: 15px; flex-wrap: wrap; }
+        #justif-container { background: rgba(0,0,0,0.4); padding: 15px; border-radius: 10px; margin-top: 15px; display: none; border-left: 5px solid #2ecc71; }
+        .badge-numero { font-size: 1.1rem; background: #2c3e50; }
+        #image-correction-container { display: none; text-align: center; background: rgba(0,0,0,0.2); padding: 10px; border-radius: 10px; }
+        #image-correction { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+    </style>
+</head>
+<body>
 
-      <div class="container space">
+<div class="container space"></div>
 
-      </div>
+<div class="container text-center mb-4">
+    <div class="row justify-content-center">
+        <video controls width="100%" style="max-width: 250px; border-radius: 10px;">
+            <source src="media/Criminel.mp4" type="video/mp4" />
+        </video>
+    </div>
+</div>
 
-      <div class="container">
-        <div class="row">
-          <div class="col">
-
-          </div>
-          <div class="col align-self-center">
-            <div class="container" id="video-container">
-                <video controls width="500">
-                  <source src="media/Criminel.mp4" type="video/mp4" />
-                </video>
-            </div>
-          </div>
-          <div class="col">
-
-          </div>
-
-        </div>
-
-
-
-      </div>
-
-
-
-
-      <div class="dropdown">
-        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Choix des questions
+<div class="container">
+    <div class="dropdown mb-3">
+        <button class="btn btn-dark dropdown-toggle" type="button" id="btn-menu">
+            ☰ Liste des questions
         </button>
+    </div>
 
-        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" id = "menu-container">
+    <div class="row">
+        <div class="col-lg-5">
+            <div class="quiz-card">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <span id="question-number" class="badge badge-numero">Question --</span>
+                </div>
 
+                <div id="quiz-content" class="text-center">
+                    <h3 id="proposition-text" class="mb-4" style="min-height: 100px;">Chargement...</h3>
+                    <div class="btn-group-custom">
+                        <button class="btn btn-success btn-lg px-4" onclick="handleResponse(true)">VRAI</button>
+                        <button class="btn btn-danger btn-lg px-4" onclick="handleResponse(false)">FAUX</button>
+                        <button class="btn btn-secondary btn-lg" id="mute-btn" title="Couper le son">🔊</button>
+                    </div>
+                </div>
 
-        </div>
-      </div>
-      <div class="container text-center">
-        <div class="row">
+                <div id="feedback" class="text-center mt-3"></div>
+                <div id="justif-container"></div>
 
-        <div class="col-md-6">
-          <div class="container p-3 mb-2 bg-secondary text-dark rounded" >
-              <img id="quizImage" src="" alt="" class="img-fluid mb-4 rounded shadow" style="max-width: 600px;">
-              <div class="container" style="color:white" id="quiz-container"></div>
-
-              <div class="container" style="color:white" id="reponse-container"></div>
-              <div class="row">
-                <div class="container" style="color:white" id="justif-container"></div>
-              </div>
-
-            <button id="previous-question">Question Précédente</button>
-            <button id="next-question">Question suivante</button>
-          </div>
-
-        </div>
-        <div class="col-md-6">
-          <div class="container" id="image-container"></div>
-
-
-
-        </div>
-
-        </div>
-
-      </div>
-
-
-      <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="container" id="modal-container">
-        </div>
-
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-body text-centered">
-              <div class="container" id="ref-container">
-
-              </div>
-
+                <div class="btn-group-custom mt-4">
+                    <button class="btn btn-outline-light btn-sm" id="prev-btn">⬅️ Préc.</button>
+                    <button class="btn btn-warning btn-sm fw-bold" id="random-btn">🎲 Aléatoire</button>
+                    <button class="btn btn-info btn-sm fw-bold text-white" id="express-btn">⚡ Mode Express</button>
+                    <button class="btn btn-outline-light btn-sm" id="next-btn">Suiv. ➡️</button>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
 
+        <div class="col-lg-7">
+            <div id="pdf-placeholder" class="text-center p-5 border rounded" style="background: rgba(255,255,255,0.05); border-style: dashed !important;">
+                <p>Réponds pour afficher la preuve (PDF ou Image).</p>
+            </div>
+            
+            <div id="pdf-wrapper">
+                <canvas id="pdf-canvas"></canvas>
+            </div>
 
+            <div id="image-correction-container">
+                <img id="image-correction" src="" alt="Preuve en image">
+            </div>
+        </div>
+    </div>
+</div>
 
-
-
-<!-- SCRIPT-->
-
+<div class="modal fade" id="menuModal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content text-dark">
+            <div class="modal-header">
+                <h5>Choisir une question</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body" id="menu-list"></div>
+        </div>
+    </div>
+</div>
 
 <script src="js/bootstrap.bundle.min.js"></script>
 <script>
-let quizData = []; // Tableau pour stocker les questions du quiz
-let currentQuestionIndex = 0; // Index de la question actuelle
-
-const quizImage = document.getElementById("quizImage");
-
-// Charger les données JSON
-fetch('Excel/cardio_1.json')
-    .then(response => response.json())
-    .then(data => {
-        quizData = data;
-        showQuestion(currentQuestionIndex);
-    })
-    .catch(error => console.error('Erreur:', error));
-
-    function Ajoutquestion(pas) {
-      currentQuestionIndex = pas;
-      showQuestion(pas);
-    }
-
-
-    // Fonction pour afficher une question
-    function showQuestion(index) {
-        const q = quizData[index];
-        quizImage.src = q.image;
-        const quizContainer = document.getElementById('quiz-container');
-        quizContainer.innerHTML = ''; // Vider le contenu précédent
-
-        const questionNumber = document.createElement('h5');
-        questionNumber.textContent = `Question ${quizData[index]['Numero']} (${quizData[index]['Question']})`;
-        quizContainer.appendChild(questionNumber);
-
-        const question = document.createElement('h2');
-        question.textContent = quizData[index]['Proposition'];
-        quizContainer.appendChild(question);
-
-        const trueButton = document.createElement('button');
-        trueButton.className = 'btn btn-success btn-lg'
-        trueButton.textContent = 'Vrai';
-        trueButton.addEventListener('click', () => checkAnswer(true, quizData[index]['Reponse'], quizData[index]['Justification']));
-        quizContainer.appendChild(trueButton);
-
-        const falseButton = document.createElement('button');
-        falseButton.className = 'btn btn-danger btn-lg'
-        falseButton.textContent = 'Faux';
-        falseButton.addEventListener('click', () => checkAnswer(false, quizData[index]['Reponse'], quizData[index]['Justification']));
-        quizContainer.appendChild(falseButton);
-    }
-
-    // Fonction pour vérifier la réponse
-    function checkAnswer(selectedAnswer, correctAnswer, justification) {
-      let numeroquestion = quizData[currentQuestionIndex]['Numero'].toString();
-      let imagesource = 'media/dias/cardio_1/'.concat(numeroquestion, '.png')
-      const imageContainer = document.getElementById('image-container');
-      imageContainer.innerHTML = '<button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-whatever="@mdo"> <img src="'.concat(imagesource,'" class="w-100" alt="Responsive image"/> </button>');
-      const modalContainer = document.getElementById('modal-container');
-      modalContainer.innerHTML = '<img src="'.concat(imagesource,'" class="img-fluid" alt="Responsive image"/>');
-      const reponseContainer = document.getElementById('reponse-container');
-      reponseContainer.innerHTML = '';
-      const justifContainer = document.getElementById('justif-container');
-      justifContainer.innerHTML = '';
-      const refContainer = document.getElementById('ref-container');
-      refContainer.innerHTML = quizData[currentQuestionIndex]['Reference'];
-
-
-        if (selectedAnswer === correctAnswer) {
-          var audio = new Audio('media/sound/Correct.mp3');
-          audio.play();
-          const yihaa = document.createElement('h3');
-          yihaa.textContent = 'Correct :)';
-          reponseContainer.appendChild(yihaa);
-          justifContainer.innerHTML = justification;
-        } else {
-          var audio = new Audio('media/sound/Wrong.mp3');
-          audio.play();
-          const yihaa = document.createElement('h3');
-          yihaa.textContent = 'Dommage :(';
-          reponseContainer.appendChild(yihaa);
-          justifContainer.innerHTML = justification;
-        }
-        if (currentQuestionIndex < quizData.length) {
-            showQuestion(currentQuestionIndex);
-        } else {
-            alert('Quiz terminé!');
-        }
-    }
-
-
-    //Menu déroulant
-    function Menuderoulant(){
-      for (let pas = 0; pas <quizData.length ; pas++) {
-        const menuContainer = document.getElementById('menu-container');
-        const choixButton = document.createElement('button');
-        choixButton.className = 'btn btn-success'
-        choixButton.textContent = 'Question '.concat(quizData[pas]['Numero'].toString());
-        choixButton.addEventListener('click', () => Ajoutquestion(pas));
-        menuContainer.appendChild(choixButton);
-      }
+    // ==========================================
+    //  VARIABLES DE CONFIGURATION (A MODIFIER)
+    // ==========================================
+    const CONFIG = {
+        NOM_CHAPITRE: "cardio_1" // Change juste ça (ex: "cardio_5") pour basculer de chapitre !
     };
 
-    document.getElementById("dropdownMenuButton").addEventListener('click', () => {
-      const menuContainer = document.getElementById('menu-container');
-      menuContainer.innerHTML = '';
-      Menuderoulant();
+    // Chemins dynamiques basés sur ton chapitre
+    const JSON_PATH = `Excel/${CONFIG.NOM_CHAPITRE}.json`;
+    const PDF_PATH  = `pdf/Syllab ${CONFIG.NOM_CHAPITRE}.pdf`; 
+    const IMG_DIR   = `media/dias/${CONFIG.NOM_CHAPITRE}/`;
 
+    // Configuration globale du moteur de rendu PDF
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';
+
+    // Variables d'état de l'application
+    let originalQuizData = []; 
+    let quizData = [];         
+    let currentIdx = 0;
+    let pdfDoc = null;
+    let isMuted = false; 
+
+    // DOM Elements
+    const propEl = document.getElementById('proposition-text');
+    const qNumEl = document.getElementById('question-number');
+    const feedbackEl = document.getElementById('feedback');
+    const justifEl = document.getElementById('justif-container');
+    const pdfWrapper = document.getElementById('pdf-wrapper');
+    const pdfPlaceholder = document.getElementById('pdf-placeholder');
+    const imageContainer = document.getElementById('image-correction-container');
+    const imageEl = document.getElementById('image-correction');
+    const muteBtn = document.getElementById('mute-btn');
+
+    // 1. Initialisation et chargements des fichiers
+    Promise.all([
+        fetch(JSON_PATH).then(r => r.json()),
+        pdfjsLib.getDocument(PDF_PATH).promise
+    ]).then(([data, pdf]) => {
+        originalQuizData = data; 
+        quizData = [...originalQuizData]; 
+        pdfDoc = pdf;
+        showQuestion(0);
+        initMenu();
+    }).catch(err => {
+        console.error(err);
+        propEl.textContent = `Erreur : Impossible de charger ${JSON_PATH} ou ${PDF_PATH}.`;
     });
 
-    // Gérer le bouton "Next Question"
-    document.getElementById('next-question').addEventListener('click', () => {
-      const imageContainer = document.getElementById('image-container');
-      imageContainer.innerHTML = ''; // Vider le contenu précédent
-      const modalContainer = document.getElementById('modal-container');
-      modalContainer.innerHTML = ''; // Vider le contenu précédent
-      const reponseContainer = document.getElementById('reponse-container');
-      reponseContainer.innerHTML = '';
-      const refContainer = document.getElementById('ref-container');
-      refContainer.innerHTML = '';
-      const justifContainer = document.getElementById('justif-container');
-      justifContainer.innerHTML = '';
-
-        if (currentQuestionIndex+1 < quizData.length) {
-          currentQuestionIndex++;
-            showQuestion(currentQuestionIndex);
-        } else {
-            alert('Quiz terminé!');
+    // 2. Affichage de la question active
+    function showQuestion(idx) {
+        if (quizData.length === 0) {
+            propEl.textContent = "Aucune question disponible.";
+            return;
         }
-    });
+        currentIdx = idx;
+        const q = quizData[idx];
+        
+        propEl.textContent = q.Proposition;
+        qNumEl.textContent = `Question ${q.Numero}`;
+        feedbackEl.innerHTML = '';
+        justifEl.style.display = 'none';
+        
+        pdfWrapper.style.display = 'none';
+        imageContainer.style.display = 'none';
+        pdfPlaceholder.style.display = 'block';
+        
+        window.scrollTo(0, 0); // Remonte l'écran (pratique sur mobile)
+    }
 
-    // Gérer le bouton "Previous Question"
-    document.getElementById('previous-question').addEventListener('click', () => {
-      const imageContainer = document.getElementById('image-container');
-      imageContainer.innerHTML = ''; // Vider le contenu précédent
-      const modalContainer = document.getElementById('modal-container');
-      modalContainer.innerHTML = ''; // Vider le contenu précédent
-      const reponseContainer = document.getElementById('reponse-container');
-      reponseContainer.innerHTML = '';
-      const refContainer = document.getElementById('ref-container');
-      refContainer.innerHTML = '';
-      const justifContainer = document.getElementById('justif-container');
-      justifContainer.innerHTML = '';
-      if (currentQuestionIndex === 0){}
-      else {
-        currentQuestionIndex--;
-      }
-      if (currentQuestionIndex < quizData.length) {
-          showQuestion(currentQuestionIndex);
-      }
+    // 3. Gestion de la réponse de l'utilisateur
+    async function handleResponse(choice) {
+        const q = quizData[currentIdx];
+        const isCorrect = choice === q.Reponse;
+        
+        // Audio
+        if (!isMuted) {
+            const audioPath = isCorrect ? 'media/sound/Correct.mp3' : 'media/sound/Wrong.mp3';
+            new Audio(audioPath).play().catch(e => console.log("Audio bloqué par le navigateur"));
+        }
+        
+        feedbackEl.innerHTML = `<h2 style="color:${isCorrect?'#2ecc71':'#e74c3c'}">${isCorrect?'CORRECT !':'ERREUR'}</h2>`;
+        justifEl.innerHTML = `<strong>Justification :</strong> ${q.Justification}`;
+        justifEl.style.display = 'block';
+        pdfPlaceholder.style.display = 'none';
 
-    });
+        // Logique Hybride (Affiche la page du PDF, sinon l'image)
+        if (q.Page && q.Page !== "" && !isNaN(q.Page)) {
+            imageContainer.style.display = 'none';
+            pdfWrapper.style.display = 'block';
+            renderPDFPage(parseInt(q.Page));
+        } else {
+            pdfWrapper.style.display = 'none';
+            imageEl.src = `${IMG_DIR}${q.Numero}.png`;
+            imageContainer.style.display = 'block';
+        }
+    }
+
+    // 4. Rendu de la page PDF sur le Canvas HTML5
+    async function renderPDFPage(num) {
+        const page = await pdfDoc.getPage(num);
+        const canvas = document.getElementById('pdf-canvas');
+        const context = canvas.getContext('2d');
+        const viewport = page.getViewport({ scale: 1.5 }); // Augmente à 2.0 si tu veux zoomer plus le PDF
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+        await page.render({ canvasContext: context, viewport: viewport }).promise;
+    }
+
+    // 5. Gestion du bouton Mute
+    muteBtn.onclick = () => {
+        isMuted = !isMuted;
+        if (isMuted) {
+            muteBtn.textContent = '🔇';
+            muteBtn.classList.replace('btn-secondary', 'btn-dark');
+        } else {
+            muteBtn.textContent = '🔊';
+            muteBtn.classList.replace('btn-dark', 'btn-secondary');
+        }
+    };
+
+    // 6. Mode Express (Max 5 questions par page au hasard)
+    document.getElementById('express-btn').onclick = () => {
+        const questionsParPage = {};
+        originalQuizData.forEach(q => {
+            const clePage = (q.Page && q.Page !== "") ? q.Page.toString() : "SansPage";
+            if (!questionsParPage[clePage]) questionsParPage[clePage] = [];
+            questionsParPage[clePage].push(q);
+        });
+
+        let questionnaireLite = [];
+        for (const page in questionsParPage) {
+            const listeQuestions = questionsParPage[page];
+            // Mélange interne des questions de la page
+            for (let i = listeQuestions.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [listeQuestions[i], listeQuestions[j]] = [listeQuestions[j], listeQuestions[i]];
+            }
+            questionnaireLite = questionnaireLite.concat(listeQuestions.slice(0, 5));
+        }
+
+        quizData = questionnaireLite;
+        alert(`⚡ Mode Express activé ! Quiz réduit à : ${quizData.length} questions.`);
+        showQuestion(0);
+    };
+
+    // 7. Navigation et mode Aléatoire standard
+    document.getElementById('random-btn').onclick = () => {
+        let newIdx;
+        do { newIdx = Math.floor(Math.random() * quizData.length); } 
+        while (newIdx === currentIdx && quizData.length > 1);
+        showQuestion(newIdx);
+    };
+
+    document.getElementById('next-btn').onclick = () => { if(currentIdx < quizData.length-1) showQuestion(currentIdx+1); };
+    document.getElementById('prev-btn').onclick = () => { if(currentIdx > 0) showQuestion(currentIdx-1); };
+
+    // 8. Génération dynamique du menu de navigation
+    function initMenu() {
+        const menuModal = new bootstrap.Modal(document.getElementById('menuModal'));
+        document.getElementById('btn-menu').onclick = () => {
+            const list = document.getElementById('menu-list');
+            list.innerHTML = '';
+            quizData.forEach((q, i) => {
+                let b = document.createElement('button');
+                b.className = 'btn btn-outline-secondary w-100 mb-1 text-start';
+                b.textContent = `Q${q.Numero}: ${q.Proposition.substring(0, 40)}...`;
+                b.onclick = () => { showQuestion(i); menuModal.hide(); };
+                list.appendChild(b);
+            });
+            menuModal.show();
+        };
+    }
 </script>
-
-
-  </body>
+</body>
 </html>
