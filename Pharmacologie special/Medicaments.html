@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -8,11 +8,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Inter', sans-serif; }
-        .custom-shadow { box-shadow: 0 30px 60px -12px rgba(79, 70, 229, 0.18); }
+        .custom-shadow { box-shadow: 0 30px 60px -12px rgba(79, 70, 229, 0.12); }
         .hidden-step { display: none !important; }
-        .reveal-anim { animation: slideUp 0.4s ease-out forwards; }
+        .reveal-anim { animation: slideUp 0.3s ease-out forwards; }
         @keyframes slideUp {
-            from { opacity: 0; transform: translateY(10px); }
+            from { opacity: 0; transform: translateY(8px); }
             to { opacity: 1; transform: translateY(0); }
         }
         .shake { animation: shake 0.4s cubic-bezier(.36,.07,.19,.97) both; }
@@ -24,11 +24,11 @@
         }
         .med-list { list-style-type: none; padding-left: 0; }
         .med-list li { position: relative; padding-left: 1.25rem; margin-bottom: 0.25rem; }
-        .med-list li::before {
-            content: "•";
-            position: absolute;
-            left: 0;
-            color: currentColor;
+        .med-list li::before { 
+            content: "•"; 
+            position: absolute; 
+            left: 0; 
+            color: currentColor; 
             opacity: 0.6;
             font-weight: bold;
         }
@@ -37,137 +37,211 @@
 <body class="bg-slate-50 text-slate-900 min-h-screen">
 
     <div id="app" class="max-w-5xl mx-auto px-4 py-8">
-        <header class="text-center mb-10">
-            <h1 class="text-3xl font-black text-indigo-900 tracking-tight mb-6">PharmacoMemo <span class="text-indigo-500 font-light italic">Expert</span></h1>
-
-            <div class="flex flex-wrap justify-center gap-4">
-                <div class="bg-white px-4 py-2 rounded-xl shadow-sm border border-slate-200 flex items-center gap-2">
-                    <span class="text-[10px] font-black text-slate-400 uppercase">Filtrer par Classe :</span>
-                    <select id="classFilter" onchange="filterMeds()" class="text-xs font-bold text-indigo-600 outline-none bg-transparent">
-                        <option value="all">Toutes les classes</option>
-                    </select>
-                </div>
+        <header class="text-center mb-8">
+            <h1 class="text-3xl font-black text-indigo-900 tracking-tight mb-4">PharmacoMemo <span class="text-indigo-500 font-light italic">Expert</span></h1>
+            
+            <!-- Onglets de Navigation -->
+            <div class="inline-flex p-1.5 bg-slate-200/60 rounded-2xl mb-6">
+                <button id="tabQuizBtn" onclick="switchTab('quiz')" class="px-6 py-2.5 rounded-xl font-bold text-sm text-indigo-900 bg-white shadow-sm transition-all">
+                    🎯 Mode Cartes / Quiz
+                </button>
+                <button id="tabSummaryBtn" onclick="switchTab('summary')" class="px-6 py-2.5 rounded-xl font-bold text-sm text-slate-600 hover:text-indigo-900 transition-all">
+                    📚 Synthèse par Classe
+                </button>
             </div>
         </header>
 
-        <div class="relative">
-            <div class="flex justify-between items-center mb-6 px-2">
-                <span id="counter" class="text-xs font-black text-indigo-600 bg-white px-4 py-2 rounded-full shadow-sm border border-indigo-100">0 / 0</span>
-                <div class="flex gap-2">
-                    <button onclick="prevMed()" class="p-3 rounded-xl bg-white shadow-sm border border-slate-200 hover:bg-slate-100 transition-all">
-                        <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+        <!-- ================= ONGLET 1 : QUIZ ================= -->
+        <div id="tabQuiz" class="reveal-anim">
+            <!-- Contrôles et Filtres -->
+            <div class="flex flex-wrap items-center justify-between gap-4 mb-6 bg-white p-4 rounded-2xl border border-slate-100 shadow-sm">
+                <div class="flex flex-wrap items-center gap-4">
+                    <div class="flex items-center gap-2">
+                        <span class="text-[10px] font-black text-slate-400 uppercase">Classe :</span>
+                        <select id="classFilter" onchange="filterMeds()" class="text-xs font-bold text-indigo-600 outline-none bg-transparent max-w-[200px]">
+                            <option value="all">Toutes les classes</option>
+                        </select>
+                    </div>
+                    
+                    <div class="h-4 w-[1px] bg-slate-200 hidden sm:block"></div>
+                    
+                    <!-- Bouton Mode Aléatoire -->
+                    <button id="randomToggleBtn" onclick="toggleRandomMode()" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-black transition-all bg-slate-50 border-slate-200 text-slate-500 hover:bg-slate-100">
+                        <span id="randomIcon">🎲</span> <span id="randomText">Ordre Séquentiel</span>
                     </button>
-                    <button onclick="nextMed()" class="p-3 rounded-xl bg-white shadow-sm border border-slate-200 hover:bg-slate-100 transition-all">
-                        <svg class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
-                    </button>
+                </div>
+
+                <div class="flex items-center gap-4 ml-auto">
+                    <span id="counter" class="text-xs font-black text-indigo-600 bg-indigo-50 px-3 py-1.5 rounded-full border border-indigo-100">0 / 0</span>
+                    <div class="flex gap-1">
+                        <button onclick="prevMed()" class="p-2 rounded-lg bg-slate-50 hover:bg-slate-100 border border-slate-200 transition-all">
+                            <svg class="w-4 h-4 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                        </button>
+                        <button onclick="nextMed()" class="p-2 rounded-lg bg-slate-50 hover:bg-slate-100 border border-slate-200 transition-all">
+                            <svg class="w-4 h-4 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+                        </button>
+                    </div>
                 </div>
             </div>
 
+            <!-- Carte Principale -->
             <div id="quizCard" class="bg-white rounded-[2.5rem] custom-shadow border border-white overflow-hidden transition-all duration-500 min-h-[500px] flex flex-col">
                 <div class="p-8 md:p-12 flex-grow">
-
-                    <div class="text-center mb-12">
+                    
+                    <div class="text-center mb-10">
                         <span class="text-[10px] font-black uppercase tracking-[0.3em] text-slate-400 mb-2 block">DCI / Nom du Médicament</span>
-                        <h2 id="medName" class="text-4xl md:text-6xl font-black text-slate-800 tracking-tighter">Chargement...</h2>
+                        <h2 id="medName" class="text-4xl md:text-5xl font-black text-slate-800 tracking-tighter">Chargement...</h2>
                     </div>
 
                     <!-- ÉTAPE 1 : DEVINER LA CLASSE -->
                     <div id="step1_GuessClass" class="max-w-md mx-auto mb-10 reveal-anim">
                         <div class="relative">
-                            <label class="block text-center text-sm font-bold text-slate-500 mb-6">Identifiez le type (classe pharmacologique) :</label>
-                            <input type="text" id="classInput" list="allClassesList" autocomplete="off"
-                                class="w-full p-6 bg-slate-50 border-2 border-slate-100 rounded-3xl text-center font-bold text-xl focus:border-indigo-500 focus:ring-8 focus:ring-indigo-100 outline-none transition-all"
-                                placeholder="Commencez à taper...">
+                            <label class="block text-center text-xs font-bold text-slate-500 mb-4">Trouvez la classe pharmacologique du médicament :</label>
+                            <input type="text" id="classInput" list="allClassesList" autocomplete="off" 
+                                class="w-full p-5 bg-slate-50 border-2 border-slate-100 rounded-2xl text-center font-bold text-lg focus:border-indigo-500 focus:ring-8 focus:ring-indigo-100 outline-none transition-all"
+                                placeholder="Commencez à taper pour de l'aide...">
                             <datalist id="allClassesList"></datalist>
                         </div>
                         <div id="feedback" class="mt-4 text-center h-6 text-sm font-bold"></div>
-                        <button onclick="giveUpClass()" class="mt-8 block mx-auto text-[10px] font-black text-slate-400 hover:text-indigo-500 uppercase tracking-widest transition-colors">
-                            Je ne connais pas la classe →
+                        <button onclick="giveUpClass()" class="mt-6 block mx-auto text-[10px] font-black text-slate-400 hover:text-indigo-500 uppercase tracking-widest transition-colors">
+                            Je ne sais pas, révéler la classe →
                         </button>
                     </div>
 
-                    <!-- ÉTAPE 2 : CLASSE RÉVÉLÉE -->
+                    <!-- ÉTAPE 2 : CLASSE RÉVÉLÉE (Active Recall) -->
                     <div id="step2_ClassRevealed" class="hidden-step reveal-anim max-w-md mx-auto text-center">
-                        <div class="bg-indigo-600 text-white p-8 rounded-[2.5rem] shadow-xl shadow-indigo-100 mb-8">
-                            <p class="text-[10px] font-black uppercase tracking-widest mb-2 opacity-70">Type de Médicament</p>
-                            <p id="confirmedClassName" class="text-2xl md:text-3xl font-black leading-tight"></p>
+                        <div class="bg-indigo-600 text-white p-6 rounded-3xl shadow-xl shadow-indigo-100 mb-6">
+                            <p class="text-[10px] font-black uppercase tracking-widest mb-1.5 opacity-70">Classe confirmée</p>
+                            <p id="confirmedClassName" class="text-xl md:text-2xl font-black leading-tight"></p>
                         </div>
-                        <div class="space-y-2">
-                            <p class="text-slate-800 text-lg font-black">Effort de rappel !</p>
-                            <p class="text-slate-400 text-sm font-medium">Réfléchissez aux indications, contre-indications, <br>interactions, effets indésirables et précautions.</p>
+                        <div class="space-y-2 bg-slate-50 p-5 rounded-3xl border border-slate-100">
+                            <p class="text-slate-800 text-md font-black">🧠 Effort de rappel !</p>
+                            <p class="text-slate-400 text-xs font-medium leading-relaxed">Réfléchissez aux indications, contre-indications, <br>interactions, effets secondaires et précautions avant d'afficher.</p>
                         </div>
                     </div>
 
                     <!-- ÉTAPE 3 : DÉTAILS COMPLETS -->
-                    <div id="step3_AllDetails" class="hidden-step reveal-anim grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pb-10">
-                        <div class="bg-blue-50/50 p-6 rounded-3xl border border-blue-100">
+                    <div id="step3_AllDetails" class="hidden-step reveal-anim grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pb-6">
+                        <div class="bg-blue-50/40 p-5 rounded-2xl border border-blue-100">
                             <h3 class="text-[10px] font-black text-blue-600 uppercase tracking-widest mb-3">🎯 Indications</h3>
-                            <div id="medIndications" class="text-slate-700 text-sm font-semibold leading-relaxed"></div>
+                            <div id="medIndications" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
                         </div>
-                        <div class="bg-rose-50/50 p-6 rounded-3xl border border-rose-100">
+                        <div class="bg-rose-50/40 p-5 rounded-2xl border border-rose-100">
                             <h3 class="text-[10px] font-black text-rose-600 uppercase tracking-widest mb-3">🚫 Contre-indications</h3>
-                            <div id="medContra" class="text-slate-700 text-sm font-semibold leading-relaxed"></div>
+                            <div id="medContra" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
                         </div>
-                        <div class="bg-amber-50/50 p-6 rounded-3xl border border-amber-100">
+                        <div class="bg-amber-50/40 p-5 rounded-2xl border border-amber-100">
                             <h3 class="text-[10px] font-black text-amber-600 uppercase tracking-widest mb-3">🔄 Interactions</h3>
-                            <div id="medInteractions" class="text-slate-700 text-sm font-semibold leading-relaxed"></div>
+                            <div id="medInteractions" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
                         </div>
-                        <div class="bg-purple-50/50 p-6 rounded-3xl border border-purple-100">
+                        <div class="bg-purple-50/40 p-5 rounded-2xl border border-purple-100">
                             <h3 class="text-[10px] font-black text-purple-600 uppercase tracking-widest mb-3">⚠️ Effets Indésirables</h3>
-                            <div id="medSideEffects" class="text-slate-700 text-sm font-semibold leading-relaxed"></div>
+                            <div id="medSideEffects" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
                         </div>
-                        <div class="bg-emerald-50/50 p-6 rounded-3xl border border-emerald-100 lg:col-span-2">
+                        <div class="bg-emerald-50/40 p-5 rounded-2xl border border-emerald-100 lg:col-span-2">
                             <h3 class="text-[10px] font-black text-emerald-600 uppercase tracking-widest mb-3">🛡️ Précautions</h3>
-                            <div id="medPrecaution" class="text-slate-700 text-sm font-semibold leading-relaxed"></div>
+                            <div id="medPrecaution" class="text-slate-700 text-xs font-semibold leading-relaxed"></div>
                         </div>
                     </div>
                 </div>
 
-                <div class="p-8 bg-slate-50/80 backdrop-blur-sm border-t border-slate-100">
-                    <button id="mainBtn" onclick="handleMainAction()" class="w-full py-6 bg-indigo-600 hover:bg-indigo-700 text-white font-black text-sm uppercase tracking-[0.2em] rounded-2xl shadow-xl shadow-indigo-100 transition-all active:scale-[0.98]">
+                <!-- Footer de contrôle -->
+                <div class="p-6 bg-slate-50/80 backdrop-blur-sm border-t border-slate-100 mt-auto">
+                    <button id="mainBtn" onclick="handleMainAction()" class="w-full py-5 bg-indigo-600 hover:bg-indigo-700 text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl shadow-indigo-100 transition-all active:scale-[0.98]">
                         Valider la classe
                     </button>
-                    <div class="flex justify-between items-center mt-4 px-2">
-                        <p class="text-[9px] text-slate-400 font-bold uppercase tracking-widest">Raccourci : [Entrée]</p>
-                        <p id="statusTag" class="text-[9px] text-indigo-400 font-black uppercase tracking-widest">Étape 1/3</p>
+                    <div class="flex justify-between items-center mt-3 px-2">
+                        <p class="text-[8px] text-slate-400 font-bold uppercase tracking-widest">Action : [Entrée]</p>
+                        <p id="statusTag" class="text-[8px] text-indigo-400 font-black uppercase tracking-widest">Étape 1/3</p>
                     </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ================= ONGLET 2 : SYNTHÈSE / RÉPERTOIRE ================= -->
+        <div id="tabSummary" class="reveal-anim hidden-step">
+            <div class="bg-white rounded-[2rem] p-6 md:p-8 border border-slate-100 shadow-sm">
+                <div class="mb-6">
+                    <h2 class="text-xl font-black text-slate-800">📚 Répertoire d'Étude par Classe</h2>
+                    <p class="text-xs text-slate-400 font-semibold mt-1">
+                        Consultez tous vos médicaments regroupés de manière compacte par classe pharmacologique pour réviser rapidement.
+                    </p>
+                </div>
+                
+                <div id="summaryContainer" class="space-y-4">
+                    <!-- Généré dynamiquement en JS -->
+                    <div class="text-center py-8 text-slate-400 font-bold">Chargement de la base de données...</div>
                 </div>
             </div>
         </div>
     </div>
 
     <script>
-        // 1. Déclarer les variables au niveau global pour qu'elles soient accessibles partout
+        // 1. Initialisation des variables globales
         let medicationsDB = [];
         let filteredMeds = [];
         let currentIndex = 0;
         let flowState = 'GUESSING';
+        let isRandom = false;
+        let activeTab = 'quiz';
+        let playedIndexes = []; // Pour ne pas rejouer les mêmes cartes en mode aléatoire
 
-        // 2. Charger les données depuis le fichier JSON
-        // Important : GitHub Pages respecte la casse (minuscules/majuscules) !
+        // 2. Base de données de secours locale pour que l'app fonctionne par défaut ou si le JSON a un problème
+        const fallbackDB = [
+            {
+                "nom_medicament": "Paracétamol",
+                "type_medicament": "Antalgique non opioïde",
+                "indications": ["Douleurs d'intensité légère à modérée", "États fébriles"],
+                "contre_indications": ["Insuffisance hépatocellulaire sévère", "Hypersensibilité au paracétamol"],
+                "interactions": ["Anticoagulants oraux (surveillance accrue si dose maximale)", "Alcool (majoration de la toxicité)"],
+                "effets_indésirables": ["Réactions d'hypersensibilité", "Hépatotoxicité en cas de surdosage"],
+                "precaution": ["Respecter la posologie maximale (4g/jour chez l'adulte)", "Espacer les prises de 4h minimum"]
+            },
+            {
+                "nom_medicament": "Ibuprofène",
+                "type_medicament": "AINS (Anti-inflammatoire non stéroïdien)",
+                "indications": ["Fièvre", "Douleurs légères à modérées", "Inflammations articulaires"],
+                "contre_indications": ["Grossesse (à partir du 6ème mois)", "Ulcère gastro-duodénal actif", "Insuffisance rénale sévère"],
+                "interactions": ["Autres AINS", "Anticoagulants (risque hémorragique majoré)", "Lithium"],
+                "effets_indésirables": ["Troubles digestifs (brûlures d'estomac)", "Insuffisance rénale aiguë", "Éruptions cutanées"],
+                "precaution": ["Prendre au milieu d'un repas", "Hydratation adéquate", "Durée de traitement la plus courte possible"]
+            },
+            {
+                "nom_medicament": "Amoxicilline",
+                "type_medicament": "Antibiotique bêta-lactamine",
+                "indications": ["Infections bronchopulmonaires", "Otites moyennes aiguës", "Infections urinaires documentées"],
+                "contre_indications": ["Allergie aux bêta-lactamines / pénicillines"],
+                "interactions": ["Méthotrexate (augmentation de sa toxicité)", "Vaccin contre le choléra"],
+                "effets_indésirables": ["Diarrhées, nausées", "Éruptions cutanées maculopapuleuses", "Candidose digestive"],
+                "precaution": ["Maintenir un apport hydrique suffisant", "Surveillance de la fonction rénale chez le sujet âgé"]
+            }
+        ];
+
+        // 3. Chargement de la base de données (sur GitHub ou fallback)
         fetch("data/medicaments.json")
             .then(response => {
-                if (!response.ok) throw new Error("Fichier JSON non trouvé dans data/medicaments.json");
+                if (!response.ok) throw new Error("Fichier local introuvable, utilisation de la base interne.");
                 return response.json();
             })
             .then(data => {
                 medicationsDB = data;
-                filteredMeds = [...medicationsDB];
-
-                // 3. Lancer l'initialisation SEULEMENT quand les données sont chargées
-                init();
+                startApp();
             })
             .catch(error => {
-                console.error("Erreur critique :", error);
-                document.getElementById('medName').innerHTML = "Erreur : " + error.message;
+                console.warn(error.message);
+                // Utilisation des données par défaut si l'appel fetch échoue
+                medicationsDB = fallbackDB;
+                startApp();
             });
 
-        function init() {
-            if (medicationsDB.length === 0) return;
+        function startApp() {
+            filteredMeds = [...medicationsDB];
             populateClasses();
-            updateDisplay();
+            populateSummary();
+            resetFlow();
         }
 
+        // Formate une chaîne ou un tableau en liste HTML propre
         function formatData(data) {
             if (Array.isArray(data)) {
                 if (data.length === 0) return "Aucun";
@@ -176,12 +250,17 @@
             return data || "Non spécifié";
         }
 
+        // Remplit les options de filtre
         function populateClasses() {
             const select = document.getElementById('classFilter');
             const datalist = document.getElementById('allClassesList');
-            // Récupérer les classes uniques et trier
+            
+            // Réinitialiser les listes
+            select.innerHTML = '<option value="all">Toutes les classes</option>';
+            datalist.innerHTML = '';
+            
             const classes = [...new Set(medicationsDB.map(m => m.type_medicament))].sort();
-
+            
             classes.forEach(c => {
                 const optSelect = document.createElement('option');
                 optSelect.value = c;
@@ -194,19 +273,170 @@
             });
         }
 
+        // Basculer d'onglet
+        function switchTab(tabName) {
+            activeTab = tabName;
+            const tabQuiz = document.getElementById('tabQuiz');
+            const tabSummary = document.getElementById('tabSummary');
+            const btnQuiz = document.getElementById('tabQuizBtn');
+            const btnSummary = document.getElementById('tabSummaryBtn');
+
+            if (tabName === 'quiz') {
+                tabQuiz.classList.remove('hidden-step');
+                tabSummary.classList.add('hidden-step');
+                
+                btnQuiz.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-indigo-900 bg-white shadow-sm transition-all";
+                btnSummary.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-slate-600 hover:text-indigo-900 transition-all";
+                
+                setTimeout(() => {
+                    const classInput = document.getElementById('classInput');
+                    if (classInput) classInput.focus();
+                }, 100);
+            } else {
+                tabQuiz.classList.add('hidden-step');
+                tabSummary.classList.remove('hidden-step');
+                
+                btnQuiz.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-slate-600 hover:text-indigo-900 transition-all";
+                btnSummary.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-indigo-900 bg-white shadow-sm transition-all";
+                
+                populateSummary(); // Recréer ou mettre à jour la liste consolidée
+            }
+        }
+
+        // ================= GESTION DU REPERTOIRE (ONGLET SYNTHESE) =================
+        function populateSummary() {
+            const container = document.getElementById('summaryContainer');
+            container.innerHTML = "";
+
+            if (medicationsDB.length === 0) {
+                container.innerHTML = '<div class="text-center py-8 text-slate-400 font-bold">Aucun médicament chargé.</div>';
+                return;
+            }
+
+            // Grouper les médicaments par classe
+            const grouped = {};
+            medicationsDB.forEach(med => {
+                const type = med.type_medicament || "Classe non spécifiée";
+                if (!grouped[type]) {
+                    grouped[type] = [];
+                }
+                grouped[type].push(med);
+            });
+
+            // Trier les clés de classe
+            const sortedClasses = Object.keys(grouped).sort();
+
+            sortedClasses.forEach((className, groupIdx) => {
+                const groupContainer = document.createElement('div');
+                groupContainer.className = "border border-slate-100 rounded-2xl overflow-hidden shadow-sm bg-slate-50/50";
+
+                // En-tête de la classe (Bouton d'accordéon)
+                groupContainer.innerHTML = `
+                    <button onclick="toggleGroupAccordion(${groupIdx})" class="w-full flex justify-between items-center p-5 bg-white hover:bg-slate-50 transition-all text-left">
+                        <div>
+                            <span class="text-[9px] font-black uppercase tracking-wider text-indigo-500">Classe Pharmacologique</span>
+                            <h3 class="text-lg font-black text-slate-800">${className}</h3>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <span class="text-xs font-black px-2.5 py-1 bg-slate-100 text-slate-600 rounded-lg">${grouped[className].length} med</span>
+                            <svg id="arrow-${groupIdx}" class="w-5 h-5 text-slate-400 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </button>
+                    <div id="content-${groupIdx}" class="hidden p-5 border-t border-slate-100 space-y-6 bg-white">
+                    </div>
+                `;
+
+                container.appendChild(groupContainer);
+                const listContent = document.getElementById(`content-${groupIdx}`);
+
+                // Rendre chaque médicament de cette classe de manière très concise
+                grouped[className].forEach(med => {
+                    const medEl = document.createElement('div');
+                    medEl.className = "border-b border-slate-100 last:border-0 pb-6 last:pb-0";
+                    medEl.innerHTML = `
+                        <div class="mb-3">
+                            <h4 class="text-md font-black text-indigo-900">${med.nom_medicament}</h4>
+                        </div>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
+                            <div class="bg-blue-50/30 p-3 rounded-xl border border-blue-100/40 text-[11px]">
+                                <span class="font-black text-blue-600 block uppercase text-[8px] mb-1">🎯 Indications</span>
+                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.indications)}</div>
+                            </div>
+                            <div class="bg-rose-50/30 p-3 rounded-xl border border-rose-100/40 text-[11px]">
+                                <span class="font-black text-rose-600 block uppercase text-[8px] mb-1">🚫 Contre-indications</span>
+                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.contre_indications)}</div>
+                            </div>
+                            <div class="bg-amber-50/30 p-3 rounded-xl border border-amber-100/40 text-[11px]">
+                                <span class="font-black text-amber-600 block uppercase text-[8px] mb-1">🔄 Interactions</span>
+                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.interactions)}</div>
+                            </div>
+                            <div class="bg-purple-50/30 p-3 rounded-xl border border-purple-100/40 text-[11px]">
+                                <span class="font-black text-purple-600 block uppercase text-[8px] mb-1">⚠️ Effets indésirables</span>
+                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.effets_indésirables)}</div>
+                            </div>
+                            <div class="bg-emerald-50/30 p-3 rounded-xl border border-emerald-100/40 text-[11px] lg:col-span-1">
+                                <span class="font-black text-emerald-600 block uppercase text-[8px] mb-1">🛡️ Précautions</span>
+                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.precaution)}</div>
+                            </div>
+                        </div>
+                    `;
+                    listContent.appendChild(medEl);
+                });
+            });
+        }
+
+        function toggleGroupAccordion(groupIdx) {
+            const content = document.getElementById(`content-${groupIdx}`);
+            const arrow = document.getElementById(`arrow-${groupIdx}`);
+            
+            if (content.classList.contains('hidden')) {
+                content.classList.remove('hidden');
+                arrow.classList.add('rotate-180');
+            } else {
+                content.classList.add('hidden');
+                arrow.classList.remove('rotate-180');
+            }
+        }
+
+        // ================= GESTION DU QUIZ (ONGLET PRINCIPAL) =================
         function filterMeds() {
             const classVal = document.getElementById('classFilter').value;
             filteredMeds = medicationsDB.filter(m => classVal === 'all' || m.type_medicament === classVal);
             currentIndex = 0;
+            playedIndexes = [];
+            resetFlow();
+        }
+
+        function toggleRandomMode() {
+            isRandom = !isRandom;
+            playedIndexes = [];
+            const btn = document.getElementById('randomToggleBtn');
+            const icon = document.getElementById('randomIcon');
+            const text = document.getElementById('randomText');
+
+            if (isRandom) {
+                btn.className = "flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-black transition-all bg-indigo-50 border-indigo-200 text-indigo-600 hover:bg-indigo-100";
+                icon.textContent = "🎲";
+                text.textContent = "Ordre Aléatoire";
+            } else {
+                btn.className = "flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-black transition-all bg-slate-50 border-slate-200 text-slate-500 hover:bg-slate-100";
+                icon.textContent = "🔁";
+                text.textContent = "Ordre Séquentiel";
+            }
             resetFlow();
         }
 
         function resetFlow() {
             flowState = 'GUESSING';
             const input = document.getElementById('classInput');
-            input.value = '';
-            input.classList.remove('border-emerald-500', 'border-red-500');
-            document.getElementById('feedback').textContent = '';
+            if (input) {
+                input.value = '';
+                input.classList.remove('border-emerald-500', 'border-red-500');
+            }
+            const feedback = document.getElementById('feedback');
+            if (feedback) feedback.textContent = '';
             updateDisplay();
         }
 
@@ -225,13 +455,20 @@
 
             if (!med) {
                 ui.name.textContent = "Aucun médicament";
+                ui.counter.textContent = "0 / 0";
+                ui.step1.classList.add('hidden-step');
+                ui.step2.classList.add('hidden-step');
+                ui.step3.classList.add('hidden-step');
+                ui.mainBtn.textContent = "Pas de données";
+                ui.mainBtn.disabled = true;
                 return;
             }
 
+            ui.mainBtn.disabled = false;
             ui.name.textContent = med.nom_medicament;
             ui.counter.textContent = `${currentIndex + 1} / ${filteredMeds.length}`;
 
-            // Masquer tout par défaut
+            // Masquer d'office toutes les étapes
             ui.step1.classList.add('hidden-step');
             ui.step2.classList.add('hidden-step');
             ui.step3.classList.add('hidden-step');
@@ -239,18 +476,22 @@
             if (flowState === 'GUESSING') {
                 ui.step1.classList.remove('hidden-step');
                 ui.mainBtn.textContent = "Valider la classe";
-                ui.mainBtn.className = "w-full py-6 bg-indigo-600 hover:bg-indigo-700 text-white font-black text-sm uppercase tracking-[0.2em] rounded-2xl shadow-xl transition-all";
+                ui.mainBtn.className = "w-full py-5 bg-indigo-600 hover:bg-indigo-700 text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 1/3";
-                setTimeout(() => document.getElementById('classInput').focus(), 100);
-            }
+                setTimeout(() => {
+                    const classInput = document.getElementById('classInput');
+                    if (classInput) classInput.focus();
+                }, 100);
+            } 
             else if (flowState === 'RECALLING') {
                 ui.confirmedClass.textContent = med.type_medicament;
                 ui.step2.classList.remove('hidden-step');
-                ui.mainBtn.textContent = "Dévoiler les propriétés";
-                ui.mainBtn.className = "w-full py-6 bg-slate-900 hover:bg-black text-white font-black text-sm uppercase tracking-[0.2em] rounded-2xl shadow-xl transition-all";
+                ui.mainBtn.textContent = "Dévoiler les propriétés du médicament";
+                ui.mainBtn.className = "w-full py-5 bg-slate-900 hover:bg-black text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 2/3";
-            }
+            } 
             else if (flowState === 'REVEALED') {
+                // Injection tardive et stricte pour s'assurer que rien ne transpire avant cette étape
                 document.getElementById('medIndications').innerHTML = formatData(med.indications);
                 document.getElementById('medContra').innerHTML = formatData(med.contre_indications);
                 document.getElementById('medInteractions').innerHTML = formatData(med.interactions);
@@ -260,11 +501,12 @@
                 ui.step2.classList.remove('hidden-step');
                 ui.step3.classList.remove('hidden-step');
                 ui.mainBtn.textContent = "Médicament Suivant";
-                ui.mainBtn.className = "w-full py-6 bg-emerald-600 hover:bg-emerald-700 text-white font-black text-sm uppercase tracking-[0.2em] rounded-2xl shadow-xl transition-all";
+                ui.mainBtn.className = "w-full py-5 bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 3/3";
             }
         }
 
+        // Gère l'action du gros bouton d'action selon l'étape actuelle
         function handleMainAction() {
             if (flowState === 'GUESSING') {
                 validateClass();
@@ -280,23 +522,30 @@
             const input = document.getElementById('classInput');
             const feedback = document.getElementById('feedback');
             const med = filteredMeds[currentIndex];
+            if (!med) return;
+
             const val = input.value.trim().toLowerCase();
             const correctVal = med.type_medicament.toLowerCase();
 
             if (val === correctVal) {
                 feedback.innerHTML = "✨ Correct !";
-                feedback.className = "mt-4 text-center text-emerald-500 font-bold reveal-anim";
+                feedback.className = "mt-4 text-center text-emerald-500 text-sm font-bold reveal-anim";
                 input.classList.add('border-emerald-500');
-
+                
                 setTimeout(() => {
                     flowState = 'RECALLING';
                     updateDisplay();
                 }, 400);
             } else {
                 feedback.innerHTML = "Ce n'est pas tout à fait ça...";
-                feedback.className = "mt-4 text-center text-red-500 font-bold shake";
+                feedback.className = "mt-4 text-center text-red-500 text-sm font-bold shake";
                 input.classList.add('border-red-500');
-                setTimeout(() => input.classList.remove('shake'), 400);
+                
+                // Effet shake de l'input
+                input.classList.add('shake');
+                setTimeout(() => {
+                    input.classList.remove('shake');
+                }, 400);
             }
         }
 
@@ -305,20 +554,57 @@
             updateDisplay();
         }
 
+        // Passe au médicament suivant
         function nextMed() {
-            if (currentIndex < filteredMeds.length - 1) currentIndex++;
-            else currentIndex = 0;
+            if (filteredMeds.length <= 1) {
+                resetFlow();
+                return;
+            }
+
+            if (isRandom) {
+                // Stocker l'index actuel dans l'historique joué
+                if (!playedIndexes.includes(currentIndex)) {
+                    playedIndexes.push(currentIndex);
+                }
+
+                // Si toutes les fiches ont été jouées, réinitialiser l'historique
+                if (playedIndexes.length >= filteredMeds.length) {
+                    playedIndexes = [];
+                }
+
+                let nextIndex;
+                do {
+                    nextIndex = Math.floor(Math.random() * filteredMeds.length);
+                } while (nextIndex === currentIndex || playedIndexes.includes(nextIndex));
+
+                currentIndex = nextIndex;
+            } else {
+                if (currentIndex < filteredMeds.length - 1) {
+                    currentIndex++;
+                } else {
+                    currentIndex = 0;
+                }
+            }
             resetFlow();
         }
 
+        // Revient au médicament précédent (mode séquentiel)
         function prevMed() {
-            if (currentIndex > 0) currentIndex--;
-            else currentIndex = filteredMeds.length - 1;
+            if (filteredMeds.length <= 1) return;
+            
+            if (currentIndex > 0) {
+                currentIndex--;
+            } else {
+                currentIndex = filteredMeds.length - 1;
+            }
             resetFlow();
         }
 
+        // Ecouteur d'événement clavier pour [Entrée]
         document.addEventListener('keydown', (e) => {
-            if (e.key === 'Enter') handleMainAction();
+            if (activeTab === 'quiz' && e.key === 'Enter') {
+                handleMainAction();
+            }
         });
     </script>
 </body>
