@@ -236,8 +236,6 @@
             }
             questionnaireLite = questionnaireLite.concat(listeQuestions.slice(0, 5));
         }
-        // Mélange final pour casser l'ordre des pages du PDF
-        questionnaireLite.sort(() => Math.random() - 0.5);
 
         quizData = questionnaireLite;
         alert(`⚡ Mode Express activé ! Quiz réduit à : ${quizData.length} questions.`);
