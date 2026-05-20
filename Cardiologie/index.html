@@ -1,122 +1,125 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
-  <head>
+<head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Objectif : Tabasser la physiopathologie</title>
-
-    <!-- css -->
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-  </head>
-  <body onload="Menuderoulant()" style="background-color:  #f00020 ;">
-      <div class="container space">
+    
+    <style>
+        body {
+            background: radial-gradient(circle at top, #b21f1f, #1a0505);
+            min-height: 100vh;
+            color: #ffffff;
+            font-family: sans-serif;
+            padding-bottom: 50px;
+        }
+        .hub-card {
+            background: rgba(255, 255, 255, 0.1) !important;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 16px;
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+            padding: 25px;
+            margin-bottom: 20px;
+        }
+        .chapter-link {
+            display: block;
+            background: rgba(0, 0, 0, 0.3);
+            color: #ffffff !important;
+            text-decoration: none !none;
+            padding: 12px 18px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            border-left: 4px solid #ff4b5c;
+            transition: all 0.3s ease;
+            text-align: left;
+        }
+        .chapter-link:hover {
+            background: #ff4b5c;
+            transform: translateX(5px);
+            box-shadow: 0 4px 15px rgba(255, 75, 92, 0.4);
+        }
+        .disclaimer-box {
+            background-color: #fff3cd !important;
+            border-left: 5px solid #ffc107;
+            color: #664d03 !important;
+            font-size: 0.95rem;
+        }
+        video {
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body onload="typeof Menuderoulant === 'function' && Menuderoulant()">
 
-      </div>
-      <div class="container">
-        <div class="row">
-          <div class="col">
-
-          </div>
-          <div class="col align-self-center">
-            <video controls width="500">
-
-              <source src="media/maraiste.mp4" type="video/mp4" />
-            </video>
-          </div>
-          <div class="col">
-
-          </div>
-
+    <div class="container py-4">
+        
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-md-8 col-lg-6">
+                <video controls width="500">
+                    <source src="media/maraiste.mp4" type="video/mp4" />
+                    Votre navigateur ne supporte pas la lecture de vidéos.
+                </video>
+            </div>
         </div>
 
-
-
-      </div>
-
-        <div class="container">
-
-      <div class="container p-3 mb-2 bd-red-200 text-dark rounded"  >
-        <div class="row">
-
-        <div class="row">
-
-            <div class="col-md-6">
-              <div class="container text-center p-3 mb-2 bg-danger text-dark rounded">
-
-                  <div class="row font-monospace">
-
-                    <div class="h1">
-                      Révision chapitre (DISCLAIMER : y a quasi tout qui est fait via IA psk l'abus de zinzin 3000 questions jsuis pas flash mcqueen, du coup si jamais vous trouvez des erreurs c'est normal, n'hésitez pas à le noter dans un doc et à me l'envoyer mais svp m'envoyez pas question par question psk ça va juste me souler)
-                    </div>
-
-
-                    <a class="h3 text-center" href="Chapitre 1.html"> Chapitre 1 : Athéromatose et prévention de la maladie cardiovasculaire</a>
-                    <a class="h3 text-center" href="Chapitre 2.html"> Chapitre 2 : Hypertension artérielle (HTA)  </a>
-                    <a class="h3 text-center" href="Chapitre 3.html"> Chapitre 3 : Cardiopathie ischémique </a>
-                    <a class="h3 text-center" href="Chapitre 4.html"> Chapitre 4 : Pathologie valvulaire et congénitale de l’adulte </a>
-                    <a class="h3 text-center" href="Chapitre 5.html"> Chapitre 5 : Insuffisance cardiaque, pathologies du myocarde et du péricarde, hypertension pulmonaire et tumeurs cardiaques </a>
-                    <a class="h3 text-center" href="Chapitre 6.html"> Chapitre 6 : Arythmies cardiaques</a>
-                    <a class="h3 text-center" href="Chapitre 7.html"> Chapitre 7 : Artériopathie oblitérante des membres inférieurs</a>
-                    <a class="h3 text-center" href="Chapitre 8.html"> Chapitre 8 : Pathologies des troncs supra-aortiques</a>
-                    <a class="h3 text-center" href="Chapitre 9.html"> Chapitre 9 : Anévrysmes artériels</a>
-                    <a class="h3 text-center" href="Chapitre 10.html"> Chapitre 10 : Dissection et ulcère pénétrant de l’aorte</a>
-                    <a class="h3 text-center" href="Chapitre 11.html"> Chapitre 11 : Pathologies des troncs viscéraux</a>
-                    <a class="h3 text-center" href="Chapitre 12.html"> Chapitre 12 : Artériopathies non athéromateuses</a>
-                    <a class="h3 text-center" href="Chapitre 13.html"> Chapitre 13 : Acrosyndromes vasculaires et syndrome du défilé thoraco-brachial</a>
-                    <a class="h3 text-center" href="Chapitre 14.html"> Chapitre 14 : Insuffisance veineuse chronique et maladie variqueuse</a>
-                    <a class="h3 text-center" href="Chapitre 15.html"> Chapitre 15 : Thrombose veineuse profonde et superficielle</a>
-
-
-
-
-
-
-
-                  </div>
-
-
-              </div>
-
-            </div>
-            <div class="col-md-6">
-              <div class="container text-center p-3 mb-2 bg-danger text-dark rounded">
-                <div class="row font-monospace">
-                  <div class="h1">
-                    Annale
-
-
-                  </div>
-
-
+        <div class="row justify-content-center mb-4">
+            <div class="col-12">
+                <div class="alert disclaimer-box shadow-sm rounded-3 p-3" role="alert">
+                    <h5 class="alert-heading fw-bold mb-2">⚠️ DISCLAIMER IMPORTANT</h5>
+                    <p class="mb-0 font-monospace">
+                        Quasi tout est généré via IA parce que l'abus de zinzin (3000 questions), je ne suis pas Flash McQueen. 
+                        Si vous trouvez des erreurs, c'est normal ! Notez-les dans un doc global et envoyez-le moi. 
+                        <em>S'il vous plaît, pas de message question par question, ça va juste me souler.</em> Merci !
+                    </p>
                 </div>
+            </div>
+        </div>
 
-
-              </div>
-
+        <div class="row g-4">
+            
+            <div class="col-md-7 col-lg-8">
+                <div class="hub-card h-100">
+                    <h2 class="mb-4 fw-bold border-bottom pb-2" style="color: #ff4b5c;">📚 Révision par Chapitres</h2>
+                    <div class="font-monospace">
+                        <a class="chapter-link" href="Chapitre 1.html"><strong>Chapitre 1 :</strong> Athéromatose et prévention de la maladie CV</a>
+                        <a class="chapter-link" href="Chapitre 2.html"><strong>Chapitre 2 :</strong> Hypertension artérielle (HTA)</a>
+                        <a class="chapter-link" href="Chapitre 3.html"><strong>Chapitre 3 :</strong> Cardiopathie ischémique</a>
+                        <a class="chapter-link" href="Chapitre 4.html"><strong>Chapitre 4 :</strong> Pathologie valvulaire et congénitale de l’adulte</a>
+                        <a class="chapter-link" href="Chapitre 5.html"><strong>Chapitre 5 :</strong> Insuffisance cardiaque, myocarde, péricarde & HTAP</a>
+                        <a class="chapter-link" href="Chapitre 6.html"><strong>Chapitre 6 :</strong> Arythmies cardiaques</a>
+                        <a class="chapter-link" href="Chapitre 7.html"><strong>Chapitre 7 :</strong> Artériopathie oblitérante des membres inférieurs</a>
+                        <a class="chapter-link" href="Chapitre 8.html"><strong>Chapitre 8 :</strong> Pathologies des troncs supra-aortiques</a>
+                        <a class="chapter-link" href="Chapitre 9.html"><strong>Chapitre 9 :</strong> Anévrysmes artériels</a>
+                        <a class="chapter-link" href="Chapitre 10.html"><strong>Chapitre 10 :</strong> Dissection et ulcère pénétrant de l’aorte</a>
+                        <a class="chapter-link" href="Chapitre 11.html"><strong>Chapitre 11 :</strong> Pathologies des troncs viscéraux</a>
+                        <a class="chapter-link" href="Chapitre 12.html"><strong>Chapitre 12 :</strong> Artériopathies non athéromateuses</a>
+                        <a class="chapter-link" href="Chapitre 13.html"><strong>Chapitre 13 :</strong> Acrosyndromes vasculaires et défilé thoraco-brachial</a>
+                        <a class="chapter-link" href="Chapitre 14.html"><strong>Chapitre 14 :</strong> Insuffisance veineuse chronique et maladie variqueuse</a>
+                        <a class="chapter-link" href="Chapitre 15.html"><strong>Chapitre 15 :</strong> Thrombose veineuse profonde et superficielle</a>
+                    </div>
+                </div>
             </div>
 
+            <div class="col-md-5 col-lg-4">
+                <div class="hub-card h-100">
+                    <h2 class="mb-4 fw-bold border-bottom pb-2" style="color: #00adb5;">📝 Annales</h2>
+                    <div class="font-monospace text-center py-5 text-muted">
+                        <p class="h4">Aucune annale pour le moment.</p>
+                        <p class="small">Les examens blancs apparaîtront ici.</p>
+                    </div>
+                </div>
+            </div>
 
         </div>
+    </div>
 
-        </div>
-
-
-
-
-
-
-
-
-
-
-
-<!-- SCRIPT-->
-
-
-<script src="js/bootstrap.bundle.min.js"></script>
-<script src="script.js"></script>
-
-
-  </body>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
 </html>
