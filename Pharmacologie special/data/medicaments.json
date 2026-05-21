@@ -2,6 +2,8 @@
     {
         "nom_medicament": "Propanolol (Inderal)",
         "type_medicament": "Beta-bloquant (non sélectif Beta1 = Beta2)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -42,6 +44,8 @@
     {
         "nom_medicament": "Carvédilol (Kredex)",
         "type_medicament": "Beta-bloquant (non sélectif Beta1 = Beta2 + anti alpha1)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -82,6 +86,8 @@
     {
         "nom_medicament": "Aténolol (Tenormin)",
         "type_medicament": "Beta-bloquant (Cardiosélectifs Beta1>Beta2)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -122,6 +128,8 @@
     {
         "nom_medicament": "Bisprolol (Emconcor)",
         "type_medicament": "Beta-bloquant (Cardiosélectifs Beta1>Beta2)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -162,6 +170,8 @@
     {
         "nom_medicament": "Esmolol (Brevibloc)",
         "type_medicament": "Beta-bloquant (Cardiosélectifs Beta1>Beta2)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -202,6 +212,8 @@
     {
         "nom_medicament": "Métoprolol (Lopresor)",
         "type_medicament": "Beta-bloquant (Cardiosélectifs Beta1>Beta2)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -242,6 +254,8 @@
     {
         "nom_medicament": "Landiolol (Runrapid)",
         "type_medicament": "Beta-bloquant (Cardiosélectifs Beta1>Beta2)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -282,6 +296,8 @@
     {
         "nom_medicament": "Nébivolol (Nobiten)",
         "type_medicament": "Beta-bloquant (Cardiosélectifs Beta1>Beta2 + vasodilatateurs)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -322,6 +338,8 @@
     {
         "nom_medicament": "Labétalol (Trandate)",
         "type_medicament": "Beta-bloquant (non sélectif Beta1 = Beta2 + anti alpha1)",
+        "classe_medicament": "Beta-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor",
@@ -362,6 +380,8 @@
     {
         "nom_medicament": "Amlodipine (Amlor)",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor stable",
@@ -385,6 +405,8 @@
     {
         "nom_medicament": "Clévidipine (Cleviprex)",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor stable",
@@ -408,6 +430,8 @@
     {
         "nom_medicament": "Félodipine (Plendil)",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor stable",
@@ -431,6 +455,8 @@
     {
         "nom_medicament": "Lercanidipine (Zandip)",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor stable",
@@ -454,6 +480,8 @@
     {
         "nom_medicament": "Nicardipine (Rydedne)",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor stable",
@@ -475,8 +503,10 @@
         "precautions": []
     },
     {
-        "nom_medicament": "Nifédipine ",
+        "nom_medicament": "Nifédipine",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor stable",
@@ -500,6 +530,8 @@
     {
         "nom_medicament": "Nimodipine (Nimotop)",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Angor stable",
@@ -523,6 +555,8 @@
     {
         "nom_medicament": "Vérapamil (Isoptine)",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire",
             "Hypertension",
@@ -544,6 +578,8 @@
     {
         "nom_medicament": "Diltiazem (Tildiem)",
         "type_medicament": "Antagoniste Calcique",
+        "classe_medicament": "Antagonistes calciques",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire",
             "Hypertension",
@@ -563,6 +599,8 @@
     {
         "nom_medicament": "Captopril",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -583,6 +621,8 @@
     {
         "nom_medicament": "Cilazapril (Inhibace)",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -603,6 +643,8 @@
     {
         "nom_medicament": "Enalapril (Renitec)",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -623,6 +665,8 @@
     {
         "nom_medicament": "Fosinopril (Fosinil)",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -643,6 +687,8 @@
     {
         "nom_medicament": "Lisinopril (Zestril)",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -663,6 +709,8 @@
     {
         "nom_medicament": "Périndopril (Coversyl)",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -683,6 +731,8 @@
     {
         "nom_medicament": "Quinapril (Accupril)",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -703,6 +753,8 @@
     {
         "nom_medicament": "Ramipril (Tritace)",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -723,6 +775,8 @@
     {
         "nom_medicament": "Zofénopril (Zopranol)",
         "type_medicament": "Inhibiteur de l'enzyme de conversion",
+        "classe_medicament": "IEC",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -743,6 +797,8 @@
     {
         "nom_medicament": "Candésartan (Atacand)",
         "type_medicament": "Antagoniste des récepteurs AT1-Sartans",
+        "classe_medicament": "Sartans",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -770,6 +826,8 @@
     {
         "nom_medicament": "Irbésartan (Aprovel)",
         "type_medicament": "Antagoniste des récepteurs AT1-Sartans",
+        "classe_medicament": "Sartans",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -797,6 +855,8 @@
     {
         "nom_medicament": "Losartan (Cozaar)",
         "type_medicament": "Antagoniste des récepteurs AT1-Sartans",
+        "classe_medicament": "Sartans",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -824,6 +884,8 @@
     {
         "nom_medicament": "Olmésartan (Belsar)",
         "type_medicament": "Antagoniste des récepteurs AT1-Sartans",
+        "classe_medicament": "Sartans",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -851,6 +913,8 @@
     {
         "nom_medicament": "Telmisartan (Micardis)",
         "type_medicament": "Antagoniste des récepteurs AT1-Sartans",
+        "classe_medicament": "Sartans",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -878,6 +942,8 @@
     {
         "nom_medicament": "Valsartan (Diovane)",
         "type_medicament": "Antagoniste des récepteurs AT1-Sartans",
+        "classe_medicament": "Sartans",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -905,6 +971,8 @@
     {
         "nom_medicament": "Chlorthalidone (Hygroton)",
         "type_medicament": "Diurétique (diurétique thiazidiques)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Rétention hydrosodée"
@@ -926,6 +994,8 @@
     {
         "nom_medicament": "Indapamide (Fludex)",
         "type_medicament": "Diurétique (diurétique thiazidiques)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Rétention hydrosodée"
@@ -947,6 +1017,8 @@
     {
         "nom_medicament": "Hydrochlorothiazide (Zestoretic)",
         "type_medicament": "Diurétique (diurétique thiazidiques)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Rétention hydrosodée"
@@ -968,6 +1040,8 @@
     {
         "nom_medicament": "Bumétanide (Burinex)",
         "type_medicament": "Diurétique (diurétique de l'anse)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Œdème",
@@ -991,6 +1065,8 @@
     {
         "nom_medicament": "Furosémide (Lasix)",
         "type_medicament": "Diurétique (diurétique de l'anse)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Œdème",
@@ -1015,6 +1091,8 @@
     {
         "nom_medicament": "Torasémide (Torrem)",
         "type_medicament": "Diurétique (diurétique de l'anse)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Œdème",
@@ -1038,6 +1116,8 @@
     {
         "nom_medicament": "Amiloride (Frusamil)",
         "type_medicament": "Diurétique (diurétique d'épargne potassique)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension"
         ],
@@ -1054,6 +1134,8 @@
     {
         "nom_medicament": "Spironolactone (Aldactone)",
         "type_medicament": "Diurétique (diurétique d'épargne potassique)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -1075,6 +1157,8 @@
     {
         "nom_medicament": "Eplérénone (Inspra)",
         "type_medicament": "Diurétique (diurétique d'épargne potassique)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension",
             "Insuffisance cardiaque",
@@ -1096,6 +1180,8 @@
     {
         "nom_medicament": "Acétazolamide (Diamox)",
         "type_medicament": "Diurétique (Inhibiteurs de l'anhydrase carbonique)",
+        "classe_medicament": "Diurétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Glaucome"
         ],
@@ -1110,6 +1196,8 @@
     {
         "nom_medicament": "Urapidil (Ebrantil)",
         "type_medicament": "Alpha1-bloquants",
+        "classe_medicament": "Alpha-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension"
         ],
@@ -1124,6 +1212,8 @@
     {
         "nom_medicament": "Clonidine (Catapressan)",
         "type_medicament": "Antihypertenseurs centraux",
+        "classe_medicament": "Anti-hypertenseur centraux",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension"
         ],
@@ -1143,6 +1233,8 @@
     {
         "nom_medicament": "Méthyldopa (Aldomet)",
         "type_medicament": "Antihypertenseurs centraux",
+        "classe_medicament": "Anti-hypertenseur centraux",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension"
         ],
@@ -1162,6 +1254,8 @@
     {
         "nom_medicament": "Moxonidine (Moxon)",
         "type_medicament": "Antihypertenseurs centraux",
+        "classe_medicament": "Anti-hypertenseur centraux",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertension"
         ],
@@ -1181,6 +1275,8 @@
     {
         "nom_medicament": "Dobutamine",
         "type_medicament": "",
+        "classe_medicament": "Dobutamine",
+        "classe_medicament_2": "",
         "indications": [
             "Hypotension aigüe"
         ],
@@ -1192,6 +1288,8 @@
     {
         "nom_medicament": "Norépinéphrine (Levophed)",
         "type_medicament": "",
+        "classe_medicament": "Norépinéphrine",
+        "classe_medicament_2": "",
         "indications": [
             "Hypotension aigüe"
         ],
@@ -1203,6 +1301,8 @@
     {
         "nom_medicament": "Dopamine",
         "type_medicament": "",
+        "classe_medicament": "Dopamine",
+        "classe_medicament_2": "",
         "indications": [
             "Hypotension aigüe"
         ],
@@ -1214,6 +1314,8 @@
     {
         "nom_medicament": "Argipressine (Reverpleg)",
         "type_medicament": "",
+        "classe_medicament": "Argipressine",
+        "classe_medicament_2": "",
         "indications": [
             "Hypotension aigüe"
         ],
@@ -1225,6 +1327,8 @@
     {
         "nom_medicament": "Etiléphrine (Effortil)",
         "type_medicament": "",
+        "classe_medicament": "Etiléfrine",
+        "classe_medicament_2": "",
         "indications": [
             "Hypotension chronique"
         ],
@@ -1239,6 +1343,8 @@
     {
         "nom_medicament": "Nitrogylcérine (Nitroderm)",
         "type_medicament": "Dérivé nitré",
+        "classe_medicament": "Dérivés nitrés",
+        "classe_medicament_2": "",
         "indications": [
             "Angor",
             "Insuffisance cardiaque gauche",
@@ -1264,6 +1370,8 @@
     {
         "nom_medicament": "Dinitrate d'isosorbide (Cédocar)",
         "type_medicament": "Dérivé nitré",
+        "classe_medicament": "Dérivés nitrés",
+        "classe_medicament_2": "",
         "indications": [
             "Angor",
             "Insuffisance cardiaque gauche",
@@ -1289,6 +1397,8 @@
     {
         "nom_medicament": "Molsidomine (Coruno)",
         "type_medicament": "Dérivé nitré",
+        "classe_medicament": "Dérivés nitrés",
+        "classe_medicament_2": "",
         "indications": [
             "Angor",
             "Insuffisance cardiaque gauche"
@@ -1313,6 +1423,8 @@
     {
         "nom_medicament": "Ivabradine (Procoralan)",
         "type_medicament": "",
+        "classe_medicament": "Ivabradine",
+        "classe_medicament_2": "",
         "indications": [
             "Angor",
             "Insuffisance cardiaque"
@@ -1338,6 +1450,8 @@
     {
         "nom_medicament": "Ranolazine (Ranexa)",
         "type_medicament": "",
+        "classe_medicament": "Ranolazine",
+        "classe_medicament_2": "",
         "indications": [
             "Angor stable"
         ],
@@ -1362,6 +1476,8 @@
     {
         "nom_medicament": "Digoxine (Lanoxin)",
         "type_medicament": "Glycoside digitalique",
+        "classe_medicament": "Digitaliques",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque grave",
             "Fibrillation auriculaire",
@@ -1389,6 +1505,8 @@
     {
         "nom_medicament": "Métildigoxine (Lanitop)",
         "type_medicament": "Glycoside digitalique",
+        "classe_medicament": "Digitaliques",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque grave",
             "Fibrillation auriculaire",
@@ -1415,7 +1533,9 @@
     },
     {
         "nom_medicament": "Milrinone (Corotrope)",
-        "type_medicament": "Autres inotropes positifs",
+        "type_medicament": "Inhibiteurs PDE",
+        "classe_medicament": "Inhibiteurs PDE",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque aigüe"
         ],
@@ -1428,7 +1548,9 @@
     },
     {
         "nom_medicament": "Lévosimendan (Simdax)",
-        "type_medicament": "Autres inotropes positifs",
+        "type_medicament": "Inhibiteurs PDE",
+        "classe_medicament": "Inhibiteurs PDE",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque aigüe"
         ],
@@ -1444,6 +1566,8 @@
     {
         "nom_medicament": "Sacubitril-Valsartan (Entresto)",
         "type_medicament": "Inhibiteur de la néprilysine",
+        "classe_medicament": "Inhibiteurs néprilysine",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque chronique avec FEV diminuée"
         ],
@@ -1469,6 +1593,8 @@
     {
         "nom_medicament": "Vériciguat (Verquvo)",
         "type_medicament": "Stimulateur de la guanylate cyclase soluble",
+        "classe_medicament": "Stimulateurs sGC",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque chronique avec FEV diminuée après décompensation récente"
         ],
@@ -1491,6 +1617,8 @@
     {
         "nom_medicament": "Riociguat (Adempas)",
         "type_medicament": "Stimulateur de la guanylate cyclase soluble (sGC)",
+        "classe_medicament": "Stimulateurs sGC",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque chronique avec FEV diminuée après décompensation récente",
             "Hypertension portale"
@@ -1514,6 +1642,8 @@
     {
         "nom_medicament": "Dapagliflozine (Forxiga)",
         "type_medicament": "Gliflozine",
+        "classe_medicament": "Gliflozines",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque chronique",
             "Maladie rénale chronique",
@@ -1535,6 +1665,8 @@
     {
         "nom_medicament": "Empagliflozine (Jardiance)",
         "type_medicament": "Gliflozine",
+        "classe_medicament": "Gliflozines",
+        "classe_medicament_2": "",
         "indications": [
             "Insuffisance cardiaque chronique",
             "Maladie rénale chronique",
@@ -1556,6 +1688,8 @@
     {
         "nom_medicament": "Disopyramide (Rythmodan)",
         "type_medicament": "Inhibiteur des canaux Na+ (Antiarythmique de classe Ia)",
+        "classe_medicament": "Inhibiteurs des canaux Na+",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire"
         ],
@@ -1575,6 +1709,8 @@
     {
         "nom_medicament": "Vernakalant (Brinavess)",
         "type_medicament": "Inhibiteur des canaux Na+ (Antiarythmique de classe Ia)",
+        "classe_medicament": "Inhibiteurs des canaux Na+",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire"
         ],
@@ -1593,6 +1729,8 @@
     {
         "nom_medicament": "Lidocaïne (Xylocard)",
         "type_medicament": "Inhibiteur des canaux Na+ (Antiarythmique de classe Ib)",
+        "classe_medicament": "Inhibiteurs des canaux Na+",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie ventriculaire"
         ],
@@ -1608,6 +1746,8 @@
     {
         "nom_medicament": "Flécaïnide (Apocard)",
         "type_medicament": "Inhibiteur des canaux Na+ (Antiarythmique de classe Ic)",
+        "classe_medicament": "Inhibiteurs des canaux Na+",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire"
         ],
@@ -1625,6 +1765,8 @@
     {
         "nom_medicament": "Propafénone (Rytmonorm)",
         "type_medicament": "Inhibiteur des canaux Na+ (Antiarythmique de classe Ic)",
+        "classe_medicament": "Inhibiteurs des canaux Na+",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire"
         ],
@@ -1641,6 +1783,8 @@
     {
         "nom_medicament": "Amiodarone (Cardarone)",
         "type_medicament": "Antiarythmique de classe III",
+        "classe_medicament": "Augmente la durée du potentiel d'action",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire",
             "Arythmie ventriculaire"
@@ -1661,6 +1805,8 @@
     {
         "nom_medicament": "Sotalol (Sotalex)",
         "type_medicament": "Antiarythmique de classe III",
+        "classe_medicament": "Augmente la durée du potentiel d'action",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire",
             "Arythmie ventriculaire"
@@ -1692,6 +1838,8 @@
     {
         "nom_medicament": "Adénosine (Adenocor)",
         "type_medicament": "Antiarythmique (Autres)",
+        "classe_medicament": "Adénosine",
+        "classe_medicament_2": "",
         "indications": [
             "Arythmie supraventriculaire"
         ],
@@ -1708,8 +1856,10 @@
         "precautions": []
     },
     {
-        "nom_medicament": "Atropine ",
+        "nom_medicament": "Atropine",
         "type_medicament": "Antiarythmique (Autres)",
+        "classe_medicament": "Atropine & Isoprénaline",
+        "classe_medicament_2": "",
         "indications": [
             "Bradycardie"
         ],
@@ -1721,6 +1871,8 @@
     {
         "nom_medicament": "Isoprénaline",
         "type_medicament": "Antiarythmique (Autres)",
+        "classe_medicament": "Atropine & Isoprénaline",
+        "classe_medicament_2": "",
         "indications": [
             "Bradycardie"
         ],
@@ -1732,6 +1884,8 @@
     {
         "nom_medicament": "Atorvastatine (Lipitor)",
         "type_medicament": "Statine",
+        "classe_medicament": "Statines",
+        "classe_medicament_2": "",
         "indications": [
             "Hypercholestérolémie",
             "Prévention cardio-vasculaire"
@@ -1752,6 +1906,8 @@
     {
         "nom_medicament": "Pravastatine",
         "type_medicament": "Statine",
+        "classe_medicament": "Statines",
+        "classe_medicament_2": "",
         "indications": [
             "Hypercholestérolémie",
             "Prévention cardio-vasculaire"
@@ -1772,6 +1928,8 @@
     {
         "nom_medicament": "Rosuvastatine (Crestor)",
         "type_medicament": "Statine",
+        "classe_medicament": "Statines",
+        "classe_medicament_2": "",
         "indications": [
             "Hypercholestérolémie",
             "Prévention cardio-vasculaire"
@@ -1792,6 +1950,8 @@
     {
         "nom_medicament": "Simvastatine (Zocor)",
         "type_medicament": "Statine",
+        "classe_medicament": "Statines",
+        "classe_medicament_2": "",
         "indications": [
             "Hypercholestérolémie",
             "Prévention cardio-vasculaire"
@@ -1812,6 +1972,8 @@
     {
         "nom_medicament": "Ezétimibe (Ezetrol)",
         "type_medicament": "Ezetimibe (goat)",
+        "classe_medicament": "Ezétimibe",
+        "classe_medicament_2": "",
         "indications": [
             "Dyslipidémie",
             "Prévention cardio-vasculaire"
@@ -1828,6 +1990,8 @@
     {
         "nom_medicament": "Bézafibrate (Cedur)",
         "type_medicament": "Fibrate",
+        "classe_medicament": "Fibrates",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertriglcéridémie",
             "Dyslipidémie (si intolérance aux statines)"
@@ -1851,6 +2015,8 @@
     {
         "nom_medicament": "Ciprofibrate (Hyperlipen)",
         "type_medicament": "Fibrate",
+        "classe_medicament": "Fibrates",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertriglcéridémie",
             "Dyslipidémie (si intolérance aux statines)"
@@ -1874,6 +2040,8 @@
     {
         "nom_medicament": "Fénofibrate (Lipanthyl)",
         "type_medicament": "Fibrate",
+        "classe_medicament": "Fibrates",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertriglcéridémie",
             "Dyslipidémie (si intolérance aux statines)"
@@ -1897,6 +2065,8 @@
     {
         "nom_medicament": "Colestyramine (Questran)",
         "type_medicament": "Résine échangeuse d'anions",
+        "classe_medicament": "Résine",
+        "classe_medicament_2": "",
         "indications": [
             "Dyslipidémie"
         ],
@@ -1916,6 +2086,8 @@
     {
         "nom_medicament": "Alirocumab (Praluent)",
         "type_medicament": "Inhibiteur de PCSK9",
+        "classe_medicament": "Inhibiteurs de PCSK9",
+        "classe_medicament_2": "",
         "indications": [
             "Dislipidémie mixte",
             "Hypercholestérolémie primaire",
@@ -1933,6 +2105,8 @@
     {
         "nom_medicament": "Evolocumab (Repatha)",
         "type_medicament": "Inhibiteur de PCSK9",
+        "classe_medicament": "Inhibiteurs de PCSK9",
+        "classe_medicament_2": "",
         "indications": [
             "Dislipidémie mixte",
             "Hypercholestérolémie primaire",
@@ -1950,6 +2124,8 @@
     {
         "nom_medicament": "Inclisiran (Leqvio)",
         "type_medicament": "Inhibiteur de PCSK9",
+        "classe_medicament": "Inhibiteurs de PCSK9",
+        "classe_medicament_2": "",
         "indications": [
             "Dislipidémie mixte",
             "Hypercholestérolémie primaire"
@@ -1964,6 +2140,8 @@
     {
         "nom_medicament": "Acide bempédoïque (Nilemdo)",
         "type_medicament": "Acide bempédoïque",
+        "classe_medicament": "Acide bempédoïque",
+        "classe_medicament_2": "",
         "indications": [
             "Dislipidémie mixte",
             "Hypercholestérolémie primaire",
@@ -1988,6 +2166,8 @@
     {
         "nom_medicament": "Acide acétylsalicylique (Aspirine Cardioaspirine)",
         "type_medicament": "Aspirine (goat)",
+        "classe_medicament": "Aspirine",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antipyrétique",
@@ -2017,6 +2197,8 @@
     {
         "nom_medicament": "Clopidogrel (Plavix)",
         "type_medicament": "Thiénopyridine",
+        "classe_medicament": "Thiénopyridines",
+        "classe_medicament_2": "",
         "indications": [
             "Prévention des maladies thromboemboliques"
         ],
@@ -2037,6 +2219,8 @@
     {
         "nom_medicament": "Prasugrel (Efient)",
         "type_medicament": "Thiénopyridine",
+        "classe_medicament": "Thiénopyridines",
+        "classe_medicament_2": "",
         "indications": [
             "Prévention des maladies thromboemboliques"
         ],
@@ -2058,6 +2242,8 @@
     {
         "nom_medicament": "Ticlopidine (Ticlid)",
         "type_medicament": "Thiénopyridine",
+        "classe_medicament": "Thiénopyridines",
+        "classe_medicament_2": "",
         "indications": [
             "Prévention des maladies thromboemboliques"
         ],
@@ -2076,6 +2262,8 @@
     {
         "nom_medicament": "Ticagrélor (Brilique)",
         "type_medicament": "Analogue de l'adénosine",
+        "classe_medicament": "Analogue de l'adénosine",
+        "classe_medicament_2": "",
         "indications": [
             "Prévention des maladies thromboemboliques après syndrome coronarien aigu",
             "Prévention des maladies thromboemboliques après antécédent d'infarctus du myocarde (toujours en association avec l'aspirine)"
@@ -2100,6 +2288,8 @@
     {
         "nom_medicament": "Cangrélor (Kengrexal)",
         "type_medicament": "Analogue de l'adénosine",
+        "classe_medicament": "Analogue de l'adénosine",
+        "classe_medicament_2": "",
         "indications": [
             "Prévention des maladies thromboemboliques après syndrome coronarien aigu",
             "Prévention des maladies thromboemboliques après antécédent d'infarctus du myocarde (toujours en association avec l'aspirine)"
@@ -2124,6 +2314,8 @@
     {
         "nom_medicament": "Eptifibatide (Integrilin)",
         "type_medicament": "Antagonistes des récepteurs GP IIB/IIIA",
+        "classe_medicament": "Antagonistes des récepteurs GP IIB/IIIA",
+        "classe_medicament_2": "",
         "indications": [
             "Situations aigües (en association avec l'aspirine et l'héparine)"
         ],
@@ -2141,6 +2333,8 @@
     {
         "nom_medicament": "Tirofiban (Aggrastat)",
         "type_medicament": "Antagonistes des récepteurs GP IIB/IIIA",
+        "classe_medicament": "Antagonistes des récepteurs GP IIB/IIIA",
+        "classe_medicament_2": "",
         "indications": [
             "Situations aigües (en association avec l'aspirine et l'héparine)"
         ],
@@ -2160,6 +2354,8 @@
     {
         "nom_medicament": "Héparine",
         "type_medicament": "Héparines",
+        "classe_medicament": "Héparine",
+        "classe_medicament_2": "",
         "indications": [
             "Infarctus",
             "Angor instable",
@@ -2179,6 +2375,8 @@
     {
         "nom_medicament": "Enoxaparine (Clexane)",
         "type_medicament": "Héparines",
+        "classe_medicament": "Héparine",
+        "classe_medicament_2": "",
         "indications": [
             "Infarctus",
             "Angor instable",
@@ -2199,6 +2397,8 @@
     {
         "nom_medicament": "Nadroparine (Fraxiparine)",
         "type_medicament": "Héparines",
+        "classe_medicament": "Héparine",
+        "classe_medicament_2": "",
         "indications": [
             "Infarctus",
             "Angor instable",
@@ -2219,6 +2419,8 @@
     {
         "nom_medicament": "Tinzaparine (Innohep)",
         "type_medicament": "Héparines",
+        "classe_medicament": "Héparine",
+        "classe_medicament_2": "",
         "indications": [
             "Infarctus",
             "Angor instable",
@@ -2239,6 +2441,8 @@
     {
         "nom_medicament": "Danaparoïde (Orgaran)",
         "type_medicament": "Héparines",
+        "classe_medicament": "Héparine",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention des maladies thrombo-emboliques"
         ],
@@ -2255,6 +2459,8 @@
     {
         "nom_medicament": "Acénocoumarol (Sintron)",
         "type_medicament": "Antagoniste de la vitamine K",
+        "classe_medicament": "Antagonistes de la vitamine K",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention des maladies thrombo-emboliques",
             "Prothèse valvulaire cardiaque",
@@ -2276,6 +2482,8 @@
     {
         "nom_medicament": "Phenprocoumone (Marcoumar)",
         "type_medicament": "Antagoniste de la vitamine K",
+        "classe_medicament": "Antagonistes de la vitamine K",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention des maladies thrombo-emboliques",
             "Prothèse valvulaire cardiaque",
@@ -2297,6 +2505,8 @@
     {
         "nom_medicament": "Warfarine (Marevan)",
         "type_medicament": "Antagoniste de la vitamine K",
+        "classe_medicament": "Antagonistes de la vitamine K",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention des maladies thrombo-emboliques",
             "Prothèse valvulaire cardiaque",
@@ -2318,6 +2528,8 @@
     {
         "nom_medicament": "Dabigatran (Pradaxa)",
         "type_medicament": "Inhibiteur de la thrombine",
+        "classe_medicament": "Inhibiteurs de la thrombine",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention des maladies thrombo-emboliques"
         ],
@@ -2337,6 +2549,8 @@
     {
         "nom_medicament": "Apixaban (Eliquis)",
         "type_medicament": "Inhibiteur du facteur Xa",
+        "classe_medicament": "Inhibiteur du facteur Xa",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention des maladies thrombo-emboliques"
         ],
@@ -2354,6 +2568,8 @@
     {
         "nom_medicament": "Edoxaban (Lixiana)",
         "type_medicament": "Inhibiteur du facteur Xa",
+        "classe_medicament": "Inhibiteur du facteur Xa",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention des maladies thrombo-emboliques"
         ],
@@ -2371,6 +2587,8 @@
     {
         "nom_medicament": "Rivaroxaban (Xarelto)",
         "type_medicament": "Inhibiteur du facteur Xa",
+        "classe_medicament": "Inhibiteur du facteur Xa",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention des maladies thrombo-emboliques"
         ],
@@ -2388,6 +2606,8 @@
     {
         "nom_medicament": "Bivalirudine",
         "type_medicament": "Inhibiteur des facteurs de coagulations",
+        "classe_medicament": "Inhibiteurs de la thrombine",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2397,6 +2617,8 @@
     {
         "nom_medicament": "Fondaparinux (Arixtra)",
         "type_medicament": "Inhibiteur des facteurs de coagulations",
+        "classe_medicament": "Inhibiteur du facteur Xa",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2406,6 +2628,8 @@
     {
         "nom_medicament": "Antithrombine",
         "type_medicament": "Inhibiteur des facteurs de coagulations",
+        "classe_medicament": "Inhibiteurs de la thrombine",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2415,6 +2639,8 @@
     {
         "nom_medicament": "Epoprosténol",
         "type_medicament": "Inhibiteur des facteurs de coagulations",
+        "classe_medicament": "Epoprostenol",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2424,6 +2650,8 @@
     {
         "nom_medicament": "Altéplase (Actilyse)",
         "type_medicament": "Thrombolytique",
+        "classe_medicament": "Thrombolytiques",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement des maladies thrombo-emboliques aigües",
             "Infarctus du myocarde"
@@ -2439,6 +2667,8 @@
     {
         "nom_medicament": "Ténectéplase (Metalyse)",
         "type_medicament": "Thrombolytique",
+        "classe_medicament": "Thrombolytiques",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement des maladies thrombo-emboliques aigües",
             "Infarctus du myocarde"
@@ -2454,6 +2684,8 @@
     {
         "nom_medicament": "Protamine",
         "type_medicament": "Antihémorragique",
+        "classe_medicament": "Antidote de l'heparine",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2467,6 +2699,8 @@
     {
         "nom_medicament": "Acide tranexamique (Exacyl)",
         "type_medicament": "Antihémorragique",
+        "classe_medicament": "Antifibrinolytique",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2478,6 +2712,8 @@
     {
         "nom_medicament": "Défibrotide (Defitelio)",
         "type_medicament": "Antihémorragique",
+        "classe_medicament": "Défibrotide",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2487,6 +2723,8 @@
     {
         "nom_medicament": "Romiplostim (Nplate) (pue la merde)",
         "type_medicament": "Antihémorragique",
+        "classe_medicament": "Agoniste de la thrombopoiétine",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2496,6 +2734,8 @@
     {
         "nom_medicament": "Avatrombopag (Doptelet) (pue la merde aussi)",
         "type_medicament": "Antihémorragique",
+        "classe_medicament": "Agoniste de la thrombopoiétine",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2505,6 +2745,8 @@
     {
         "nom_medicament": "Eltrombopag (Revolade) (incrediblé)",
         "type_medicament": "Antihémorragique",
+        "classe_medicament": "Agoniste de la thrombopoiétine",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2514,6 +2756,8 @@
     {
         "nom_medicament": "cardio fin",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2523,6 +2767,8 @@
     {
         "nom_medicament": "snc debut",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -2532,6 +2778,8 @@
     {
         "nom_medicament": "Triazolam (Halcion)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anesthésie",
             "Insomnie"
@@ -2557,6 +2805,8 @@
     {
         "nom_medicament": "Alprazolam (Xanax)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Insomnie"
@@ -2582,6 +2832,8 @@
     {
         "nom_medicament": "Bromazépam (Lexotan)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Insomnie"
@@ -2607,6 +2859,8 @@
     {
         "nom_medicament": "Brotizolam (Lendormin)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Insomnie"
@@ -2632,6 +2886,8 @@
     {
         "nom_medicament": "Clotiazepam (Clozan)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Insomnie"
@@ -2657,6 +2913,8 @@
     {
         "nom_medicament": "Loprazolam (Dormnoct)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Insomnie"
@@ -2682,6 +2940,8 @@
     {
         "nom_medicament": "Lorazépam (Temesta)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Insomnie",
@@ -2708,6 +2968,8 @@
     {
         "nom_medicament": "Lormétazépam (Loramet)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Insomnie"
@@ -2733,6 +2995,8 @@
     {
         "nom_medicament": "Oxazépam",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Insomnie"
@@ -2758,6 +3022,8 @@
     {
         "nom_medicament": "Clobazam (Frisium)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété"
         ],
@@ -2782,6 +3048,8 @@
     {
         "nom_medicament": "Clorazépate (Tranxene)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété"
         ],
@@ -2806,6 +3074,8 @@
     {
         "nom_medicament": "Diazépam (Valium)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété",
             "Mal épileptique"
@@ -2831,6 +3101,8 @@
     {
         "nom_medicament": "Flunitrazépam",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété"
         ],
@@ -2855,6 +3127,8 @@
     {
         "nom_medicament": "Loflazépate d'éthyle (Victan)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété"
         ],
@@ -2879,6 +3153,8 @@
     {
         "nom_medicament": "Nitrazépam (Mogadon)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété"
         ],
@@ -2903,6 +3179,8 @@
     {
         "nom_medicament": "Prazépam (Lysanxia)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Anxiété"
         ],
@@ -2927,6 +3205,8 @@
     {
         "nom_medicament": "Clonazépam (Rivotril)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Mal épileptique"
         ],
@@ -2951,6 +3231,8 @@
     {
         "nom_medicament": "Midazolam (Buccolam)",
         "type_medicament": "Benzodiazépine",
+        "classe_medicament": "Benzodiazépine",
+        "classe_medicament_2": "",
         "indications": [
             "Mal épileptique"
         ],
@@ -2975,6 +3257,8 @@
     {
         "nom_medicament": "Zolpidem (Stilnoct)",
         "type_medicament": "Z-drugs",
+        "classe_medicament": "Z-drugs",
+        "classe_medicament_2": "",
         "indications": [
             "Insomnie"
         ],
@@ -2997,6 +3281,8 @@
     {
         "nom_medicament": "Sopiclone (Imovane)",
         "type_medicament": "Z-drugs",
+        "classe_medicament": "Z-drugs",
+        "classe_medicament_2": "",
         "indications": [
             "Insomnie"
         ],
@@ -3019,6 +3305,8 @@
     {
         "nom_medicament": "Mélatonine",
         "type_medicament": "",
+        "classe_medicament": "Z-drugs",
+        "classe_medicament_2": "",
         "indications": [
             "Insomnie"
         ],
@@ -3030,6 +3318,8 @@
     {
         "nom_medicament": "Propthipendyl (Dominal)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3054,6 +3344,8 @@
     {
         "nom_medicament": "Lévomépromazine (Nozinan)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3078,6 +3370,8 @@
     {
         "nom_medicament": "Clotiapin (Etumine)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3102,6 +3396,8 @@
     {
         "nom_medicament": "Flupentixol (Fluanxol)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3126,6 +3422,8 @@
     {
         "nom_medicament": "Zuclopenthixol (Clopixol)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3150,6 +3448,8 @@
     {
         "nom_medicament": "Halopéridol (Haldol)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3174,6 +3474,8 @@
     {
         "nom_medicament": "Brompéridol (Impromen)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3198,6 +3500,8 @@
     {
         "nom_medicament": "Dropéridol (Déhydrobenzpéridol)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3222,6 +3526,8 @@
     {
         "nom_medicament": "Pipampérone (Dipiperon)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3246,6 +3552,8 @@
     {
         "nom_medicament": "Pimozide (Orap)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3270,6 +3578,8 @@
     {
         "nom_medicament": "Amisulpride (Solian)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3294,6 +3604,8 @@
     {
         "nom_medicament": "Sulpiride (Dogmatil)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3318,6 +3630,8 @@
     {
         "nom_medicament": "Tiapride (Tiapridal)",
         "type_medicament": "Antipsychotique typique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3341,6 +3655,8 @@
     {
         "nom_medicament": "Clozapine (Leponex)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3369,6 +3685,8 @@
     {
         "nom_medicament": "Olanzapine (Zyprexa)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose (avec troubles bipolaires)"
         ],
@@ -3397,6 +3715,8 @@
     {
         "nom_medicament": "Quétiapine (Seroquel)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose (avec troubles bipolaires)"
         ],
@@ -3425,6 +3745,8 @@
     {
         "nom_medicament": "Asénapine (Sycrest)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose (sans troubles bipolaires)"
         ],
@@ -3452,6 +3774,8 @@
     {
         "nom_medicament": "Rispéridone (Risperdal)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose (avec troubles bipolaires)"
         ],
@@ -3480,6 +3804,8 @@
     {
         "nom_medicament": "Palipéridone (Invega)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3508,6 +3834,8 @@
     {
         "nom_medicament": "Sertindole (Serdolect)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3536,6 +3864,8 @@
     {
         "nom_medicament": "Aripiprazole (Abilify)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose (avec troubles bipolaires)"
         ],
@@ -3563,6 +3893,8 @@
     {
         "nom_medicament": "Cariprazin (Reagila)",
         "type_medicament": "Antipsychotique atypique",
+        "classe_medicament": "Antipsychotiques",
+        "classe_medicament_2": "",
         "indications": [
             "Psychose"
         ],
@@ -3590,6 +3922,8 @@
     {
         "nom_medicament": "Fluoxétine (Prozac)",
         "type_medicament": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
         "indications": [
             "Dépression",
             "Troubles anxieux",
@@ -3620,6 +3954,8 @@
     {
         "nom_medicament": "Paroxétine (Seroxat)",
         "type_medicament": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
         "indications": [
             "Dépression",
             "Troubles anxieux"
@@ -3649,6 +3985,8 @@
     {
         "nom_medicament": "Sertraline 'Serlain)",
         "type_medicament": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
         "indications": [
             "Dépression",
             "Troubles anxieux"
@@ -3678,6 +4016,8 @@
     {
         "nom_medicament": "Fluvoxamine (Floxyfral)",
         "type_medicament": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
         "indications": [
             "Dépression",
             "Troubles anxieux"
@@ -3707,6 +4047,8 @@
     {
         "nom_medicament": "Citalopram (Cipramil)",
         "type_medicament": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
         "indications": [
             "Dépression",
             "Troubles anxieux"
@@ -3736,6 +4078,8 @@
     {
         "nom_medicament": "Escitalopram (Sipralexa)",
         "type_medicament": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
         "indications": [
             "Dépression",
             "Troubles anxieux"
@@ -3765,6 +4109,8 @@
     {
         "nom_medicament": "Imipramine (Tofranil)",
         "type_medicament": "Tricyclique",
+        "classe_medicament": "Tricycliques",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Troubles anxieux",
@@ -3794,6 +4140,8 @@
     {
         "nom_medicament": "Clomipramine (Anafranil)",
         "type_medicament": "Tricyclique",
+        "classe_medicament": "Tricycliques",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Troubles anxieux"
@@ -3822,6 +4170,8 @@
     {
         "nom_medicament": "Dosulépine (Prothiaden)",
         "type_medicament": "Tricyclique",
+        "classe_medicament": "Tricycliques",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Troubles anxieux"
@@ -3850,6 +4200,8 @@
     {
         "nom_medicament": "Amitriptyline (Redomex)",
         "type_medicament": "Tricyclique",
+        "classe_medicament": "Tricycliques",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Troubles anxieux",
@@ -3881,6 +4233,8 @@
     {
         "nom_medicament": "Nortriptyline (Nortrilen)",
         "type_medicament": "Tricyclique",
+        "classe_medicament": "Tricycliques",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Troubles anxieux"
@@ -3909,6 +4263,8 @@
     {
         "nom_medicament": "Venlafaxine (Efexor)",
         "type_medicament": "Inhibiteur sélectif de la recapture de la sérotonine et de la noradrénaline",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Troubles anxieux",
@@ -3932,6 +4288,8 @@
     {
         "nom_medicament": "Duloxétine (Cymbalta)",
         "type_medicament": "Inhibiteur sélectif de la recapture de la sérotonine et de la noradrénaline",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Troubles anxieux",
@@ -3956,6 +4314,8 @@
     {
         "nom_medicament": "Réboxétine (Edronax)",
         "type_medicament": "Inhibiteur de la recapture de la noradrénaline",
+        "classe_medicament": "Inhibiteurs de la recapture de la noradrénaline",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression"
         ],
@@ -3977,6 +4337,8 @@
     {
         "nom_medicament": "Miansérine (Lerivon)",
         "type_medicament": "Inhibiteur de la recapture de la noradrénaline",
+        "classe_medicament": "Inhibiteurs de la recapture de la noradrénaline",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression"
         ],
@@ -4000,6 +4362,8 @@
     {
         "nom_medicament": "Mirtazapine (Remergon)",
         "type_medicament": "Inhibiteur de la recapture de la noradrénaline",
+        "classe_medicament": "Inhibiteurs de la recapture de la noradrénaline",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression"
         ],
@@ -4019,6 +4383,8 @@
     {
         "nom_medicament": "Trazodone (Trazolan)",
         "type_medicament": "Antagoniste sérotoninergique",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Douleurs neurogènes",
@@ -4043,6 +4409,8 @@
     {
         "nom_medicament": "Agomélatine (Valdoxan)",
         "type_medicament": "Antagoniste 5-HT & Agoniste MT (ça a l'air de puer sa mere)",
+        "classe_medicament": "Antagoniste 5-HT & Agoniste MT",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression"
         ],
@@ -4066,6 +4434,8 @@
     {
         "nom_medicament": "Vortioxétine (Brintellix)",
         "type_medicament": "Modulateur sérotoninergique",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression"
         ],
@@ -4093,6 +4463,8 @@
     {
         "nom_medicament": "Bupropione",
         "type_medicament": "Inhibiteur de la recapture de la sérotonine et de la noradrénaline",
+        "classe_medicament": "Inhibiteurs de la recapture de la sérotonine",
+        "classe_medicament_2": "Antidépresseurs",
         "indications": [
             "Dépression",
             "Sevrage tabagique"
@@ -4109,6 +4481,8 @@
     {
         "nom_medicament": "Lithium (Camcolit)",
         "type_medicament": "Sels de lithium",
+        "classe_medicament": "Lithium",
+        "classe_medicament_2": "",
         "indications": [
             "Troubles bipolaire"
         ],
@@ -4143,6 +4517,8 @@
     {
         "nom_medicament": "Méthylphénidate (Rilatine)",
         "type_medicament": "Stimulant centraux",
+        "classe_medicament": "Stimulant centraux",
+        "classe_medicament_2": "",
         "indications": [
             "ADHD",
             "Narcolepsie"
@@ -4175,6 +4551,8 @@
     {
         "nom_medicament": "Lisdexamfétamine (Elvanse)",
         "type_medicament": "Stimulant centraux",
+        "classe_medicament": "Stimulant centraux",
+        "classe_medicament_2": "",
         "indications": [
             "ADHD",
             "Narcolepsie"
@@ -4207,6 +4585,8 @@
     {
         "nom_medicament": "Guanfacine (Intunix)",
         "type_medicament": "Stimulant centraux",
+        "classe_medicament": "Stimulant centraux",
+        "classe_medicament_2": "",
         "indications": [
             "ADHD"
         ],
@@ -4232,6 +4612,8 @@
     {
         "nom_medicament": "Modafinil (Provigil)",
         "type_medicament": "Stimulant centraux",
+        "classe_medicament": "Stimulant centraux",
+        "classe_medicament_2": "",
         "indications": [
             "Narcolepsie"
         ],
@@ -4255,6 +4637,8 @@
     {
         "nom_medicament": "Pitolisant (Wakix)",
         "type_medicament": "Stimulant centraux",
+        "classe_medicament": "Stimulant centraux",
+        "classe_medicament_2": "",
         "indications": [
             "Narcolepsie"
         ],
@@ -4278,6 +4662,8 @@
     {
         "nom_medicament": "Oxybate (Xyrem)",
         "type_medicament": "Stimulant centraux",
+        "classe_medicament": "Stimulant centraux",
+        "classe_medicament_2": "",
         "indications": [
             "Narcolepsie avec cataplexie"
         ],
@@ -4303,6 +4689,8 @@
     {
         "nom_medicament": "Lévodopa + Carbidopa (Duodopa)",
         "type_medicament": "Lévodopa",
+        "classe_medicament": "Levodopa",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4335,6 +4723,8 @@
     {
         "nom_medicament": "Lévodopa + Bensérazide (Prolopa)",
         "type_medicament": "Lévodopa",
+        "classe_medicament": "Levodopa",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4367,6 +4757,8 @@
     {
         "nom_medicament": "Foslévodopa + Foscarbidopa (Fosduodopa)",
         "type_medicament": "Lévodopa",
+        "classe_medicament": "Levodopa",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4399,6 +4791,8 @@
     {
         "nom_medicament": "Pramipexole (Mirapexin)",
         "type_medicament": "Agoniste dopaminergique",
+        "classe_medicament": "Agonistes dopaminergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4422,6 +4816,8 @@
     {
         "nom_medicament": "Ropinirole (Requip)",
         "type_medicament": "Agoniste dopaminergique",
+        "classe_medicament": "Agonistes dopaminergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4445,6 +4841,8 @@
     {
         "nom_medicament": "Rotigotine (Neupro)",
         "type_medicament": "Agoniste dopaminergique",
+        "classe_medicament": "Agonistes dopaminergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4466,8 +4864,10 @@
         "precautions": []
     },
     {
-        "nom_medicament": "Apomorphine ",
+        "nom_medicament": "Apomorphine",
         "type_medicament": "Agoniste dopaminergique",
+        "classe_medicament": "Agonistes dopaminergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4491,6 +4891,8 @@
     {
         "nom_medicament": "Bromocriptine (Parlodel)",
         "type_medicament": "Agoniste dopaminergique",
+        "classe_medicament": "Agonistes dopaminergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4517,6 +4919,8 @@
     {
         "nom_medicament": "Entacapone (Comtan)",
         "type_medicament": "Inhibiteur de la COMT",
+        "classe_medicament": "Inhibiteur de la COMT",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4535,6 +4939,8 @@
     {
         "nom_medicament": "Rasagiline (Azilect)",
         "type_medicament": "Inhibiteurs de la Monoamine Oxydase (IMAO)",
+        "classe_medicament": "Inhibiteurs de la monoamine oxydase",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4562,6 +4968,8 @@
     {
         "nom_medicament": "Sélégiline (Eldepryl)",
         "type_medicament": "Inhibiteurs de la Monoamine Oxydase (IMAO)",
+        "classe_medicament": "Inhibiteurs de la monoamine oxydase",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4589,6 +4997,8 @@
     {
         "nom_medicament": "Safinamide (Xadago)",
         "type_medicament": "Inhibiteurs de la Monoamine Oxydase (IMAO)",
+        "classe_medicament": "Inhibiteurs de la monoamine oxydase",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4616,6 +5026,8 @@
     {
         "nom_medicament": "Bipéridène (Akineton)",
         "type_medicament": "Anticholinergique centraux",
+        "classe_medicament": "Antagonistes muscariniques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4635,6 +5047,8 @@
     {
         "nom_medicament": "Procyclidine (Kemadrin)",
         "type_medicament": "Anticholinergique centraux",
+        "classe_medicament": "Antagonistes muscariniques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4654,6 +5068,8 @@
     {
         "nom_medicament": "Trihexyphénidyle (Artane)",
         "type_medicament": "Anticholinergique centraux",
+        "classe_medicament": "Antagonistes muscariniques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie de Parkinson"
         ],
@@ -4673,6 +5089,8 @@
     {
         "nom_medicament": "Donépézil (Aricept)",
         "type_medicament": "Inhibiteur des cholinestérase",
+        "classe_medicament": "Inhibiteurs des cholinestérases",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie d'Alzheimer"
         ],
@@ -4702,6 +5120,8 @@
     {
         "nom_medicament": "Galantamine (Réminyl)",
         "type_medicament": "Inhibiteur des cholinestérase",
+        "classe_medicament": "Inhibiteurs des cholinestérases",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie d'Alzheimer"
         ],
@@ -4731,6 +5151,8 @@
     {
         "nom_medicament": "Rivastigmine (Exelon)",
         "type_medicament": "Inhibiteur des cholinestérase",
+        "classe_medicament": "Inhibiteurs des cholinestérases",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie d'Alzheimer"
         ],
@@ -4760,6 +5182,8 @@
     {
         "nom_medicament": "Mémantine",
         "type_medicament": "Antagoniste des récepteurs glutaminergique",
+        "classe_medicament": "Antagonistes des récepteurs glutaminergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Maladie d'Alzheimer"
         ],
@@ -4781,6 +5205,8 @@
     {
         "nom_medicament": "Acide valproïque + Valproate (Depakine)",
         "type_medicament": "Acide valproïque et valproate",
+        "classe_medicament": "Acide valproïque",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Traitement de fond de la migraine",
@@ -4811,6 +5237,8 @@
     {
         "nom_medicament": "Carbamazépine (Tegretol)",
         "type_medicament": "Carbamazépine et Oxcarbazépine",
+        "classe_medicament": "Carbamazépine",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Douleur neuropathiques",
@@ -4840,6 +5268,8 @@
     {
         "nom_medicament": "Oxcarbazépine (Trileptal)",
         "type_medicament": "Carbamazépine et Oxcarbazépine",
+        "classe_medicament": "Oxcarbazépine",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Douleur neuropathiques",
@@ -4869,6 +5299,8 @@
     {
         "nom_medicament": "Lamotrigine (Lamictal)",
         "type_medicament": "Lamotrigine",
+        "classe_medicament": "Lamotrigine",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Trouble bipolaire"
@@ -4892,6 +5324,8 @@
     {
         "nom_medicament": "Topiramate (Topamate)",
         "type_medicament": "Topiramate",
+        "classe_medicament": "Topiramate",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Traitement de fond de la migraine"
@@ -4915,6 +5349,8 @@
     {
         "nom_medicament": "Lévétiracétam (Keppra)",
         "type_medicament": "Lévétiracétam & Brivaracétam",
+        "classe_medicament": "Lévétiracétam & Brivaracétam",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie"
         ],
@@ -4932,6 +5368,8 @@
     {
         "nom_medicament": "Brivaracétam (Briviact)",
         "type_medicament": "Lévétiracétam & Brivaracétam",
+        "classe_medicament": "Lévétiracétam & Brivaracétam",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie"
         ],
@@ -4951,6 +5389,8 @@
     {
         "nom_medicament": "Gabapentine (Neurontin)",
         "type_medicament": "Gabapentine & Prégabaline",
+        "classe_medicament": "Gabapentine & Prégabaline",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Douleurs neuropathiques et nociplastiques"
@@ -4972,6 +5412,8 @@
     {
         "nom_medicament": "Prégabaline (Lyrica)",
         "type_medicament": "Gabapentine & Prégabaline",
+        "classe_medicament": "Gabapentine & Prégabaline",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Douleurs neuropathiques et nociplastiques",
@@ -4994,6 +5436,8 @@
     {
         "nom_medicament": "Phénobabital (Gardenal)",
         "type_medicament": "Barbiturique",
+        "classe_medicament": "Barbirutiques",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Tremblement essentiels"
@@ -5014,6 +5458,8 @@
     {
         "nom_medicament": "Primidone (Mysoline)",
         "type_medicament": "Barbiturique",
+        "classe_medicament": "Barbirutiques",
+        "classe_medicament_2": "Anticonvulsivants",
         "indications": [
             "Epilepsie",
             "Tremblement essentiels"
@@ -5034,6 +5480,8 @@
     {
         "nom_medicament": "Almotriptan (Almogran)",
         "type_medicament": "Triptan",
+        "classe_medicament": "Triptans",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5061,6 +5509,8 @@
     {
         "nom_medicament": "Elétriptan (Relert)",
         "type_medicament": "Triptan",
+        "classe_medicament": "Triptans",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5088,6 +5538,8 @@
     {
         "nom_medicament": "Naratriptan (Naramig)",
         "type_medicament": "Triptan",
+        "classe_medicament": "Triptans",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5115,6 +5567,8 @@
     {
         "nom_medicament": "Rizatriptan (Maxalt)",
         "type_medicament": "Triptan",
+        "classe_medicament": "Triptans",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5142,6 +5596,8 @@
     {
         "nom_medicament": "Sumatriptan (Imitrex)",
         "type_medicament": "Triptan",
+        "classe_medicament": "Triptans",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5169,6 +5625,8 @@
     {
         "nom_medicament": "Zolmitriptan (Zomig)",
         "type_medicament": "Triptan",
+        "classe_medicament": "Triptans",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5196,6 +5654,8 @@
     {
         "nom_medicament": "Erenumab (Aimovig)",
         "type_medicament": "anti-CGRP",
+        "classe_medicament": "Anti-CGRP",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5215,6 +5675,8 @@
     {
         "nom_medicament": "Eptinezumab (Vyepti)",
         "type_medicament": "anti-CGRP",
+        "classe_medicament": "Anti-CGRP",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5234,6 +5696,8 @@
     {
         "nom_medicament": "Frémanezumab (Ajovi)",
         "type_medicament": "anti-CGRP",
+        "classe_medicament": "Anti-CGRP",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5254,6 +5718,8 @@
     {
         "nom_medicament": "Galcanézumab (Emgality)",
         "type_medicament": "anti-CGRP",
+        "classe_medicament": "Anti-CGRP",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5273,7 +5739,9 @@
     },
     {
         "nom_medicament": "Rimégépan (Vydura)",
-        "type_medicament": "anti-CGRP",
+        "type_medicament": "Gépants",
+        "classe_medicament": "Gépants",
+        "classe_medicament_2": "",
         "indications": [
             "Migraine"
         ],
@@ -5291,6 +5759,8 @@
     {
         "nom_medicament": "snc fin",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -5300,6 +5770,8 @@
     {
         "nom_medicament": "douleur début",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -5309,6 +5781,8 @@
     {
         "nom_medicament": "Kétorolac (Taradyl)",
         "type_medicament": "AINS (non sélectif COX1 = COX2)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5353,6 +5827,8 @@
     {
         "nom_medicament": "Ibuprofène (Nurofen)",
         "type_medicament": "AINS (non sélectif COX1 = COX2)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5397,6 +5873,8 @@
     {
         "nom_medicament": "Kétoprofène (Rofenid)",
         "type_medicament": "AINS (non sélectif COX1 = COX2)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5441,6 +5919,8 @@
     {
         "nom_medicament": "Dexkétoprofène (Ketesse)",
         "type_medicament": "AINS (non sélectif COX1 = COX2)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5485,6 +5965,8 @@
     {
         "nom_medicament": "Naproxène (Apranax)",
         "type_medicament": "AINS (non sélectif COX1 = COX2)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5529,6 +6011,8 @@
     {
         "nom_medicament": "Piroxicam (Feldene)",
         "type_medicament": "AINS (non sélectif COX1 = COX2)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5573,6 +6057,8 @@
     {
         "nom_medicament": "Ténoxicam (Tilcotil)",
         "type_medicament": "AINS (non sélectif COX1 = COX2)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5617,6 +6103,8 @@
     {
         "nom_medicament": "Nabumétone (Gamaran)",
         "type_medicament": "AINS (non sélectif COX1 = COX2)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5661,6 +6149,8 @@
     {
         "nom_medicament": "Méloxicam (Mobic)",
         "type_medicament": "AINS (sélectif COX2>COX1)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5704,6 +6194,8 @@
     {
         "nom_medicament": "Diclofénac (Cataflam Voltaren)",
         "type_medicament": "AINS (sélectif COX2>COX1)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5747,6 +6239,8 @@
     {
         "nom_medicament": "Acéclofénac (Biofenac)",
         "type_medicament": "AINS (sélectif COX2>COX1)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5790,6 +6284,8 @@
     {
         "nom_medicament": "Célécoxib (Celebrex)",
         "type_medicament": "AINS (sélectif COX2>COX1)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5833,6 +6329,8 @@
     {
         "nom_medicament": "Etoricoxib (Arcoxia)",
         "type_medicament": "AINS (sélectif COX2>COX1)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5876,6 +6374,8 @@
     {
         "nom_medicament": "Parécoxib (Dynastat)",
         "type_medicament": "AINS (sélectif COX2>COX1)",
+        "classe_medicament": "AINS",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Anti-inflammatoire",
@@ -5918,7 +6418,9 @@
     },
     {
         "nom_medicament": "Paracétamol (Dafalgan Perdolan)",
-        "type_medicament": "",
+        "type_medicament": "Paracétamol",
+        "classe_medicament": "Paracétamol",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antipyrétique"
@@ -5935,6 +6437,8 @@
     {
         "nom_medicament": "Codéine",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "Codéine",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -5978,6 +6482,8 @@
     {
         "nom_medicament": "Dihydrocodéine",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "Codéine",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6021,6 +6527,8 @@
     {
         "nom_medicament": "Péthidine",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6064,6 +6572,8 @@
     {
         "nom_medicament": "Tlidine",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6107,6 +6617,8 @@
     {
         "nom_medicament": "Tramadol (Contramal)",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "Tramadol",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6151,6 +6663,8 @@
     {
         "nom_medicament": "Morphine",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "Morphine",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6194,6 +6708,8 @@
     {
         "nom_medicament": "Fentanyl",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6237,6 +6753,8 @@
     {
         "nom_medicament": "Hydromorphone",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6280,6 +6798,8 @@
     {
         "nom_medicament": "Méthadone",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6323,6 +6843,8 @@
     {
         "nom_medicament": "Oxycodone",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6366,6 +6888,8 @@
     {
         "nom_medicament": "Piritramide",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6409,6 +6933,8 @@
     {
         "nom_medicament": "Tapentadol",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6452,6 +6978,8 @@
     {
         "nom_medicament": "Buprénorphine (Temgésic)",
         "type_medicament": "Opioïde (Analgésique morphinique)",
+        "classe_medicament": "Opioïdes",
+        "classe_medicament_2": "",
         "indications": [
             "Analgésique",
             "Antitussif"
@@ -6495,6 +7023,8 @@
     {
         "nom_medicament": "Naloxone (Naloxon B)",
         "type_medicament": "Antagoniste morphinique",
+        "classe_medicament": "Antagonistes morphiniques",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement des intoxications et dépendances aux opioïdes"
         ],
@@ -6506,6 +7036,8 @@
     {
         "nom_medicament": "Naltrexone",
         "type_medicament": "Antagoniste morphinique",
+        "classe_medicament": "Antagonistes morphiniques",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement des intoxications et dépendances aux opioïdes"
         ],
@@ -6517,6 +7049,8 @@
     {
         "nom_medicament": "Méthylnaltrexone (Relistor)",
         "type_medicament": "Antagoniste morphinique",
+        "classe_medicament": "Antagonistes morphiniques",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de la constipation liée à la prise d'opiacés"
         ],
@@ -6532,6 +7066,8 @@
     {
         "nom_medicament": "Hydrocortisone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6567,6 +7103,8 @@
     {
         "nom_medicament": "Prednisolone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6602,6 +7140,8 @@
     {
         "nom_medicament": "Méthylprednisolone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6637,6 +7177,8 @@
     {
         "nom_medicament": "Triamcinolone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6672,6 +7214,8 @@
     {
         "nom_medicament": "Bétaméthasone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6707,6 +7251,8 @@
     {
         "nom_medicament": "Dexaméthasone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6742,6 +7288,8 @@
     {
         "nom_medicament": "Budésonide",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6777,6 +7325,8 @@
     {
         "nom_medicament": "Béclométasone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6812,6 +7362,8 @@
     {
         "nom_medicament": "Fluticasone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6847,6 +7399,8 @@
     {
         "nom_medicament": "Fluorométholone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6882,6 +7436,8 @@
     {
         "nom_medicament": "Clobétasol",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6917,6 +7473,8 @@
     {
         "nom_medicament": "Diflucortolone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6952,6 +7510,8 @@
     {
         "nom_medicament": "Mométasone",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -6987,6 +7547,8 @@
     {
         "nom_medicament": "Amcinonide",
         "type_medicament": "Glucocorticoïde",
+        "classe_medicament": "Glucocorticoides",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement de substitution",
             "Maturation pulmonaire fœtale",
@@ -7022,6 +7584,8 @@
     {
         "nom_medicament": "douleur fin",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -7031,6 +7595,8 @@
     {
         "nom_medicament": "immuno début",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -7040,6 +7606,8 @@
     {
         "nom_medicament": "Diphenhydramine (Nustasium)",
         "type_medicament": "Anti-histaminique H1 (1ere génération)",
+        "classe_medicament": "Anti-H1 de 1ère génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7069,6 +7637,8 @@
     {
         "nom_medicament": "Hydroxyzine (Atarax)",
         "type_medicament": "Anti-histaminique H1 (1ere génération)",
+        "classe_medicament": "Anti-H1 de 1ère génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7099,6 +7669,8 @@
     {
         "nom_medicament": "Dimenhydrinate (R Calm)",
         "type_medicament": "Anti-histaminique H1 (1ere génération)",
+        "classe_medicament": "Anti-H1 de 1ère génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7128,6 +7700,8 @@
     {
         "nom_medicament": "Doxylamine (Navalit)",
         "type_medicament": "Anti-histaminique H1 (1ere génération)",
+        "classe_medicament": "Anti-H1 de 1ère génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7158,6 +7732,8 @@
     {
         "nom_medicament": "Chlorphénamine (Rhinofebryl)",
         "type_medicament": "Anti-histaminique H1 (1ere génération)",
+        "classe_medicament": "Anti-H1 de 1ère génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7188,6 +7764,8 @@
     {
         "nom_medicament": "Dimétindène (Fenistil)",
         "type_medicament": "Anti-histaminique H1 (1ere génération)",
+        "classe_medicament": "Anti-H1 de 1ère génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7218,6 +7796,8 @@
     {
         "nom_medicament": "Ebastine (Estivan)",
         "type_medicament": "Anti-histaminique H1 (1ere génération)",
+        "classe_medicament": "Anti-H1 de 1ère génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7248,6 +7828,8 @@
     {
         "nom_medicament": "Méclozine (Agyrax)",
         "type_medicament": "Anti-histaminique H1 (1ere génération)",
+        "classe_medicament": "Anti-H1 de 1ère génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7275,8 +7857,10 @@
         ]
     },
     {
-        "nom_medicament": "Cétirizine (Zyrtec) ",
+        "nom_medicament": "Cétirizine (Zyrtec)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7295,6 +7879,8 @@
     {
         "nom_medicament": "Lévocéririzine (Xyzall)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7315,6 +7901,8 @@
     {
         "nom_medicament": "Fexofénadine (Telfast)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7335,6 +7923,8 @@
     {
         "nom_medicament": "Rupatadine (Rupatall)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7355,6 +7945,8 @@
     {
         "nom_medicament": "Loratadine (Claritine)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7373,6 +7965,8 @@
     {
         "nom_medicament": "Desloratadine (Aerius)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7393,6 +7987,8 @@
     {
         "nom_medicament": "Bilastine (Bellozal)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7413,6 +8009,8 @@
     {
         "nom_medicament": "Mizolastine (Mizollen)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7433,6 +8031,8 @@
     {
         "nom_medicament": "Kétotifène (Zaditen)",
         "type_medicament": "Anti-histaminique H1 (2ème génération)",
+        "classe_medicament": "Anti-H1 de 2ème génération",
+        "classe_medicament_2": "",
         "indications": [
             "Pathologies à composante allergique",
             "Antiémétique - mal des transports",
@@ -7453,6 +8053,8 @@
     {
         "nom_medicament": "Pseudoéphédrine",
         "type_medicament": "Vasoconstricteurs",
+        "classe_medicament": "Vasoconstricteurs",
+        "classe_medicament_2": "",
         "indications": [
             "Rhinite",
             "Sinusite"
@@ -7479,6 +8081,8 @@
     {
         "nom_medicament": "Naphazoline (Deltarhinol)",
         "type_medicament": "Vasoconstricteurs",
+        "classe_medicament": "Vasoconstricteurs",
+        "classe_medicament_2": "",
         "indications": [
             "Rhinite",
             "Sinusite"
@@ -7495,6 +8099,8 @@
     {
         "nom_medicament": "Ocymétazoline (Nésivine)",
         "type_medicament": "Vasoconstricteurs",
+        "classe_medicament": "Vasoconstricteurs",
+        "classe_medicament_2": "",
         "indications": [
             "Rhinite",
             "Sinusite"
@@ -7511,6 +8117,8 @@
     {
         "nom_medicament": "Trramazoline (Rhinospray)",
         "type_medicament": "Vasoconstricteurs",
+        "classe_medicament": "Vasoconstricteurs",
+        "classe_medicament_2": "",
         "indications": [
             "Rhinite",
             "Sinusite"
@@ -7527,6 +8135,8 @@
     {
         "nom_medicament": "Xylométazoline (Nasasinutab)",
         "type_medicament": "Vasoconstricteurs",
+        "classe_medicament": "Vasoconstricteurs",
+        "classe_medicament_2": "",
         "indications": [
             "Rhinite",
             "Sinusite"
@@ -7543,6 +8153,8 @@
     {
         "nom_medicament": "immuno fin",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -7552,6 +8164,8 @@
     {
         "nom_medicament": "respi debut",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -7561,6 +8175,8 @@
     {
         "nom_medicament": "Salbutamol (Ventolin)",
         "type_medicament": "Béta2 mimétique (SABA)",
+        "classe_medicament": "Beta2 mimétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7582,6 +8198,8 @@
     {
         "nom_medicament": "Fénotérol (Duovent)",
         "type_medicament": "Béta2 mimétique (SABA)",
+        "classe_medicament": "Beta2 mimétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7603,6 +8221,8 @@
     {
         "nom_medicament": "Formotérol (Oxis)",
         "type_medicament": "Béta2 mimétique (LABA)",
+        "classe_medicament": "Beta2 mimétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7625,6 +8245,8 @@
     {
         "nom_medicament": "Salmétérol (Serevent)",
         "type_medicament": "Béta2 mimétique (LABA)",
+        "classe_medicament": "Beta2 mimétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7647,6 +8269,8 @@
     {
         "nom_medicament": "Indacatérol (Onbrez)",
         "type_medicament": "Béta2 mimétique (LABA)",
+        "classe_medicament": "Beta2 mimétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7669,6 +8293,8 @@
     {
         "nom_medicament": "Olodatérol (Striverdi)",
         "type_medicament": "Béta2 mimétique (LABA)",
+        "classe_medicament": "Beta2 mimétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7691,6 +8317,8 @@
     {
         "nom_medicament": "Vilantérol (Relvar)",
         "type_medicament": "Béta2 mimétique (LABA)",
+        "classe_medicament": "Beta2 mimétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7713,6 +8341,8 @@
     {
         "nom_medicament": "Ipratropium (Atrovent)",
         "type_medicament": "Anticholinergique (SAMA)",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7731,6 +8361,8 @@
     {
         "nom_medicament": "Aclidinium (Bretaris)",
         "type_medicament": "Anticholinergique (LAMA)",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7754,6 +8386,8 @@
     {
         "nom_medicament": "Glycopyrronium (Seebri)",
         "type_medicament": "Anticholinergique (LAMA)",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7777,6 +8411,8 @@
     {
         "nom_medicament": "Tiotropium (Spiriva)",
         "type_medicament": "Anticholinergique (LAMA)",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7800,6 +8436,8 @@
     {
         "nom_medicament": "Uméclidinium (Incruse)",
         "type_medicament": "Anticholinergique (LAMA)",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme",
             "BPCO"
@@ -7823,6 +8461,8 @@
     {
         "nom_medicament": "Montélukast (Singulair)",
         "type_medicament": "Antagoniste des récepteurs CysLT",
+        "classe_medicament": "Antagoniste des récepteurs LT",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme"
         ],
@@ -7840,6 +8480,8 @@
     {
         "nom_medicament": "Omalizumab (Xolair)",
         "type_medicament": "",
+        "classe_medicament": "Omalizumab",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme grave avec exacerbation et taux élevé d'IgE"
         ],
@@ -7854,6 +8496,8 @@
     {
         "nom_medicament": "Mépolizumab (Nucala)",
         "type_medicament": "mAb qui ciblent l'IL-5",
+        "classe_medicament": "mAb qui ciblent l'IL-5",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme sévère persistant avec taux élevé d'éosinophiles"
         ],
@@ -7869,6 +8513,8 @@
     {
         "nom_medicament": "Reslizumab (Cinqaero)",
         "type_medicament": "mAb qui ciblent l'IL-5",
+        "classe_medicament": "mAb qui ciblent l'IL-5",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme sévère persistant avec taux élevé d'éosinophiles"
         ],
@@ -7884,6 +8530,8 @@
     {
         "nom_medicament": "Benralizumab (Fasenra)",
         "type_medicament": "mAb qui ciblent l'IL-5",
+        "classe_medicament": "mAb qui ciblent l'IL-5",
+        "classe_medicament_2": "",
         "indications": [
             "Asthme sévère persistant avec taux élevé d'éosinophiles"
         ],
@@ -7899,6 +8547,8 @@
     {
         "nom_medicament": "Dextrométhorphane",
         "type_medicament": "Antitussif à action centrale non narcotique",
+        "classe_medicament": "Antitussif à action centrale non narcotique",
+        "classe_medicament_2": "",
         "indications": [
             "Antitussif"
         ],
@@ -7923,6 +8573,8 @@
     {
         "nom_medicament": "Noscapine (Noscaflex)",
         "type_medicament": "Antitussif à action centrale non narcotique",
+        "classe_medicament": "Antitussif à action centrale non narcotique",
+        "classe_medicament_2": "",
         "indications": [
             "Antitussif"
         ],
@@ -7944,6 +8596,8 @@
     {
         "nom_medicament": "Clopérastine (Sekin)",
         "type_medicament": "Antitussif à action mixte ou périphérique",
+        "classe_medicament": "Antitussif à action mixte ou périphérique",
+        "classe_medicament_2": "",
         "indications": [
             "Antitussif"
         ],
@@ -7959,6 +8613,8 @@
     {
         "nom_medicament": "Butamirate (Therafixx-Tusso)",
         "type_medicament": "Antitussif à action mixte ou périphérique",
+        "classe_medicament": "Antitussif à action mixte ou périphérique",
+        "classe_medicament_2": "",
         "indications": [
             "Antitussif"
         ],
@@ -7972,6 +8628,8 @@
     {
         "nom_medicament": "Lévodroprpizine (Levotuss)",
         "type_medicament": "Antitussif à action mixte ou périphérique",
+        "classe_medicament": "Antitussif à action mixte ou périphérique",
+        "classe_medicament_2": "",
         "indications": [
             "Antitussif"
         ],
@@ -7987,6 +8645,8 @@
     {
         "nom_medicament": "Acétylcystéine (Lysomucil)",
         "type_medicament": "Dérivée de la cystéine",
+        "classe_medicament": "Dérives de la cystéine",
+        "classe_medicament_2": "",
         "indications": [
             "Mucolytique"
         ],
@@ -8003,6 +8663,8 @@
     {
         "nom_medicament": "Carbocistéine (Siroxyl)",
         "type_medicament": "Dérivée de la cystéine",
+        "classe_medicament": "Dérives de la cystéine",
+        "classe_medicament_2": "",
         "indications": [
             "Mucolytique"
         ],
@@ -8019,6 +8681,8 @@
     {
         "nom_medicament": "Erdostéine (Mucodox)",
         "type_medicament": "Dérivée de la cystéine",
+        "classe_medicament": "Dérives de la cystéine",
+        "classe_medicament_2": "",
         "indications": [
             "Mucolytique"
         ],
@@ -8035,6 +8699,8 @@
     {
         "nom_medicament": "Bromhexine (Bisolvon)",
         "type_medicament": "",
+        "classe_medicament": "Bromhexine",
+        "classe_medicament_2": "",
         "indications": [
             "Mucolytique"
         ],
@@ -8050,6 +8716,8 @@
     {
         "nom_medicament": "Dornase alpha (Puulmzyme)",
         "type_medicament": "",
+        "classe_medicament": "Dornase alpha",
+        "classe_medicament_2": "",
         "indications": [
             "Mucoviscidose"
         ],
@@ -8061,6 +8729,8 @@
     {
         "nom_medicament": "respi fin",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -8070,6 +8740,8 @@
     {
         "nom_medicament": "Gastro début",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -8079,6 +8751,8 @@
     {
         "nom_medicament": "Lansoprazole (Dakar)",
         "type_medicament": "Inhibiteur de la pompe à protons",
+        "classe_medicament": "IPP",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention ulcères",
             "Symptômes de reflux",
@@ -8101,6 +8775,8 @@
     {
         "nom_medicament": "Oméprazole (Losec)",
         "type_medicament": "Inhibiteur de la pompe à protons",
+        "classe_medicament": "IPP",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention ulcères",
             "Symptômes de reflux",
@@ -8123,6 +8799,8 @@
     {
         "nom_medicament": "Esoméprazole (Nexiam)",
         "type_medicament": "Inhibiteur de la pompe à protons",
+        "classe_medicament": "IPP",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention ulcères",
             "Symptômes de reflux",
@@ -8145,6 +8823,8 @@
     {
         "nom_medicament": "Pantoprazole (Pantozol)",
         "type_medicament": "Inhibiteur de la pompe à protons",
+        "classe_medicament": "IPP",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention ulcères",
             "Symptômes de reflux",
@@ -8167,6 +8847,8 @@
     {
         "nom_medicament": "Rabéprazole (Pariet)",
         "type_medicament": "Inhibiteur de la pompe à protons",
+        "classe_medicament": "IPP",
+        "classe_medicament_2": "",
         "indications": [
             "Traitement et prévention ulcères",
             "Symptômes de reflux",
@@ -8189,6 +8871,8 @@
     {
         "nom_medicament": "Misoprostol (Cytotec)",
         "type_medicament": "Misoprostol",
+        "classe_medicament": "Misoprostol",
+        "classe_medicament_2": "",
         "indications": [
             "Prévention ulcère en cas d'AINS"
         ],
@@ -8204,6 +8888,8 @@
     {
         "nom_medicament": "Gaviscon",
         "type_medicament": "Anti-acides",
+        "classe_medicament": "Anti-acides",
+        "classe_medicament_2": "",
         "indications": [
             "Dyspepsie",
             "Gastrite",
@@ -8221,6 +8907,8 @@
     {
         "nom_medicament": "Maalox",
         "type_medicament": "Anti-acides",
+        "classe_medicament": "Anti-acides",
+        "classe_medicament_2": "",
         "indications": [
             "Dyspepsie",
             "Gastrite",
@@ -8238,6 +8926,8 @@
     {
         "nom_medicament": "Rennie",
         "type_medicament": "Anti-acides",
+        "classe_medicament": "Anti-acides",
+        "classe_medicament_2": "",
         "indications": [
             "Dyspepsie",
             "Gastrite",
@@ -8255,6 +8945,8 @@
     {
         "nom_medicament": "Butylhyoscine (Buscopan)",
         "type_medicament": "Spasmolytique",
+        "classe_medicament": "Spasmolytiques",
+        "classe_medicament_2": "",
         "indications": [
             "Douleurs spastiques intestinales"
         ],
@@ -8270,6 +8962,8 @@
     {
         "nom_medicament": "Alvérine (Spasmine)",
         "type_medicament": "Spasmolytique",
+        "classe_medicament": "Spasmolytiques",
+        "classe_medicament_2": "",
         "indications": [
             "Douleurs spastiques intestinales"
         ],
@@ -8281,6 +8975,8 @@
     {
         "nom_medicament": "Mébévérine (Duspatalin)",
         "type_medicament": "Spasmolytique",
+        "classe_medicament": "Spasmolytiques",
+        "classe_medicament_2": "",
         "indications": [
             "Douleurs spastiques intestinales"
         ],
@@ -8292,6 +8988,8 @@
     {
         "nom_medicament": "Otilonium (Spasmomen)",
         "type_medicament": "Spasmolytique",
+        "classe_medicament": "Spasmolytiques",
+        "classe_medicament_2": "",
         "indications": [
             "Douleurs spastiques intestinales"
         ],
@@ -8303,6 +9001,8 @@
     {
         "nom_medicament": "Métoclopramide (Primpéran)",
         "type_medicament": "Gastroprocinétique",
+        "classe_medicament": "Gastroprocinétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée",
             "Vomissement"
@@ -8327,6 +9027,8 @@
     {
         "nom_medicament": "Alizapride (Litican)",
         "type_medicament": "Gastroprocinétique",
+        "classe_medicament": "Gastroprocinétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée",
             "Vomissement"
@@ -8348,6 +9050,8 @@
     {
         "nom_medicament": "Dompéridone (Motilium)",
         "type_medicament": "Gastroprocinétique",
+        "classe_medicament": "Gastroprocinétiques",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée",
             "Vomissement"
@@ -8371,6 +9075,8 @@
     {
         "nom_medicament": "Granisétron (Kytril)",
         "type_medicament": "Antagoniste 5-HT3",
+        "classe_medicament": "Antagonistes 5-HT3",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée et vomissement postopératoires",
             "Nausée et vomissement induit par la chimiothérapie"
@@ -8387,6 +9093,8 @@
     {
         "nom_medicament": "Ondansétron (Zofran)",
         "type_medicament": "Antagoniste 5-HT3",
+        "classe_medicament": "Antagonistes 5-HT3",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée et vomissement postopératoires",
             "Nausée et vomissement induit par la chimiothérapie"
@@ -8404,6 +9112,8 @@
     {
         "nom_medicament": "Palonosétron (Aloxi)",
         "type_medicament": "Antagoniste 5-HT3",
+        "classe_medicament": "Antagonistes 5-HT3",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée et vomissement postopératoires",
             "Nausée et vomissement induit par la chimiothérapie"
@@ -8420,6 +9130,8 @@
     {
         "nom_medicament": "Aprépitant (Emend)",
         "type_medicament": "Antagoniste NK1",
+        "classe_medicament": "Antagonistes NK1",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée et vomissement induit par la chimiothérapie"
         ],
@@ -8436,6 +9148,8 @@
     {
         "nom_medicament": "Fosaprépitant (Ivemend)",
         "type_medicament": "Antagoniste NK1",
+        "classe_medicament": "Antagonistes NK1",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée et vomissement induit par la chimiothérapie"
         ],
@@ -8452,6 +9166,8 @@
     {
         "nom_medicament": "Nétupitant (Akynzeo)",
         "type_medicament": "Antagoniste NK1",
+        "classe_medicament": "Antagonistes NK1",
+        "classe_medicament_2": "",
         "indications": [
             "Nausée et vomissement induit par la chimiothérapie"
         ],
@@ -8468,6 +9184,8 @@
     {
         "nom_medicament": "Bisacodyl (Dulcolax)",
         "type_medicament": "Laxatif",
+        "classe_medicament": "Laxatif",
+        "classe_medicament_2": "",
         "indications": [
             "Constipation"
         ],
@@ -8487,6 +9205,8 @@
     {
         "nom_medicament": "Picosulfat (Laxoteron)",
         "type_medicament": "Laxatif",
+        "classe_medicament": "Laxatif",
+        "classe_medicament_2": "",
         "indications": [
             "Constipation"
         ],
@@ -8506,6 +9226,8 @@
     {
         "nom_medicament": "Prucalopride (Resolor)",
         "type_medicament": "Laxatif",
+        "classe_medicament": "Laxatif",
+        "classe_medicament_2": "",
         "indications": [
             "Constipation"
         ],
@@ -8524,6 +9246,8 @@
     {
         "nom_medicament": "Linaclotide (Constella)",
         "type_medicament": "Laxatif",
+        "classe_medicament": "Laxatif",
+        "classe_medicament_2": "",
         "indications": [
             "Constipation",
             "Syndrome intestin irritable"
@@ -8541,6 +9265,8 @@
     {
         "nom_medicament": "Lopéramide (Imodium)",
         "type_medicament": "Antidiarrhéique",
+        "classe_medicament": "Antidiarrhéiques",
+        "classe_medicament_2": "",
         "indications": [
             "Diarrhée"
         ],
@@ -8559,6 +9285,8 @@
     {
         "nom_medicament": "Racécadotril (Tiofix)",
         "type_medicament": "Antidiarrhéique",
+        "classe_medicament": "Antidiarrhéiques",
+        "classe_medicament_2": "",
         "indications": [
             "Diarrhée"
         ],
@@ -8577,6 +9305,8 @@
     {
         "nom_medicament": "gastro fin",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -8586,6 +9316,8 @@
     {
         "nom_medicament": "Uro-génital début",
         "type_medicament": "",
+        "classe_medicament": "",
+        "classe_medicament_2": "",
         "indications": [],
         "contre_indications": [],
         "interactions": [],
@@ -8595,6 +9327,8 @@
     {
         "nom_medicament": "Oxybutynine (Kentera)",
         "type_medicament": "Anticholinergique",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8611,6 +9345,8 @@
     {
         "nom_medicament": "Fésotérodine (Toviaz)",
         "type_medicament": "Anticholinergique",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8627,6 +9363,8 @@
     {
         "nom_medicament": "Desfésotérodine (Tovedeso)",
         "type_medicament": "Anticholinergique",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8643,6 +9381,8 @@
     {
         "nom_medicament": "Toltérodine (Detrusitol)",
         "type_medicament": "Anticholinergique",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8659,6 +9399,8 @@
     {
         "nom_medicament": "Darifénacine (Emselex)",
         "type_medicament": "Anticholinergique",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8675,6 +9417,8 @@
     {
         "nom_medicament": "Solifénacine (Vesicare)",
         "type_medicament": "Anticholinergique",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8691,6 +9435,8 @@
     {
         "nom_medicament": "Propivérine (Mictonorm)",
         "type_medicament": "Anticholinergique",
+        "classe_medicament": "Anticholinergiques",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8707,6 +9453,8 @@
     {
         "nom_medicament": "Mirabégron (Betmiga)",
         "type_medicament": "Agoniste beta3-AR",
+        "classe_medicament": "Agonistes Beta3-AR",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8723,6 +9471,8 @@
     {
         "nom_medicament": "Vibégron (Obgemsa)",
         "type_medicament": "Agoniste beta3-AR",
+        "classe_medicament": "Agonistes Beta3-AR",
+        "classe_medicament_2": "",
         "indications": [
             "Incontinence d'urgence",
             "Vessie hyperactive"
@@ -8739,6 +9489,8 @@
     {
         "nom_medicament": "Béthanécol (Myocholine-Glenwood)",
         "type_medicament": "Béthanécol",
+        "classe_medicament": "Bethanecol",
+        "classe_medicament_2": "",
         "indications": [
             "Atonie vésicale"
         ],
@@ -8762,6 +9514,8 @@
     {
         "nom_medicament": "Alfuzosine (Xatral)",
         "type_medicament": "Alpha1-bloquants",
+        "classe_medicament": "Alpha-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertrophie bénigne de la prostate"
         ],
@@ -8779,6 +9533,8 @@
     {
         "nom_medicament": "Silodosine (Silodyx)",
         "type_medicament": "Alpha1-bloquants",
+        "classe_medicament": "Alpha-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertrophie bénigne de la prostate"
         ],
@@ -8796,6 +9552,8 @@
     {
         "nom_medicament": "Tamsulosine (Omic)",
         "type_medicament": "Alpha1-bloquants",
+        "classe_medicament": "Alpha-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertrophie bénigne de la prostate"
         ],
@@ -8813,6 +9571,8 @@
     {
         "nom_medicament": "Térazosine (Hytrin)",
         "type_medicament": "Alpha1-bloquants",
+        "classe_medicament": "Alpha-bloquants",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertrophie bénigne de la prostate"
         ],
@@ -8830,6 +9590,8 @@
     {
         "nom_medicament": "Dutastéride (Avodart)",
         "type_medicament": "Inhibiteur de la 5alpha-réductase",
+        "classe_medicament": "Dutasteride",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertrophie bénigne de la prostate"
         ],
@@ -8848,6 +9610,8 @@
     {
         "nom_medicament": "Finastéride (Proscart)",
         "type_medicament": "Inhibiteur de la 5alpha-réductase",
+        "classe_medicament": "Finasteride",
+        "classe_medicament_2": "",
         "indications": [
             "Hypertrophie bénigne de la prostate"
         ],
@@ -8866,6 +9630,8 @@
     {
         "nom_medicament": "Tadafil (Cialis)",
         "type_medicament": "Inhibiteur de la PDE5",
+        "classe_medicament": "Inhibiteurs PDE",
+        "classe_medicament_2": "",
         "indications": [
             "Trouble de l'érection"
         ],
@@ -8886,6 +9652,8 @@
     {
         "nom_medicament": "Sildéfanil (Viagra Revatio)",
         "type_medicament": "Inhibiteur de la PDE5",
+        "classe_medicament": "Inhibiteurs PDE",
+        "classe_medicament_2": "",
         "indications": [
             "Trouble de l'érection"
         ],
@@ -8906,6 +9674,8 @@
     {
         "nom_medicament": "Vardénafil (Levitra)",
         "type_medicament": "Inhibiteur de la PDE5",
+        "classe_medicament": "Inhibiteurs PDE",
+        "classe_medicament_2": "",
         "indications": [
             "Trouble de l'érection"
         ],
@@ -8926,6 +9696,8 @@
     {
         "nom_medicament": "Alprostadil (Caverject)",
         "type_medicament": "PGE1",
+        "classe_medicament": "PGE1",
+        "classe_medicament_2": "",
         "indications": [
             "Trouble de l'érection"
         ],
@@ -8939,6 +9711,8 @@
     {
         "nom_medicament": "Yohimbine (Yocoral)",
         "type_medicament": "Antagoniste alpha2-AR",
+        "classe_medicament": "Yohimbine",
+        "classe_medicament_2": "",
         "indications": [
             "Trouble de l'érection"
         ],
