@@ -1,7 +1,7 @@
 [
     {
-        "pathologie": "Hypertension",
-        "chapitre": "Cardio",
+        "Maladies": "Hypertension",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Antagonistes calciques",
             "Beta-bloquants",
@@ -15,8 +15,8 @@
         ]
     },
     {
-        "pathologie": "Angor",
-        "chapitre": "Cardio",
+        "Maladies": "Angor",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Beta-bloquants",
             "Antagonistes calciques",
@@ -30,8 +30,8 @@
         ]
     },
     {
-        "pathologie": "Insuffisance cardiaque",
-        "chapitre": "Cardio",
+        "Maladies": "Insuffisance cardiaque",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Beta-bloquants",
             "Diurétiques",
@@ -49,8 +49,8 @@
         ]
     },
     {
-        "pathologie": "Arythmies",
-        "chapitre": "Cardio",
+        "Maladies": "Arythmies",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Inhibiteurs des canaux Na+",
             "Antagonistes calciques",
@@ -63,8 +63,8 @@
         ]
     },
     {
-        "pathologie": "Hypotension aigüe",
-        "chapitre": "Cardio",
+        "Maladies": "Hypotension aigüe",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Dobutamine",
             "Norépinéphrine",
@@ -74,16 +74,16 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Hypotension chronique",
-        "chapitre": "Cardio",
+        "Maladies": "Hypotension chronique",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Etiléfrine"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Syndrôme métabolique",
-        "chapitre": "Cardio",
+        "Maladies": "Syndrôme métabolique",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Statines",
             "Fibrates",
@@ -97,8 +97,8 @@
         ]
     },
     {
-        "pathologie": "Thrombose artérielle (antiagrégants)",
-        "chapitre": "Cardio",
+        "Maladies": "Thrombose artérielle (antiagrégants)",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Thiénopyridines",
             "Analogue de l'adénosine",
@@ -108,8 +108,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Thrombose veineuse (anticoagulants)",
-        "chapitre": "Cardio",
+        "Maladies": "Thrombose veineuse (anticoagulants)",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Héparine",
             "Inhibiteurs de la thrombine",
@@ -122,16 +122,16 @@
         ]
     },
     {
-        "pathologie": "Thrombo-embolique aigües",
-        "chapitre": "Cardio",
+        "Maladies": "Thrombo-embolique aigües",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Thrombolytiques"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Hemorragie",
-        "chapitre": "Cardio",
+        "Maladies": "Hemorragie",
+        "Chapitre": "Cardio",
         "1ere intention_i": [
             "Administration de facteurs de coagulation",
             "Antidote de l'heparine",
@@ -142,8 +142,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Excitation, angoisse et insomnie (Sédatif, hypnotique et anxiolytique)",
-        "chapitre": "SNC",
+        "Maladies": "Excitation, angoisse et insomnie (Sédatif, hypnotique et anxiolytique)",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Benzodiazépine",
             "Z-drugs"
@@ -151,8 +151,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Insomnie",
-        "chapitre": "SNC",
+        "Maladies": "Insomnie",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Benzodiazépine",
             "Z-drugs",
@@ -164,8 +164,8 @@
         ]
     },
     {
-        "pathologie": "Psychose",
-        "chapitre": "SNC",
+        "Maladies": "Psychose",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Antipsychotiques",
             "Chlorpromazine",
@@ -174,8 +174,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Dépression",
-        "chapitre": "SNC",
+        "Maladies": "Dépression",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Inhibiteurs de la recapture de la sérotonine",
             "Inhibiteurs de la recapture de la noradrénaline",
@@ -187,8 +187,8 @@
         ]
     },
     {
-        "pathologie": "Troubles bipolaires (Episodes maniaques)",
-        "chapitre": "SNC",
+        "Maladies": "Troubles bipolaires (Episodes maniaques)",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Lithium",
             "Antipsychotiques",
@@ -198,8 +198,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Troubles bipolaires (Depression bipolaire)",
-        "chapitre": "SNC",
+        "Maladies": "Troubles bipolaires (Depression bipolaire)",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Lithium",
             "Antipsychotiques",
@@ -208,8 +208,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Troubles bipolaires (Traitement chronique)",
-        "chapitre": "SNC",
+        "Maladies": "Troubles bipolaires (Traitement chronique)",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Lithium"
         ],
@@ -222,8 +222,8 @@
         ]
     },
     {
-        "pathologie": "ADHD",
-        "chapitre": "SNC",
+        "Maladies": "ADHD",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Méthylphénidate",
             "Lisdexamfétamine",
@@ -232,8 +232,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Narcolepsie",
-        "chapitre": "SNC",
+        "Maladies": "Narcolepsie",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Méthylphénidate",
             "Lisdexamfétamine",
@@ -244,8 +244,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Maladie de Parkinson",
-        "chapitre": "SNC",
+        "Maladies": "Maladie de Parkinson",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Inhibiteurs de la monoamine oxydase",
             "Inhibiteur de la COMT",
@@ -257,8 +257,8 @@
         ]
     },
     {
-        "pathologie": "Maladie d'Alzheimer",
-        "chapitre": "SNC",
+        "Maladies": "Maladie d'Alzheimer",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Inhibiteurs des cholinestérases",
             "Antagonistes des récepteurs glutaminergiques"
@@ -266,8 +266,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Epilepsie",
-        "chapitre": "SNC",
+        "Maladies": "Epilepsie",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Acide valproïque",
             "Carbamazépine",
@@ -283,8 +283,8 @@
         ]
     },
     {
-        "pathologie": "Migraine",
-        "chapitre": "SNC",
+        "Maladies": "Migraine",
+        "Chapitre": "SNC",
         "1ere intention_i": [
             "Triptans",
             "Anti-CGRP",
@@ -298,8 +298,8 @@
         ]
     },
     {
-        "pathologie": "Douleur légère",
-        "chapitre": "Douleurs - Inflammations",
+        "Maladies": "Douleur légère",
+        "Chapitre": "Douleurs - Inflammations",
         "1ere intention_i": [
             "Paracétamol",
             "AINS"
@@ -309,8 +309,8 @@
         ]
     },
     {
-        "pathologie": "Douleur moyenne",
-        "chapitre": "Douleurs - Inflammations",
+        "Maladies": "Douleur moyenne",
+        "Chapitre": "Douleurs - Inflammations",
         "1ere intention_i": [
             "Codéine",
             "Tramadol"
@@ -318,16 +318,16 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Douleur sévère",
-        "chapitre": "Douleurs - Inflammations",
+        "Maladies": "Douleur sévère",
+        "Chapitre": "Douleurs - Inflammations",
         "1ere intention_i": [
             "Morphine"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Douleurs nociceptives",
-        "chapitre": "Douleurs - Inflammations",
+        "Maladies": "Douleurs nociceptives",
+        "Chapitre": "Douleurs - Inflammations",
         "1ere intention_i": [
             "Paracétamol",
             "AINS",
@@ -336,8 +336,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Douleurs neuropathiques",
-        "chapitre": "Douleurs - Inflammations",
+        "Maladies": "Douleurs neuropathiques",
+        "Chapitre": "Douleurs - Inflammations",
         "1ere intention_i": [
             "Anticonvulsivants",
             "Antidépresseurs"
@@ -348,8 +348,8 @@
         ]
     },
     {
-        "pathologie": "Douleurs nociplastiques",
-        "chapitre": "Douleurs - Inflammations",
+        "Maladies": "Douleurs nociplastiques",
+        "Chapitre": "Douleurs - Inflammations",
         "1ere intention_i": [
             "Anticonvulsivants",
             "Antidépresseurs"
@@ -357,8 +357,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Inflammation",
-        "chapitre": "Douleurs - Inflammations",
+        "Maladies": "Inflammation",
+        "Chapitre": "Douleurs - Inflammations",
         "1ere intention_i": [
             "Glucocorticoides",
             "AINS"
@@ -366,16 +366,16 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Intoxication et dépendance à la prise d'opioïdes",
-        "chapitre": "Douleurs - Inflammations",
+        "Maladies": "Intoxication et dépendance à la prise d'opioïdes",
+        "Chapitre": "Douleurs - Inflammations",
         "1ere intention_i": [
             "Antagonistes morphiniques"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Allergie",
-        "chapitre": "Immuno",
+        "Maladies": "Allergie",
+        "Chapitre": "Immuno",
         "1ere intention_i": [
             "Glucocorticoides",
             "Anti-H1 de 1ère génération",
@@ -384,8 +384,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Rhinites et sinusites",
-        "chapitre": "Immuno",
+        "Maladies": "Rhinites et sinusites",
+        "Chapitre": "Immuno",
         "1ere intention_i": [
             "Glucocorticoides",
             "Anti-H1 de 1ère génération",
@@ -397,8 +397,8 @@
         ]
     },
     {
-        "pathologie": "Asthme et BPCO",
-        "chapitre": "Respi",
+        "Maladies": "Asthme et BPCO",
+        "Chapitre": "Respi",
         "1ere intention_i": [
             "Glucocorticoides",
             "Beta2 mimétiques",
@@ -410,24 +410,24 @@
         ]
     },
     {
-        "pathologie": "Asthme grave avec exacerbation et taux élevé d'IgE",
-        "chapitre": "Respi",
+        "Maladies": "Asthme grave avec exacerbation et taux élevé d'IgE",
+        "Chapitre": "Respi",
         "1ere intention_i": [
             "Omalizumab"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Asthme sévère persistant avec taux élevé d'éosinophiles",
-        "chapitre": "Respi",
+        "Maladies": "Asthme sévère persistant avec taux élevé d'éosinophiles",
+        "Chapitre": "Respi",
         "1ere intention_i": [
             "mAb qui ciblent l'IL-5"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Toux",
-        "chapitre": "Respi",
+        "Maladies": "Toux",
+        "Chapitre": "Respi",
         "1ere intention_i": [
             "Antitussif à action centrale non narcotique",
             "Codéine"
@@ -437,8 +437,8 @@
         ]
     },
     {
-        "pathologie": "Mucoviscidose",
-        "chapitre": "Respi",
+        "Maladies": "Mucoviscidose",
+        "Chapitre": "Respi",
         "1ere intention_i": [
             "Dérives de la cystéine",
             "Bromhexine",
@@ -447,8 +447,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Reflux gastro-oesophagien et ulcère peptique",
-        "chapitre": "Gastro",
+        "Maladies": "Reflux gastro-oesophagien et ulcère peptique",
+        "Chapitre": "Gastro",
         "1ere intention_i": [
             "IPP",
             "Anti-acides"
@@ -458,8 +458,8 @@
         ]
     },
     {
-        "pathologie": "Ulcère Helicobacter pylori",
-        "chapitre": "Gastro",
+        "Maladies": "Ulcère Helicobacter pylori",
+        "Chapitre": "Gastro",
         "1ere intention_i": [
             "IPP",
             "Amoxicilline",
@@ -469,16 +469,16 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Douleurs spastiques intestinales",
-        "chapitre": "Gastro",
+        "Maladies": "Douleurs spastiques intestinales",
+        "Chapitre": "Gastro",
         "1ere intention_i": [
             "Spasmolytiques"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Nausées et vomissements",
-        "chapitre": "Gastro",
+        "Maladies": "Nausées et vomissements",
+        "Chapitre": "Gastro",
         "1ere intention_i": [
             "Anti-H1 de 1ère génération",
             "Gastroprocinétiques",
@@ -488,24 +488,24 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Constipation",
-        "chapitre": "Gastro",
+        "Maladies": "Constipation",
+        "Chapitre": "Gastro",
         "1ere intention_i": [
             "Laxatif"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Diarrhée",
-        "chapitre": "Gastro",
+        "Maladies": "Diarrhée",
+        "Chapitre": "Gastro",
         "1ere intention_i": [
             "Antidiarrhéiques"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Incontinence d'urgence",
-        "chapitre": "Uro-génital",
+        "Maladies": "Incontinence d'urgence",
+        "Chapitre": "Uro-génital",
         "1ere intention_i": [
             "Anticholinergiques",
             "Agonistes Beta3-AR"
@@ -513,24 +513,24 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Incontinence d'effort",
-        "chapitre": "Uro-génital",
+        "Maladies": "Incontinence d'effort",
+        "Chapitre": "Uro-génital",
         "1ere intention_i": [
             "Duloxetine"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Atonie vésicale",
-        "chapitre": "Uro-génital",
+        "Maladies": "Atonie vésicale",
+        "Chapitre": "Uro-génital",
         "1ere intention_i": [
             "Bethanecol"
         ],
         "2eme intention_i": []
     },
     {
-        "pathologie": "Hypertrophie bénigne de la prostate",
-        "chapitre": "Uro-génital",
+        "Maladies": "Hypertrophie bénigne de la prostate",
+        "Chapitre": "Uro-génital",
         "1ere intention_i": [
             "Alpha-bloquants",
             "Dutasteride",
@@ -539,8 +539,8 @@
         "2eme intention_i": []
     },
     {
-        "pathologie": "Trouble de l'érection",
-        "chapitre": "Uro-génital",
+        "Maladies": "Trouble de l'érection",
+        "Chapitre": "Uro-génital",
         "1ere intention_i": [
             "Inhibiteurs PDE",
             "PGE1"

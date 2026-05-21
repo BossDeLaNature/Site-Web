@@ -63,11 +63,11 @@ def excel_maladies_to_json(input_excel_path, output_json_path=None):
         # --------------------------------------
         maladie = {
 
-            "pathologie": (
+            "Maladies": (
                 str(row.get("Pathologie", "")).strip()
             ),
 
-            "chapitre": (
+            "Chapitre": (
                 str(row.get("Chapitre", "")).strip()
             ),
 
