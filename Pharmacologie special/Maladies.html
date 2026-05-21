@@ -198,71 +198,108 @@
         let activeTab = 'quiz';
         let playedIndexes = [];
 
-        // Base de données de secours si vos fichiers .json locaux/GitHub ne chargent pas directement
+        // Base de données de secours contenant la structure exacte de vos fichiers
         const fallbackDiseases = [
             {
-                "Maladies": "Angine aiguë streptococcique",
-                "Chapitre": "Infectiologie",
-                "1ere intention_i": ["Antibiotique bêta-lactamine", "Macrolide"],
-                "2eme intention_i": ["Céphalosporine de 1ère génération"]
+                "Maladies": "Hypertension",
+                "Chapitre": "Cardio",
+                "1ere intention_i": [
+                    "Antagonistes calciques",
+                    "Beta-bloquants",
+                    "Diurétiques",
+                    "IEC",
+                    "Sartans"
+                ],
+                "2eme intention_i": [
+                    "Alpha-bloquants",
+                    "Anti-hypertenseur centraux"
+                ]
             },
             {
-                "Maladies": "Hypertension Artérielle essentielle",
-                "Chapitre": "Cardiologie",
-                "1ere intention_i": ["Inhibiteur calcique", "Diurétique thiazidique"],
-                "2eme intention_i": ["Bêta-bloquant"]
+                "Maladies": "Angor",
+                "Chapitre": "Cardio",
+                "1ere intention_i": [
+                    "Beta-bloquants",
+                    "Antagonistes calciques",
+                    "Dérivés nitrés",
+                    "Antithrombotiques",
+                    "Statines"
+                ],
+                "2eme intention_i": [
+                    "Ivabradine",
+                    "Ranolazine"
+                ]
             }
         ];
 
         const fallbackMeds = [
             {
-                "nom_medicament": "Amoxicilline",
-                "type_medicament": "Antibiotique bêta-lactamine",
-                "indications": ["Infections ORL (Otites, Angines)", "Infections bronchopulmonaires"],
-                "contre_indications": ["Allergie connue aux bêta-lactamines / pénicillines"],
-                "interactions": ["Méthotrexate (toxicité accrue)"],
-                "effets_indésirables": ["Diarrhées, nausées", "Éruption cutanée allergique"],
-                "precaution": ["Maintenir un apport hydrique suffisant", "Prendre pendant les repas si digestion fragile"]
-            },
-            {
-                "nom_medicament": "Pénicilline V",
-                "type_medicament": "Antibiotique bêta-lactamine",
-                "indications": ["Angines à streptocoque A", "Prophylaxie d'infections à pneumocoque"],
-                "contre_indications": ["Allergie connue aux pénicillines"],
-                "interactions": ["Méthotrexate"],
-                "effets_indésirables": ["Troubles digestifs", "Urticaire"],
-                "precaution": ["Respecter l'espacement régulier des prises"]
-            },
-            {
-                "nom_medicament": "Azithromycine",
-                "type_medicament": "Macrolide",
-                "indications": ["Infections respiratoires hautes", "Infections urogénitales à Chlamydia"],
-                "contre_indications": ["Association avec la colchique", "Insuffisance hépatique sévère"],
-                "interactions": ["Dérivés de l'ergot de seigle", "Atorvastatine"],
-                "effets_indésirables": ["Nausées", "Allongement de l'intervalle QT (risque cardiaque)"],
-                "precaution": ["Prudence en cas d'antécédent d'arythmie cardiaque"]
+                "nom_medicament": "Propanolol (Inderal)",
+                "type_medicament": "Beta-bloquant (non sélectif Beta1 = Beta2)",
+                "classe_medicament": "Beta-bloquants",
+                "classe_medicament_2": "",
+                "indications": [
+                    "Hypertension",
+                    "Angor",
+                    "Arythmie",
+                    "Insuffisance cardiaque chronique stable",
+                    "Prévention secondaire infarctus du myocarde",
+                    "Tremor",
+                    "Prophylaxie de la migraine"
+                ],
+                "contre_indications": [
+                    "Bloc AV",
+                    "Bradycardie sinusale",
+                    "Insuffisance cardiaque non contrôlée",
+                    "Asthme",
+                    "Vérapamil I.V.",
+                    "Syndrome métabolique"
+                ],
+                "interactions": [
+                    "Vérapamil",
+                    "Antidiabétique",
+                    "Beta2-mimétique",
+                    "Epinéphrine"
+                ],
+                "effets_indesirables": [
+                    "Bradycardie",
+                    "Insuffisance cardiaque",
+                    "Bloc AV",
+                    "Bronchoconstriction",
+                    "Trouble du sommeil",
+                    "Dépression",
+                    "Augmentation de la résistance à l'insuline",
+                    "Augmentation des taux de TG",
+                    "Diminution des taux de HDL",
+                    "Impuissance"
+                ],
+                "precautions": []
             },
             {
                 "nom_medicament": "Amlodipine",
-                "type_medicament": "Inhibiteur calcique",
-                "indications": ["Hypertension artérielle", "Angine de poitrine (angor stable)"],
-                "contre_indications": ["Choc cardiogénique", "Hypotension sévère", "Sténose aortique cliniquement significative"],
-                "interactions": ["Dantrolène", "Jus de pamplemousse (augmente la concentration de la molécule)"],
-                "effets_indésirables": ["Œdèmes des chevilles (très fréquents)", "Céphalées", "Palpitations"],
-                "precaution": ["Surveiller la pression artérielle et l'apparition d'œdèmes périphériques"]
-            },
-            {
-                "nom_medicament": "Hydrochlorothiazide",
-                "type_medicament": "Diurétique thiazidique",
-                "indications": ["Hypertension artérielle", "Œdèmes d'origine cardiaque ou rénale"],
-                "contre_indications": ["Insuffisance rénale sévère", "Anurie", "Allergie aux sulfamides"],
-                "interactions": ["Lithium", "AINS (diminution de l'effet diurétique)"],
-                "effets_indésirables": ["Hypokaliémie", "Hyperuricémie (risque d'accès de goutte)"],
-                "precaution": ["Contrôle régulier du ionogramme sanguin (Kaliémie, Sodium)"]
+                "type_medicament": "Dihydropyridine d'action prolongée",
+                "classe_medicament": "Antagonistes calciques",
+                "classe_medicament_2": "",
+                "indications": ["Hypertension", "Angor stable"],
+                "contre_indications": ["Choc cardiogénique", "Sténose aortique sévère"],
+                "interactions": ["Jus de pamplemousse"],
+                "effets_indesirables": ["Céphalées", "Œdèmes des chevilles"],
+                "precautions": []
             }
         ];
 
-        // Chargement parallèle des deux bases de données
+        // Moteur de normalisation de texte intelligent (Fuzzy Matching)
+        function normalizeStr(str) {
+            if (!str) return '';
+            return str.toLowerCase()
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // Supprime les accents
+                .replace(/[^a-z0-9\s]/g, '')                     // Supprime la ponctuation sauf espaces
+                .split(/\s+/)
+                .map(word => word.replace(/s$/, ''))             // Supprime les pluriels simples
+                .join('');
+        }
+
+        // Chargement simultané des deux fichiers JSON
         Promise.all([
             fetch("data/medicaments.json")
                 .then(r => r.ok ? r.json() : Promise.reject("Fichier medicaments non trouvé")),
@@ -289,16 +326,31 @@
             resetFlow();
         }
 
-        // Fonction clé : Cherche les médicaments associés à une classe
-        // Vérifie "type_medicament", puis "Classe médicament 2" ou "type_medicament_2"
+        // Recherche un médicament en fonction de classe_medicament ou classe_medicament_2
         function getMedsForClass(className) {
             if (!className) return [];
-            const target = className.toLowerCase().trim();
+            const target = normalizeStr(className);
             return medicationsDB.filter(m => {
-                const class1 = (m.type_medicament || "").toLowerCase().trim();
-                const class2 = (m.Classe_médicament_2 || m.Classe_medicament_2 || m.type_medicament_2 || m.classe_medicament_2 || "").toLowerCase().trim();
+                const class1 = normalizeStr(m.classe_medicament || "");
+                const class2 = normalizeStr(m.classe_medicament_2 || m.classe_médicament_2 || "");
                 return class1 === target || class2 === target;
             });
+        }
+
+        // Accesseur souple et robuste aux clés JSON (gère les accents/pluriels/tableaux)
+        function getMedProperty(med, key) {
+            if (!med) return [];
+            let val = [];
+            if (key === 'contre_indications') {
+                val = med.contre_indications || med["contre-indications"] || med.contre_indication || [];
+            } else if (key === 'effets_indesirables') {
+                val = med.effets_indesirables || med.effets_indésirables || med.effets_secondaires || [];
+            } else if (key === 'precautions') {
+                val = med.precautions || med.precaution || [];
+            } else {
+                val = med[key] || [];
+            }
+            return val;
         }
 
         // Helper pour formater une chaîne ou un tableau en liste HTML propre
@@ -348,9 +400,8 @@
             // Collecter toutes les classes possibles (depuis les médicaments et les maladies)
             const classesSet = new Set();
             medicationsDB.forEach(m => {
-                if (m.type_medicament) classesSet.add(m.type_medicament.trim());
-                const c2 = m.Classe_médicament_2 || m.Classe_medicament_2 || m.type_medicament_2 || m.classe_medicament_2;
-                if (c2) classesSet.add(c2.trim());
+                if (m.classe_medicament) classesSet.add(m.classe_medicament.trim());
+                if (m.classe_medicament_2) classesSet.add(m.classe_medicament_2.trim());
             });
             diseasesDB.forEach(d => {
                 parseIntentions(d["1ere intention_i"]).forEach(c => classesSet.add(c));
@@ -449,14 +500,14 @@
             const disease = filteredDiseases[currentIndex];
             if (!disease) return;
 
-            const expectedFirst = parseIntentions(disease["1ere intention_i"]).map(s => s.toLowerCase().trim());
-            const expectedSecond = parseIntentions(disease["2eme intention_i"]).map(s => s.toLowerCase().trim());
+            const expectedFirst = parseIntentions(disease["1ere intention_i"]).map(s => normalizeStr(s));
+            const expectedSecond = parseIntentions(disease["2eme intention_i"]).map(s => normalizeStr(s));
 
             const userFirstInputs = Array.from(document.querySelectorAll('input[data-intent="first"]'));
             const userSecondInputs = Array.from(document.querySelectorAll('input[data-intent="second"]'));
 
-            const userFirst = userFirstInputs.map(i => i.value.trim().toLowerCase()).filter(Boolean);
-            const userSecond = userSecondInputs.map(i => i.value.trim().toLowerCase()).filter(Boolean);
+            const userFirst = userFirstInputs.map(i => normalizeStr(i.value)).filter(Boolean);
+            const userSecond = userSecondInputs.map(i => normalizeStr(i.value)).filter(Boolean);
 
             // Vérification par permutation (l'ordre des entrées ne doit pas pénaliser l'utilisateur)
             const isFirstCorrect = checkPermutation(userFirst, expectedFirst);
@@ -480,13 +531,13 @@
                 
                 // Indiquer en rouge les mauvaises réponses individuelles
                 userFirstInputs.forEach(i => {
-                    if (i.value && !expectedFirst.includes(i.value.trim().toLowerCase())) {
+                    if (i.value && !expectedFirst.includes(normalizeStr(i.value))) {
                         i.classList.add('border-red-500', 'shake');
                         setTimeout(() => i.classList.remove('shake'), 400);
                     }
                 });
                 userSecondInputs.forEach(i => {
-                    if (i.value && !expectedSecond.includes(i.value.trim().toLowerCase())) {
+                    if (i.value && !expectedSecond.includes(normalizeStr(i.value))) {
                         i.classList.add('border-red-500', 'shake');
                         setTimeout(() => i.classList.remove('shake'), 400);
                     }
@@ -551,8 +602,8 @@
 
             inputs.forEach(input => {
                 const targetClass = input.getAttribute('data-drug-class');
-                const userVal = input.value.trim().toLowerCase();
-                const validMeds = getMedsForClass(targetClass).map(m => m.nom_medicament.toLowerCase().trim());
+                const userVal = normalizeStr(input.value);
+                const validMeds = getMedsForClass(targetClass).map(m => normalizeStr(m.nom_medicament));
 
                 if (userVal && validMeds.includes(userVal)) {
                     input.classList.remove('border-red-500');
@@ -573,7 +624,7 @@
                     updateDisplay();
                 }, 1000);
             } else {
-                feedback.innerHTML = "Certains médicaments saisis ne correspondent pas à la classe ou sont mal orthographiés.";
+                feedback.innerHTML = "Certains médicaments saisis ne correspondent pas à la classe.";
                 feedback.className = "mt-4 text-center text-red-500 text-sm font-bold shake";
             }
         }
@@ -703,7 +754,10 @@
                         mBlock.className = "border border-slate-100 rounded-2xl p-4 bg-slate-50/50";
                         mBlock.innerHTML = `
                             <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
-                                <h5 class="text-sm font-black text-indigo-900">💊 ${med.nom_medicament}</h5>
+                                <div>
+                                    <h5 class="text-sm font-black text-indigo-900">💊 ${med.nom_medicament}</h5>
+                                    ${med.type_medicament ? `<p class="text-xs text-slate-500 italic mt-0.5">${med.type_medicament}</p>` : ''}
+                                </div>
                                 <span class="text-[9px] font-black bg-indigo-100 text-indigo-800 px-2 py-1 rounded-md uppercase tracking-wider">${c}</span>
                             </div>
                             <div class="grid grid-cols-1 md:grid-cols-5 gap-3 text-[11px] leading-relaxed">
@@ -713,7 +767,7 @@
                                 </div>
                                 <div class="bg-rose-50/40 p-2.5 rounded-xl border border-rose-100/40">
                                     <span class="font-black text-rose-600 block uppercase text-[8px] mb-1">🚫 Contre-indications</span>
-                                    <div class="text-slate-700 font-semibold">${formatData(med.contre_indications)}</div>
+                                    <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'contre_indications'))}</div>
                                 </div>
                                 <div class="bg-amber-50/40 p-2.5 rounded-xl border border-amber-100/40">
                                     <span class="font-black text-amber-600 block uppercase text-[8px] mb-1">🔄 Interactions</span>
@@ -721,11 +775,11 @@
                                 </div>
                                 <div class="bg-purple-50/40 p-2.5 rounded-xl border border-purple-100/40">
                                     <span class="font-black text-purple-600 block uppercase text-[8px] mb-1">⚠️ Effets indésirables</span>
-                                    <div class="text-slate-700 font-semibold">${formatData(med.effets_indésirables)}</div>
+                                    <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'effets_indesirables'))}</div>
                                 </div>
                                 <div class="bg-emerald-50/40 p-2.5 rounded-xl border border-emerald-100/40">
                                     <span class="font-black text-emerald-600 block uppercase text-[8px] mb-1">🛡️ Précautions</span>
-                                    <div class="text-slate-700 font-semibold">${formatData(med.precaution)}</div>
+                                    <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'precautions'))}</div>
                                 </div>
                             </div>
                         `;
@@ -867,7 +921,8 @@
                                     <span class="text-lg">💊</span>
                                     <div>
                                         <h4 class="font-black text-indigo-950">${med.nom_medicament}</h4>
-                                        <p class="text-[9px] font-black text-indigo-500 uppercase tracking-wider mt-0.5">${className}</p>
+                                        ${med.type_medicament ? `<p class="text-xs text-slate-500 italic mt-0.5">${med.type_medicament}</p>` : ''}
+                                        <p class="text-[9px] font-black text-indigo-500 uppercase tracking-wider mt-1">${className}</p>
                                     </div>
                                 </div>
                                 <svg id="accordion-arrow-${globalIdx}" class="w-5 h-5 text-indigo-500 transform transition-transform ${isFirst ? 'rotate-180' : ''}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -883,7 +938,7 @@
                                 </div>
                                 <div class="bg-rose-50/40 p-4 rounded-2xl border border-rose-100 text-xs">
                                     <h4 class="font-black text-rose-600 uppercase text-[9px] mb-2 tracking-wider">🚫 Contre-indications</h4>
-                                    <div>${formatData(med.contre_indications)}</div>
+                                    <div>${formatData(getMedProperty(med, 'contre_indications'))}</div>
                                 </div>
                                 <div class="bg-amber-50/40 p-4 rounded-2xl border border-amber-100 text-xs">
                                     <h4 class="font-black text-amber-600 uppercase text-[9px] mb-2 tracking-wider">🔄 Interactions</h4>
@@ -891,11 +946,11 @@
                                 </div>
                                 <div class="bg-purple-50/40 p-4 rounded-2xl border border-purple-100 text-xs">
                                     <h4 class="font-black text-purple-600 uppercase text-[9px] mb-2 tracking-wider">⚠️ Effets Indésirables</h4>
-                                    <div>${formatData(med.effets_indésirables)}</div>
+                                    <div>${formatData(getMedProperty(med, 'effets_indesirables'))}</div>
                                 </div>
                                 <div class="bg-emerald-50/40 p-4 rounded-2xl border border-emerald-100 text-xs">
                                     <h4 class="font-black text-emerald-600 uppercase text-[9px] mb-2 tracking-wider">🛡️ Précautions</h4>
-                                    <div>${formatData(med.precaution)}</div>
+                                    <div>${formatData(getMedProperty(med, 'precautions'))}</div>
                                 </div>
                             </div>
                         </div>`;
