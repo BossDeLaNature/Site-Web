@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PharmacoMemo - Spécialité Maladies & Intentions</title>
+    <title>PharmacoMemo - merci gemini jtm tlm bebou</title>
     <!-- Chargement de Tailwind CSS pour un design haut de gamme et moderne -->
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
@@ -142,9 +142,9 @@
                         </button>
                     </div>
 
-                    <!-- ÉTAPE 3 : DÉTAILS COMPLETS DE TOUTES LES CLASSES THERAPEUTIQUES -->
+                    <!-- ÉTAPE 3 : DÉTAILS COMPLETS DE TOUTES LES CLASSES THERAPEUTIQUES (Structure de volets imbriqués) -->
                     <div id="step3_AllDetails" class="hidden-step reveal-anim space-y-4 max-w-4xl mx-auto pb-6">
-                        <!-- Injecté dynamiquement par JS (1 accordéon par médicament du groupe d'intentions) -->
+                        <!-- Injecté dynamiquement par JS (Imbrication : Classe -> Type -> Médicament) -->
                     </div>
                 </div>
 
@@ -168,7 +168,7 @@
                     <div>
                         <h2 class="text-xl font-black text-indigo-950">📚 Répertoire Thérapeutique Interactif</h2>
                         <p class="text-xs text-slate-400 font-semibold mt-1">
-                            Consultez les pathologies de vos chapitres d'étude avec leur prise en charge et les fiches médicaments associées.
+                            Consultez les pathologies de vos chapitres d'étude avec leur prise en charge et les fiches médicaments associées, structurées sans surcharge.
                         </p>
                     </div>
                     <!-- Sélecteur de Chapitre Répertoire -->
@@ -648,11 +648,34 @@
             }, 1000);
         }
 
-        // Système d'accordéon pour l'étape 3
-        function toggleAccordion(idx) {
-            const content = document.getElementById(`accordion-content-${idx}`);
-            const arrow = document.getElementById(`accordion-arrow-${idx}`);
-            
+        // Fonctions d'animation et de pliage/dépliage du système d'accordéons à 3 niveaux
+        function toggleLevel1(classId) {
+            const content = document.getElementById(`level1-content-${classId}`);
+            const arrow = document.getElementById(`level1-arrow-${classId}`);
+            if (content.classList.contains('hidden')) {
+                content.classList.remove('hidden');
+                arrow.classList.add('rotate-180');
+            } else {
+                content.classList.add('hidden');
+                arrow.classList.remove('rotate-180');
+            }
+        }
+
+        function toggleLevel2(typeId) {
+            const content = document.getElementById(`level2-content-${typeId}`);
+            const arrow = document.getElementById(`level2-arrow-${typeId}`);
+            if (content.classList.contains('hidden')) {
+                content.classList.remove('hidden');
+                arrow.classList.add('rotate-180');
+            } else {
+                content.classList.add('hidden');
+                arrow.classList.remove('rotate-180');
+            }
+        }
+
+        function toggleLevel3(medId) {
+            const content = document.getElementById(`level3-content-${medId}`);
+            const arrow = document.getElementById(`level3-arrow-${medId}`);
             if (content.classList.contains('hidden')) {
                 content.classList.remove('hidden');
                 arrow.classList.add('rotate-180');
@@ -684,7 +707,7 @@
             }
         }
 
-        // ================= GESTION DU REPERTOIRE (ONGLET SYNTHESE) =================
+        // ================= GESTION DU REPERTOIRE (ONGLET SYNTHESE - AVEC IMBCRICATION) =================
         function populateSummary() {
             const container = document.getElementById('summaryContainer');
             container.innerHTML = "";
@@ -731,64 +754,124 @@
                             </div>
                         </div>
 
-                        <!-- Médicaments détaillés liés -->
+                        <!-- Médicaments structurés imbriqués -->
                         <div class="border-t border-slate-100 pt-6">
-                            <h4 class="text-xs font-black text-indigo-950 uppercase tracking-widest mb-4">🔬 Monographies des molécules associées :</h4>
-                            <div class="space-y-4" id="meds-container-${diseaseIdx}"></div>
+                            <h4 class="text-xs font-black text-indigo-950 uppercase tracking-widest mb-4">🔬 Fiches Molécules (Classées par Classe & Type) :</h4>
+                            <div class="space-y-4" id="summary-meds-nested-${diseaseIdx}"></div>
                         </div>
                     </div>
                 `;
 
                 container.appendChild(dBox);
 
-                // Charger toutes les monographies associées à cette maladie
-                const medsContainer = document.getElementById(`meds-container-${diseaseIdx}`);
+                // Construction de la structure hiérarchique : Classe -> Type -> Médicament
+                const nestedContainer = document.getElementById(`summary-meds-nested-${diseaseIdx}`);
                 const combinedClasses = [...new Set([...firstList, ...secondList])];
                 let hasMeds = false;
+                let classGlobalCounter = 0;
 
-                combinedClasses.forEach(c => {
-                    const meds = getMedsForClass(c);
-                    meds.forEach(med => {
+                combinedClasses.forEach((className) => {
+                    const medsInClass = getMedsForClass(className);
+                    if (medsInClass.length > 0) {
                         hasMeds = true;
-                        const mBlock = document.createElement('div');
-                        mBlock.className = "border border-slate-100 rounded-2xl p-4 bg-slate-50/50";
-                        mBlock.innerHTML = `
-                            <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
-                                <div>
-                                    <h5 class="text-sm font-black text-indigo-900">💊 ${med.nom_medicament}</h5>
-                                    ${med.type_medicament ? `<p class="text-xs text-slate-500 italic mt-0.5">${med.type_medicament}</p>` : ''}
+                        classGlobalCounter++;
+                        const classUniqueId = `summary-${diseaseIdx}-${classGlobalCounter}`;
+
+                        // Grouper par type de médicament
+                        const medsGroupedByType = {};
+                        medsInClass.forEach(m => {
+                            const type = m.type_medicament || "Spécialités / Autres";
+                            if (!medsGroupedByType[type]) {
+                                medsGroupedByType[type] = [];
+                            }
+                            medsGroupedByType[type].push(m);
+                        });
+
+                        // Rendre le volet de Niveau 1 (La Classe)
+                        const classBlock = document.createElement('div');
+                        classBlock.className = "border border-indigo-100/80 rounded-2xl overflow-hidden mb-3 bg-indigo-50/10";
+                        
+                        let typesHTML = "";
+                        let typeCounter = 0;
+
+                        for (const [typeName, medsList] of Object.entries(medsGroupedByType)) {
+                            typeCounter++;
+                            const typeUniqueId = `${classUniqueId}-${typeCounter}`;
+
+                            let medsHTML = "";
+                            medsList.forEach((med, mIdx) => {
+                                const medUniqueId = `${typeUniqueId}-${mIdx}`;
+                                medsHTML += `
+                                    <div class="border border-slate-100 rounded-xl overflow-hidden bg-white mb-2 shadow-sm">
+                                        <button onclick="toggleLevel3('${medUniqueId}')" class="w-full flex justify-between items-center p-3 text-left hover:bg-slate-50 transition-all">
+                                            <span class="text-xs font-black text-indigo-950">💊 ${med.nom_medicament}</span>
+                                            <svg id="level3-arrow-${medUniqueId}" class="w-4 h-4 text-indigo-500 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                            </svg>
+                                        </button>
+                                        <div id="level3-content-${medUniqueId}" class="hidden p-4 border-t border-slate-50 grid grid-cols-1 md:grid-cols-5 gap-3 text-[10px] leading-relaxed bg-white">
+                                            <div class="bg-blue-50/40 p-2.5 rounded-xl border border-blue-100/40">
+                                                <span class="font-black text-blue-600 block uppercase text-[8px] mb-1">🎯 Indications</span>
+                                                <div class="text-slate-700 font-semibold">${formatData(med.indications)}</div>
+                                            </div>
+                                            <div class="bg-rose-50/40 p-2.5 rounded-xl border border-rose-100/40">
+                                                <span class="font-black text-rose-600 block uppercase text-[8px] mb-1">🚫 Contre-indications</span>
+                                                <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'contre_indications'))}</div>
+                                            </div>
+                                            <div class="bg-amber-50/40 p-2.5 rounded-xl border border-amber-100/40">
+                                                <span class="font-black text-amber-600 block uppercase text-[8px] mb-1">🔄 Interactions</span>
+                                                <div class="text-slate-700 font-semibold">${formatData(med.interactions)}</div>
+                                            </div>
+                                            <div class="bg-purple-50/40 p-2.5 rounded-xl border border-purple-100/40">
+                                                <span class="font-black text-purple-600 block uppercase text-[8px] mb-1">⚠️ Effets indésirables</span>
+                                                <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'effets_indesirables'))}</div>
+                                            </div>
+                                            <div class="bg-emerald-50/40 p-2.5 rounded-xl border border-emerald-100/40">
+                                                <span class="font-black text-emerald-600 block uppercase text-[8px] mb-1">🛡️ Précautions</span>
+                                                <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'precautions'))}</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                `;
+                            });
+
+                            // Rendre le volet de Niveau 2 (Le Type)
+                            typesHTML += `
+                                <div class="border border-slate-200/60 rounded-xl overflow-hidden mb-2 bg-white p-2">
+                                    <button onclick="toggleLevel2('${typeUniqueId}')" class="w-full flex justify-between items-center p-2.5 text-left bg-slate-50 hover:bg-slate-100 rounded-lg transition-all">
+                                        <div class="flex items-center gap-2">
+                                            <span class="text-xs">🧬</span>
+                                            <span class="text-xs font-bold text-slate-700">${typeName}</span>
+                                        </div>
+                                        <svg id="level2-arrow-${typeUniqueId}" class="w-4 h-4 text-slate-500 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                        </svg>
+                                    </button>
+                                    <div id="level2-content-${typeUniqueId}" class="hidden mt-2 pl-2 space-y-1">
+                                        ${medsHTML}
+                                    </div>
                                 </div>
-                                <span class="text-[9px] font-black bg-indigo-100 text-indigo-800 px-2 py-1 rounded-md uppercase tracking-wider">${c}</span>
-                            </div>
-                            <div class="grid grid-cols-1 md:grid-cols-5 gap-3 text-[11px] leading-relaxed">
-                                <div class="bg-blue-50/40 p-2.5 rounded-xl border border-blue-100/40">
-                                    <span class="font-black text-blue-600 block uppercase text-[8px] mb-1">🎯 Indications</span>
-                                    <div class="text-slate-700 font-semibold">${formatData(med.indications)}</div>
-                                </div>
-                                <div class="bg-rose-50/40 p-2.5 rounded-xl border border-rose-100/40">
-                                    <span class="font-black text-rose-600 block uppercase text-[8px] mb-1">🚫 Contre-indications</span>
-                                    <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'contre_indications'))}</div>
-                                </div>
-                                <div class="bg-amber-50/40 p-2.5 rounded-xl border border-amber-100/40">
-                                    <span class="font-black text-amber-600 block uppercase text-[8px] mb-1">🔄 Interactions</span>
-                                    <div class="text-slate-700 font-semibold">${formatData(med.interactions)}</div>
-                                </div>
-                                <div class="bg-purple-50/40 p-2.5 rounded-xl border border-purple-100/40">
-                                    <span class="font-black text-purple-600 block uppercase text-[8px] mb-1">⚠️ Effets indésirables</span>
-                                    <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'effets_indesirables'))}</div>
-                                </div>
-                                <div class="bg-emerald-50/40 p-2.5 rounded-xl border border-emerald-100/40">
-                                    <span class="font-black text-emerald-600 block uppercase text-[8px] mb-1">🛡️ Précautions</span>
-                                    <div class="text-slate-700 font-semibold">${formatData(getMedProperty(med, 'precautions'))}</div>
-                                </div>
+                            `;
+                        }
+
+                        classBlock.innerHTML = `
+                            <button onclick="toggleLevel1('${classUniqueId}')" class="w-full flex justify-between items-center p-4 text-left bg-indigo-50/80 hover:bg-indigo-100/50 transition-all rounded-t-2xl">
+                                <span class="text-xs font-black text-indigo-900 uppercase tracking-wider">📁 Classe : ${className}</span>
+                                <svg id="level1-arrow-${classUniqueId}" class="w-4 h-4 text-indigo-600 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                </svg>
+                            </button>
+                            <div id="level1-content-${classUniqueId}" class="hidden p-3 bg-white border-t border-indigo-50 space-y-2">
+                                ${typesHTML}
                             </div>
                         `;
-                        medsContainer.appendChild(mBlock);
-                    });
+
+                        nestedContainer.appendChild(classBlock);
+                    }
                 });
 
                 if (!hasMeds) {
-                    medsContainer.innerHTML = '<p class="text-xs text-slate-400 italic">Aucune molécule enregistrée pour ces classes.</p>';
+                    nestedContainer.innerHTML = '<p class="text-xs text-slate-400 italic">Aucune molécule enregistrée pour ces classes.</p>';
                 }
             });
         }
@@ -898,7 +981,7 @@
                 ui.statusTag.textContent = "Étape 2/3";
             } 
             else if (flowState === 'REVEALED') {
-                // Remplir la section de révélations détaillées des médicaments
+                // Remplir la section de révélations détaillées des médicaments (Avec Structure en Volets Imbriqués)
                 const combinedClasses = [
                     ...parseIntentions(disease["1ere intention_i"]),
                     ...parseIntentions(disease["2eme intention_i"])
@@ -906,59 +989,108 @@
                 const uniqueClasses = [...new Set(combinedClasses)];
                 
                 let detailsHTML = `<div class="space-y-4 w-full">`;
-                let globalIdx = 0;
+                let classCounter = 0;
 
                 uniqueClasses.forEach((className) => {
                     const matchedMeds = getMedsForClass(className);
-                    
-                    matchedMeds.forEach((med) => {
-                        const isFirst = (globalIdx === 0);
-                        detailsHTML += `
-                        <div class="border border-slate-100 rounded-3xl overflow-hidden shadow-sm bg-white">
-                            <!-- En-tête de l'accordéon -->
-                            <button onclick="toggleAccordion(${globalIdx})" class="w-full flex justify-between items-center p-5 bg-slate-50 hover:bg-slate-100/80 transition-all text-left">
-                                <div class="flex items-center gap-2">
-                                    <span class="text-lg">💊</span>
-                                    <div>
-                                        <h4 class="font-black text-indigo-950">${med.nom_medicament}</h4>
-                                        ${med.type_medicament ? `<p class="text-xs text-slate-500 italic mt-0.5">${med.type_medicament}</p>` : ''}
-                                        <p class="text-[9px] font-black text-indigo-500 uppercase tracking-wider mt-1">${className}</p>
+                    if (matchedMeds.length > 0) {
+                        classCounter++;
+                        const classUniqueId = `quiz-class-${classCounter}`;
+
+                        // Grouper les médicaments par type_medicament
+                        const medsGroupedByType = {};
+                        matchedMeds.forEach(m => {
+                            const type = m.type_medicament || "Spécialités / Autres";
+                            if (!medsGroupedByType[type]) {
+                                medsGroupedByType[type] = [];
+                            }
+                            medsGroupedByType[type].push(m);
+                        });
+
+                        let typesHTML = "";
+                        let typeCounter = 0;
+
+                        for (const [typeName, medsList] of Object.entries(medsGroupedByType)) {
+                            typeCounter++;
+                            const typeUniqueId = `${classUniqueId}-${typeCounter}`;
+
+                            let medsHTML = "";
+                            medsList.forEach((med, mIdx) => {
+                                const medUniqueId = `${typeUniqueId}-${mIdx}`;
+                                medsHTML += `
+                                    <div class="border border-slate-100 rounded-2xl overflow-hidden bg-white mb-2 shadow-sm">
+                                        <!-- Niveau 3 : Le médicament -->
+                                        <button onclick="toggleLevel3('${medUniqueId}')" class="w-full flex justify-between items-center p-4 text-left hover:bg-slate-50 transition-all">
+                                            <span class="text-xs font-black text-indigo-950">💊 ${med.nom_medicament}</span>
+                                            <svg id="level3-arrow-${medUniqueId}" class="w-5 h-5 text-indigo-500 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                            </svg>
+                                        </button>
+                                        <!-- Fiche clinique -->
+                                        <div id="level3-content-${medUniqueId}" class="hidden p-5 border-t border-slate-50 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 bg-white">
+                                            <div class="bg-blue-50/40 p-4 rounded-2xl border border-blue-100 text-xs">
+                                                <h4 class="font-black text-blue-600 uppercase text-[9px] mb-2 tracking-wider">🎯 Indications</h4>
+                                                <div>${formatData(med.indications)}</div>
+                                            </div>
+                                            <div class="bg-rose-50/40 p-4 rounded-2xl border border-rose-100 text-xs">
+                                                <h4 class="font-black text-rose-600 uppercase text-[9px] mb-2 tracking-wider">🚫 Contre-indications</h4>
+                                                <div>${formatData(getMedProperty(med, 'contre_indications'))}</div>
+                                            </div>
+                                            <div class="bg-amber-50/40 p-4 rounded-2xl border border-amber-100 text-xs">
+                                                <h4 class="font-black text-amber-600 uppercase text-[9px] mb-2 tracking-wider">🔄 Interactions</h4>
+                                                <div>${formatData(med.interactions)}</div>
+                                            </div>
+                                            <div class="bg-purple-50/40 p-4 rounded-2xl border border-purple-100 text-xs">
+                                                <h4 class="font-black text-purple-600 uppercase text-[9px] mb-2 tracking-wider">⚠️ Effets Indésirables</h4>
+                                                <div>${formatData(getMedProperty(med, 'effets_indesirables'))}</div>
+                                            </div>
+                                            <div class="bg-emerald-50/40 p-4 rounded-2xl border border-emerald-100 text-xs">
+                                                <h4 class="font-black text-emerald-600 uppercase text-[9px] mb-2 tracking-wider">🛡️ Précautions</h4>
+                                                <div>${formatData(getMedProperty(med, 'precautions'))}</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                `;
+                            });
+
+                            // Niveau 2 : Le Type
+                            typesHTML += `
+                                <div class="border border-slate-100 rounded-2xl overflow-hidden mb-3 bg-white p-3 shadow-sm">
+                                    <button onclick="toggleLevel2('${typeUniqueId}')" class="w-full flex justify-between items-center p-3 text-left bg-slate-50 hover:bg-slate-100/80 rounded-xl transition-all">
+                                        <div class="flex items-center gap-2">
+                                            <span class="text-sm">🧬</span>
+                                            <span class="text-xs font-bold text-slate-700">${typeName}</span>
+                                        </div>
+                                        <svg id="level2-arrow-${typeUniqueId}" class="w-5 h-5 text-slate-500 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                        </svg>
+                                    </button>
+                                    <div id="level2-content-${typeUniqueId}" class="hidden mt-3 pl-3 space-y-1">
+                                        ${medsHTML}
                                     </div>
                                 </div>
-                                <svg id="accordion-arrow-${globalIdx}" class="w-5 h-5 text-indigo-500 transform transition-transform ${isFirst ? 'rotate-180' : ''}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            `;
+                        }
+
+                        // Niveau 1 : La Classe
+                        detailsHTML += `
+                        <div class="border border-indigo-100 rounded-3xl overflow-hidden bg-indigo-50/10">
+                            <button onclick="toggleLevel1('${classUniqueId}')" class="w-full flex justify-between items-center p-5 text-left bg-indigo-50/70 hover:bg-indigo-100/40 transition-all rounded-t-3xl">
+                                <span class="text-xs font-black text-indigo-900 uppercase tracking-widest flex items-center gap-2">
+                                    📁 Classe : ${className} 
+                                </span>
+                                <svg id="level1-arrow-${classUniqueId}" class="w-5 h-5 text-indigo-600 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                                 </svg>
                             </button>
-                            
-                            <!-- Contenu des caractéristiques -->
-                            <div id="accordion-content-${globalIdx}" class="${isFirst ? '' : 'hidden'} p-6 border-t border-slate-100 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 bg-white">
-                                <div class="bg-blue-50/40 p-4 rounded-2xl border border-blue-100 text-xs">
-                                    <h4 class="font-black text-blue-600 uppercase text-[9px] mb-2 tracking-wider">🎯 Indications</h4>
-                                    <div>${formatData(med.indications)}</div>
-                                </div>
-                                <div class="bg-rose-50/40 p-4 rounded-2xl border border-rose-100 text-xs">
-                                    <h4 class="font-black text-rose-600 uppercase text-[9px] mb-2 tracking-wider">🚫 Contre-indications</h4>
-                                    <div>${formatData(getMedProperty(med, 'contre_indications'))}</div>
-                                </div>
-                                <div class="bg-amber-50/40 p-4 rounded-2xl border border-amber-100 text-xs">
-                                    <h4 class="font-black text-amber-600 uppercase text-[9px] mb-2 tracking-wider">🔄 Interactions</h4>
-                                    <div>${formatData(med.interactions)}</div>
-                                </div>
-                                <div class="bg-purple-50/40 p-4 rounded-2xl border border-purple-100 text-xs">
-                                    <h4 class="font-black text-purple-600 uppercase text-[9px] mb-2 tracking-wider">⚠️ Effets Indésirables</h4>
-                                    <div>${formatData(getMedProperty(med, 'effets_indesirables'))}</div>
-                                </div>
-                                <div class="bg-emerald-50/40 p-4 rounded-2xl border border-emerald-100 text-xs">
-                                    <h4 class="font-black text-emerald-600 uppercase text-[9px] mb-2 tracking-wider">🛡️ Précautions</h4>
-                                    <div>${formatData(getMedProperty(med, 'precautions'))}</div>
-                                </div>
+                            <div id="level1-content-${classUniqueId}" class="hidden p-4 bg-white border-t border-indigo-50 space-y-3">
+                                ${typesHTML}
                             </div>
                         </div>`;
-                        globalIdx++;
-                    });
+                    }
                 });
 
-                if (globalIdx === 0) {
+                if (classCounter === 0) {
                     detailsHTML += `<div class="text-center py-6 text-slate-400 font-bold">Aucune molécule disponible dans la base pour les classes d'intentions de cette maladie.</div>`;
                 }
 
