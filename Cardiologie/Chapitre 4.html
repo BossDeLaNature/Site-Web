@@ -33,10 +33,9 @@
 </div>
 
 <div class="container">
-    <div class="dropdown mb-3">
-        <button class="btn btn-dark dropdown-toggle" type="button" id="btn-menu">
-            ☰ Liste des questions
-        </button>
+    <div class="d-flex gap-2 mb-3">
+        <a href="index.html" class="btn btn-outline-light">🏠 Accueil</a>
+        <button class="btn btn-dark" id="btn-menu">☰ Liste des questions</button>
     </div>
 
     <div class="row">
@@ -44,6 +43,7 @@
             <div class="quiz-card">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                     <span id="question-number" class="badge badge-numero">Question --</span>
+                    <span id="question-counter" class="badge bg-secondary">-- / --</span>
                 </div>
 
                 <div id="quiz-content" class="text-center">
@@ -101,27 +101,24 @@
     //  VARIABLES DE CONFIGURATION (A MODIFIER)
     // ==========================================
     const CONFIG = {
-        NOM_CHAPITRE: "cardio_4" // Change juste ça (ex: "cardio_5") pour basculer de chapitre !
+        NOM_CHAPITRE: "cardio_4" 
     };
 
-    // Chemins dynamiques basés sur ton chapitre
     const JSON_PATH = `Excel/${CONFIG.NOM_CHAPITRE}.json`;
-    const PDF_PATH  = `pdf/Syllab ${CONFIG.NOM_CHAPITRE}.pdf`; 
+    const PDF_PATH  = `Syllab ${CONFIG.NOM_CHAPITRE.replace('_', ' ')}.pdf`; 
     const IMG_DIR   = `media/dias/${CONFIG.NOM_CHAPITRE}/`;
 
-    // Configuration globale du moteur de rendu PDF
     pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';
 
-    // Variables d'état de l'application
     let originalQuizData = []; 
     let quizData = [];         
     let currentIdx = 0;
     let pdfDoc = null;
     let isMuted = false; 
 
-    // DOM Elements
     const propEl = document.getElementById('proposition-text');
     const qNumEl = document.getElementById('question-number');
+    const qCounterEl = document.getElementById('question-counter'); // Element compteur
     const feedbackEl = document.getElementById('feedback');
     const justifEl = document.getElementById('justif-container');
     const pdfWrapper = document.getElementById('pdf-wrapper');
@@ -130,7 +127,7 @@
     const imageEl = document.getElementById('image-correction');
     const muteBtn = document.getElementById('mute-btn');
 
-    // 1. Initialisation et chargements des fichiers
+    // 1. Initialisation
     Promise.all([
         fetch(JSON_PATH).then(r => r.json()),
         pdfjsLib.getDocument(PDF_PATH).promise
@@ -145,10 +142,11 @@
         propEl.textContent = `Erreur : Impossible de charger ${JSON_PATH} ou ${PDF_PATH}.`;
     });
 
-    // 2. Affichage de la question active
+    // 2. Affichage de la question
     function showQuestion(idx) {
         if (quizData.length === 0) {
             propEl.textContent = "Aucune question disponible.";
+            qCounterEl.textContent = "-- / --";
             return;
         }
         currentIdx = idx;
@@ -156,6 +154,10 @@
         
         propEl.textContent = q.Proposition;
         qNumEl.textContent = `Question ${q.Numero}`;
+        
+        // Mise à jour du compteur de progression réelle (ex: 1 / 54)
+        qCounterEl.textContent = `${currentIdx + 1} / ${quizData.length}`;
+        
         feedbackEl.innerHTML = '';
         justifEl.style.display = 'none';
         
@@ -163,18 +165,17 @@
         imageContainer.style.display = 'none';
         pdfPlaceholder.style.display = 'block';
         
-        window.scrollTo(0, 0); // Remonte l'écran (pratique sur mobile)
+        window.scrollTo(0, 0); 
     }
 
-    // 3. Gestion de la réponse de l'utilisateur
+    // 3. Gestion de la réponse
     async function handleResponse(choice) {
         const q = quizData[currentIdx];
         const isCorrect = choice === q.Reponse;
         
-        // Audio
         if (!isMuted) {
             const audioPath = isCorrect ? 'media/sound/Correct.mp3' : 'media/sound/Wrong.mp3';
-            new Audio(audioPath).play().catch(e => console.log("Audio bloqué par le navigateur"));
+            new Audio(audioPath).play().catch(e => console.log("Audio bloqué"));
         }
         
         feedbackEl.innerHTML = `<h2 style="color:${isCorrect?'#2ecc71':'#e74c3c'}">${isCorrect?'CORRECT !':'ERREUR'}</h2>`;
@@ -182,7 +183,6 @@
         justifEl.style.display = 'block';
         pdfPlaceholder.style.display = 'none';
 
-        // Logique Hybride (Affiche la page du PDF, sinon l'image)
         if (q.Page && q.Page !== "" && !isNaN(q.Page)) {
             imageContainer.style.display = 'none';
             pdfWrapper.style.display = 'block';
@@ -194,18 +194,18 @@
         }
     }
 
-    // 4. Rendu de la page PDF sur le Canvas HTML5
+    // 4. Rendu PDF
     async function renderPDFPage(num) {
         const page = await pdfDoc.getPage(num);
         const canvas = document.getElementById('pdf-canvas');
         const context = canvas.getContext('2d');
-        const viewport = page.getViewport({ scale: 1.5 }); // Augmente à 2.0 si tu veux zoomer plus le PDF
+        const viewport = page.getViewport({ scale: 1.5 }); 
         canvas.height = viewport.height;
         canvas.width = viewport.width;
         await page.render({ canvasContext: context, viewport: viewport }).promise;
     }
 
-    // 5. Gestion du bouton Mute
+    // 5. Mute
     muteBtn.onclick = () => {
         isMuted = !isMuted;
         if (isMuted) {
@@ -217,32 +217,40 @@
         }
     };
 
-    // 6. Mode Express (Max 5 questions par page au hasard)
+    // 6. Mode Express (Max 5 questions par page, ordonné)
     document.getElementById('express-btn').onclick = () => {
         const questionsParPage = {};
+        
         originalQuizData.forEach(q => {
             const clePage = (q.Page && q.Page !== "") ? q.Page.toString() : "SansPage";
             if (!questionsParPage[clePage]) questionsParPage[clePage] = [];
             questionsParPage[clePage].push(q);
         });
 
+        const pagesTriees = Object.keys(questionsParPage).sort((a, b) => {
+            if (a === "SansPage") return 1;
+            if (b === "SansPage") return -1;
+            return parseInt(a) - parseInt(b);
+        });
+
         let questionnaireLite = [];
-        for (const page in questionsParPage) {
-            const listeQuestions = questionsParPage[page];
-            // Mélange interne des questions de la page
+        
+        pagesTriees.forEach(page => {
+            const listeQuestions = [...questionsParPage[page]];
             for (let i = listeQuestions.length - 1; i > 0; i--) {
                 const j = Math.floor(Math.random() * (i + 1));
                 [listeQuestions[i], listeQuestions[j]] = [listeQuestions[j], listeQuestions[i]];
             }
             questionnaireLite = questionnaireLite.concat(listeQuestions.slice(0, 5));
-        }
+        });
 
         quizData = questionnaireLite;
-        alert(`⚡ Mode Express activé ! Quiz réduit à : ${quizData.length} questions.`);
+        alert(`⚡ Mode Express (Ordonné) activé ! Quiz réduit à : ${quizData.length} questions.`);
         showQuestion(0);
+        initMenu(); 
     };
 
-    // 7. Navigation et mode Aléatoire standard
+    // 7. Navigation
     document.getElementById('random-btn').onclick = () => {
         let newIdx;
         do { newIdx = Math.floor(Math.random() * quizData.length); } 
@@ -253,21 +261,23 @@
     document.getElementById('next-btn').onclick = () => { if(currentIdx < quizData.length-1) showQuestion(currentIdx+1); };
     document.getElementById('prev-btn').onclick = () => { if(currentIdx > 0) showQuestion(currentIdx-1); };
 
-    // 8. Génération dynamique du menu de navigation
+    // 8. Menu de navigation
     function initMenu() {
-        const menuModal = new bootstrap.Modal(document.getElementById('menuModal'));
-        document.getElementById('btn-menu').onclick = () => {
-            const list = document.getElementById('menu-list');
-            list.innerHTML = '';
-            quizData.forEach((q, i) => {
-                let b = document.createElement('button');
-                b.className = 'btn btn-outline-secondary w-100 mb-1 text-start';
-                b.textContent = `Q${q.Numero}: ${q.Proposition.substring(0, 40)}...`;
-                b.onclick = () => { showQuestion(i); menuModal.hide(); };
-                list.appendChild(b);
-            });
-            menuModal.show();
-        };
+        const list = document.getElementById('menu-list');
+        list.innerHTML = '';
+        quizData.forEach((q, i) => {
+            let b = document.createElement('button');
+            b.className = 'btn btn-outline-secondary w-100 mb-1 text-start';
+            b.textContent = `Q${q.Numero} (P.${q.Page || 'N/A'}): ${q.Proposition.substring(0, 35)}...`;
+            b.onclick = () => { 
+                showQuestion(i); 
+                bootstrap.Modal.getInstance(document.getElementById('menuModal')).hide(); 
+            };
+            list.appendChild(b);
+        });
+        
+        const modalEl = new bootstrap.Modal(document.getElementById('menuModal'));
+        document.getElementById('btn-menu').onclick = () => modalEl.show();
     }
 </script>
 </body>
