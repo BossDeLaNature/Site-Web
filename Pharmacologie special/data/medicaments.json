@@ -4518,7 +4518,7 @@
         "nom_medicament": "Méthylphénidate (Rilatine)",
         "type_medicament": "Stimulant centraux",
         "classe_medicament": "Stimulant centraux",
-        "classe_medicament_2": "",
+        "classe_medicament_2": "Méthylphénidate",
         "indications": [
             "ADHD",
             "Narcolepsie"
@@ -4552,7 +4552,7 @@
         "nom_medicament": "Lisdexamfétamine (Elvanse)",
         "type_medicament": "Stimulant centraux",
         "classe_medicament": "Stimulant centraux",
-        "classe_medicament_2": "",
+        "classe_medicament_2": "Lisdexamfétamine",
         "indications": [
             "ADHD",
             "Narcolepsie"
@@ -4586,7 +4586,7 @@
         "nom_medicament": "Guanfacine (Intunix)",
         "type_medicament": "Stimulant centraux",
         "classe_medicament": "Stimulant centraux",
-        "classe_medicament_2": "",
+        "classe_medicament_2": "Guanfacine",
         "indications": [
             "ADHD"
         ],
@@ -4613,7 +4613,7 @@
         "nom_medicament": "Modafinil (Provigil)",
         "type_medicament": "Stimulant centraux",
         "classe_medicament": "Stimulant centraux",
-        "classe_medicament_2": "",
+        "classe_medicament_2": "Modafinil",
         "indications": [
             "Narcolepsie"
         ],
@@ -4638,7 +4638,7 @@
         "nom_medicament": "Pitolisant (Wakix)",
         "type_medicament": "Stimulant centraux",
         "classe_medicament": "Stimulant centraux",
-        "classe_medicament_2": "",
+        "classe_medicament_2": "Pitolisant",
         "indications": [
             "Narcolepsie"
         ],
@@ -4663,7 +4663,7 @@
         "nom_medicament": "Oxybate (Xyrem)",
         "type_medicament": "Stimulant centraux",
         "classe_medicament": "Stimulant centraux",
-        "classe_medicament_2": "",
+        "classe_medicament_2": "Oxybate",
         "indications": [
             "Narcolepsie avec cataplexie"
         ],
