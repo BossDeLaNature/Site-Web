@@ -50,6 +50,12 @@ def excel_to_json(input_excel_path, output_json_path=None):
                 str(row.get("Nom du médicament", "")).strip()
             ),
 
+            "Chapitre": (
+                str(row["Chapitre"]).strip()
+                if pd.notna(row.get("Chapitre"))
+                else ""
+            ),
+
             "type_medicament": (
                 str(row["Type du médicament"]).strip()
                 if pd.notna(row.get("Type du médicament"))

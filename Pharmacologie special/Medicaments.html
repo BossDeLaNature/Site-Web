@@ -38,35 +38,44 @@
 <body class="bg-slate-50 text-slate-900 min-h-screen">
 
     <div id="app" class="max-w-5xl mx-auto px-4 py-8">
-        <header class="text-center mb-8">
-            <h1 class="text-3xl font-black text-indigo-900 tracking-tight mb-4">PharmacoMemo <span class="text-indigo-500 font-light italic">Expert</span></h1>
+        <header class="text-center mb-6">
+            <h1 class="text-3xl font-black text-indigo-950 tracking-tight mb-4">PharmacoMemo <span class="text-indigo-500 font-light italic">Expert</span></h1>
             
-            <!-- Onglets de Navigation -->
-            <div class="inline-flex p-1.5 bg-slate-200/60 rounded-2xl mb-6">
-                <button id="tabQuizBtn" onclick="switchTab('quiz')" class="px-6 py-2.5 rounded-xl font-bold text-sm text-indigo-900 bg-white shadow-sm transition-all">
-                    🎯 Mode Association / Quiz
-                </button>
-                <button id="tabSummaryBtn" onclick="switchTab('summary')" class="px-6 py-2.5 rounded-xl font-bold text-sm text-slate-600 hover:text-indigo-900 transition-all">
-                    📚 Synthèse par Classe
-                </button>
+            <!-- Onglets de Navigation & Liens externes -->
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-3 mb-6">
+                <div class="inline-flex p-1.5 bg-slate-200/60 rounded-2xl flex-wrap justify-center gap-1">
+                    <button id="tabQuizBtn" onclick="switchTab('quiz')" class="px-5 py-2 rounded-xl font-bold text-xs sm:text-sm text-indigo-900 bg-white shadow-sm transition-all">
+                        🎯 Quiz Groupé
+                    </button>
+                    <button id="tabQuizIndivBtn" onclick="switchTab('quiz_indiv')" class="px-5 py-2 rounded-xl font-bold text-xs sm:text-sm text-slate-600 hover:text-indigo-900 transition-all">
+                        👤 Quiz Individuel
+                    </button>
+                    <button id="tabSummaryBtn" onclick="switchTab('summary')" class="px-5 py-2 rounded-xl font-bold text-xs sm:text-sm text-slate-600 hover:text-indigo-900 transition-all">
+                        📚 Synthèse par Chapitre
+                    </button>
+                </div>
+                
+                <!-- Redirection vers Fiches Maladies -->
+                <a href="https://bossdelanature.github.io/Site-Web//Pharmacologie%20special/Maladies.html" target="_blank" class="bg-slate-100 hover:bg-slate-200 border border-slate-300 text-slate-700 text-xs px-4 py-2.5 rounded-xl font-bold transition-all flex items-center gap-2">
+                    🩺 Fiches Maladies ➔
+                </a>
             </div>
         </header>
 
-        <!-- ================= ONGLET 1 : QUIZ ================= -->
+        <!-- ================= ONGLET : QUIZ (GROUPÉ ET INDIVIDUEL) ================= -->
         <div id="tabQuiz" class="reveal-anim">
             <!-- Contrôles et Filtres -->
             <div class="flex flex-wrap items-center justify-between gap-4 mb-6 bg-white p-4 rounded-2xl border border-slate-100 shadow-sm">
                 <div class="flex flex-wrap items-center gap-4">
                     <div class="flex items-center gap-2">
-                        <span class="text-[10px] font-black text-slate-400 uppercase">Classe :</span>
-                        <select id="classFilter" onchange="filterMeds()" class="text-xs font-bold text-indigo-600 outline-none bg-transparent max-w-[200px]">
-                            <option value="all">Toutes les classes</option>
+                        <span class="text-[10px] font-black text-slate-400 uppercase">Chapitre :</span>
+                        <select id="chapterFilter" onchange="filterMeds()" class="text-xs font-bold text-indigo-600 outline-none bg-transparent max-w-[200px]">
+                            <option value="all">Tous les chapitres</option>
                         </select>
                     </div>
                     
                     <div class="h-4 w-[1px] bg-slate-200 hidden sm:block"></div>
                     
-                    <!-- Bouton Mode Aléatoire -->
                     <button id="randomToggleBtn" onclick="toggleRandomMode()" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-black transition-all bg-slate-50 border-slate-200 text-slate-500 hover:bg-slate-100">
                         <span id="randomIcon">🎲</span> <span id="randomText">Ordre Séquentiel</span>
                     </button>
@@ -91,7 +100,7 @@
                     
                     <!-- En-tête dynamique du Quiz -->
                     <div class="text-center mb-8">
-                        <span id="quizInstruction" class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-4 block">Trouvez la classe commune de ces médicaments :</span>
+                        <span id="quizInstruction" class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-400 mb-4 block">Déterminez la classe ou le type de ces médicaments :</span>
                         
                         <!-- Liste des molécules présentées ensemble -->
                         <div id="medGroupContainer" class="flex flex-wrap justify-center gap-3 max-w-2xl mx-auto my-4">
@@ -102,33 +111,36 @@
                     <!-- ÉTAPE 1 : DEVINER LA CLASSE -->
                     <div id="step1_GuessClass" class="max-w-md mx-auto mb-10 reveal-anim">
                         <div class="relative">
-                            <label class="block text-center text-xs font-bold text-slate-500 mb-4">Saisissez ou sélectionnez la classe pharmacologique :</label>
+                            <label class="block text-center text-xs font-bold text-slate-500 mb-4">Saisissez le type de médicament ou la classe thérapeutique :</label>
                             <input type="text" id="classInput" list="allClassesList" autocomplete="off" 
                                 class="w-full p-5 bg-slate-50 border-2 border-slate-100 rounded-2xl text-center font-bold text-lg focus:border-indigo-500 focus:ring-8 focus:ring-indigo-100 outline-none transition-all"
-                                placeholder="Tapez la classe thérapeutique...">
+                                placeholder="Tapez pour rechercher...">
                             <datalist id="allClassesList"></datalist>
                         </div>
                         <div id="feedback" class="mt-4 text-center h-6 text-sm font-bold"></div>
                         <button onclick="giveUpClass()" class="mt-6 block mx-auto text-[10px] font-black text-slate-400 hover:text-indigo-500 uppercase tracking-widest transition-colors">
-                            Je ne sais pas, révéler la classe commune →
+                            Je ne sais pas, révéler la réponse →
                         </button>
                     </div>
 
                     <!-- ÉTAPE 2 : CLASSE RÉVÉLÉE (Active Recall) -->
                     <div id="step2_ClassRevealed" class="hidden-step reveal-anim max-w-md mx-auto text-center">
                         <div class="bg-indigo-600 text-white p-6 rounded-3xl shadow-xl shadow-indigo-100 mb-6">
-                            <p class="text-[10px] font-black uppercase tracking-widest mb-1.5 opacity-70">Classe thérapeutique confirmée</p>
-                            <p id="confirmedClassName" class="text-xl md:text-2xl font-black leading-tight"></p>
+                            <p class="text-[9px] font-black uppercase tracking-widest mb-1 opacity-70">Réponses acceptées</p>
+                            <div class="space-y-1">
+                                <p id="confirmedClassName" class="text-lg md:text-xl font-black leading-tight"></p>
+                                <p id="confirmedSubClassName" class="text-xs font-semibold opacity-80 italic"></p>
+                            </div>
                         </div>
                         <div class="space-y-2 bg-slate-50 p-5 rounded-3xl border border-slate-100">
                             <p class="text-slate-800 text-md font-black">🧠 Effort de rappel !</p>
-                            <p class="text-slate-400 text-xs font-medium leading-relaxed">Avant de dévoiler, essayez de vous souvenir des indications, contre-indications, effets secondaires et précautions de chaque molécule affichée ci-dessus.</p>
+                            <p class="text-slate-400 text-xs font-medium leading-relaxed">Avant d'ouvrir les détails, essayez de vous remémorer les indications, contre-indications, effets indésirables et précautions de chaque molécule affichée.</p>
                         </div>
                     </div>
 
                     <!-- ÉTAPE 3 : DÉTAILS COMPLETS SOUS FORME D'ACCORDÉONS COMPACTS -->
                     <div id="step3_AllDetails" class="hidden-step reveal-anim space-y-4 max-w-4xl mx-auto pb-6">
-                        <!-- Injecté dynamiquement par JS (1 accordéon par médicament du groupe) -->
+                        <!-- Injecté dynamiquement par JS -->
                     </div>
                 </div>
 
@@ -145,18 +157,32 @@
             </div>
         </div>
 
-        <!-- ================= ONGLET 2 : SYNTHÈSE / RÉPERTOIRE ================= -->
+        <!-- ================= ONGLET : SYNTHÈSE / RÉPERTOIRE ================= -->
         <div id="tabSummary" class="reveal-anim hidden-step">
-            <div class="bg-white rounded-[2rem] p-6 md:p-8 border border-slate-100 shadow-sm">
-                <div class="mb-6">
-                    <h2 class="text-xl font-black text-slate-800">📚 Répertoire d'Étude par Classe</h2>
-                    <p class="text-xs text-slate-400 font-semibold mt-1">
-                        Consultez vos molécules regroupées de manière logique et synthétique. La catégorie "Autre" recense les molécules isolées.
-                    </p>
+            <div class="bg-white rounded-[2.5rem] p-6 md:p-8 border border-slate-100 shadow-sm">
+                <div class="mb-6 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div>
+                        <h2 class="text-xl font-black text-indigo-950">📚 Répertoire d'Étude par Chapitre</h2>
+                        <p class="text-xs text-slate-400 font-semibold mt-1">
+                            Arborescence complète : Chapitre ➔ Type de médicament ➔ Fiche molécule.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Barre de recherche en temps réel -->
+                <div class="relative mb-6">
+                    <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                        <svg class="h-5 w-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                        </svg>
+                    </div>
+                    <input type="text" id="synthSearchInput" oninput="handleSearch()" 
+                        class="w-full pl-11 pr-4 py-4 bg-slate-50 border-2 border-slate-100 rounded-2xl font-bold text-sm focus:border-indigo-500 focus:bg-white outline-none transition-all shadow-inner"
+                        placeholder="Rechercher un médicament (ex: Propanolol), une indication, un effet indésirable...">
                 </div>
                 
                 <div id="summaryContainer" class="space-y-4">
-                    <!-- Généré dynamiquement en JS -->
+                    <!-- Génré dynamiquement en JS -->
                     <div class="text-center py-8 text-slate-400 font-bold">Chargement de la base de données...</div>
                 </div>
             </div>
@@ -166,76 +192,131 @@
     <!-- Script principal de l'application -->
     <script>
         let medicationsDB = [];
-        let quizGroups = []; // Groupes de quiz préparés (un groupe = une classe, ou un médoc "Autre")
+        let quizGroups = []; // Contient soit les groupes par "type_medicament", soit les médicaments individuels
         let filteredGroups = [];
         let currentIndex = 0;
         let flowState = 'GUESSING';
         let isRandom = false;
-        let activeTab = 'quiz';
+        let activeTab = 'quiz'; // 'quiz' (groupé), 'quiz_indiv' (individuel), 'summary'
         let playedIndexes = [];
 
-        // Base de secours riche montrant les 2 types : les groupés et les individuels ("Autre")
+        // Base de secours riche respectant scrupuleusement votre format
         const fallbackDB = [
             {
+                "nom_medicament": "Propanolol (Inderal)",
+                "Chapitre": "Cardio",
+                "type_medicament": "Beta-bloquant (non sélectif Beta1 = Beta2)",
+                "classe_medicament": "Beta-bloquants",
+                "classe_medicament_2": "",
+                "indications": [
+                    "Hypertension",
+                    "Angor",
+                    "Arythmie",
+                    "Insuffisance cardiaque chronique stable",
+                    "Prévention secondaire infarctus du myocarde",
+                    "Tremor",
+                    "Prophylaxie de la migraine"
+                ],
+                "contre_indications": [
+                    "Bloc AV",
+                    "Bradycardie sinusale",
+                    "Insuffisance cardiaque non contrôlée",
+                    "Asthme",
+                    "Vérapamil I.V.",
+                    "Syndrome métabolique"
+                ],
+                "interactions": [
+                    "Vérapamil",
+                    "Antidiabétique",
+                    "Beta2-mimétique",
+                    "Epinéphrine"
+                ],
+                "effets_indesirables": [
+                    "Bradycardie",
+                    "Insuffisance cardiaque",
+                    "Bloc AV",
+                    "Bronchoconstriction",
+                    "Trouble du sommeil",
+                    "Dépression",
+                    "Augmentation de la résistance à l'insuline",
+                    "Augmentation des taux de TG",
+                    "Diminution des taux de HDL",
+                    "Impuissance"
+                ],
+                "precautions": []
+            },
+            {
+                "nom_medicament": "Metoprolol (Lopresor)",
+                "Chapitre": "Cardio",
+                "type_medicament": "Beta-bloquant (sélectif Beta1)",
+                "classe_medicament": "Beta-bloquants",
+                "classe_medicament_2": "",
+                "indications": [
+                    "Hypertension",
+                    "Angor",
+                    "Arythmie",
+                    "Insuffisance cardiaque chronique stable"
+                ],
+                "contre_indications": [
+                    "Bloc AV",
+                    "Bradycardie sinusale"
+                ],
+                "interactions": [
+                    "Vérapamil",
+                    "Antidiabétique"
+                ],
+                "effets_indesirables": [
+                    "Bradycardie",
+                    "Dépression",
+                    "Asthénie"
+                ],
+                "precautions": []
+            },
+            {
                 "nom_medicament": "Amoxicilline",
-                "type_medicament": "Antibiotique bêta-lactamine",
-                "indications": ["Infections bronchopulmonaires", "Otites moyennes aiguës", "Infections urinaires"],
-                "contre_indications": ["Allergie aux bêta-lactamines / pénicillines"],
-                "interactions": ["Méthotrexate (toxicité accrue)"],
-                "effets_indésirables": ["Diarrhées, nausées", "Éruptions cutanées"],
-                "precaution": ["Maintenir un apport hydrique suffisant"]
-            },
-            {
-                "nom_medicament": "Pénicilline V",
-                "type_medicament": "Antibiotique bêta-lactamine",
-                "indications": ["Angines à streptocoque A", "Prophylaxie d'infections bactériennes"],
-                "contre_indications": ["Allergie connue aux pénicillines"],
+                "Chapitre": "Infectieux",
+                "type_medicament": "Pénicillines (Bêta-lactamines)",
+                "classe_medicament": "Antibiotiques",
+                "classe_medicament_2": "",
+                "indications": ["Infections ORL", "Infections pulmonaires"],
+                "contre_indications": ["Allergie aux bêta-lactamines"],
                 "interactions": ["Méthotrexate"],
-                "effets_indésirables": ["Réactions allergiques", "Troubles digestifs temporaires"],
-                "precaution": ["Prendre de préférence en dehors des repas pour une meilleure absorption"]
+                "effets_indesirables": ["Diarrhées, nausées", "Éruption cutanée"],
+                "precautions": ["Adapter la dose en cas d'insuffisance rénale"]
             },
             {
-                "nom_medicament": "Ibuprofène",
-                "type_medicament": "AINS (Anti-inflammatoire non stéroïdien)",
-                "indications": ["Fièvre", "Douleurs légères à modérées", "Inflammations articulaires de l'adulte"],
-                "contre_indications": ["Grossesse (dès le 6ème mois)", "Ulcère gastro-duodénal actif", "Insuffisance rénale sévère"],
-                "interactions": ["Autres AINS", "Anticoagulants (risque hémorragique)", "Lithium"],
-                "effets_indésirables": ["Troubles gastriques", "Altération de la fonction rénale", "Éruption cutanée"],
-                "precaution": ["Prendre au cours d'un repas", "Utiliser la dose minimale efficace sur la durée la plus courte"]
-            },
-            {
-                "nom_medicament": "Kétoprofène",
-                "type_medicament": "AINS (Anti-inflammatoire non stéroïdien)",
-                "indications": ["Arthrites aiguës", "Tendinites", "Douleurs lombaires aiguës"],
-                "contre_indications": ["Grossesse (dès le 6ème mois)", "Insuffisance cardiaque sévère", "Ulcère gastroduodénal"],
-                "interactions": ["Aspirine à forte dose", "Anticoagulants oraux", "Lithium"],
-                "effets_indésirables": ["Photosensibilisation cutanée", "Douleurs épigastriques"],
-                "precaution": ["Éviter toute exposition au soleil ou UV pendant le traitement"]
-            },
-            {
-                "nom_medicament": "Charbon actif",
-                "type_medicament": "Autre",
-                "indications": ["Intoxications médicamenteuses aiguës", "Ballonnements intestinaux"],
-                "contre_indications": ["Risque d'obstruction intestinale", "Ingestion de produits corrosifs"],
-                "interactions": ["Diminue l'absorption de la plupart des autres médicaments oraux"],
-                "effets_indésirables": ["Coloration noire des selles", "Constipation à forte dose"],
-                "precaution": ["Respecter un intervalle d'au moins 2 heures entre le charbon et un autre traitement"]
-            },
-            {
-                "nom_medicament": "Mélatonine",
-                "type_medicament": "Autre",
-                "indications": ["Décalage horaire (Jet lag)", "Difficultés d'endormissement chez l'adulte âgé"],
-                "contre_indications": ["Maladies auto-immunes (par précaution)"],
-                "interactions": ["Fluvoxamine", "Alcool"],
-                "effets_indésirables": ["Somnolence diurne", "Céphalées passagères"],
-                "precaution": ["Ne pas conduire de véhicule dans les heures suivant la prise"]
+                "nom_medicament": "Clarithromycine",
+                "Chapitre": "Infectieux",
+                "type_medicament": "Macrolides",
+                "classe_medicament": "Antibiotiques",
+                "classe_medicament_2": "",
+                "indications": ["Infections des voies respiratoires", "Eradication de H. Pylori"],
+                "contre_indications": ["Allergie aux macrolides", "Allongement de l'intervalle QT"],
+                "interactions": ["Simvastatine", "Colchicine"],
+                "effets_indesirables": ["Troubles gastro-intestinaux", "Dysgueusie", "Céphalées"],
+                "precautions": []
             }
         ];
 
-        // Chargement initial
+        // Accesseur sécurisé de propriétés du nouveau format JSON (avec fallbacks)
+        function getProp(med, key) {
+            if (!med) return [];
+            if (key === 'contre_indications') {
+                return med.contre_indications || med.contre_indication || med["contre-indications"] || [];
+            }
+            if (key === 'effets_indesirables') {
+                return med.effets_indesirables || med.effets_indésirables || med.effets_secondaires || [];
+            }
+            if (key === 'precautions') {
+                return med.precautions || med.precaution || [];
+            }
+            return med[key] || [];
+        }
+
+        // Chargement automatique du JSON
         fetch("data/medicaments.json")
             .then(response => {
-                if (!response.ok) throw new Error("Fichier local introuvable, utilisation de la base interne.");
+                if (!response.ok) throw new Error("Fichier data/medicaments.json non trouvé, utilisation de la base interne.");
                 return response.json();
             })
             .then(data => {
@@ -250,136 +331,161 @@
 
         function startApp() {
             prepareQuizGroups();
-            filteredGroups = [...quizGroups];
-            populateClasses();
+            filterMeds();
+            populateChapters();
+            populateClassesDatalist();
             populateSummary();
-            resetFlow();
         }
 
-        // Formate une chaîne ou un tableau en liste HTML propre
+        // Formate un tableau en liste HTML à puces
         function formatData(data) {
             if (Array.isArray(data)) {
-                if (data.length === 0) return "Aucun";
+                if (data.length === 0) return `<span class="text-slate-400 italic">Aucun renseignement</span>`;
                 return `<ul class="med-list">${data.map(item => `<li>${item}</li>`).join('')}</ul>`;
             }
-            return data || "Non spécifié";
+            return data && data.trim() !== "" ? `<p>${data}</p>` : `<span class="text-slate-400 italic">Aucun renseignement</span>`;
         }
 
-        // Regroupe les médicaments par classe. Les "Autre" sont séparés individuellement.
+        // Regroupe ou individualise les médicaments selon le mode de quiz sélectionné
         function prepareQuizGroups() {
-            const tempGroups = {};
-            
-            medicationsDB.forEach(med => {
-                // Uniformiser le nom de la classe
-                let rawType = med.type_medicament ? med.type_medicament.trim() : "Autre";
-                if (!rawType || rawType === "" || rawType.toLowerCase() === "autre") {
-                    rawType = "Autre";
-                }
-                
-                if (!tempGroups[rawType]) {
-                    tempGroups[rawType] = [];
-                }
-                tempGroups[rawType].push(med);
-            });
+            if (activeTab === 'quiz') {
+                // MODE GROUPÉ : Regroupement par "type_medicament"
+                const tempGroups = {};
+                medicationsDB.forEach(med => {
+                    let type = med.type_medicament ? med.type_medicament.trim() : "Autre";
+                    if (!type || type === "" || type.toLowerCase() === "autre") {
+                        type = "Autre_" + med.nom_medicament; // Isoler les sans-type
+                    }
+                    if (!tempGroups[type]) {
+                        tempGroups[type] = [];
+                    }
+                    tempGroups[type].push(med);
+                });
 
-            quizGroups = [];
-
-            // 1. Ajouter les classes légitimes en tant que Groupes
-            Object.keys(tempGroups).forEach(className => {
-                if (className !== "Autre") {
+                quizGroups = [];
+                Object.keys(tempGroups).forEach(key => {
+                    const medications = tempGroups[key];
+                    const firstMed = medications[0];
                     quizGroups.push({
                         type: 'GROUP',
-                        className: className,
-                        medications: tempGroups[className]
+                        // Le nom affiché de la cible de réponse est le type de médicament (ou "Autre")
+                        targetType: firstMed.type_medicament || "Autre",
+                        targetClass: firstMed.classe_medicament || "",
+                        targetClass2: firstMed.classe_medicament_2 || "",
+                        chapter: firstMed.Chapitre || "Divers",
+                        medications: medications
                     });
-                }
-            });
-
-            // 2. Ajouter les "Autre" individuellement (molécules sans classe commune)
-            if (tempGroups["Autre"]) {
-                tempGroups["Autre"].forEach(med => {
-                    quizGroups.push({
+                });
+            } else {
+                // MODE INDIVIDUEL : Chaque médicament est son propre groupe
+                quizGroups = medicationsDB.map(med => {
+                    return {
                         type: 'INDIVIDUAL',
-                        className: "Autre",
+                        targetType: med.type_medicament || "Autre",
+                        targetClass: med.classe_medicament || "",
+                        targetClass2: med.classe_medicament_2 || "",
+                        chapter: med.Chapitre || "Divers",
                         medications: [med]
-                    });
+                    };
                 });
             }
         }
 
-        // Remplit le menu déroulant et l'autocomplétion
-        function populateClasses() {
-            const select = document.getElementById('classFilter');
-            const datalist = document.getElementById('allClassesList');
+        // Remplissage dynamique des filtres de Chapitre
+        function populateChapters() {
+            const select = document.getElementById('chapterFilter');
+            select.innerHTML = '<option value="all">Tous les chapitres</option>';
             
-            select.innerHTML = '<option value="all">Toutes les classes</option>';
-            datalist.innerHTML = '';
+            const chapters = [...new Set(medicationsDB.map(m => m.Chapitre ? m.Chapitre.trim() : "Divers"))].sort();
             
-            // Récupérer toutes les classes uniques incluant "Autre"
-            const classes = [...new Set(medicationsDB.map(m => {
-                let type = m.type_medicament ? m.type_medicament.trim() : "Autre";
-                return (!type || type === "" || type.toLowerCase() === "autre") ? "Autre" : type;
-            }))].sort();
-            
-            classes.forEach(c => {
+            chapters.forEach(c => {
                 const optSelect = document.createElement('option');
                 optSelect.value = c;
                 optSelect.textContent = c;
                 select.appendChild(optSelect);
-
-                const optData = document.createElement('option');
-                optData.value = c;
-                datalist.appendChild(optData);
             });
         }
 
-        // Système d'accordéon pour consulter les molécules du groupe dévoilé
-        let openAccordionIdx = 0;
-        function toggleAccordion(idx) {
-            const content = document.getElementById(`accordion-content-${idx}`);
-            const arrow = document.getElementById(`accordion-arrow-${idx}`);
+        // Liste d'autocomplétion contenant les "type_medicament" ainsi que les "classe_medicament" pour guider l'utilisateur
+        function populateClassesDatalist() {
+            const datalist = document.getElementById('allClassesList');
+            datalist.innerHTML = '';
             
+            const suggestions = new Set();
+            medicationsDB.forEach(m => {
+                if (m.type_medicament) suggestions.add(m.type_medicament.trim());
+                if (m.classe_medicament) suggestions.add(m.classe_medicament.trim());
+                if (m.classe_medicament_2) suggestions.add(m.classe_medicament_2.trim());
+            });
+
+            [...suggestions].sort().forEach(s => {
+                if (s !== "" && s.toLowerCase() !== "autre") {
+                    const opt = document.createElement('option');
+                    opt.value = s;
+                    datalist.appendChild(opt);
+                }
+            });
+        }
+
+        // Ouverture / Fermeture des tiroirs d'accordéon (Synthèse & Quiz Étape 3)
+        function toggleLevel(id) {
+            const content = document.getElementById(id);
+            const arrow = document.getElementById('arrow-' + id);
+            if (!content) return;
             if (content.classList.contains('hidden')) {
                 content.classList.remove('hidden');
-                arrow.classList.add('rotate-180');
+                if (arrow) arrow.classList.add('rotate-180');
             } else {
                 content.classList.add('hidden');
-                arrow.classList.remove('rotate-180');
+                if (arrow) arrow.classList.remove('rotate-180');
             }
         }
 
-        // Basculer d'onglet
+        // Changement d'onglet principal
         function switchTab(tabName) {
             activeTab = tabName;
+            
             const tabQuiz = document.getElementById('tabQuiz');
             const tabSummary = document.getElementById('tabSummary');
+            
             const btnQuiz = document.getElementById('tabQuizBtn');
+            const btnQuizIndiv = document.getElementById('tabQuizIndivBtn');
             const btnSummary = document.getElementById('tabSummaryBtn');
 
-            if (tabName === 'quiz') {
+            // Reset l'état d'activité des boutons
+            [btnQuiz, btnQuizIndiv, btnSummary].forEach(btn => {
+                btn.className = "px-5 py-2 rounded-xl font-bold text-xs sm:text-sm text-slate-600 hover:text-indigo-900 transition-all";
+            });
+
+            if (tabName === 'quiz' || tabName === 'quiz_indiv') {
                 tabQuiz.classList.remove('hidden-step');
                 tabSummary.classList.add('hidden-step');
                 
-                btnQuiz.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-indigo-900 bg-white shadow-sm transition-all";
-                btnSummary.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-slate-600 hover:text-indigo-900 transition-all";
-                
-                setTimeout(() => {
-                    const classInput = document.getElementById('classInput');
-                    if (classInput) classInput.focus();
-                }, 100);
+                if (tabName === 'quiz') {
+                    btnQuiz.className = "px-5 py-2 rounded-xl font-bold text-xs sm:text-sm text-indigo-900 bg-white shadow-sm transition-all";
+                } else {
+                    btnQuizIndiv.className = "px-5 py-2 rounded-xl font-bold text-xs sm:text-sm text-indigo-900 bg-white shadow-sm transition-all";
+                }
+
+                // Recalculer l'organisation des quiz selon le mode
+                prepareQuizGroups();
+                filterMeds();
             } else {
                 tabQuiz.classList.add('hidden-step');
                 tabSummary.classList.remove('hidden-step');
-                
-                btnQuiz.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-slate-600 hover:text-indigo-900 transition-all";
-                btnSummary.className = "px-6 py-2.5 rounded-xl font-bold text-sm text-indigo-900 bg-white shadow-sm transition-all";
+                btnSummary.className = "px-5 py-2 rounded-xl font-bold text-xs sm:text-sm text-indigo-900 bg-white shadow-sm transition-all";
                 
                 populateSummary();
             }
         }
 
-        // ================= GESTION DU REPERTOIRE (ONGLET SYNTHESE) =================
-        function populateSummary() {
+        // ================= GESTION DE LA RECHERCHE & SYNTHÈSE =================
+        function handleSearch() {
+            const query = document.getElementById('synthSearchInput').value.trim().toLowerCase();
+            populateSummary(query);
+        }
+
+        function populateSummary(searchQuery = "") {
             const container = document.getElementById('summaryContainer');
             container.innerHTML = "";
 
@@ -388,103 +494,177 @@
                 return;
             }
 
-            // Regrouper par classe
-            const grouped = {};
+            // Groupement hiérarchique : Chapitre ➔ type_medicament ➔ Médicament
+            const hierarchy = {};
+            let matchCount = 0;
+
             medicationsDB.forEach(med => {
-                let type = med.type_medicament ? med.type_medicament.trim() : "Autre";
-                if (!type || type === "" || type.toLowerCase() === "autre") {
-                    type = "Autre";
+                let chap = med.Chapitre ? med.Chapitre.trim() : "Divers";
+                if (!chap || chap === "") chap = "Divers";
+
+                let type = med.type_medicament ? med.type_medicament.trim() : "Non spécifié";
+                if (!type || type === "") type = "Non spécifié";
+
+                // Si recherche active, vérifier la correspondance sur tous les champs importants
+                if (searchQuery !== "") {
+                    const nomMatch = (med.nom_medicament || "").toLowerCase().includes(searchQuery);
+                    const chapMatch = (med.Chapitre || "").toLowerCase().includes(searchQuery);
+                    const typeMatch = (med.type_medicament || "").toLowerCase().includes(searchQuery);
+                    const classMatch = (med.classe_medicament || "").toLowerCase().includes(searchQuery);
+                    const class2Match = (med.classe_medicament_2 || "").toLowerCase().includes(searchQuery);
+                    
+                    const indMatch = getProp(med, 'indications').some(i => i.toLowerCase().includes(searchQuery));
+                    const ciMatch = getProp(med, 'contre_indications').some(c => c.toLowerCase().includes(searchQuery));
+                    const interMatch = (med.interactions || []).some(n => n.toLowerCase().includes(searchQuery));
+                    const effMatch = getProp(med, 'effets_indesirables').some(e => e.toLowerCase().includes(searchQuery));
+                    const precMatch = getProp(med, 'precautions').some(p => p.toLowerCase().includes(searchQuery));
+
+                    if (!nomMatch && !chapMatch && !typeMatch && !classMatch && !class2Match && !indMatch && !ciMatch && !interMatch && !effMatch && !precMatch) {
+                        return; // Exclure ce médicament s'il ne correspond pas
+                    }
                 }
-                if (!grouped[type]) {
-                    grouped[type] = [];
+
+                matchCount++;
+
+                if (!hierarchy[chap]) {
+                    hierarchy[chap] = {};
                 }
-                grouped[type].push(med);
+                if (!hierarchy[chap][type]) {
+                    hierarchy[chap][type] = [];
+                }
+                hierarchy[chap][type].push(med);
             });
 
-            const sortedClasses = Object.keys(grouped).sort();
+            if (matchCount === 0) {
+                container.innerHTML = '<div class="text-center py-8 text-slate-400 font-bold">Aucun résultat ne correspond à votre recherche.</div>';
+                return;
+            }
 
-            sortedClasses.forEach((className, groupIdx) => {
-                const groupContainer = document.createElement('div');
-                groupContainer.className = "border border-slate-100 rounded-2xl overflow-hidden shadow-sm bg-slate-50/50";
+            const sortedChapters = Object.keys(hierarchy).sort();
 
-                groupContainer.innerHTML = `
-                    <button onclick="toggleGroupAccordion(${groupIdx})" class="w-full flex justify-between items-center p-5 bg-white hover:bg-slate-50 transition-all text-left">
+            sortedChapters.forEach((chapterName, chapIdx) => {
+                const chapBlock = document.createElement('div');
+                chapBlock.className = "border border-slate-200 rounded-2xl overflow-hidden shadow-sm bg-slate-50/40 mb-3";
+
+                let medCountInChap = 0;
+                Object.values(hierarchy[chapterName]).forEach(list => medCountInChap += list.length);
+
+                const chapId = `synth-chap-${chapIdx}`;
+                // Si recherche active, on ouvre automatiquement les dossiers parents
+                const chapCollapsedClass = searchQuery !== "" ? "" : "hidden";
+                const chapArrowClass = searchQuery !== "" ? "rotate-180" : "";
+
+                chapBlock.innerHTML = `
+                    <!-- TIER 1 : Chapitre -->
+                    <button onclick="toggleLevel('${chapId}')" class="w-full flex justify-between items-center p-5 bg-white hover:bg-slate-50 transition-all text-left">
                         <div>
-                            <span class="text-[9px] font-black uppercase tracking-wider text-indigo-500">Classe Pharmacologique</span>
-                            <h3 class="text-lg font-black text-slate-800">${className}</h3>
+                            <span class="text-[9px] font-black uppercase tracking-wider text-indigo-500">Chapitre</span>
+                            <h3 class="text-lg font-black text-indigo-950">${chapterName}</h3>
                         </div>
                         <div class="flex items-center gap-3">
-                            <span class="text-xs font-black px-2.5 py-1 bg-slate-100 text-slate-600 rounded-lg">${grouped[className].length} med</span>
-                            <svg id="arrow-${groupIdx}" class="w-5 h-5 text-slate-400 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <span class="text-xs font-black px-2.5 py-1 bg-indigo-50 text-indigo-600 rounded-lg">${medCountInChap} molécule(s)</span>
+                            <svg id="arrow-${chapId}" class="w-5 h-5 text-indigo-600 transform transition-transform ${chapArrowClass}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </div>
                     </button>
-                    <div id="content-${groupIdx}" class="hidden p-5 border-t border-slate-100 space-y-6 bg-white">
+                    <div id="${chapId}" class="${chapCollapsedClass} p-4 border-t border-slate-100 bg-white space-y-4">
+                        <!-- Tiroirs de Niveau 2 (Type de médicament) -->
                     </div>
                 `;
 
-                container.appendChild(groupContainer);
-                const listContent = document.getElementById(`content-${groupIdx}`);
+                container.appendChild(chapBlock);
+                const subTypeContainer = document.getElementById(chapId);
 
-                grouped[className].forEach(med => {
-                    const medEl = document.createElement('div');
-                    medEl.className = "border-b border-slate-100 last:border-0 pb-6 last:pb-0";
-                    medEl.innerHTML = `
-                        <div class="mb-3">
-                            <h4 class="text-md font-black text-indigo-900">${med.nom_medicament}</h4>
-                        </div>
-                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
-                            <div class="bg-blue-50/30 p-3 rounded-xl border border-blue-100/40 text-[11px]">
-                                <span class="font-black text-blue-600 block uppercase text-[8px] mb-1">🎯 Indications</span>
-                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.indications)}</div>
+                const sortedTypes = Object.keys(hierarchy[chapterName]).sort();
+
+                sortedTypes.forEach((typeName, typeIdx) => {
+                    const typeBlock = document.createElement('div');
+                    typeBlock.className = "border border-slate-100 rounded-xl overflow-hidden bg-slate-50/30 p-2";
+                    
+                    const typeId = `synth-type-${chapIdx}-${typeIdx}`;
+                    const meds = hierarchy[chapterName][typeName];
+                    const typeCollapsedClass = searchQuery !== "" ? "" : "hidden";
+                    const typeArrowClass = searchQuery !== "" ? "rotate-180" : "";
+
+                    typeBlock.innerHTML = `
+                        <!-- TIER 2 : type_medicament -->
+                        <button onclick="toggleLevel('${typeId}')" class="w-full flex justify-between items-center p-3 bg-slate-50 hover:bg-slate-100/80 rounded-lg transition-all text-left">
+                            <div class="flex items-center gap-2">
+                                <span class="text-sm">🧬</span>
+                                <span class="text-xs font-extrabold text-slate-700">${typeName}</span>
                             </div>
-                            <div class="bg-rose-50/30 p-3 rounded-xl border border-rose-100/40 text-[11px]">
-                                <span class="font-black text-rose-600 block uppercase text-[8px] mb-1">🚫 Contre-indications</span>
-                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.contre_indications)}</div>
+                            <div class="flex items-center gap-2">
+                                <span class="text-[10px] font-bold text-slate-400">${meds.length} mol</span>
+                                <svg id="arrow-${typeId}" class="w-4 h-4 text-slate-400 transform transition-transform ${typeArrowClass}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                </svg>
                             </div>
-                            <div class="bg-amber-50/30 p-3 rounded-xl border border-amber-100/40 text-[11px]">
-                                <span class="font-black text-amber-600 block uppercase text-[8px] mb-1">🔄 Interactions</span>
-                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.interactions)}</div>
-                            </div>
-                            <div class="bg-purple-50/30 p-3 rounded-xl border border-purple-100/40 text-[11px]">
-                                <span class="font-black text-purple-600 block uppercase text-[8px] mb-1">⚠️ Effets indésirables</span>
-                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.effets_indésirables)}</div>
-                            </div>
-                            <div class="bg-emerald-50/30 p-3 rounded-xl border border-emerald-100/40 text-[11px]">
-                                <span class="font-black text-emerald-600 block uppercase text-[8px] mb-1">🛡️ Précautions</span>
-                                <div class="text-slate-700 leading-relaxed font-semibold">${formatData(med.precaution)}</div>
-                            </div>
+                        </button>
+                        <div id="${typeId}" class="${typeCollapsedClass} mt-2 pl-2 space-y-2">
+                            <!-- Molécules -->
                         </div>
                     `;
-                    listContent.appendChild(medEl);
+
+                    subTypeContainer.appendChild(typeBlock);
+                    const medsListContainer = document.getElementById(typeId);
+
+                    meds.forEach((med, medIdx) => {
+                        const medBlock = document.createElement('div');
+                        medBlock.className = "border border-slate-100 rounded-xl overflow-hidden bg-white shadow-sm";
+                        
+                        const medId = `synth-med-${chapIdx}-${typeIdx}-${medIdx}`;
+                        // Si c'est un résultat de recherche direct sur le nom du médicament, on l'ouvre aussi !
+                        const medCollapsedClass = (searchQuery !== "" && med.nom_medicament.toLowerCase().includes(searchQuery)) ? "" : "hidden";
+                        const medArrowClass = (searchQuery !== "" && med.nom_medicament.toLowerCase().includes(searchQuery)) ? "rotate-180" : "";
+
+                        medBlock.innerHTML = `
+                            <!-- TIER 3 : nom_medicament -->
+                            <button onclick="toggleLevel('${medId}')" class="w-full flex justify-between items-center p-3 text-left hover:bg-slate-50 transition-all">
+                                <span class="text-xs font-black text-indigo-950">💊 ${med.nom_medicament}</span>
+                                <svg id="arrow-${medId}" class="w-4 h-4 text-indigo-500 transform transition-transform ${medArrowClass}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                </svg>
+                            </button>
+                            <div id="${medId}" class="${medCollapsedClass} p-4 border-t border-slate-50 bg-white">
+                                <div class="grid grid-cols-1 md:grid-cols-5 gap-3 text-[10px] leading-relaxed">
+                                    <div class="bg-blue-50/40 p-3 rounded-xl border border-blue-100/40">
+                                        <span class="font-black text-blue-600 block uppercase text-[8px] mb-1.5">🎯 Indications</span>
+                                        <div class="text-slate-700 font-semibold">${formatData(med.indications)}</div>
+                                    </div>
+                                    <div class="bg-rose-50/40 p-3 rounded-xl border border-rose-100/40">
+                                        <span class="font-black text-rose-600 block uppercase text-[8px] mb-1.5">🚫 Contre-indications</span>
+                                        <div class="text-slate-700 font-semibold">${formatData(getProp(med, 'contre_indications'))}</div>
+                                    </div>
+                                    <div class="bg-amber-50/40 p-3 rounded-xl border border-amber-100/40">
+                                        <span class="font-black text-amber-600 block uppercase text-[8px] mb-1.5">🔄 Interactions</span>
+                                        <div class="text-slate-700 font-semibold">${formatData(med.interactions)}</div>
+                                    </div>
+                                    <div class="bg-purple-50/40 p-3 rounded-xl border border-purple-100/40">
+                                        <span class="font-black text-purple-600 block uppercase text-[8px] mb-1.5">⚠️ Effets indésirables</span>
+                                        <div class="text-slate-700 font-semibold">${formatData(getProp(med, 'effets_indesirables'))}</div>
+                                    </div>
+                                    <div class="bg-emerald-50/40 p-3 rounded-xl border border-emerald-100/40">
+                                        <span class="font-black text-emerald-600 block uppercase text-[8px] mb-1.5">🛡️ Précautions</span>
+                                        <div class="text-slate-700 font-semibold">${formatData(getProp(med, 'precautions'))}</div>
+                                    </div>
+                                </div>
+                            </div>
+                        `;
+                        medsListContainer.appendChild(medBlock);
+                    });
                 });
             });
         }
 
-        function toggleGroupAccordion(groupIdx) {
-            const content = document.getElementById(`content-${groupIdx}`);
-            const arrow = document.getElementById(`arrow-${groupIdx}`);
-            
-            if (content.classList.contains('hidden')) {
-                content.classList.remove('hidden');
-                arrow.classList.add('rotate-180');
-            } else {
-                content.classList.add('hidden');
-                arrow.classList.remove('rotate-180');
-            }
-        }
-
-        // ================= GESTION DU QUIZ (ONGLET PRINCIPAL) =================
+        // ================= GESTION DU QUIZ (FILTRAGE ET NAVIGATION) =================
         function filterMeds() {
-            const classVal = document.getElementById('classFilter').value;
+            const chapVal = document.getElementById('chapterFilter').value;
             
-            if (classVal === 'all') {
+            if (chapVal === 'all') {
                 filteredGroups = [...quizGroups];
-            } else if (classVal === 'Autre') {
-                filteredGroups = quizGroups.filter(g => g.className === 'Autre');
             } else {
-                filteredGroups = quizGroups.filter(g => g.className === classVal);
+                filteredGroups = quizGroups.filter(g => g.chapter === chapVal);
             }
             
             currentIndex = 0;
@@ -534,11 +714,12 @@
                 step3: document.getElementById('step3_AllDetails'),
                 mainBtn: document.getElementById('mainBtn'),
                 confirmedClass: document.getElementById('confirmedClassName'),
+                confirmedSubClass: document.getElementById('confirmedSubClassName'),
                 statusTag: document.getElementById('statusTag')
             };
 
             if (!group) {
-                ui.instruction.textContent = "Aucun médicament";
+                ui.instruction.textContent = "Aucun médicament chargé pour ce filtre.";
                 ui.groupContainer.innerHTML = "";
                 ui.counter.textContent = "0 / 0";
                 ui.step1.classList.add('hidden-step');
@@ -552,9 +733,9 @@
             ui.mainBtn.disabled = false;
             ui.counter.textContent = `${currentIndex + 1} / ${filteredGroups.length}`;
 
-            // 1. Adapter les en-têtes selon si c'est une classe isolée ("Autre") ou un groupe
+            // 1. Rendu des molécules à identifier
             if (group.type === 'INDIVIDUAL') {
-                ui.instruction.textContent = "Trouvez la classe de cette molécule isolée :";
+                ui.instruction.textContent = "Trouvez la classe ou le type de cette molécule isolée :";
                 ui.groupContainer.innerHTML = `
                     <div class="bg-indigo-950 border border-indigo-900 text-white font-bold px-6 py-4 rounded-2xl flex items-center gap-2 shadow-md">
                         <span class="text-xl">🧪</span>
@@ -562,7 +743,7 @@
                     </div>
                 `;
             } else {
-                ui.instruction.textContent = "Trouvez la classe thérapeutique commune à ces molécules :";
+                ui.instruction.textContent = "Trouvez le type ou la classe de médicaments commune à ces molécules :";
                 ui.groupContainer.innerHTML = group.medications.map(m => `
                     <div class="bg-indigo-50 border border-indigo-100 text-indigo-950 font-bold px-5 py-3.5 rounded-2xl flex items-center gap-2 shadow-sm">
                         <span class="text-lg">💊</span>
@@ -571,14 +752,14 @@
                 `).join('');
             }
 
-            // Masquer les étapes
+            // Gestion de l'affichage par étapes
             ui.step1.classList.add('hidden-step');
             ui.step2.classList.add('hidden-step');
             ui.step3.classList.add('hidden-step');
 
             if (flowState === 'GUESSING') {
                 ui.step1.classList.remove('hidden-step');
-                ui.mainBtn.textContent = "Valider la classe commune";
+                ui.mainBtn.textContent = "Valider la réponse";
                 ui.mainBtn.className = "w-full py-5 bg-indigo-600 hover:bg-indigo-700 text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 1/3";
                 setTimeout(() => {
@@ -587,62 +768,70 @@
                 }, 100);
             } 
             else if (flowState === 'RECALLING') {
-                ui.confirmedClass.textContent = group.className;
+                ui.confirmedClass.textContent = `Type : ${group.targetType}`;
+                ui.confirmedSubClass.textContent = group.targetClass ? `Classe parente : ${group.targetClass}` : "";
+                
                 ui.step2.classList.remove('hidden-step');
-                ui.mainBtn.textContent = "Dévoiler les propriétés de ces médicaments";
+                ui.mainBtn.textContent = "Dévoiler les fiches propriétés";
                 ui.mainBtn.className = "w-full py-5 bg-slate-900 hover:bg-black text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 2/3";
             } 
             else if (flowState === 'REVEALED') {
                 ui.step2.classList.remove('hidden-step');
-                
-                // Générer les fiches de propriétés sous forme d'accordéons
+
+                // Génération des tiroirs de détails imbriqués par médicament
                 let detailsHTML = `<div class="space-y-4 w-full">`;
+                
                 group.medications.forEach((med, idx) => {
-                    const isFirst = (idx === 0);
+                    const medId = `quiz-reveal-med-${idx}`;
+                    // Le premier tiroir est auto-déroulé pour un confort visuel immédiat
+                    const isFirstCollapsed = idx === 0 ? "" : "hidden";
+                    const isFirstArrow = idx === 0 ? "rotate-180" : "";
+
                     detailsHTML += `
                     <div class="border border-slate-100 rounded-3xl overflow-hidden shadow-sm bg-white">
-                        <!-- En-tête de l'accordéon -->
-                        <button onclick="toggleAccordion(${idx})" class="w-full flex justify-between items-center p-5 bg-slate-50 hover:bg-slate-100/80 transition-all text-left">
-                            <span class="font-black text-indigo-900 flex items-center gap-2">
+                        <!-- Tiroir de la molécule -->
+                        <button onclick="toggleLevel('${medId}')" class="w-full flex justify-between items-center p-5 bg-slate-50 hover:bg-slate-100/80 transition-all text-left">
+                            <span class="font-black text-indigo-950 flex items-center gap-2 text-sm">
                                 <span>💊</span> ${med.nom_medicament}
                             </span>
-                            <svg id="accordion-arrow-${idx}" class="w-5 h-5 text-indigo-500 transform transition-transform ${isFirst ? 'rotate-180' : ''}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <svg id="arrow-${medId}" class="w-5 h-5 text-indigo-500 transform transition-transform ${isFirstArrow}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </button>
                         
-                        <!-- Contenu des caractéristiques -->
-                        <div id="accordion-content-${idx}" class="${isFirst ? '' : 'hidden'} p-6 border-t border-slate-100 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 bg-white">
-                            <div class="bg-blue-50/40 p-4 rounded-2xl border border-blue-100 text-xs">
-                                <h4 class="font-black text-blue-600 uppercase text-[9px] mb-2 tracking-wider">🎯 Indications</h4>
+                        <!-- Détails de la molécule -->
+                        <div id="${medId}" class="${isFirstCollapsed} p-6 border-t border-slate-100 grid grid-cols-1 md:grid-cols-5 gap-4 bg-white text-[10px] leading-relaxed">
+                            <div class="bg-blue-50/40 p-4 rounded-2xl border border-blue-100">
+                                <h4 class="font-black text-blue-600 uppercase text-[8px] mb-2 tracking-wider">🎯 Indications</h4>
                                 <div>${formatData(med.indications)}</div>
                             </div>
-                            <div class="bg-rose-50/40 p-4 rounded-2xl border border-rose-100 text-xs">
-                                <h4 class="font-black text-rose-600 uppercase text-[9px] mb-2 tracking-wider">🚫 Contre-indications</h4>
-                                <div>${formatData(med.contre_indications)}</div>
+                            <div class="bg-rose-50/40 p-4 rounded-2xl border border-rose-100">
+                                <h4 class="font-black text-rose-600 uppercase text-[8px] mb-2 tracking-wider">🚫 Contre-indications</h4>
+                                <div>${formatData(getProp(med, 'contre_indications'))}</div>
                             </div>
-                            <div class="bg-amber-50/40 p-4 rounded-2xl border border-amber-100 text-xs">
-                                <h4 class="font-black text-amber-600 uppercase text-[9px] mb-2 tracking-wider">🔄 Interactions</h4>
+                            <div class="bg-amber-50/40 p-4 rounded-2xl border border-amber-100">
+                                <h4 class="font-black text-amber-600 uppercase text-[8px] mb-2 tracking-wider">🔄 Interactions</h4>
                                 <div>${formatData(med.interactions)}</div>
                             </div>
-                            <div class="bg-purple-50/40 p-4 rounded-2xl border border-purple-100 text-xs">
-                                <h4 class="font-black text-purple-600 uppercase text-[9px] mb-2 tracking-wider">⚠️ Effets Indésirables</h4>
-                                <div>${formatData(med.effets_indésirables)}</div>
+                            <div class="bg-purple-50/40 p-4 rounded-2xl border border-purple-100">
+                                <h4 class="font-black text-purple-600 uppercase text-[8px] mb-2 tracking-wider">⚠️ Effets Indésirables</h4>
+                                <div>${formatData(getProp(med, 'effets_indesirables'))}</div>
                             </div>
-                            <div class="bg-emerald-50/40 p-4 rounded-2xl border border-emerald-100 text-xs">
-                                <h4 class="font-black text-emerald-600 uppercase text-[9px] mb-2 tracking-wider">🛡️ Précautions</h4>
-                                <div>${formatData(med.precaution)}</div>
+                            <div class="bg-emerald-50/40 p-4 rounded-2xl border border-emerald-100">
+                                <h4 class="font-black text-emerald-600 uppercase text-[8px] mb-2 tracking-wider">🛡️ Précautions</h4>
+                                <div>${formatData(getProp(med, 'precautions'))}</div>
                             </div>
                         </div>
                     </div>`;
                 });
+
                 detailsHTML += `</div>`;
                 
                 ui.step3.innerHTML = detailsHTML;
                 ui.step3.classList.remove('hidden-step');
                 
-                ui.mainBtn.textContent = "Groupe Suivant";
+                ui.mainBtn.textContent = "Médicament Suivant";
                 ui.mainBtn.className = "w-full py-5 bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs uppercase tracking-[0.2em] rounded-xl shadow-xl transition-all";
                 ui.statusTag.textContent = "Étape 3/3";
             }
@@ -666,10 +855,18 @@
             if (!group) return;
 
             const val = input.value.trim().toLowerCase();
-            const correctVal = group.className.toLowerCase();
 
-            if (val === correctVal) {
-                feedback.innerHTML = "✨ Correct ! Excellent raisonnement.";
+            // Vérifier si la saisie correspond soit au TYPE de médicament, soit à la CLASSE thérapeutique parente, soit à CLASSE_2
+            const possibleAnswers = [
+                (group.targetType || "").toLowerCase().trim(),
+                (group.targetClass || "").toLowerCase().trim(),
+                (group.targetClass2 || "").toLowerCase().trim()
+            ].filter(ans => ans !== "" && ans !== "autre");
+
+            const isCorrect = possibleAnswers.some(answer => val === answer || val.includes(answer) && answer.length > 4);
+
+            if (isCorrect || (val === "autre" && group.targetType.toLowerCase() === "autre")) {
+                feedback.innerHTML = "✨ Correct ! Excellente mémoire.";
                 feedback.className = "mt-4 text-center text-emerald-500 text-sm font-bold reveal-anim";
                 input.classList.add('border-emerald-500');
                 
@@ -678,7 +875,7 @@
                     updateDisplay();
                 }, 400);
             } else {
-                feedback.innerHTML = "Ce n'est pas la classe correcte...";
+                feedback.innerHTML = "Ce n'est pas tout à fait ça, réessayez ou révélez la réponse.";
                 feedback.className = "mt-4 text-center text-red-500 text-sm font-bold shake";
                 input.classList.add('border-red-500');
                 
@@ -738,7 +935,7 @@
 
         // Écouteur de la touche Entrée pour naviguer rapidement
         document.addEventListener('keydown', (e) => {
-            if (activeTab === 'quiz' && e.key === 'Enter') {
+            if ((activeTab === 'quiz' || activeTab === 'quiz_indiv') && e.key === 'Enter') {
                 handleMainAction();
             }
         });
