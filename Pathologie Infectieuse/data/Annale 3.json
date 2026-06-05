@@ -1,0 +1,2002 @@
+[
+  {
+    "Numero": 1,
+    "Question": "Chez un patient avec une bactériémie à Streptococcus pneumoniae sensible à la pénicilline, hospitalisé, avec une grande liste de médicaments pour notamment une fibrillation auriculaire et des troubles psychiatriques, quelles sont les meilleures options antibiotiques en considérant le spectre et le risque d'interaction médicamenteusement ?",
+    "Proposition": "Clarithromycine",
+    "Reponse": false,
+    "Justification": "Pour la clarithromycine dans le cadre de la bactériémie à Streptococcus pneumoniae chez un patient avec de nombreuses comorbidités : les macrolides présentent un risque important d'interactions médicamenteuses ainsi qu'un risque d'allongement de l'intervalle QT, ce qui pose un problème de sécurité majeur pour ce patient âgé, polymédiqué pour des troubles psychiatriques et une fibrillation auriculaire. ",
+    "Page": 25.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 2,
+    "Question": "Chez un patient avec une bactériémie à Streptococcus pneumoniae sensible à la pénicilline, hospitalisé, avec une grande liste de médicaments pour notamment une fibrillation auriculaire et des troubles psychiatriques, quelles sont les meilleures options antibiotiques en considérant le spectre et le risque d'interaction médicamenteusement ?",
+    "Proposition": "Pénicilline",
+    "Reponse": false,
+    "Justification": "Pour la pénicilline dans le cadre de la bactériémie à Streptococcus pneumoniae chez ce patient : la pénicilline G intraveineuse cible de manière sélective et étroite le pneumocoque (germe sensible de son spectre d'activité) tout en minimisant le coût écologique et sans induire d'interactions médicamenteuses critiques chez ce patient polymédiqué. ",
+    "Page": 22.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 3,
+    "Question": "Chez un patient avec une bactériémie à Streptococcus pneumoniae sensible à la pénicilline, hospitalisé, avec une grande liste de médicaments pour notamment une fibrillation auriculaire et des troubles psychiatriques, quelles sont les meilleures options antibiotiques en considérant le spectre et le risque d'interaction médicamenteusement ?",
+    "Proposition": "Amoxicilline",
+    "Reponse": true,
+    "Justification": "Pour l'amoxicilline dans le cadre de la bactériémie à Streptococcus pneumoniae chez ce patient : l'amoxicilline (pénicilline A) possède un spectre d'activité étroit qui inclut les streptocoques et les pneumocoques et elle est l'une des molécules recommandées pour les infections à germes sensibles, n'induisant pas d'interactions médicamenteuses problématiques pour la fibrillation auriculaire ou les troubles psychiatriques du patient. ",
+    "Page": 22.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 4,
+    "Question": "Chez un patient avec une bactériémie à Streptococcus pneumoniae sensible à la pénicilline, hospitalisé, avec une grande liste de médicaments pour notamment une fibrillation auriculaire et des troubles psychiatriques, quelles sont les meilleures options antibiotiques en considérant le spectre et le risque d'interaction médicamenteusement ?",
+    "Proposition": "Méropénem",
+    "Reponse": true,
+    "Justification": "Pour le méropénem dans le cadre de la bactériémie à Streptococcus pneumoniae chez ce patient : le méropénem est un carbapénème au spectre d'activité extrêmement large qui doit être réservé aux infections graves à bactéries multi-résistantes ; son utilisation pour un pneumocoque sensible à la pénicilline constitue un mésusage au regard du coût écologique et de la sélection de résistances. ",
+    "Page": 23.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 5,
+    "Question": "Chez un patient avec une bactériémie à Streptococcus pneumoniae sensible à la pénicilline, hospitalisé, avec une grande liste de médicaments pour notamment une fibrillation auriculaire et des troubles psychiatriques, quelles sont les meilleures options antibiotiques en considérant le spectre et le risque d'interaction médicamenteusement ?",
+    "Proposition": "Ceftazidime",
+    "Reponse": false,
+    "Justification": "Pour la ceftazidime dans le cadre de la bactériémie à Streptococcus pneumoniae chez ce patient : la ceftazidime est une céphalosporine injectable de 3ème génération à spectre plus large incluant Pseudomonas aeruginosa, ce qui est inapproprié pour traiter un pneumocoque sensible à la pénicilline, car cela contrevient à la recommandation d'utiliser un spectre le plus étroit possible afin d'éviter le gaspillage écologique. ",
+    "Page": 23.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 6,
+    "Question": "Une mère souffrant de toxicomanie accouche dans votre hôpital. La grossesse n'a pas été suivie en consultation prénatale et la mère a disparu peu après l'accouchement, vous n'avez aucune sérologie chez elle. Son nouveau-né est à terme selon votre examen physique et est asymptomatique, ses mesures (poids, taille et périmètre crânien) sont normales. La prise en charge du sevrage toxicologique et l'aspect social de cet enfant sont pris en charge. D'un point de vue infectieux, que devez-vous faire ?",
+    "Proposition": "Sérologies HIV et syphilis, sérologie hépatite B et hépatite C.",
+    "Reponse": true,
+    "Justification": "Concernant la réalisation de sérologies VIH, syphilis, hépatite B et hépatite C chez le nouveau-né d'une mère sans suivi prénatal : le dépistage des infections maternelles chroniques (VIH, syphilis, VHB et VHC) doit être réalisé de manière systématique chez la femme enceinte ou en cas d'absence de suivi prénatal afin de dépister une éventuelle transmission verticale chez le nouveau-né et d'organiser sa prise en charge. ",
+    "Page": 92.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 7,
+    "Question": "Une mère souffrant de toxicomanie accouche dans votre hôpital. La grossesse n'a pas été suivie en consultation prénatale et la mère a disparu peu après l'accouchement, vous n'avez aucune sérologie chez elle. Son nouveau-né est à terme selon votre examen physique et est asymptomatique, ses mesures (poids, taille et périmètre crânien) sont normales. La prise en charge du sevrage toxicologique et l'aspect social de cet enfant sont pris en charge. D'un point de vue infectieux, que devez-vous faire ?",
+    "Proposition": "Frottis cutanés chez l'enfant pour chercher Streptococcus agalactiae (GBS), Neisseria gonorrhea et Chlamydia trachomatis.",
+    "Reponse": false,
+    "Justification": "Concernant la réalisation de frottis cutanés pour chercher GBS, N. gonorrhea et Chlamydia chez ce nouveau-né : le diagnostic ou la recherche de portage de ces germes ne s'effectue pas par frottis cutanés chez un nouveau-né à terme asymptomatique, le portage de GBS se dépistant chez la mère et les IST se manifestant cliniquement chez l'enfant par d'autres voies. ",
+    "Page": 96.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 8,
+    "Question": "Une mère souffrant de toxicomanie accouche dans votre hôpital. La grossesse n'a pas été suivie en consultation prénatale et la mère a disparu peu après l'accouchement, vous n'avez aucune sérologie chez elle. Son nouveau-né est à terme selon votre examen physique et est asymptomatique, ses mesures (poids, taille et périmètre crânien) sont normales. La prise en charge du sevrage toxicologique et l'aspect social de cet enfant sont pris en charge. D'un point de vue infectieux, que devez-vous faire ?",
+    "Proposition": "Immunoglobulines et vaccin hépatite B dans les 12 premières heures de vie si les sérologies chez l'enfant ne peuvent être obtenues dans cet intervalle de temps.",
+    "Reponse": true,
+    "Justification": "Concernant l'administration d'immunoglobulines et du vaccin de l'hépatite B dans les 12 premières heures de vie chez ce nouveau-né : en cas de risque de transmission d'hépatite B, l'administration précoce d'immunoglobulines spécifiques et d'une première dose de vaccin dans les 12 premières heures de vie est indispensable pour réduire le risque de transmission à moins de 5 %. ",
+    "Page": 93.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 9,
+    "Question": "Une mère souffrant de toxicomanie accouche dans votre hôpital. La grossesse n'a pas été suivie en consultation prénatale et la mère a disparu peu après l'accouchement, vous n'avez aucune sérologie chez elle. Son nouveau-né est à terme selon votre examen physique et est asymptomatique, ses mesures (poids, taille et périmètre crânien) sont normales. La prise en charge du sevrage toxicologique et l'aspect social de cet enfant sont pris en charge. D'un point de vue infectieux, que devez-vous faire ?",
+    "Proposition": "Suivi en maladies infectieuses pour suivi et sérologies de contrôle.",
+    "Reponse": true,
+    "Justification": "Concernant le suivi en maladies infectieuses de ce nouveau-né : tout nouveau-né exposé à un risque de transmission d'infections chroniques (telles que le VIH ou le VHB) doit bénéficier d'un suivi spécialisé à long terme en maladies infectieuses pédiatriques afin d'effectuer des tests virologiques (PCR) et sérologiques de contrôle aux âges requis. ",
+    "Page": 92.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 10,
+    "Question": "Une mère souffrant de toxicomanie accouche dans votre hôpital. La grossesse n'a pas été suivie en consultation prénatale et la mère a disparu peu après l'accouchement, vous n'avez aucune sérologie chez elle. Son nouveau-né est à terme selon votre examen physique et est asymptomatique, ses mesures (poids, taille et périmètre crânien) sont normales. La prise en charge du sevrage toxicologique et l'aspect social de cet enfant sont pris en charge. D'un point de vue infectieux, que devez-vous faire ?",
+    "Proposition": "Sérologie Herpes simplex.",
+    "Reponse": false,
+    "Justification": "Concernant la réalisation d'une sérologie Herpes simplex chez ce nouveau-né : la prévention et la recherche de transmission de l'HSV reposent essentiellement sur la présence de lésions actives chez la mère au moment de l'accouchement ou sur l'analyse clinique, et non sur la prescription d'une sérologie de dépistage systématique chez un nouveau-né asymptomatique. ",
+    "Page": 96.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 11,
+    "Question": "Un de vos patients de 85 ans obèse, diabétique, opéré à 2 reprises de la hanche et porteur d'une prothèse de hanche, s'est présenté aux urgences 2 jours auparavant pour fièvre. L'examen clinique était rassurant ainsi que le bilan biologique. Le laboratoire vous appelle pour une hémoculture positive à Staphylococcus aureus. L'antibiogramme est en cours. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Sérologie staphylococcique pour confirmer le diagnostic.",
+    "Reponse": false,
+    "Justification": "Concernant la sérologie staphylococcique pour le patient de 85 ans avec hémoculture positive à S. aureus : la confirmation diagnostique d'une bactériémie à Staphylococcus aureus est d'ordre microbiologique par la positivité des hémocultures (considérée comme significative dès le premier flacon), et ne repose aucunement sur une sérologie staphylococcique. ",
+    "Page": 35.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 12,
+    "Question": "Un de vos patients de 85 ans obèse, diabétique, opéré à 2 reprises de la hanche et porteur d'une prothèse de hanche, s'est présenté aux urgences 2 jours auparavant pour fièvre. L'examen clinique était rassurant ainsi que le bilan biologique. Le laboratoire vous appelle pour une hémoculture positive à Staphylococcus aureus. L'antibiogramme est en cours. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Répéter les hémocultures.",
+    "Reponse": true,
+    "Justification": "Concernant la répétition des hémocultures chez ce patient : le contrôle et la négativation des hémocultures sous traitement sont indispensables pour la bactériémie à S. aureus afin de s'assurer de l'absence de foyer infectieux profond persistant ou non contrôlé. ",
+    "Page": 36.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 13,
+    "Question": "Un de vos patients de 85 ans obèse, diabétique, opéré à 2 reprises de la hanche et porteur d'une prothèse de hanche, s'est présenté aux urgences 2 jours auparavant pour fièvre. L'examen clinique était rassurant ainsi que le bilan biologique. Le laboratoire vous appelle pour une hémoculture positive à Staphylococcus aureus. L'antibiogramme est en cours. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Echographie cardiaque.",
+    "Reponse": false,
+    "Justification": "Concernant l'échographie cardiaque chez ce patient : en raison de l'association fréquente des bactériémies à S. aureus avec l'endocardite infectieuse (particulièrement chez les patients à risque ayant du matériel prothétique), la recherche systématique d'une endocardite par échographie cardiaque est requise. ",
+    "Page": 36.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 14,
+    "Question": "Un de vos patients de 85 ans obèse, diabétique, opéré à 2 reprises de la hanche et porteur d'une prothèse de hanche, s'est présenté aux urgences 2 jours auparavant pour fièvre. L'examen clinique était rassurant ainsi que le bilan biologique. Le laboratoire vous appelle pour une hémoculture positive à Staphylococcus aureus. L'antibiogramme est en cours. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Aucun examen complémentaire n'est requis. Traitement par clindamycine.",
+    "Reponse": false,
+    "Justification": "Concernant l'affirmation qu'aucun examen complémentaire n'est requis et de traiter par clindamycine : la bactériémie à S. aureus est une infection complexe à mortalité élevée qui exige une mise au point exhaustive (échographie, hémocultures) et un traitement d'au moins 14 jours par voie intraveineuse, ne pouvant être traitée de manière isolée ou empirique par clindamycine par voie orale. ",
+    "Page": 36.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 15,
+    "Question": "Un de vos patients de 85 ans obèse, diabétique, opéré à 2 reprises de la hanche et porteur d'une prothèse de hanche, s'est présenté aux urgences 2 jours auparavant pour fièvre. L'examen clinique était rassurant ainsi que le bilan biologique. Le laboratoire vous appelle pour une hémoculture positive à Staphylococcus aureus. L'antibiogramme est en cours. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Avis d'un spécialiste en maladies infectieuses.",
+    "Reponse": true,
+    "Justification": "Concernant l'avis d'un spécialiste en maladies infectieuses chez ce patient : du fait du haut risque de complications emboliques, d'endocardite et d'une mortalité élevée, l'obtention d'un avis spécialisé en maladies infectieuses est systématiquement requise pour toute bactériémie à Staphylococcus aureus afin d'améliorer le pronostic. ",
+    "Page": 36.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 16,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses concernant les infections respiratoires :",
+    "Proposition": "La plupart des infections respiratoires hautes sont d'origine virale.",
+    "Reponse": true,
+    "Justification": "Concernant l'affirmation que la plupart des infections respiratoires hautes sont d'origine virale : les infections des voies respiratoires supérieures (ORL, rhinopharyngites, angines) sont en effet majoritairement d'origine virale (comme les rhinovirus en tête), ce qui rend l'usage d'antibiotiques non recommandé en routine. ",
+    "Page": 61.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 17,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses concernant les infections respiratoires :",
+    "Proposition": "La première cause de mortalité dans les pays à faible et moyen revenus sont les infections respiratoires hautes.",
+    "Reponse": false,
+    "Justification": "Concernant l'affirmation que la première cause de mortalité dans les pays à faible et moyen revenus sont les infections respiratoires hautes : c'est la pneumonie aiguë de la communauté (PAC), qui est une infection respiratoire basse (et non haute), qui constitue l'une des premières causes de mortalité infectieuse dans les pays à bas et moyens revenus. ",
+    "Page": 71.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 18,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses concernant les infections respiratoires :",
+    "Proposition": "L'imagerie thoracique est normale dans le cadre d'une bronchite isolée.",
+    "Reponse": true,
+    "Justification": "Concernant l'affirmation que l'imagerie thoracique est normale dans le cadre d'une bronchite isolée : une bronchite aiguë est une inflammation des voies respiratoires sans atteinte du parenchyme pulmonaire, d'où l'absence de foyer d'infiltration sur l'imagerie thoracique (qui est alors normale), contrairement à la pneumonie. ",
+    "Page": 69.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 19,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses concernant les infections respiratoires :",
+    "Proposition": "Pour diagnostiquer une pneumonie, l'examen physique suffit à lui seul.",
+    "Reponse": true,
+    "Justification": "Concernant l'affirmation que pour diagnostiquer une pneumonie, l'examen physique suffit à lui seul : l'examen clinique seul ne présente qu'une sensibilité de 50 % pour le diagnostic d'une pneumonie aiguë de la communauté, ce qui impose d'y associer systématiquement une imagerie thoracique (radiographie ou scanner) révélant l'atteinte du parenchyme. ",
+    "Page": 71.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 20,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses concernant les infections respiratoires :",
+    "Proposition": "Le tractus respiratoire est sain et stérile.",
+    "Reponse": false,
+    "Justification": "Concernant l'affirmation que le tractus respiratoire est sain et stérile : le tractus respiratoire supérieur n'est pas stérile et possède son propre écosystème avec un microbiote normal (flore commensale), la stérilité physiologique ne caractérisant que les cavités habituellement closes ou l'arbre urinaire profond. ",
+    "Page": 5.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 21,
+    "Question": "Dans les infections ostéo-articulaires chez l'enfant, quels sont les 2 germes les plus fréquents ?",
+    "Proposition": "Kingella kingae",
+    "Reponse": true,
+    "Justification": "Concernant l'implication de Kingella kingae dans les infections ostéo-articulaires pédiatriques : Kingella kingae est le deuxième germe le plus fréquemment impliqué dans les infections ostéo-articulaires (ostéomyélite, arthrite) chez l'enfant entre 6 mois et 4 ans. ",
+    "Page": 114.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 22,
+    "Question": "Dans les infections ostéo-articulaires chez l'enfant, quels sont les 2 germes les plus fréquents ?",
+    "Proposition": "E. coli",
+    "Reponse": false,
+    "Justification": "Concernant l'implication d'E. coli dans ces infections pédiatriques : Escherichia coli est principalement associé aux infections urinaires ou aux méningites néonatales, mais il ne figure pas parmi les germes les plus fréquents des infections ostéo-articulaires pédiatriques. ",
+    "Page": 114.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 23,
+    "Question": "Dans les infections ostéo-articulaires chez l'enfant, quels sont les 2 germes les plus fréquents ?",
+    "Proposition": "Neisseria meningitidis",
+    "Reponse": false,
+    "Justification": "Concernant l'implication de Neisseria meningitidis dans ces infections pédiatriques : Neisseria meningitidis est un germe encapsulé causant essentiellement des méningites purulentes ou des états de sepsis graves (purpura fulminans), et n'est pas une cause habituelle d'infection ostéo-articulaire chez l'enfant. ",
+    "Page": 42.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 24,
+    "Question": "Dans les infections ostéo-articulaires chez l'enfant, quels sont les 2 germes les plus fréquents ?",
+    "Proposition": "Streptococcus viridans",
+    "Reponse": false,
+    "Justification": "Concernant l'implication de Streptococcus viridans dans ces infections pédiatriques : les streptocoques du groupe viridans (oraux) sont des commensaux de la cavité buccale qui causent typiquement des endocardites infectieuses, mais ils ne sont pas impliqués de manière fréquente dans les ostéomyélites ou arthrites de l'enfant. ",
+    "Page": 56.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 25,
+    "Question": "Dans les infections ostéo-articulaires chez l'enfant, quels sont les 2 germes les plus fréquents ?",
+    "Proposition": "Staphylococcus aureus",
+    "Reponse": true,
+    "Justification": "Concernant l'implication de Staphylococcus aureus dans ces infections pédiatriques : Staphylococcus aureus est de loin le premier agent bactérien responsable d'infections ostéo-articulaires (ostéomyélites et arthrites) chez l'enfant de tout âge. ",
+    "Page": 114.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 26,
+    "Question": "Une jeune femme de 17 ans, née en Belgique sans histoire de voyage présente de la température à 38.5°C, des frissons, vomissements, céphalées et photophobie. Quels sont les examens qui doivent être réalisés d'emblée sur le LCR ? Indiquer la ou les propositions correctes.",
+    "Proposition": "coloration de Gram et culture.",
+    "Reponse": true,
+    "Justification": "Concernant la réalisation de coloration de Gram et de culture d'emblée sur le LCR chez cette jeune femme : la coloration de Gram (examen direct) et la culture microbiologique du LCR sont des examens systématiques indispensables à réaliser d'emblée devant tout tableau évocateur de méningite aiguë pour identifier rapidement un éventuel pathogène bactérien. ",
+    "Page": 39.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 27,
+    "Question": "Une jeune femme de 17 ans, née en Belgique sans histoire de voyage présente de la température à 38.5°C, des frissons, vomissements, céphalées et photophobie. Quels sont les examens qui doivent être réalisés d'emblée sur le LCR ? Indiquer la ou les propositions correctes.",
+    "Proposition": "numération des cellules et formule leucocytaire.",
+    "Reponse": true,
+    "Justification": "Concernant la numération des cellules et la formule leucocytaire d'emblée sur le LCR chez cette jeune femme : l'analyse cytologique rapide du LCR (comprenant la numération et la formule) permet d'orienter immédiatement le clinicien vers une étiologie bactérienne (prédominance de neutrophiles) ou virale (prédominance de lymphocytes). ",
+    "Page": 39.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 28,
+    "Question": "Une jeune femme de 17 ans, née en Belgique sans histoire de voyage présente de la température à 38.5°C, des frissons, vomissements, céphalées et photophobie. Quels sont les examens qui doivent être réalisés d'emblée sur le LCR ? Indiquer la ou les propositions correctes.",
+    "Proposition": "PCR pour le diagnostic des infections virales.",
+    "Reponse": true,
+    "Justification": "Concernant la PCR pour le diagnostic des infections virales d'emblée sur le LCR chez cette jeune femme : la recherche des virus les plus fréquents (comme les entérovirus) par biologie moléculaire (PCR) est justifiée d'emblée sur le LCR car ils représentent la cause majoritaire des méningites aiguës à liquide clair. ",
+    "Page": 39.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 29,
+    "Question": "Une jeune femme de 17 ans, née en Belgique sans histoire de voyage présente de la température à 38.5°C, des frissons, vomissements, céphalées et photophobie. Quels sont les examens qui doivent être réalisés d'emblée sur le LCR ? Indiquer la ou les propositions correctes.",
+    "Proposition": "PCR Mycobacterium tuberculosis.",
+    "Reponse": false,
+    "Justification": "Concernant la PCR Mycobacterium tuberculosis d'emblée sur le LCR chez cette jeune femme : la recherche de Mycobacterium tuberculosis par PCR sur le LCR n'est pas un examen systématique de première intention ; elle n'est justifiée qu'en cas de suspicion ciblée (début progressif, contexte d'immunosuppression, ou zones d'endémie). ",
+    "Page": 44.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 30,
+    "Question": "Une jeune femme de 17 ans, née en Belgique sans histoire de voyage présente de la température à 38.5°C, des frissons, vomissements, céphalées et photophobie. Quels sont les examens qui doivent être réalisés d'emblée sur le LCR ? Indiquer la ou les propositions correctes.",
+    "Proposition": "coloration au Giemsa pour recherche de parasites.",
+    "Reponse": false,
+    "Justification": "Concernant la coloration au Giemsa pour la recherche de parasites d'emblée sur le LCR chez cette jeune femme : une atteinte parasitaire méningée est exceptionnelle en Belgique chez un patient immunocompétent sans histoire de voyage, et la recherche directe par coloration de Giemsa n'est pas indiquée en routine sur le LCR d'emblée. ",
+    "Page": 31.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 31,
+    "Question": "Au sujet des tests d'identification bactérienne (pathogènes entériques), indiquer la ou les propositions correctes.",
+    "Proposition": "Sur une gélose XLD, la présence de colonies noires (H2S) sur un milieu rouge foncé (alcalinisation) confirme la présence d'une Salmonella dans les selles.",
+    "Reponse": true,
+    "Justification": "Concernant l'affirmation que des colonies noires de Salmonella sur gélose XLD confirment sa présence : l'aspect des colonies rouges à centre noir sur gélose XLD est un critère d'orientation et de présomption fort (fermentation des sucres, décarboxylation de la lysine et production de H2S), mais il n'apporte pas une confirmation définitive du genre Salmonella, qui nécessite d'autres tests d'identification biochimique et/ou sérologique. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 32,
+    "Question": "Au sujet des tests d'identification bactérienne (pathogènes entériques), indiquer la ou les propositions correctes.",
+    "Proposition": "La spectrométrie de masse MALDI-TOF identifie avec rapidité et fiabilité les souches de Campylobacter, Yersinia et Shigella.",
+    "Reponse": false,
+    "Justification": "Concernant l'identification rapide et fiable de Campylobacter, Yersinia et Shigella par MALDI-TOF : bien que le MALDI-TOF soit extrêmement rapide et fiable pour de nombreux genres, il ne permet pas de différencier de manière fiable Shigella de l'espèce Escherichia coli du fait de leur trop grande proximité génétique et protéique. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 33,
+    "Question": "Au sujet des tests d'identification bactérienne (pathogènes entériques), indiquer la ou les propositions correctes.",
+    "Proposition": "L'examen microscopique des selles est très informatif : outre la présence de globules blancs qui témoigne d'un processus inflammatoire, des colonies de forme caractéristique (virgules, vol d'oiseaux) peuvent être reconnues et permettent une identification de Campylobacter jejuni.",
+    "Reponse": false,
+    "Justification": "Concernant l'affirmation que l'examen microscopique permet de reconnaître des colonies de Campylobacter jejuni : le microscope permet d'observer des cellules ou des bactéries (formes en virgule ou ailes de mouette) et non pas des \"colonies\" (qui sont des structures macroscopiques visibles sur gélose) ; de plus, l'examen microscopique direct n'offre pas une identification de certitude pour C. jejuni, qui requiert une coproculture ou une PCR. ",
+    "Page": 102.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 34,
+    "Question": "Au sujet des tests d'identification bactérienne (pathogènes entériques), indiquer la ou les propositions correctes.",
+    "Proposition": "Les galleries API sont plus chères, moins rapides et moins fiables que la spectrométrie de masse MALDI-TOF pour l'identification bactérienne (hors rares limitations connues de l'instrument) raison pour laquelle elles sont aujourd'hui obsolètes.",
+    "Reponse": true,
+    "Justification": "Concernant l'obsolescence des galeries API par rapport au MALDI-TOF : bien que les galeries d'identification manuelles (galeries API) soient plus lentes et requièrent plus de manipulation par rapport au MALDI-TOF, elles ne sont pas considérées comme obsolètes et restent utilisées comme méthode de référence ou de secours dans de nombreux laboratoires de microbiologie. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 35,
+    "Question": "Au sujet des tests d'identification bactérienne (pathogènes entériques), indiquer la ou les propositions correctes.",
+    "Proposition": "La plupart des Salmonella infectant l'humain sont des sérovars de Salmonella enterica subsp. enterica. L'identification précise du sérovar est fournie par la spectrométrie de masse MALDI-TOF en quelques minutes.",
+    "Reponse": false,
+    "Justification": "Concernant l'identification du sérovar de Salmonella en quelques minutes par MALDI-TOF : la spectrométrie de masse MALDI-TOF identifie précisément le genre, l'espèce et parfois la sous-espèce de Salmonella, mais ne permet pas de déterminer le sérovar précis, ce qui exige des tests d'agglutination sérologique (schéma de Kauffmann-White) ou un séquençage génomique. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 36,
+    "Question": "Un patient de 7 ans se présente avec des douleurs de gorge et de la fièvre depuis la veille. Vous l'examinez et vous objectivez des amygdales augmentées de volume avec un exsudat et des ganglions cervicaux antérieurs augmentés de volume. Il ne tousse pas et son état général n'est pas inquiétant. Indiquer la ou les propositions correctes :",
+    "Proposition": "Vu sa clinique, vous pouvez prédire avec certitude que c'est une infection à Streptococcus de groupe A, vous le traitez par antibiotique.",
+    "Reponse": false,
+    "Justification": "Concernant l'affirmation que la clinique d'angine permet de prédire avec certitude le streptocoque du groupe A et de traiter par antibiotique chez cet enfant de 7 ans : les scores cliniques ne permettent pas de prédire avec certitude une étiologie bactérienne à streptocoque du groupe A (seulement 50 % de valeur prédictive positive), et la recommandation belge générale est de ne pas traiter systématiquement par antibiotique les pharyngites sans facteurs de risque. ",
+    "Page": 64.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 37,
+    "Question": "Un patient de 7 ans se présente avec des douleurs de gorge et de la fièvre depuis la veille. Vous l'examinez et vous objectivez des amygdales augmentées de volume avec un exsudat et des ganglions cervicaux antérieurs augmentés de volume. Il ne tousse pas et son état général n'est pas inquiétant. Indiquer la ou les propositions correctes :",
+    "Proposition": "Vu sa clinique, vous pouvez prédire avec certitude que c'est une infection à Streptococcus de groupe A, mais vous ne le traitez pas par antibiotique car il n'y a pas de risque de rhumatisme articulaire aigu avec les souches retrouvées en Belgique.",
+    "Reponse": false,
+    "Justification": "Concernant l'affirmation que la clinique d'angine permet de prédire avec certitude le streptocoque de groupe A mais qu'on ne traite pas car il n'y a pas de risque de RAA en Belgique : l'étiologie d'une angine ne peut pas être affirmée avec certitude cliniquement, et le risque de rhumatisme articulaire aigu (RAA) lié à Streptococcus pyogenes (GAS) existe toujours, justifiant la prescription d'antibiotiques chez certains profils de patients ciblés à risque. ",
+    "Page": 64.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 38,
+    "Question": "Un patient de 7 ans se présente avec des douleurs de gorge et de la fièvre depuis la veille. Vous l'examinez et vous objectivez des amygdales augmentées de volume avec un exsudat et des ganglions cervicaux antérieurs augmentés de volume. Il ne tousse pas et son état général n'est pas inquiétant. Indiquer la ou les propositions correctes :",
+    "Proposition": "Vous ne pouvez pas donner avec certitude l'étiologie de cette angine. Vous choisissez un traitement symptomatique et proposez de le revoir dans 2 jours.",
+    "Reponse": true,
+    "Justification": "Concernant la décision de privilégier un traitement symptomatique et de revoir l'enfant de 7 ans dans 2 jours : l'angine érythémato-pultacées étant majoritairement d'origine virale et les signes cliniques ne prédisant le streptocoque qu'avec une certitude limitée à 50 %, il convient d'éviter l'antibiothérapie systématique chez les patients sans risque, de privilégier un traitement symptomatique et de surveiller l'évolution. ",
+    "Page": 64.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 39,
+    "Question": "Un patient de 7 ans se présente avec des douleurs de gorge et de la fièvre depuis la veille. Vous l'examinez et vous objectivez des amygdales augmentées de volume avec un exsudat et des ganglions cervicaux antérieurs augmentés de volume. Il ne tousse pas et son état général n'est pas inquiétant. Indiquer la ou les propositions correctes :",
+    "Proposition": "Vu l'âge du patient, le risque d'infection bactérienne à Streptococcus de groupe A est plus faible.",
+    "Reponse": false,
+    "Justification": "Concernant l'affirmation que le risque d'infection à streptocoque du groupe A est plus faible chez cet enfant de 7 ans : à l'inverse d'un risque diminué chez l'adulte de plus de 45 ans, la probabilité d'une infection à streptocoque du groupe A (GAS) est majorée dans la tranche d'âge de 3 à 14 ans, comme l'indiquent les critères de scores diagnostiques. ",
+    "Page": 64.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 40,
+    "Question": "Un patient de 7 ans se présente avec des douleurs de gorge et de la fièvre depuis la veille. Vous l'examinez et vous objectivez des amygdales augmentées de volume avec un exsudat et des ganglions cervicaux antérieurs augmentés de volume. Il ne tousse pas et son état général n'est pas inquiétant. Indiquer la ou les propositions correctes :",
+    "Proposition": "De manière générale, le traitement du Streptococcus de groupe A (connu également comme Streptococcus pyogenes) est une pénicilline orale en 1e choix.",
+    "Reponse": true,
+    "Justification": "Pour l'angine à streptocoque du groupe A chez les patients avec indication thérapeutique : les recommandations préconisent l'utilisation d'une pénicilline orale comme traitement de premier choix, l'amoxicilline ou les céphalosporines de première génération ne constituant que des alternatives. ",
+    "Page": 65.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 41,
+    "Question": "La coloration par l'encre de chine permet de mettre en évidence :",
+    "Proposition": "Mycobacterium spp.",
+    "Reponse": false,
+    "Justification": "La coloration par l'encre de chine n'est pas appropriée pour le diagnostic des infections à Mycobacterium, ces bacilles acido-alcoolo-résistants nécessitant une coloration de Ziehl-Neelsen, un examen direct spécifique ou des cultures. ",
+    "Page": 79.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 42,
+    "Question": "La coloration par l'encre de chine permet de mettre en évidence :",
+    "Proposition": "Cryptococcus neoformans.",
+    "Reponse": true,
+    "Justification": "La coloration par l'encre de chine est l'examen microscopique classique utilisé sur le liquide céphalo-rachidien pour mettre en évidence la capsule de la levure Cryptococcus neoformans dans le cadre d'une méningite opportuniste chez le patient immunodéprimé. ",
+    "Page": 148.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 43,
+    "Question": "La coloration par l'encre de chine permet de mettre en évidence :",
+    "Proposition": "Streptocoque pneumoniae.",
+    "Reponse": false,
+    "Justification": "Streptococcus pneumoniae est une bactérie mise en évidence par coloration de Gram (cocci à gram positif) ou par culture standard, et non par la technique de l'encre de chine qui est spécifique aux levures encapsulées. ",
+    "Page": 35.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 44,
+    "Question": "La coloration par l'encre de chine permet de mettre en évidence :",
+    "Proposition": "Le méningocoque.",
+    "Reponse": false,
+    "Justification": "Neisseria meningitidis est un diplocoque à gram négatif identifié par examen direct après coloration de Gram, culture ou PCR, et n'est pas recherché par une coloration à l'encre de chine. ",
+    "Page": 35.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 45,
+    "Question": "La coloration par l'encre de chine permet de mettre en évidence :",
+    "Proposition": "Trichophyton rubrum",
+    "Reponse": true,
+    "Justification": "Trichophyton rubrum est un champignon filamenteux dermatophyte diagnostiqué par examen direct au microscope avec de la potasse ou par culture mycologique, sans recours à l'encre de chine. ",
+    "Page": 29.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 46,
+    "Question": "Concernant la coloration présentée sur la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Les bactéries illustrées sont des mycobactéries.",
+    "Reponse": true,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/1.0.png"
+  },
+  {
+    "Numero": 47,
+    "Question": "Concernant la coloration présentée sur la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Les bactéries illustrées sont des bacilles gram négatifs.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/1.0.png"
+  },
+  {
+    "Numero": 48,
+    "Question": "Concernant la coloration présentée sur la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Les bactéries illustrées sont des bacilles gram positifs.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/1.0.png"
+  },
+  {
+    "Numero": 49,
+    "Question": "Concernant la coloration présentée sur la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Les bactéries illustrées sont des bacilles, dont il est impossible de dire plus.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/1.0.png"
+  },
+  {
+    "Numero": 50,
+    "Question": "Concernant la coloration présentée sur la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Les bactéries illustrées sont des cocci gram positifs.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/1.0.png"
+  },
+  {
+    "Numero": 51,
+    "Question": "Concernant la technique d'amplification génique (PCR/RTPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "Elle permet de mettre en évidence une séroconversion.",
+    "Reponse": false,
+    "Justification": "La PCR est une technique de biologie moléculaire qui détecte directement le matériel génétique d'un pathogène, tandis que la séroconversion désigne l'apparition d'anticorps spécifiques détectable uniquement par sérologie. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 52,
+    "Question": "Concernant la technique d'amplification génique (PCR/RTPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "Le choix des amorces confère la spécificité de la PCR.",
+    "Reponse": true,
+    "Justification": "La spécificité de la PCR dépend directement du choix des amorces oligonucléotidiques qui s'hybrident de manière ciblée à des séquences d'acides nucléiques propres au pathogène recherché. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 53,
+    "Question": "Concernant la technique d'amplification génique (PCR/RTPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "Cette technique permet de mettre en évidence les virus à ARN.",
+    "Reponse": true,
+    "Justification": "La technique de RT-PCR intègre une étape de transcription inverse qui permet de convertir l'acide ribonucléique en ADN complémentaire pour amplifier et détecter les virus à ARN. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 54,
+    "Question": "Concernant la technique d'amplification génique (PCR/RTPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "Elle permet d'évaluer l'infectivité d'un virus présent dans le prélèvement.",
+    "Reponse": false,
+    "Justification": "La PCR détecte la présence de matériel génétique viral sans pouvoir distinguer si le virus est encore viable et infectieux ou s'il s'agit de résidus génomiques non actifs. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 55,
+    "Question": "Concernant la technique d'amplification génique (PCR/RTPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "La taille attendue du fragment amplifié dépend du nombre de cycles d'amplification effectués.",
+    "Reponse": false,
+    "Justification": "La taille du fragment d'ADN amplifié lors d'une PCR est déterminée uniquement par la distance séparant les deux amorces sur la séquence cible, et non par le nombre de cycles d'amplification thermique. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 56,
+    "Question": "Un jeune patient de 25 ans avec antécédent de splenectomie post-traumatique se présente pour céphalées frontales sévères et fièvre. Il n'y a pas de raideur de nuque. Il est conscient et collaborant. La prise de sang est très inflammatoire (CRP 150 mg/l). Les paramètres sont : fréquence cardiaque 110/minutes, tension artérielle 110/70. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Hémocultures.",
+    "Reponse": true,
+    "Justification": "Pour un patient asplénique fébrile, la réalisation d'hémocultures en urgence absolue est primordiale pour documenter une éventuelle bactériémie fulminante à germes encapsulés avant d'instaurer l'antibiothérapie. ",
+    "Page": 146.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 57,
+    "Question": "Un jeune patient de 25 ans avec antécédent de splenectomie post-traumatique se présente pour céphalées frontales sévères et fièvre. Il n'y a pas de raideur de nuque. Il est conscient et collaborant. La prise de sang est très inflammatoire (CRP 150 mg/l). Les paramètres sont : fréquence cardiaque 110/minutes, tension artérielle 110/70. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Examen d'urine avec culture.",
+    "Reponse": false,
+    "Justification": "Bien qu'importante pour exclure un foyer infectieux urinaire, la culture d'urine n'est pas l'examen de priorité absolue chez ce patient asplénique fébrile suspect de méningite ou de bactériémie fulminante. ",
+    "Page": 146.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 58,
+    "Question": "Un jeune patient de 25 ans avec antécédent de splenectomie post-traumatique se présente pour céphalées frontales sévères et fièvre. Il n'y a pas de raideur de nuque. Il est conscient et collaborant. La prise de sang est très inflammatoire (CRP 150 mg/l). Les paramètres sont : fréquence cardiaque 110/minutes, tension artérielle 110/70. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Echographie cardiaque.",
+    "Reponse": false,
+    "Justification": "L'échographie cardiaque n'est pas un examen d'urgence indiqué en première intention face à un tableau aigu de fièvre et de céphalées sévères chez un patient asplénique. ",
+    "Page": 146.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 59,
+    "Question": "Un jeune patient de 25 ans avec antécédent de splenectomie post-traumatique se présente pour céphalées frontales sévères et fièvre. Il n'y a pas de raideur de nuque. Il est conscient et collaborant. La prise de sang est très inflammatoire (CRP 150 mg/l). Les paramètres sont : fréquence cardiaque 110/minutes, tension artérielle 110/70. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Scanner cérébral.",
+    "Reponse": true,
+    "Justification": "Un scanner cérébral en urgence n'est indiqué avant la ponction lombaire qu'en présence de signes neurologiques de focalisation, d'un déficit moteur ou de troubles de la vigilance évoquant un processus expansif. ",
+    "Page": 34.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 60,
+    "Question": "Un jeune patient de 25 ans avec antécédent de splenectomie post-traumatique se présente pour céphalées frontales sévères et fièvre. Il n'y a pas de raideur de nuque. Il est conscient et collaborant. La prise de sang est très inflammatoire (CRP 150 mg/l). Les paramètres sont : fréquence cardiaque 110/minutes, tension artérielle 110/70. Quels examens ou attitude considérez-vous en priorité ?",
+    "Proposition": "Traitement antibiotique par ceftriaxone.",
+    "Reponse": true,
+    "Justification": "En cas de fièvre chez un patient asplénique, l'initiation en urgence d'une antibiothérapie empirique par une céphalosporine de troisième génération est vitale pour couvrir les bactéries encapsulées. ",
+    "Page": 146.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 61,
+    "Question": "Un patient de 75 ans avec des antécédents d'insuffisance cardiaque, BPCO et obésité se présente chez vous pour un bilan annuel. Quels vaccins considérez-vous chez ce patient en priorité en considérant ses antécédents ?",
+    "Proposition": "Vaccin rubéole.",
+    "Reponse": false,
+    "Justification": "Le vaccin contre la rubéole est un vaccin vivant atténué principalement indiqué chez les enfants et les femmes en âge de procréer, et ne présente pas d'intérêt prioritaire pour cet homme âgé de 75 ans. ",
+    "Page": 91.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 62,
+    "Question": "Un patient de 75 ans avec des antécédents d'insuffisance cardiaque, BPCO et obésité se présente chez vous pour un bilan annuel. Quels vaccins considérez-vous chez ce patient en priorité en considérant ses antécédents ?",
+    "Proposition": "Vaccin varicelle.",
+    "Reponse": false,
+    "Justification": "La vaccination contre la varicelle est recommandée chez les adultes n'ayant pas d'antécédent de varicelle, mais elle ne figure pas au premier plan des priorités vaccinales liées à ses insuffisances chroniques hépato-pulmonaires. ",
+    "Page": 129.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 63,
+    "Question": "Un patient de 75 ans avec des antécédents d'insuffisance cardiaque, BPCO et obésité se présente chez vous pour un bilan annuel. Quels vaccins considérez-vous chez ce patient en priorité en considérant ses antécédents ?",
+    "Proposition": "Vaccin antipneumococcique.",
+    "Reponse": true,
+    "Justification": "La vaccination antipneumococcique est fortement recommandée chez les personnes âgées de plus de 65 ans ainsi que chez les patients présentant des comorbidités cardio-respiratoires chroniques comme l'insuffisance cardiaque et la BPCO. ",
+    "Page": 126.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 64,
+    "Question": "Un patient de 75 ans avec des antécédents d'insuffisance cardiaque, BPCO et obésité se présente chez vous pour un bilan annuel. Quels vaccins considérez-vous chez ce patient en priorité en considérant ses antécédents ?",
+    "Proposition": "Vaccination annuelle anti-influenza.",
+    "Reponse": true,
+    "Justification": "La vaccination annuelle contre la grippe est indispensable chez les patients âgés et ceux souffrant de pathologies pulmonaires ou cardiaques chroniques afin de prévenir les complications graves et les surinfections bactériennes. ",
+    "Page": 130.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 65,
+    "Question": "Un patient de 75 ans avec des antécédents d'insuffisance cardiaque, BPCO et obésité se présente chez vous pour un bilan annuel. Quels vaccins considérez-vous chez ce patient en priorité en considérant ses antécédents ?",
+    "Proposition": "Vaccin HPV.",
+    "Reponse": false,
+    "Justification": "Le vaccin contre le papillomavirus humain cible principalement les adolescents et les jeunes adultes pour prévenir les cancers gynécologiques et anaux, et n'est pas indiqué chez un patient de 75 ans. ",
+    "Page": 130.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 66,
+    "Question": "Quel(s) sont les pathogène(s) sexuellement transmissible(s) communément responsable(s) d'une ulcération génitale ?",
+    "Proposition": "Herpès Simplex",
+    "Reponse": true,
+    "Justification": "Le virus Herpes Simplex est une cause majeure d'ulcérations génitales aiguës douloureuses sous forme de vésicules évoluant en érosions. ",
+    "Page": 78.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 67,
+    "Question": "Quel(s) sont les pathogène(s) sexuellement transmissible(s) communément responsable(s) d'une ulcération génitale ?",
+    "Proposition": "Neisseria gonorrhoeae",
+    "Reponse": false,
+    "Justification": "Neisseria gonorrheae est typiquement responsable d'écoulements purulents liés à des urétrites ou des cervicites, et non d'ulcérations génitales primitives. ",
+    "Page": 79.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 68,
+    "Question": "Quel(s) sont les pathogène(s) sexuellement transmissible(s) communément responsable(s) d'une ulcération génitale ?",
+    "Proposition": "Treponema pallidum ssp pallidum (syphilis)",
+    "Reponse": true,
+    "Justification": "Treponema pallidum est l'agent causal de la syphilis, caractérisée à son stade primaire par un chancre qui se manifeste sous la forme d'une ulcération génitale unique et indolore. ",
+    "Page": 80.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 69,
+    "Question": "Quel(s) sont les pathogène(s) sexuellement transmissible(s) communément responsable(s) d'une ulcération génitale ?",
+    "Proposition": "Trichomonas vaginalis",
+    "Reponse": false,
+    "Justification": "Trichomonas vaginalis provoque principalement des vaginites ou des urétrites associées à des leucorrhées abondantes, mais n'est pas une cause d'ulcération génitale. ",
+    "Page": 21.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 70,
+    "Question": "Quel(s) sont les pathogène(s) sexuellement transmissible(s) communément responsable(s) d'une ulcération génitale ?",
+    "Proposition": "Human papillomavirus (HPV)",
+    "Reponse": false,
+    "Justification": "Le virus du papillomavirus humain provoque le développement de condylomes acuminés ou de lésions dysplasiques, mais ne se manifeste pas par des ulcérations génitales aiguës. ",
+    "Page": 130.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 71,
+    "Question": "Une patiente de 75 ans, porteuse d'une valve mécanique mitrale, présente de la température et des frissons depuis 5 jours. Elle ne tousse pas et n'a pas de plaintes urinaires. Quelles sont les actions importantes à envisager pour cette patiente ?",
+    "Proposition": "Il faut rapidement débuter un traitement par amoxicilline au cabinet.",
+    "Reponse": false,
+    "Justification": "Débuter un traitement antibiotique empirique au cabinet avant d'avoir prélevé des hémocultures est proscrit, car cela risque de négativer les examens microbiologiques indispensables au diagnostic d'endocardite infectieuse. ",
+    "Page": 30.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 72,
+    "Question": "Une patiente de 75 ans, porteuse d'une valve mécanique mitrale, présente de la température et des frissons depuis 5 jours. Elle ne tousse pas et n'a pas de plaintes urinaires. Quelles sont les actions importantes à envisager pour cette patiente ?",
+    "Proposition": "Il faut réaliser des hémocultures (à 2 sites différents).",
+    "Reponse": true,
+    "Justification": "Face à une suspicion d'endocardite chez une patiente porteuse d'une prothèse valvulaire, la réalisation de deux paires d'hémocultures sur deux sites de ponction distincts avant toute antibiothérapie est prioritaire. ",
+    "Page": 30.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 73,
+    "Question": "Une patiente de 75 ans, porteuse d'une valve mécanique mitrale, présente de la température et des frissons depuis 5 jours. Elle ne tousse pas et n'a pas de plaintes urinaires. Quelles sont les actions importantes à envisager pour cette patiente ?",
+    "Proposition": "Il faut l'examiner.",
+    "Reponse": true,
+    "Justification": "Un examen physique rigoureux et complet est indispensable pour rechercher un souffle cardiaque de novo, des signes d'insuffisance cardiaque ou des manifestations extracardiaques emboliques ou immunologiques. ",
+    "Page": 2.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 74,
+    "Question": "Une patiente de 75 ans, porteuse d'une valve mécanique mitrale, présente de la température et des frissons depuis 5 jours. Elle ne tousse pas et n'a pas de plaintes urinaires. Quelles sont les actions importantes à envisager pour cette patiente ?",
+    "Proposition": "Il faut faire une culture d'urine.",
+    "Reponse": false,
+    "Justification": "Bien qu'un bilan infectieux général inclue une analyse d'urine, celle-ci n'est pas l'examen clé face à une fièvre prolongée chez une patiente porteuse d'une valve cardiaque mécanique sans symptômes urinaires. ",
+    "Page": 3.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 75,
+    "Question": "Une patiente de 75 ans, porteuse d'une valve mécanique mitrale, présente de la température et des frissons depuis 5 jours. Elle ne tousse pas et n'a pas de plaintes urinaires. Quelles sont les actions importantes à envisager pour cette patiente ?",
+    "Proposition": "Il faut considérer une échographie cardiaque.",
+    "Reponse": true,
+    "Justification": "L'échographie cardiaque est indispensable en urgence pour rechercher des végétations, un abcès ou une dysfonction prothétique évocatrice d'endocardite. ",
+    "Page": 54.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 76,
+    "Question": "Concernant l'ECBU (examen cytobactériologique des urines), indiquer la ou les propositions correctes.",
+    "Proposition": "Il permet de déterminer si un prélèvement mi-jet a été obtenu dans de bonnes conditions et est interprétable.",
+    "Reponse": true,
+    "Justification": "L'examen cytologique recherche la présence de cellules épithéliales urinaires, dont le nombre élevé indique une contamination par la flore périnéale et donc un prélèvement mi-jet de mauvaise qualité. ",
+    "Page": 45.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 77,
+    "Question": "Concernant l'ECBU (examen cytobactériologique des urines), indiquer la ou les propositions correctes.",
+    "Proposition": "Il permet d'orienter le diagnostic vers la présence de coques ou de bacilles.",
+    "Reponse": false,
+    "Justification": "L'examen microscopique direct du sédiment urinaire permet de visualiser la morphologie des bactéries, orientant d'emblée vers des bacilles ou des coques avant l'obtention des résultats de la culture. ",
+    "Page": 45.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 78,
+    "Question": "Concernant l'ECBU (examen cytobactériologique des urines), indiquer la ou les propositions correctes.",
+    "Proposition": "Il permet d'objectiver une micro-hématurie.",
+    "Reponse": true,
+    "Justification": "L'examen microscopique quantifie de manière précise la présence de globules rouges dans les urines, permettant ainsi de confirmer et de mesurer une micro-hématurie. ",
+    "Page": 45.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 79,
+    "Question": "Concernant l'ECBU (examen cytobactériologique des urines), indiquer la ou les propositions correctes.",
+    "Proposition": "Il permet d'objectiver la présence de leucocytes dans les urines.",
+    "Reponse": true,
+    "Justification": "L'examen microscopique permet de déterminer de manière quantitative la présence de leucocytes, confirmant l'existence d'une réaction inflammatoire urinaire. ",
+    "Page": 45.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 80,
+    "Question": "Concernant l'ECBU (examen cytobactériologique des urines), indiquer la ou les propositions correctes.",
+    "Proposition": "Il permet d'évaluer le nombre de CFUs (colony forming units) présentes dans le prélèvement.",
+    "Reponse": false,
+    "Justification": "La partie bactériologique de l'ECBU comprend la mise en culture de l'urine, ce qui permet de dénombrer les unités formant colonie par millilitre afin de distinguer une infection d'une contamination. ",
+    "Page": 45.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 81,
+    "Question": "Un patient de 7 ans se présente aux urgences avec de la fièvre et des douleurs en fosse iliaque droite, à l'examen vous observez une défense à la palpation de son abdomen en fosse iliaque droite. Une échographie réalisée en urgence décrit la présence d'un abcès de 8 cm sur 4 cm au niveau du caecum et du liquide dans le péritoine. Indiquer la ou les propositions correctes :",
+    "Proposition": "Il s'agit probablement d'une péritonite secondaire suite à une appendicite compliquée.",
+    "Reponse": true,
+    "Justification": "Chez l'enfant, la cause de loin la plus fréquente de péritonite secondaire avec abcès péri-caecal et épanchement péritonéal est une appendicite aiguë compliquée de perforation. ",
+    "Page": 101.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 82,
+    "Question": "Un patient de 7 ans se présente aux urgences avec de la fièvre et des douleurs en fosse iliaque droite, à l'examen vous observez une défense à la palpation de son abdomen en fosse iliaque droite. Une échographie réalisée en urgence décrit la présence d'un abcès de 8 cm sur 4 cm au niveau du caecum et du liquide dans le péritoine. Indiquer la ou les propositions correctes :",
+    "Proposition": "La péritonite tuberculeuse représente environ 20% des péritonites en Belgique, il faut y penser dans ce cas.",
+    "Reponse": false,
+    "Justification": "La péritonite tuberculeuse est une affection extrêmement rare en Europe et ne représente qu'une fraction infime des cas de péritonite, rendant cette hypothèse très improbable chez cet enfant. ",
+    "Page": 100.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 83,
+    "Question": "Un patient de 7 ans se présente aux urgences avec de la fièvre et des douleurs en fosse iliaque droite, à l'examen vous observez une défense à la palpation de son abdomen en fosse iliaque droite. Une échographie réalisée en urgence décrit la présence d'un abcès de 8 cm sur 4 cm au niveau du caecum et du liquide dans le péritoine. Indiquer la ou les propositions correctes :",
+    "Proposition": "Chez l'enfant, la cause principale de péritonite secondaire est l'appendicite aiguë.",
+    "Reponse": true,
+    "Justification": "L'appendicite aiguë compliquée constitue la première étiologie des péritonites aiguës secondaires d'origine digestive chez l'enfant. ",
+    "Page": 101.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 84,
+    "Question": "Un patient de 7 ans se présente aux urgences avec de la fièvre et des douleurs en fosse iliaque droite, à l'examen vous observez une défense à la palpation de son abdomen en fosse iliaque droite. Une échographie réalisée en urgence décrit la présence d'un abcès de 8 cm sur 4 cm au niveau du caecum et du liquide dans le péritoine. Indiquer la ou les propositions correctes :",
+    "Proposition": "Au vu de la clinique et de l'échographie, un traitement antibiotique efficace sera suffisant.",
+    "Reponse": false,
+    "Justification": "Une péritonite secondaire avec présence d'un abcès de grande taille nécessite impérativement un contrôle de la source par traitement chirurgical ou drainage, l'antibiothérapie seule étant insuffisante. ",
+    "Page": 101.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 85,
+    "Question": "Un patient de 7 ans se présente aux urgences with de la fièvre et des douleurs en fosse iliaque droite, à l'examen vous observez une défense à la palpation de son abdomen en fosse iliaque droite. Une échographie réalisée en urgence décrit la présence d'un abcès de 8 cm sur 4 cm au niveau du caecum et du liquide dans le péritoine. Indiquer la ou les propositions correctes :",
+    "Proposition": "La couverture antibiotique doit couvrir principalement les bactéries de la flore digestive.",
+    "Reponse": true,
+    "Justification": "L'origine étant la perforation d'un organe creux digestif, l'antibiothérapie empirique doit cibler de manière large la flore digestive endogène polymicrobienne, incluant les bacilles gram négatif et les anaérobies. ",
+    "Page": 101.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 86,
+    "Question": "Un patient de 3 ans se présente avec une clinique franche de méningite ayant débuté quelques heures avant son arrivée aux urgences. Il est vacciné selon le calendrier belge pour son âge. Il n'y a pas de contre-indication à la ponction lombaire qui est réalisée rapidement. Les résultats sont les suivants : 1200 cellules nucléées/mm3 (la formule n'est pas encore disponible), protéinorachie 1g/l, glycorachie 40 mg/dl. Une prise de sang a été réalisée juste avant la ponction lombaire : la CRP, les hémocultures sont en cours et la glycémie est de 80 mg/dl. Quels pathogènes sont les plus probablement responsables de cette infection ?",
+    "Proposition": "Enterovirus",
+    "Reponse": false,
+    "Justification": "Une méningite virale à entérovirus se présente typiquement avec une formule lymphocytaire, une protéinorachie modérée inférieure à un gramme par litre et une glycorachie normale, ce qui ne correspond pas à ce tableau de liquide fortement cellulaire et hyperprotéinorachique. ",
+    "Page": 36.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 87,
+    "Question": "Un patient de 3 ans se présente avec une clinique franche de méningite ayant débuté quelques heures avant son arrivée aux urgences. Il est vacciné selon le calendrier belge pour son âge. Il n'y a pas de contre-indication à la ponction lombaire qui est réalisée rapidement. Les résultats sont les suivants : 1200 cellules nucléées/mm3 (la formule n'est pas encore disponible), protéinorachie 1g/l, glycorachie 40 mg/dl. Une prise de sang a été réalisée juste avant la ponction lombaire : la CRP, les hémocultures sont en cours et la glycémie est de 80 mg/dl. Quels pathogènes sont les plus probablement responsables de cette infection ?",
+    "Proposition": "Haemophilus influenza de type b",
+    "Reponse": false,
+    "Justification": "Grâce à la vaccination systématique par le vaccin hexavalent durant la petite enfance chez ce patient en ordre de rappel, les infections invasives à Haemophilus influenzae de type b sont devenues exceptionnelles. ",
+    "Page": 127.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 88,
+    "Question": "Un patient de 3 ans se présente avec une clinique franche de méningite ayant débuté quelques heures avant son arrivée aux urgences. Il est vacciné selon le calendrier belge pour son âge. Il n'y a pas de contre-indication à la ponction lombaire qui est réalisée rapidement. Les résultats sont les suivants : 1200 cellules nucléées/mm3 (la formule n'est pas encore disponible), protéinorachie 1g/l, glycorachie 40 mg/dl. Une prise de sang a été réalisée juste avant la ponction lombaire : la CRP, les hémocultures sont en cours et la glycémie est de 80 mg/dl. Quels pathogènes sont les plus probablement responsables de cette infection ?",
+    "Proposition": "E coli ou Streptococcus groupe B",
+    "Reponse": false,
+    "Justification": "Streptococcus agalactiae et Escherichia coli sont les pathogènes prédominants de la période néonatale chez le nourrisson de moins de six semaines, et ne sont plus les causes principales chez un enfant de trois ans. ",
+    "Page": 39.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 89,
+    "Question": "Un patient de 3 ans se présente avec une clinique franche de méningite ayant débuté quelques heures avant son arrivée aux urgences. Il est vacciné selon le calendrier belge pour son âge. Il n'y a pas de contre-indication à la ponction lombaire qui est réalisée rapidement. Les résultats sont les suivants : 1200 cellules nucléées/mm3 (la formule n'est pas encore disponible), protéinorachie 1g/l, glycorachie 40 mg/dl. Une prise de sang a été réalisée juste avant la ponction lombaire : la CRP, les hémocultures sont en cours et la glycémie est de 80 mg/dl. Quels pathogènes sont les plus probablement responsables de cette infection ?",
+    "Proposition": "Pneumocoque",
+    "Reponse": true,
+    "Justification": "Le pneumocoque est l'un des deux principaux agents bactériens responsables de méningite purulente chez l'enfant de plus de deux ans, en accord avec ce profil de liquide céphalo-rachidien inflammatoire. ",
+    "Page": 39.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 90,
+    "Question": "Un patient de 3 ans se présente avec une clinique franche de méningite ayant débuté quelques heures avant son arrivée aux urgences. Il est vacciné selon le calendrier belge pour son âge. Il n'y a pas de contre-indication à la ponction lombaire qui est réalisée rapidement. Les résultats sont les suivants : 1200 cellules nucléées/mm3 (la formule n'est pas encore disponible), protéinorachie 1g/l, glycorachie 40 mg/dl. Une prise de sang a été réalisée juste avant la ponction lombaire : la CRP, les hémocultures sont en cours et la glycémie est de 80 mg/dl. Quels pathogènes sont les plus probablement responsables de cette infection ?",
+    "Proposition": "Méningocoque",
+    "Reponse": true,
+    "Justification": "Neisseria meningitidis constitue, avec le pneumocoque, la cause la plus fréquente de méningite bactérienne aiguë chez l'enfant de plus de deux ans. ",
+    "Page": 39.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 91,
+    "Question": "Quels sont les précautions additionnelles (PA) à mettre en place pour un patient colonisé par une entérobactérie productrice de carbapénémase (CPE) au niveau rectal ?",
+    "Proposition": "PA 'contact'",
+    "Reponse": true,
+    "Justification": "Les entérobactéries productrices de carbapénémase étant des bactéries hautement résistantes transmissibles par les mains ou l'environnement, des précautions additionnelles de type contact sont requises. ",
+    "Page": 11.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 92,
+    "Question": "Quels sont les précautions additionnelles (PA) à mettre en place pour un patient colonisé par une entérobactérie productrice de carbapénémase (CPE) au niveau rectal ?",
+    "Proposition": "PA 'gouttelettes'",
+    "Reponse": false,
+    "Justification": "Les précautions de type gouttelettes ne sont pas indiquées pour la colonisation rectale à CPE, car cette bactérie ne se transmet pas par voie respiratoire via des sécrétions aériennes de gros calibre. ",
+    "Page": 15.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 93,
+    "Question": "Quels sont les précautions additionnelles (PA) à mettre en place pour un patient colonisé par une entérobactérie productrice de carbapénémase (CPE) au niveau rectal ?",
+    "Proposition": "PA 'aérien'",
+    "Reponse": false,
+    "Justification": "Les précautions de type aérien concernent les agents pathogènes se transmettant par de fines particules restant en suspension dans l'air, ce qui n'est pas le cas des entérobactéries. ",
+    "Page": 15.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 94,
+    "Question": "Quels sont les précautions additionnelles (PA) à mettre en place pour un patient colonisé par une entérobactérie productrice de carbapénémase (CPE) au niveau rectal ?",
+    "Proposition": "Aucune",
+    "Reponse": false,
+    "Justification": "L'absence de précautions additionnelles pour un patient porteur de CPE expose l'ensemble du service de soins à un risque majeur de transmission croisée et d'épidémie de bactéries multi-résistantes. ",
+    "Page": 11.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 95,
+    "Question": "Quels sont les précautions additionnelles (PA) à mettre en place pour un patient colonisé par une entérobactérie productrice de carbapénémase (CPE) au niveau rectal ?",
+    "Proposition": "PA 'contact', mais uniquement s'il est diarrhéique",
+    "Reponse": true,
+    "Justification": "Les précautions contact doivent être appliquées systématiquement dès l'identification d'un portage de CPE, indépendamment de la présence de diarrhée, afin de prévenir la contamination de l'environnement hospitalier. ",
+    "Page": 15.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 96,
+    "Question": "Vous participez à une consultation de médecine du voyage. Parmi les pathogènes suivants, contre lesquels un vaccin est-il disponible pour des voyageurs ?",
+    "Proposition": "Maladie de Lyme",
+    "Reponse": false,
+    "Justification": "Il n'existe pas de vaccin disponible en Belgique contre la maladie de Lyme, la prévention reposant uniquement sur l'éviction des morsures de tiques et l'utilisation de répulsifs. ",
+    "Page": 120.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 97,
+    "Question": "Vous participez à une consultation de médecine du voyage. Parmi les pathogènes suivants, contre lesquels un vaccin est-il disponible pour des voyageurs ?",
+    "Proposition": "Tick Borne Encephalitis (TBE) ou encéphalite à tiques",
+    "Reponse": true,
+    "Justification": "Un vaccin efficace contre l'encéphalite à tiques est disponible et recommandé pour les voyageurs se rendant en zone d'endémie forestière en Europe centrale ou de l'Est durant la saison d'activité des tiques. ",
+    "Page": 138.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 98,
+    "Question": "Vous participez à une consultation de médecine du voyage. Parmi les pathogènes suivants, contre lesquels un vaccin est-il disponible pour des voyageurs ?",
+    "Proposition": "Malaria",
+    "Reponse": false,
+    "Justification": "Pour les voyageurs, la prévention du paludisme repose sur la chimioprophylaxie médicamenteuse et la protection contre les piqûres de moustiques, et non sur une vaccination qui n'est pas recommandée pour ce public. ",
+    "Page": 135.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 99,
+    "Question": "Vous participez à une consultation de médecine du voyage. Parmi les pathogènes suivants, contre lesquels un vaccin est-il disponible pour des voyageurs ?",
+    "Proposition": "Zika",
+    "Reponse": false,
+    "Justification": "Aucun vaccin n'est commercialisé à ce jour contre le virus Zika, la prévention reposant sur les mesures de protection anti-vectorielle contre les moustiques du genre Aedes. ",
+    "Page": 137.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 100,
+    "Question": "Vous participez à une consultation de médecine du voyage. Parmi les pathogènes suivants, contre lesquels un vaccin est-il disponible pour des voyageurs ?",
+    "Proposition": "Fièvre jaune",
+    "Reponse": true,
+    "Justification": "Le vaccin contre la fièvre jaune est obligatoire ou fortement recommandé pour les voyageurs se rendant dans les zones endémiques intertropicales d'Afrique et d'Amérique du Sud. ",
+    "Page": 137.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 101,
+    "Question": "Lesquels de ces vaccins sont des vaccins vivants ?",
+    "Proposition": "Le vaccin oral contre rotavirus.",
+    "Reponse": true,
+    "Justification": "Le vaccin contre le rotavirus administré par voie orale chez le nourrisson est composé de souches virales vivantes atténuées. ",
+    "Page": 96.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 102,
+    "Question": "Lesquels de ces vaccins sont des vaccins vivants ?",
+    "Proposition": "Le vaccin contre l'hépatite A.",
+    "Reponse": false,
+    "Justification": "Le vaccin contre l'hépatite A est un vaccin à virus entier inactivé, ne contenant aucun agent infectieux vivant. ",
+    "Page": 129.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 103,
+    "Question": "Lesquels de ces vaccins sont des vaccins vivants ?",
+    "Proposition": "Le vaccin conjugué contre le pneumocoque.",
+    "Reponse": false,
+    "Justification": "Le vaccin conjugué contre le pneumocoque est un vaccin sous-unitaire inerte composé de polysaccharides bactériens liés à une protéine de transport, sans composant bactérien vivant. ",
+    "Page": 129.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 104,
+    "Question": "Lesquels de ces vaccins sont des vaccins vivants ?",
+    "Proposition": "Le vaccin contre la varicelle, utilisé aussi chez l'enfant.",
+    "Reponse": true,
+    "Justification": "Le vaccin contre la varicelle est un vaccin constitué d'une souche vivante atténuée du virus varicelle-zona. ",
+    "Page": 129.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 105,
+    "Question": "Lesquels de ces vaccins sont des vaccins vivants ?",
+    "Proposition": "Le vaccin contre la rougeole, la rubéole et les oreillons.",
+    "Reponse": true,
+    "Justification": "Le vaccin RRO est un vaccin trivalent associant trois souches de virus vivants atténués. ",
+    "Page": 129.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 106,
+    "Question": "Concernant les différents types de masques, indiquer la ou les propositions fausses :",
+    "Proposition": "Un masque chirurgical évite la projection vers l'entourage des plus grosses particules émises par celui qui porte le masque.",
+    "Reponse": true,
+    "Justification": "Cette affirmation est exacte, le but premier du masque chirurgical étant de faire barrière à la projection de gouttelettes de salive ou de sécrétions respiratoires vers l'entourage. ",
+    "Page": 9.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 107,
+    "Question": "Concernant les différents types de masques, indiquer la ou les propositions fausses :",
+    "Proposition": "Un masque chirurgical ne protège celui qui le porte, ni contre les projections de grosses particules émises par une personne en vis-à-vis, ni des aérosols.",
+    "Reponse": false,
+    "Justification": "Cette proposition est fausse car le masque chirurgical protège bel et bien le porteur contre la projection directe de grosses gouttelettes émises par une personne située à proximité, bien qu'il n'assure pas de protection contre les aérosols. ",
+    "Page": 9.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 108,
+    "Question": "Concernant les différents types de masques, indiquer la ou les propositions fausses :",
+    "Proposition": "On distingue trois catégories de pièces faciales filtrantes (FFP).",
+    "Reponse": true,
+    "Justification": "Il existe effectivement trois classes réglementaires de masques de protection respiratoire de type pièce faciale filtrante, nommées FFP1, FFP2 et FFP3 selon leur efficacité de filtration respiratoire. ",
+    "Page": 9.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 109,
+    "Question": "Concernant les différents types de masques, indiquer la ou les propositions fausses :",
+    "Proposition": "Les masques FFP2 filtrent au moins 94 % des aérosols de taille moyenne (0,6 µm).",
+    "Reponse": true,
+    "Justification": "Selon les normes européennes de protection individuelle, les masques de classe FFP2 possèdent une capacité de filtration minimale de 94 % des particules et aérosols de taille moyenne. ",
+    "Page": 9.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 110,
+    "Question": "Concernant les différents types de masques, indiquer la ou les propositions fausses :",
+    "Proposition": "On distingue trois catégories de masques chirurgicaux en fonction de l'efficacité de filtration bactérienne.",
+    "Reponse": false,
+    "Justification": "Les masques chirurgicaux à usage médical sont classés en trois catégories réglementaires selon les normes européennes basées sur leur efficacité de filtration bactérienne et leur résistance aux projections. ",
+    "Page": 9.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 111,
+    "Question": "Un homme de 70 ans, Bruxellois depuis toujours, se présente pour une morsure à la main causée par son chihuahua. Son chien est en ordre de vaccins mais probablement pas lui. Quelle est la meilleure attitude ?",
+    "Proposition": "Vaccin anti-rabique",
+    "Reponse": false,
+    "Justification": "La rage canine étant éradiquée en Belgique et le chien n'ayant pas d'historique d'importation, la vaccination antirabique post-exposition n'est pas indiquée dans cette situation. ",
+    "Page": 116.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 112,
+    "Question": "Un homme de 70 ans, Bruxellois depuis toujours, se présente pour une morsure à la main causée par son chihuahua. Son chien est en ordre de vaccins mais probablement pas lui. Quelle est la meilleure attitude ?",
+    "Proposition": "Prophylaxie par amoxicilline-clavulanate",
+    "Reponse": true,
+    "Justification": "Les morsures de chien au niveau de la main présentent un risque élevé de complications infectieuses locales graves, ce qui justifie une antibioprophylaxie systématique par amoxicilline-acide clavulanique pendant 5 jours. ",
+    "Page": 116.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 113,
+    "Question": "Un homme de 70 ans, Bruxellois depuis toujours, se présente pour une morsure à la main causée par son chihuahua. Son chien est en ordre de vaccins mais probablement pas lui. Quelle est la meilleure attitude ?",
+    "Proposition": "Vaccin anti-tétanique",
+    "Reponse": true,
+    "Justification": "Face à une morsure animale chez un patient dont la couverture vaccinale n'est pas à jour, la réalisation d'un rappel de vaccination antitétanique est systématiquement recommandée. ",
+    "Page": 116.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 114,
+    "Question": "Un homme de 70 ans, Bruxellois depuis toujours, se présente pour une morsure à la main causée par son chihuahua. Son chien est en ordre de vaccins mais probablement pas lui. Quelle est la meilleure attitude ?",
+    "Proposition": "Prophylaxie par meropenem",
+    "Reponse": false,
+    "Justification": "L'utilisation du méropénem est inappropriée et disproportionnée pour la prophylaxie d'une morsure à domicile, cette molécule devant être réservée aux infections nosocomiales sévères à germes multi-résistantes. ",
+    "Page": 120.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 115,
+    "Question": "Un homme de 70 ans, Bruxellois depuis toujours, se présente pour une morsure à la main causée par son chihuahua. Son chien est en ordre de vaccins mais probablement pas lui. Quelle est la meilleure attitude ?",
+    "Proposition": "Sérologie Lyssavirus chez le chien",
+    "Reponse": false,
+    "Justification": "La recherche sérologique du virus de la rage chez un chien domestique vacciné vivant en Belgique n'est pas indiquée en pratique courante compte tenu du statut indemne du pays. ",
+    "Page": 120.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 116,
+    "Question": "Parmi ces 5 situations, quelles sont celles qui ne constitue(nt) pas une des 5 indications de l'hygiène des mains HDM ?",
+    "Proposition": "Avant de toucher un patient",
+    "Reponse": true,
+    "Justification": "Le contact direct avec le patient représente la première indication de l'hygiène des mains selon l'OMS afin de protéger le patient contre les germes transportés sur les mains du soignant. ",
+    "Page": 12.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 117,
+    "Question": "Parmi ces 5 situations, quelles sont celles qui ne constitue(nt) pas une des 5 indications de l'hygiène des mains HDM ?",
+    "Proposition": "Avant un geste aseptique (pose de perfusion, manipulation de matériel stérile)",
+    "Reponse": false,
+    "Justification": "Pratiquer l'hygiène des mains immédiatement avant d'effectuer un soin aseptique est obligatoire pour éviter l'introduction accidentelle de germes dans un site normalement stérile du patient. ",
+    "Page": 12.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 118,
+    "Question": "Parmi ces 5 situations, quelles sont celles qui ne constitue(nt) pas une des 5 indications de l'hygiène des mains HDM ?",
+    "Proposition": "Après un geste aseptique (pose de perfusion, manipulation de matériel stérile)",
+    "Reponse": false,
+    "Justification": "Les 5 moments de l'hygiène des mains définis par l'OMS n'incluent pas d'indication spécifique après la réalisation d'un soin aseptique, sauf si celui-ci implique un contact avec des liquides biologiques ou le patient lui-même. ",
+    "Page": 12.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 119,
+    "Question": "Parmi ces 5 situations, quelles sont celles qui ne constitue(nt) pas une des 5 indications de l'hygiène des mains HDM ?",
+    "Proposition": "Avant un risque d'exposition aux liquides biologiques",
+    "Reponse": false,
+    "Justification": "L'indication de l'OMS concerne l'hygiène des mains réalisée immédiatement après un risque d'exposition à un liquide biologique pour protéger le soignant et l'environnement, et non pas avant ce risque. ",
+    "Page": 12.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 120,
+    "Question": "Parmi ces 5 situations, quelles sont celles qui ne constitue(nt) pas une des 5 indications de l'hygiène des mains HDM ?",
+    "Proposition": "Après un risque d'exposition aux liquides biologiques",
+    "Reponse": true,
+    "Justification": "La friction ou le lavage des mains après tout risque d'exposition à des liquides biologiques est requis pour éliminer la contamination potentielle des mains du soignant par des agents infectieux. ",
+    "Page": 12.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 121,
+    "Question": "Dans quelles circonstances doit-on débuter des antibiotiques en cas d'otite moyenne aiguë (OMA) ?",
+    "Proposition": "Chez un patient de 5 mois avec une OMA unilatérale non perforée.",
+    "Reponse": true,
+    "Justification": "En Belgique, l'antibiothérapie d'emblée est recommandée pour toute otite moyenne aiguë diagnostiquée chez un nourrisson de moins de six mois, compte tenu du risque accru de complications à cet âge. ",
+    "Page": 63.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 122,
+    "Question": "Dans quelles circonstances doit-on débuter des antibiotiques en cas d'otite moyenne aiguë (OMA) ?",
+    "Proposition": "Les OMA sont toujours d'origine virale. Les antibiotiques sont inefficaces.",
+    "Reponse": false,
+    "Justification": "Bien que l'épisode initial soit souvent d'origine virale, l'otite moyenne aiguë se complique fréquemment d'une surinfection bactérienne par des pathogènes comme le pneumocoque ou Haemophilus influenzae, justifiant parfois le recours aux antibiotiques. ",
+    "Page": 63.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 123,
+    "Question": "Dans quelles circonstances doit-on débuter des antibiotiques en cas d'otite moyenne aiguë (OMA) ?",
+    "Proposition": "Chez un patient de 18 mois avec OMA bilatérale non perforée.",
+    "Reponse": true,
+    "Justification": "L'antibiothérapie d'emblée est recommandée en cas d'otite moyenne aiguë bilatérale chez les enfants âgés de moins de deux ans afin de réduire la durée de la symptomatologie douloureuse et fébrile. ",
+    "Page": 63.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 124,
+    "Question": "Dans quelles circonstances doit-on débuter des antibiotiques en cas d'otite moyenne aiguë (OMA) ?",
+    "Proposition": "Chez un patient de 6 ans, avec une OMA non perforée unilatérale après un traitement symptomatique de 3 jours sans effet.",
+    "Reponse": true,
+    "Justification": "L'absence d'amélioration clinique après 72 heures d'un traitement symptomatique bien conduit constitue une indication à initier une antibiothérapie par amoxicilline. ",
+    "Page": 63.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 125,
+    "Question": "Dans quelles circonstances doit-on débuter des antibiotiques en cas d'otite moyenne aiguë (OMA) ?",
+    "Proposition": "Chez un adolescent avec une OMA bilatérale.",
+    "Reponse": false,
+    "Justification": "Chez le grand enfant et l'adolescent, l'otite moyenne aiguë bilatérale non compliquée peut faire l'objet d'une surveillance clinique initiale et d'un traitement symptomatique simple de 48 à 72 heures avant d'envisager des antibiotiques. ",
+    "Page": 63.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 126,
+    "Question": "Les fluoroquinolones ont comme caractéristiques :",
+    "Proposition": "Un spectre efficace contre les bactéries de type Enterococcus.",
+    "Reponse": false,
+    "Justification": "Les fluoroquinolones ne possèdent pas d'efficacité clinique fiable contre les bactéries du genre Enterococcus, qui nécessitent l'utilisation de bétalactamines comme l'amoxicilline ou de glycopeptides. ",
+    "Page": 18.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 127,
+    "Question": "Les fluoroquinolones ont comme caractéristiques :",
+    "Proposition": "Un rôle important en traitement empirique de première ligne notamment dans les infections respiratoires basses.",
+    "Reponse": false,
+    "Justification": "Les fluoroquinolones doivent être évitées en traitement empirique de première intention, l'amoxicilline restant le premier choix pour les infections respiratoires basses courantes afin de limiter l'émergence de résistances. ",
+    "Page": 20.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 128,
+    "Question": "Les fluoroquinolones ont comme caractéristiques :",
+    "Proposition": "Un risque de tendinopathie.",
+    "Reponse": true,
+    "Justification": "La survenue de tendinopathies, pouvant aller jusqu'à la rupture du tendon d'Achille, est un effet secondaire classique et grave associé à l'utilisation des fluoroquinolones. ",
+    "Page": 24.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 129,
+    "Question": "Les fluoroquinolones ont comme caractéristiques :",
+    "Proposition": "Un risque rare mais possible d'anévrysme aortique.",
+    "Reponse": true,
+    "Justification": "Les fluoroquinolones sont associées à une augmentation du risque de dissection ou de rupture d'anévrisme aortique, justifiant une surveillance accrue chez les patients à risque cardiovasculaire. ",
+    "Page": 24.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 130,
+    "Question": "Les fluoroquinolones ont comme caractéristiques :",
+    "Proposition": "Un risque d'hépatite.",
+    "Reponse": true,
+    "Justification": "Une toxicité hépatique sous forme d'hépatite médicamenteuse aiguë fait partie des effets indésirables connus et documentés des fluoroquinolones. ",
+    "Page": 24.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 131,
+    "Question": "Concernant la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Le test diagnostique illustré ici est un ELISA (enzyme linked immuno-assay).",
+    "Reponse": true,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/2.0.png"
+  },
+  {
+    "Numero": 132,
+    "Question": "Concernant la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Le test diagnostique illustré ici est un test de fixation du complément.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/2.0.png"
+  },
+  {
+    "Numero": 133,
+    "Question": "Concernant la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Le test diagnostique illustré ici est une immunochromatographie.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/2.0.png"
+  },
+  {
+    "Numero": 134,
+    "Question": "Concernant la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Le test diagnostique illustré ici est une capture d'hybrides.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/2.0.png"
+  },
+  {
+    "Numero": 135,
+    "Question": "Concernant la figure suivante, indiquer la réponse correcte.",
+    "Proposition": "Aucune des propositions n'est correcte.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/2.0.png"
+  },
+  {
+    "Numero": 136,
+    "Question": "Une patiente de 48 ans, sans antécédent, se présente à votre consultation de médecine générale. Ses plaintes sont : une toux initialement sèche, une rhinorrhée et de la fatigue depuis 20 jours. Elle expectore depuis 3 jours. Les paramètres sont dans les normes et la patiente n'est cliniquement pas très inquiétante. Vous décidez de la prendre en charge en ambulatoire (au cabinet). Quels examens allez-vous (ou pourriez-vous) prescrire dans l'hypothèse d'une infection respiratoire ?",
+    "Proposition": "L'auscultation des poumons révèle des râles en base droite. Vous allez prescrire une radiographie de thorax.",
+    "Reponse": true,
+    "Justification": "Pour une patiente présentant des râles localisés à l'auscultation pulmonaire, la réalisation d'une imagerie thoracique par radiographie est indispensable pour confirmer une suspicion de pneumonie aiguë de la communauté. ",
+    "Page": 71.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 137,
+    "Question": "Une patiente de 48 ans, sans antécédent, se présente à votre consultation de médecine générale. Ses plaintes sont : une toux initialement sèche, une rhinorrhée et de la fatigue depuis 20 jours. Elle expectore depuis 3 jours. Les paramètres sont dans les normes et la patiente n'est cliniquement pas très inquiétante. Vous décidez de la prendre en charge en ambulatoire (au cabinet). Quels examens allez-vous (ou pourriez-vous) prescrire dans l'hypothèse d'une infection respiratoire ?",
+    "Proposition": "L'auscultation des poumons révèle des râles en base droite. Vous allez prescrire un scanner du thorax.",
+    "Reponse": false,
+    "Justification": "Pour une patiente prise en charge en ambulatoire et sans critères de gravité clinique, le scanner thoracique n'est pas recommandé en première intention, la radiographie de thorax standard étant l'examen d'imagerie de référence. ",
+    "Page": 71.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 138,
+    "Question": "Une patiente de 48 ans, sans antécédent, se présente à votre consultation de médecine générale. Ses plaintes sont : une toux initialement sèche, une rhinorrhée et de la fatigue depuis 20 jours. Elle expectore depuis 3 jours. Les paramètres sont dans les normes et la patiente n'est cliniquement pas très inquiétante. Vous décidez de la prendre en charge en ambulatoire (au cabinet). Quels examens allez-vous (ou pourriez-vous) prescrire dans l'hypothèse d'une infection respiratoire ?",
+    "Proposition": "Une PCR ou une sérologie Mycoplasma pneumoniae.",
+    "Reponse": false,
+    "Justification": "Devant une toux sèche prolongée évoluant depuis près de trois semaines chez une patiente jeune, une infection atypique à Mycoplasma pneumoniae est possible et peut être recherchée par biologie moléculaire ou sérologie. ",
+    "Page": 75.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 139,
+    "Question": "Une patiente de 48 ans, sans antécédent, se présente à votre consultation de médecine générale. Ses plaintes sont : une toux initialement sèche, une rhinorrhée et de la fatigue depuis 20 jours. Elle expectore depuis 3 jours. Les paramètres sont dans les normes et la patiente n'est cliniquement pas très inquiétante. Vous décidez de la prendre en charge en ambulatoire (au cabinet). Quels examens allez-vous (ou pourriez-vous) prescrire dans l'hypothèse d'une infection respiratoire ?",
+    "Proposition": "Une aspiration trachéo-bronchique pour prélever des sécrétions à envoyer en culture.",
+    "Reponse": false,
+    "Justification": "L'aspiration trachéo-bronchique est un geste invasif réservé aux patients intubés ou hospitalisés, et n'a pas d'indication pour une prise en charge ambulatoire simple au cabinet de médecine générale. ",
+    "Page": 72.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 140,
+    "Question": "Une patiente de 48 ans, sans antécédent, se présente à votre consultation de médecine générale. Ses plaintes sont : une toux initialement sèche, une rhinorrhée et de la fatigue depuis 20 jours. Elle expectore depuis 3 jours. Les paramètres sont dans les normes et la patiente n'est cliniquement pas très inquiétante. Vous décidez de la prendre en charge en ambulatoire (au cabinet). Quels examens allez-vous (ou pourriez-vous) prescrire dans l'hypothèse d'une infection respiratoire ?",
+    "Proposition": "Un antigène aspergillaire (galactomannane) sanguin.",
+    "Reponse": false,
+    "Justification": "La recherche de l'antigène galactomannane sérique est un test de diagnostic de l'aspergillose invasive indiqué chez les patients profondément immunodéprimés et n'a aucune place chez une patiente immunocompétente. ",
+    "Page": 146.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 141,
+    "Question": "Un jeune homme de 25 ans revient d'un séjour en Espagne (cité balnéaire sur la Costa Brava). Il présente un rash au niveau du tronc et des extrémités. Il n'a pas de température. A l'anamnèse, il a eu plusieurs rapports sexuels sous influence avec des hommes et des femmes. Quels tests sont indiqués ?",
+    "Proposition": "Sérologie avec tests tréponémique et non tréponémique",
+    "Reponse": true,
+    "Justification": "Le rash cutané du tronc et des extrémités apparu chez un patient ayant des partenaires multiples évoque une syphilis secondaire, dont le diagnostic repose sur l'association de tests sérologiques tréponémiques et non tréponémiques. ",
+    "Page": 84.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 142,
+    "Question": "Un jeune homme de 25 ans revient d'un séjour en Espagne (cité balnéaire sur la Costa Brava). Il présente un rash au niveau du tronc et des extrémités. Il n'a pas de température. A l'anamnèse, il a eu plusieurs rapports sexuels sous influence avec des hommes et des femmes. Quels tests sont indiqués ?",
+    "Proposition": "Sérologie VIH",
+    "Reponse": true,
+    "Justification": "Un dépistage systématique du VIH par sérologie de quatrième génération est indispensable suite à des rapports sexuels récents à risque avec des partenaires multiples. ",
+    "Page": 86.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 143,
+    "Question": "Un jeune homme de 25 ans revient d'un séjour en Espagne (cité balnéaire sur la Costa Brava). Il présente un rash au niveau du tronc et des extrémités. Il n'a pas de température. A l'anamnèse, il a eu plusieurs rapports sexuels sous influence avec des hommes et des femmes. Quels tests sont indiqués ?",
+    "Proposition": "Sérologie Lyme",
+    "Reponse": false,
+    "Justification": "En l'absence de signes cliniques évocateurs de borréliose disséminée ou d'érythème migrant typique, la sérologie de Lyme n'est pas indiquée et présente un risque important de résultats faux positifs. ",
+    "Page": 124.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 144,
+    "Question": "Un jeune homme de 25 ans revient d'un séjour en Espagne (cité balnéaire sur la Costa Brava). Il présente un rash au niveau du tronc et des extrémités. Il n'a pas de température. A l'anamnèse, il a eu plusieurs rapports sexuels sous influence avec des hommes et des femmes. Quels tests sont indiqués ?",
+    "Proposition": "Sérologie Herpes simplex",
+    "Reponse": false,
+    "Justification": "La sérologie pour le virus Herpes simplex n'a pas d'utilité pour le dépistage de routine d'une infection sexuellement transmissible en l'absence de lésions vésiculeuses ou ulcéreuses actives. ",
+    "Page": 82.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 145,
+    "Question": "Un jeune homme de 25 ans revient d'un séjour en Espagne (cité balnéaire sur la Costa Brava). Il présente un rash au niveau du tronc et des extrémités. Il n'a pas de température. A l'anamnèse, il a eu plusieurs rapports sexuels sous influence avec des hommes et des femmes. Quels tests sont indiqués ?",
+    "Proposition": "Sérologie Neisseria gonorrhea",
+    "Reponse": false,
+    "Justification": "Le diagnostic d'une infection à Neisseria gonorrhoeae s'effectue par biologie moléculaire sur un prélèvement local, la sérologie n'étant pas une méthode diagnostique valide pour cette bactérie. ",
+    "Page": 83.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 146,
+    "Question": "A propos de la coqueluche, indiquer la ou les propositions correctes :",
+    "Proposition": "Le traitement antibiotique permet de faire cesser la toux prolongée typique de cette infection.",
+    "Reponse": false,
+    "Justification": "Si l'antibiothérapie permet de réduire la contagiosité de la coqueluche, elle n'a que peu d'effet sur la toux prolongée de la phase paroxystique lorsque celle-ci est déjà installée. ",
+    "Page": 76.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 147,
+    "Question": "A propos de la coqueluche, indiquer la ou les propositions correctes :",
+    "Proposition": "La coqueluche peut donner une toux typique en quinte, appelée \"chant du coq\".",
+    "Reponse": true,
+    "Justification": "La coqueluche se caractérise typiquement par une toux persistante évoluant par quintes, parfois suivie d'une inspiration difficile et bruyante appelée le chant du coq. ",
+    "Page": 76.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 148,
+    "Question": "A propos de la coqueluche, indiquer la ou les propositions correctes :",
+    "Proposition": "La sérologie est l'outil diagnostic de choix dès 5 jours de symptômes.",
+    "Reponse": false,
+    "Justification": "À un stade précoce de la maladie, le test diagnostique de choix pour la coqueluche est la PCR moléculaire, la sérologie ne se positivant que plus tardivement durant la phase de convalescence. ",
+    "Page": 76.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 149,
+    "Question": "A propos de la coqueluche, indiquer la ou les propositions correctes :",
+    "Proposition": "La coqueluche maligne du nourrisson de moins de 2 mois est efficacement prévenue par la vaccination maternelle qui doit avoir lieu durant la grossesse.",
+    "Reponse": true,
+    "Justification": "La vaccination de la femme enceinte induit la production d'anticorps qui traversent le placenta pour protéger efficacement le nouveau-né contre la coqueluche maligne avant ses premières vaccinations. ",
+    "Page": 77.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 150,
+    "Question": "A propos de la coqueluche, indiquer la ou les propositions correctes :",
+    "Proposition": "Le traitement de 1e choix est une céphalosporine de première génération.",
+    "Reponse": false,
+    "Justification": "Le traitement antibiotique de première intention recommandé pour la coqueluche est un macrolide comme l'azithromycine, et non une céphalosporine. ",
+    "Page": 76.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 151,
+    "Question": "Une jeune femme enceinte présente de la température à 38.5°C, des frissons, vomissements et douleurs lombaires. Les examens suivants doivent être réalisés, indiquer la ou les propositions correctes :",
+    "Proposition": "coloration de Gram sur un frottis de sang",
+    "Reponse": false,
+    "Justification": "La coloration de Gram sur frottis sanguin n'est pas un examen indiqué en première intention pour le bilan d'une pyélonéphrite aiguë suspectée chez la femme enceinte. ",
+    "Page": 53.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 152,
+    "Question": "Une jeune femme enceinte présente de la température à 38.5°C, des frissons, vomissements et douleurs lombaires. Les examens suivants doivent être réalisés, indiquer la ou les propositions correctes :",
+    "Proposition": "des hémocultures",
+    "Reponse": true,
+    "Justification": "Devant une suspicion de pyélonéphrite aiguë chez la femme enceinte, la réalisation d'hémocultures est indispensable pour identifier une éventuelle bactériémie associée. ",
+    "Page": 54.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 153,
+    "Question": "Une jeune femme enceinte présente de la température à 38.5°C, des frissons, vomissements et douleurs lombaires. Les examens suivants doivent être réalisés, indiquer la ou les propositions correctes :",
+    "Proposition": "un examen cytobactériologique des urines (ECBU)",
+    "Reponse": true,
+    "Justification": "L'examen cytobactériologique des urines est l'examen fondamental de première intention pour confirmer l'infection urinaire, identifier la bactérie en cause et réaliser un antibiogramme. ",
+    "Page": 45.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 154,
+    "Question": "Une jeune femme enceinte présente de la température à 38.5°C, des frissons, vomissements et douleurs lombaires. Les examens suivants doivent être réalisés, indiquer la ou les propositions correctes :",
+    "Proposition": "un test antigénique Legionella dans les urines",
+    "Reponse": false,
+    "Justification": "Le test de détection de l'antigénurie légionelle est spécifique au diagnostic de pneumonie sévère à Legionella pneumophila et n'a aucune pertinence clinique pour une pyélonéphrite. ",
+    "Page": 74.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 155,
+    "Question": "Une jeune femme enceinte présente de la température à 38.5°C, des frissons, vomissements et douleurs lombaires. Les examens suivants doivent être réalisés, indiquer la ou les propositions correctes :",
+    "Proposition": "une PCR sur un prélèvement urinaire pour la recherche de Chlamydia",
+    "Reponse": false,
+    "Justification": "La recherche de Chlamydia par PCR sur urines est indiquée pour le bilan d'une urétrite ou d'une infection sexuellement transmissible, mais elle n'est pas recommandée pour le diagnostic d'une pyélonéphrite aiguë fébrile. ",
+    "Page": 83.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 156,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses :",
+    "Proposition": "Lorsqu'on réalise une sérologie, les IgM précèdent l'apparition des IgG.",
+    "Reponse": true,
+    "Justification": "La réponse immunitaire humorale primaire se traduit d'abord par la production précoce d'anticorps de classe IgM avant l'apparition d'anticorps de classe IgG plus tardifs et durables. ",
+    "Page": 106.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 157,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses :",
+    "Proposition": "La spécificité des IgM est plus importante que celle des IgG.",
+    "Reponse": false,
+    "Justification": "Les IgM, produites de manière précoce lors de la réponse humorale, présentent souvent une moins bonne spécificité et une plus grande réactivité croisée que les IgG qui bénéficient d'une maturation d'affinité. ",
+    "Page": 3.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 158,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses :",
+    "Proposition": "La présence d'une sérologie positive pour un pathogène ne confère pas toujours une immunité efficace contre le pathogène en question.",
+    "Reponse": true,
+    "Justification": "De nombreuses sérologies positives signent un contact avec le pathogène ou une infection active sans pour autant conférer d'immunité protectrice. ",
+    "Page": 81.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 159,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses :",
+    "Proposition": "L'avantage de la sérologie est de permettre le plus souvent un diagnostic microbiologique (identification d'un germe) dès le début de la symptomatologie.",
+    "Reponse": false,
+    "Justification": "Les anticorps mettent du temps à apparaître, ce qui rend la sérologie peu utile pour un diagnostic microbiologique précoce dès le début de la phase aiguë. ",
+    "Page": 3.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 160,
+    "Question": "Parmi les affirmations suivantes, indiquer la ou les propositions fausses :",
+    "Proposition": "La PCR est une technique diagnostique généralement très sensible.",
+    "Reponse": true,
+    "Justification": "La PCR est une méthode moléculaire dotée d'une très haute sensibilité et d'une grande spécificité pour la détection directe d'infimes quantités de matériel génétique microbien. ",
+    "Page": 83.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 161,
+    "Question": "Concernant la bonne prescription des antibiotiques, quelles sont les bonnes propositions ?",
+    "Proposition": "Il faut tenir compte du sexe du patient.",
+    "Reponse": false,
+    "Justification": "Le sexe du patient est un critère essentiel pour la prescription antibiotique, notamment dans les infections urinaires où la prise en charge d'une infection masculine impose des molécules à excellente pénétration prostatique. ",
+    "Page": 48.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 162,
+    "Question": "Concernant la bonne prescription des antibiotiques, quelles sont les bonnes propositions ?",
+    "Proposition": "Il faut tenir compte du poids du patient.",
+    "Reponse": true,
+    "Justification": "Le poids du patient est un paramètre indispensable à intégrer pour le calcul précis des doses d'antibiotiques, particulièrement en pédiatrie pour éviter les sous-dosages ou les toxicités. ",
+    "Page": 52.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 163,
+    "Question": "Concernant la bonne prescription des antibiotiques, quelles sont les bonnes propositions ?",
+    "Proposition": "Il faut tenir compte du site infecté.",
+    "Reponse": true,
+    "Justification": "Le choix de l'antibiotique doit prendre en compte la capacité de la molécule à diffuser efficacement et à atteindre des concentrations thérapeutiques au niveau du site spécifique de l'infection. ",
+    "Page": 21.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 164,
+    "Question": "Concernant la bonne prescription des antibiotiques, quelles sont les bonnes propositions ?",
+    "Proposition": "Il faut tenir compte de la fonction rénale.",
+    "Reponse": true,
+    "Justification": "L'évaluation de la fonction rénale est capitale pour adapter la posologie de nombreux antibiotiques à élimination rénale afin de prévenir des phénomènes d'accumulation toxique. ",
+    "Page": 21.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 165,
+    "Question": "Concernant la bonne prescription des antibiotiques, quelles sont les bonnes propositions ?",
+    "Proposition": "Il faut tenir compte de la fréquentation de milieux d'accueil chez les enfants en âge préscolaire.",
+    "Reponse": false,
+    "Justification": "La fréquentation d'une crèche ou d'un milieu d'accueil modifie l'écologie bactérienne et augmente le risque de portage de germes spécifiques, ce qui doit influencer l'antibiothérapie empirique de l'enfant. ",
+    "Page": 100.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 166,
+    "Question": "Un jeune patient de 17 ans, chef scout, revient d'un camp fin août. Il présente une lésion circulaire érythémateuse au niveau de la cuisse, d'environ 6 cm de diamètre et qui semble augmenter de taille. Il a des myalgies par ailleurs. Quelle est la meilleure attitude à adopter ?",
+    "Proposition": "Traitement par doxycycline",
+    "Reponse": true,
+    "Justification": "La description clinique correspond typiquement à un érythème migrant, manifestation précoce de la maladie de Lyme, dont le traitement de première intention recommandé est l'administration de doxycycline. ",
+    "Page": 124.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 167,
+    "Question": "Un jeune patient de 17 ans, chef scout, revient d'un camp fin août. Il présente une lésion circulaire érythémateuse au niveau de la cuisse, d'environ 6 cm de diamètre et qui semble augmenter de taille. Il a des myalgies par ailleurs. Quelle est la meilleure attitude à adopter ?",
+    "Proposition": "Hémocultures",
+    "Reponse": false,
+    "Justification": "L'érythème migrant est un diagnostic purement clinique et localisé ne requérant pas la réalisation d'hémocultures. ",
+    "Page": 124.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 168,
+    "Question": "Un jeune patient de 17 ans, chef scout, revient d'un camp fin août. Il présente une lésion circulaire érythémateuse au niveau de la cuisse, d'environ 6 cm de diamètre et qui semble augmenter de taille. Il a des myalgies par ailleurs. Quelle est la meilleure attitude à adopter ?",
+    "Proposition": "Traitement par clindamycine",
+    "Reponse": false,
+    "Justification": "La clindamycine n'est pas un antibiotique recommandé pour le traitement de l'érythème migrant, qui doit être traité par doxycycline, amoxicilline ou céfuroxime. ",
+    "Page": 124.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 169,
+    "Question": "Un jeune patient de 17 ans, chef scout, revient d'un camp fin août. Il présente une lésion circulaire érythémateuse au niveau de la cuisse, d'environ 6 cm de diamètre et qui semble augmenter de taille. Il a des myalgies par ailleurs. Quelle est la meilleure attitude à adopter ?",
+    "Proposition": "Sérologie borréliose",
+    "Reponse": false,
+    "Justification": "La sérologie de Lyme n'est pas recommandée au stade d'érythème migrant car elle est fréquemment négative à ce stade précoce et son résultat ne doit pas retarder l'initiation du traitement. ",
+    "Page": 124.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 170,
+    "Question": "Un jeune patient de 17 ans, chef scout, revient d'un camp fin août. Il présente une lésion circulaire érythémateuse au niveau de la cuisse, d'environ 6 cm de diamètre et qui semble augmenter de taille. Il a des myalgies par ailleurs. Quelle est la meilleure attitude à adopter ?",
+    "Proposition": "Ponction lombaire",
+    "Reponse": false,
+    "Justification": "La réalisation d'une ponction lombaire n'est pas indiquée en l'absence de signes cliniques évocateurs de neuroborréliose comme une méningite ou une paralysie faciale. ",
+    "Page": 123.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 171,
+    "Question": "Une femme enceinte au 2ème trimestre vous demande des informations concernant la vaccination pendant la grossesse. Nous sommes au mois de décembre. Elle désire pouvoir se protéger, ainsi que son futur bébé. Quelles sont les meilleures propositions ?",
+    "Proposition": "Vous lui recommandez la vaccination contre la rougeole avant l'accouchement vu l'épidémie actuelle en Europe.",
+    "Reponse": false,
+    "Justification": "Le vaccin contre la rougeole étant un vaccin vivant atténué, son administration est formellement contre-indiquée durant toute la durée de la grossesse en raison du risque théorique de transmission au fœtus. ",
+    "Page": 97.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 172,
+    "Question": "Une femme enceinte au 2ème trimestre vous demande des informations concernant la vaccination pendant la grossesse. Nous sommes au mois de décembre. Elle désire pouvoir se protéger, ainsi que son futur bébé. Quelles sont les meilleures propositions ?",
+    "Proposition": "Au cas où elle prévoit un voyage à Rio, vous lui proposez la vaccination fièvre jaune.",
+    "Reponse": true,
+    "Justification": "Le vaccin contre la fièvre jaune est un vaccin vivant atténué dont l'administration pendant la grossesse doit être évitée et discutée uniquement en cas de voyage indispensable en zone de très haute endémie. ",
+    "Page": 97.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 173,
+    "Question": "Une femme enceinte au 2ème trimestre vous demande des informations concernant la vaccination pendant la grossesse. Nous sommes au mois de décembre. Elle désire pouvoir se protéger, ainsi que son futur bébé. Quelles sont les meilleures propositions ?",
+    "Proposition": "Vous lui recommandez la vaccination contre la coqueluche afin de protéger son bébé.",
+    "Reponse": true,
+    "Justification": "La vaccination contre la coqueluche est fortement recommandée lors de chaque grossesse pour permettre le transfert passif d'anticorps maternels protecteurs au futur nouveau-né. ",
+    "Page": 97.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 174,
+    "Question": "Une femme enceinte au 2ème trimestre vous demande des informations concernant la vaccination pendant la grossesse. Nous sommes au mois de décembre. Elle désire pouvoir se protéger, ainsi que son futur bébé. Quelles sont les meilleures propositions ?",
+    "Proposition": "Vous lui recommandez le vaccin contre la grippe.",
+    "Reponse": true,
+    "Justification": "La vaccination contre la grippe saisonnière par un vaccin inactivé sûr est recommandée pour toutes les femmes enceintes durant la période épidémique, quel que soit le trimestre de la grossesse. ",
+    "Page": 97.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 175,
+    "Question": "Une femme enceinte au 2ème trimestre vous demande des informations concernant la vaccination pendant la grossesse. Nous sommes au mois de décembre. Elle désire pouvoir se protéger, ainsi que son futur bébé. Quelles sont les meilleures propositions ?",
+    "Proposition": "Vous ne recommandez pas de vaccin pendant la grossesse, cela peut attendre la naissance du bébé.",
+    "Reponse": false,
+    "Justification": "Différer les vaccinations après l'accouchement priverait la mère d'une protection essentielle durant sa période de vulnérabilité et empêcherait la transmission d'anticorps protecteurs indispensables au nouveau-né. ",
+    "Page": 97.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 176,
+    "Question": "Une patiente de 35 ans ayant des partenaires sexuels multiples, parfois sans préservatif, se présente à votre consultation dans le cadre d'un dépistage d'IST. Elle est asymptomatique et l'examen clinique est sans particularité. Indiquer la ou les propositions fausses.",
+    "Proposition": "Vous lui prescrivez un bilan IST complet comprenant sérologies, frottis cervical et de gorge à la recherche de gonocoque et de Chlamydia trachomatis.",
+    "Reponse": true,
+    "Justification": "Un dépistage complet chez une personne ayant des partenaires multiples asymptomatique doit inclure des prélèvements au niveau des différents sites anatomiques exposés. ",
+    "Page": 83.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 177,
+    "Question": "Une patiente de 35 ans ayant des partenaires sexuels multiples, parfois sans préservatif, se présente à votre consultation dans le cadre d'un dépistage d'IST. Elle est asymptomatique et l'examen clinique est sans particularité. Indiquer la ou les propositions fausses.",
+    "Proposition": "En fonction de l'anamnèse, un frottis rectal pour la recherche de gonocoque et Chlamydia trachomatis peut être proposé.",
+    "Reponse": true,
+    "Justification": "L'orientation des prélèvements de dépistage doit être guidée par l'anamnèse et les pratiques sexuelles rapportées par la patiente. ",
+    "Page": 85.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 178,
+    "Question": "Une patiente de 35 ans ayant des partenaires sexuels multiples, parfois sans préservatif, se présente à votre consultation dans le cadre d'un dépistage d'IST. Elle est asymptomatique et l'examen clinique est sans particularité. Indiquer la ou les propositions fausses.",
+    "Proposition": "Vous lui prescrivez d'emblée une antibiothérapie à base d'azithromycine et de ceftriaxone pour le traitement du gonocoque et de la Chlamydia trachomatis.",
+    "Reponse": false,
+    "Justification": "L'instauration d'une antibiothérapie empirique d'emblée n'est pas indiquée chez une patiente totalement asymptomatique venant pour un dépistage de routine, l'antibiothérapie devant faire suite à une documentation positive. ",
+    "Page": 83.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 179,
+    "Question": "Une patiente de 35 ans ayant des partenaires sexuels multiples, parfois sans préservatif, se présente à votre consultation dans le cadre d'un dépistage d'IST. Elle est asymptomatique et l'examen clinique est sans particularité. Indiquer la ou les propositions fausses.",
+    "Proposition": "Si elle présente un retard de règles, un test de grossesse devrait être proposé.",
+    "Reponse": true,
+    "Justification": "Proposer un test de grossesse en présence d'un retard de règles est une démarche clinique indispensable avant d'envisager d'éventuels traitements d'IST qui pourraient être contre-indiqués. ",
+    "Page": 92.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 180,
+    "Question": "Une patiente de 35 ans ayant des partenaires sexuels multiples, parfois sans préservatif, se présente à votre consultation dans le cadre d'un dépistage d'IST. Elle est asymptomatique et l'examen clinique est sans particularité. Indiquer la ou les propositions fausses.",
+    "Proposition": "Vous réalisez un frottis du col pour y rechercher la présence de HSV2.",
+    "Reponse": false,
+    "Justification": "La recherche du virus Herpes simplex de type 2 par frottis cervical n'est pas recommandée en l'absence de lésions cliniques vésiculeuses ou ulcéreuses évocatrices. ",
+    "Page": 82.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 181,
+    "Question": "Une femme de 50 ans est hospitalisée depuis 3 semaines pour néoplasie du pancréas et est nourrie par voie parentérale. Depuis 24 heures elle présente des pics de température allant jusqu'à 40°C. Des hémocultures sont réalisées. Trois d'entre elles reviennent positives. Quelles procédures diagnostiques sont-elles ensuite réalisées ? Indiquer la ou les propositions correctes.",
+    "Proposition": "Une coloration de Gram à partir des hémocultures positives.",
+    "Reponse": true,
+    "Justification": "Dès qu'un flacon d'hémoculture est détecté positif par l'automate, la première étape microbiologique indispensable est de réaliser un examen direct après coloration de Gram. ",
+    "Page": 35.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 182,
+    "Question": "Une femme de 50 ans est hospitalisée depuis 3 semaines pour néoplasie du pancréas et est nourrie par voie parentérale. Depuis 24 heures elle présente des pics de température allant jusqu'à 40°C. Des hémocultures sont réalisées. Trois d'entre elles reviennent positives. Quelles procédures diagnostiques sont-elles ensuite réalisées ? Indiquer la ou les propositions correctes.",
+    "Proposition": "Des sub-cultures sur divers milieux, dont une gélose au sang cuit (gélose \"chocolat\") si des coques Gram positifs ont été observés à la coloration.",
+    "Reponse": false,
+    "Justification": "Si des coques à Gram positif sont observés, la subculture s'effectue préférentiellement sur une gélose au sang frais, la gélose au sang cuit étant plutôt réservée aux bactéries exigeantes. ",
+    "Page": 39.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 183,
+    "Question": "Une femme de 50 ans est hospitalisée depuis 3 semaines pour néoplasie du pancréas et est nourrie par voie parentérale. Depuis 24 heures elle présente des pics de température allant jusqu'à 40°C. Des hémocultures sont réalisées. Trois d'entre elles reviennent positives. Quelles procédures diagnostiques sont-elles ensuite réalisées ? Indiquer la ou les propositions correctes.",
+    "Proposition": "Des tests biochimiques ou une analyse en spectrométrie de masse à partir d'une colonie bactérienne de la subculture.",
+    "Reponse": true,
+    "Justification": "Après l'obtention de colonies isolées sur les milieux de subculture, l'identification précise de l'espèce bactérienne est réalisée rapidement par spectrométrie de masse ou par des galeries biochimiques. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 184,
+    "Question": "Une femme de 50 ans est hospitalisée depuis 3 semaines pour néoplasie du pancréas et est nourrie par voie parentérale. Depuis 24 heures elle présente des pics de température allant jusqu'à 40°C. Des hémocultures sont réalisées. Trois d'entre elles reviennent positives. Quelles procédures diagnostiques sont-elles ensuite réalisées ? Indiquer la ou les propositions correctes.",
+    "Proposition": "Un millilitre de l'hémoculture est mis à incuber dans un bouillon de culture pour isoler d'éventuelles bactéries à croissance lente.",
+    "Reponse": false,
+    "Justification": "Les flacons d'hémoculture contenant déjà un bouillon liquide hautement enrichi, l'étape suivante consiste à ensemencer directement ce liquide sur des milieux de culture gélosés solides pour isoler les colonies. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 185,
+    "Question": "Une femme de 50 ans est hospitalisée depuis 3 semaines pour néoplasie du pancréas et est nourrie par voie parentérale. Depuis 24 heures elle présente des pics de température allant jusqu'à 40°C. Des hémocultures sont réalisées. Trois d'entre elles reviennent positives. Quelles procédures diagnostiques sont-elles ensuite réalisées ? Indiquer la ou les propositions correctes.",
+    "Proposition": "Un antibiogramme à partir d'une colonie bactérienne de la subculture.",
+    "Reponse": true,
+    "Justification": "La réalisation d'un antibiogramme à partir d'une colonie pure issue de la subculture est indispensable pour déterminer la sensibilité de la bactérie aux différents antibiotiques. ",
+    "Page": 35.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 186,
+    "Question": "A propos de la technique PCR quantitative (qPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "Un échantillon dont le résultat sort avec un Ct de 15 contient plus du matériel génétique recherché qu'un échantillon avec un Ct de 20 avec la même technique.",
+    "Reponse": true,
+    "Justification": "Dans une PCR quantitative, la valeur du cycle seuil est inversement proportionnelle à la quantité initiale de matériel génétique cible, un Ct plus faible signifiant une charge d'acides nucléiques plus élevée. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 187,
+    "Question": "A propos de la technique PCR quantitative (qPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "Le contrôle interne permet de s'assurer que le mix réactionnel n'est pas contaminé.",
+    "Reponse": false,
+    "Justification": "Le contrôle interne inclus dans la réaction sert à vérifier l'absence d'inhibiteurs de polymérisation et le bon déroulement de l'extraction de l'échantillon, tandis que la détection d'une contamination repose sur un témoin négatif. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 188,
+    "Question": "A propos de la technique PCR quantitative (qPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "La charge virale d'un échantillon dont le résultat sort avec un Ct de 37 peut être extrapolée grâce à une courbe standard.",
+    "Reponse": false,
+    "Justification": "Si une courbe standard permet de quantifier la charge d'un échantillon, un Ct très élevé proche de la limite de détection de la technique présente une variabilité importante qui rend toute extrapolation quantitative peu fiable. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 189,
+    "Question": "A propos de la technique PCR quantitative (qPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "Si les contrôles négatifs d'une plaque ne sortent pas négatifs toute la plaque est invalidée et tous les échantillons doivent être analysés à nouveau.",
+    "Reponse": true,
+    "Justification": "Un signal positif dans le témoin négatif révèle une contamination de la plaque ou des réactifs, ce qui invalide l'ensemble de la série d'analyses et impose de répéter la manipulation. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 190,
+    "Question": "A propos de la technique PCR quantitative (qPCR), indiquer la ou les propositions correctes.",
+    "Proposition": "Un même échantillon analysé dans deux laboratoires différents pour le même pathogène cible doit donner des Ct identiques.",
+    "Reponse": false,
+    "Justification": "Les valeurs de cycle seuil ne sont pas absolues et varient d'un laboratoire à l'autre en fonction du type d'extracteur, des réactifs d'amplification, du modèle de thermocycleur et du réglage du seuil. ",
+    "Page": 87.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 191,
+    "Question": "Campylobacter jejuni et C. coli sont les principaux agents de diarrhée d'origine bactérienne en Europe. Au sujet de leur isolement à partir d'échantillons de selles on peut dire, indiquer la ou les propositions correctes :",
+    "Proposition": "qu'ils requièrent une incubation des milieux en atmosphère pauvre en oxygène.",
+    "Reponse": true,
+    "Justification": "Campylobacter jejuni et coli sont des bactéries microaérophiles qui exigent pour leur croissance une atmosphère appauvrie en oxygène et enrichie en dioxyde de carbone. ",
+    "Page": 99.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 192,
+    "Question": "Campylobacter jejuni et C. coli sont les principaux agents de diarrhée d'origine bactérienne en Europe. Au sujet de leur isolement à partir d'échantillons de selles on peut dire, indiquer la ou les propositions correctes :",
+    "Proposition": "qu'une incubation à 42°C, température interne du poulet, est optimale.",
+    "Reponse": true,
+    "Justification": "Ces bactéries étant thermophiles, leur isolement est optimisé par une incubation à une température de quarante-deux degrés, correspondant à la température corporelle de leur réservoir aviaire principal. ",
+    "Page": 100.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 193,
+    "Question": "Campylobacter jejuni et C. coli sont les principaux agents de diarrhée d'origine bactérienne en Europe. Au sujet de leur isolement à partir d'échantillons de selles on peut dire, indiquer la ou les propositions correctes :",
+    "Proposition": "que l'utilisation d'une technique de filtration est la seule manière d'empêcher la croissance concomitante de bactéries de la flore intestinale.",
+    "Reponse": false,
+    "Justification": "S'il existe une technique de filtration basée sur la mobilité de Campylobacter, elle ne constitue pas l'unique méthode d'isolement, l'utilisation de milieux de culture sélectifs contenant des antibiotiques étant la pratique courante. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 194,
+    "Question": "Campylobacter jejuni et C. coli sont les principaux agents de diarrhée d'origine bactérienne en Europe. Au sujet de leur isolement à partir d'échantillons de selles on peut dire, indiquer la ou les propositions correctes :",
+    "Proposition": "qu'il est important d'utiliser des milieux de culture non sélectifs car la présence d'antibiotiques pourrait inhiber leur croissance.",
+    "Reponse": false,
+    "Justification": "L'utilisation de géloses sélectives contenant des agents antimicrobiens est indispensable pour inhiber la flore commensale fécale très abondante sans bloquer la croissance des Campylobacter recherchés. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 195,
+    "Question": "Campylobacter jejuni et C. coli sont les principaux agents de diarrhée d'origine bactérienne en Europe. Au sujet de leur isolement à partir d'échantillons de selles on peut dire, indiquer la ou les propositions correctes :",
+    "Proposition": "qu'il est généralement effectué sur un milieu XLD.",
+    "Reponse": false,
+    "Justification": "Le milieu XLD est une gélose sélective conçue spécifiquement pour la recherche de Salmonella et Shigella, et ne convient pas pour la culture exigeante de Campylobacter. ",
+    "Page": 103.0,
+    "Reference": "",
+    "image": "media/annale 3/.png"
+  },
+  {
+    "Numero": 196,
+    "Question": "Le LCR d'un patient présentant un syndrome méningé est analysé pour y détecter la présence de HSV (à gauche) ou d'entérovirus (à droite) par technique d'amplification génique. Les amorces choisies sont positionnées pour le HSV de 1600 à 1630 et de 1880 à 1900 et pour l'entérovirus de 1000 à 1025 et de 1324 à 1350. D'après les résultats suivants quel est votre diagnostic ?",
+    "Proposition": "Le patient n'est ni porteur de HSV, ni d'entérovirus.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/3.0.png"
+  },
+  {
+    "Numero": 197,
+    "Question": "Le LCR d'un patient présentant un syndrome méningé est analysé pour y détecter la présence de HSV (à gauche) ou d'entérovirus (à droite) par technique d'amplification génique. Les amorces choisies sont positionnées pour le HSV de 1600 à 1630 et de 1880 à 1900 et pour l'entérovirus de 1000 à 1025 et de 1324 à 1350. D'après les résultats suivants quel est votre diagnostic ?",
+    "Proposition": "Le patient est porteur d'entérovirus et la PCR HSV n'est pas interprétable.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/3.0.png"
+  },
+  {
+    "Numero": 198,
+    "Question": "Le LCR d'un patient présentant un syndrome méningé est analysé pour y détecter la présence de HSV (à gauche) ou d'entérovirus (à droite) par technique d'amplification génique. Les amorces choisies sont positionnées pour le HSV de 1600 à 1630 et de 1880 à 1900 et pour l'entérovirus de 1000 à 1025 et de 1324 à 1350. D'après les résultats suivants quel est votre diagnostic ?",
+    "Proposition": "Le patient est porteur du HSV et la PCR entérovirus n'est pas interprétable.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/3.0.png"
+  },
+  {
+    "Numero": 199,
+    "Question": "Le LCR d'un patient présentant un syndrome méningé est analysé pour y détecter la présence de HSV (à gauche) ou d'entérovirus (à droite) par technique d'amplification génique. Les amorces choisies sont positionnées pour le HSV de 1600 à 1630 et de 1880 à 1900 et pour l'entérovirus de 1000 à 1025 et de 1324 à 1350. D'après les résultats suivants quel est votre diagnostic ?",
+    "Proposition": "L'échantillon du patient est positif pour les deux virus.",
+    "Reponse": false,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/3.0.png"
+  },
+  {
+    "Numero": 200,
+    "Question": "Le LCR d'un patient présentant un syndrome méningé est analysé pour y détecter la présence de HSV (à gauche) ou d'entérovirus (à droite) par technique d'amplification génique. Les amorces choisies sont positionnées pour le HSV de 1600 à 1630 et de 1880 à 1900 et pour l'entérovirus de 1000 à 1025 et de 1324 à 1350. D'après les résultats suivants quel est votre diagnostic ?",
+    "Proposition": "Aucune des PCR n'est interprétable.",
+    "Reponse": true,
+    "Justification": "",
+    "Page": "",
+    "Reference": "",
+    "image": "media/annale 3/3.0.png"
+  }
+]

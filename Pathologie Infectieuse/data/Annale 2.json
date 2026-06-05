@@ -1,0 +1,1502 @@
+[
+  {
+    "Numero": 1,
+    "Question": "Un jeune patient de 25 ans se présente pour zona thoracique à votre consultation. L'éruption a débuté il y a 24 heures. Dans ses antécédents, vous notez une pneumonie il y a 3 mois. Quelle est la bonne attitude ?",
+    "Proposition": "Amoxicilline per os",
+    "Reponse": false,
+    "Justification": "L'amoxicilline est un antibiotique et n'a aucune efficacité contre le virus varicelle-zona, qui est l'agent responsable du zona. ",
+    "Page": 22,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 2,
+    "Question": "Un jeune patient de 25 ans se présente pour zona thoracique à votre consultation. L'éruption a débuté il y a 24 heures. Dans ses antécédents, vous notez une pneumonie il y a 3 mois. Quelle est la bonne attitude ?",
+    "Proposition": "Aciclovir et sérologie VIH",
+    "Reponse": true,
+    "Justification": "Chez un jeune adulte présentant une réactivation de type zona et un antécédent récent de pneumonie, une immunosuppression sous-jacente par le VIH doit être suspectée, ce qui justifie à la fois un traitement antiviral par aciclovir et un dépistage sérologique. ",
+    "Page": 22,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 3,
+    "Question": "Un jeune patient de 25 ans se présente pour zona thoracique à votre consultation. L'éruption a débuté il y a 24 heures. Dans ses antécédents, vous notez une pneumonie il y a 3 mois. Quelle est la bonne attitude ?",
+    "Proposition": "Aciclovir",
+    "Reponse": false,
+    "Justification": "Bien que l'aciclovir soit le traitement antiviral de choix pour le zona, se limiter à ce traitement sans proposer de sérologie VIH chez ce jeune patient présentant des antécédents pulmonaires récents serait insuffisant. ",
+    "Page": 22,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 4,
+    "Question": "Un jeune patient de 25 ans se présente pour zona thoracique à votre consultation. L'éruption a débuté il y a 24 heures. Dans ses antécédents, vous notez une pneumonie il y a 3 mois. Quelle est la bonne attitude ?",
+    "Proposition": "Ganciclovir",
+    "Reponse": false,
+    "Justification": "Le ganciclovir est un antiviral principalement réservé au traitement des infections graves à cytomégalovirus et n'est pas utilisé pour prendre en charge un zona. ",
+    "Page": 27,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 5,
+    "Question": "Un jeune patient de 25 ans se présente pour zona thoracique à votre consultation. L'éruption a débuté il y a 24 heures. Dans ses antécédents, vous notez une pneumonie il y a 3 mois. Quelle est la bonne attitude ?",
+    "Proposition": "Oseltamivir et sérologie VIH",
+    "Reponse": false,
+    "Justification": "L'oseltamivir est un inhibiteur de la neuraminidase indiqué spécifiquement pour le traitement de l'infection à influenza (grippe), et n'a aucune activité contre le virus du zona. ",
+    "Page": 28,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 6,
+    "Question": "Un jeune patient vous consulte pour ganglions, rash disséminé & angine. Il rapporte des rapports multiples non protégés avec des hommes lors d'une croisière. Quel examen ne va pas contribuer au diagnostic ?",
+    "Proposition": "Sérologie VIH",
+    "Reponse": false,
+    "Justification": "La présentation clinique évoque une primo-infection par le VIH, pour laquelle la sérologie de quatrième génération détectant l'antigène p24 et les anticorps est l'examen diagnostique fondamental. ",
+    "Page": 82,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 7,
+    "Question": "Un jeune patient vous consulte pour ganglions, rash disséminé & angine. Il rapporte des rapports multiples non protégés avec des hommes lors d'une croisière. Quel examen ne va pas contribuer au diagnostic ?",
+    "Proposition": "Frottis gorge avec PCR Neisseria gonorhea",
+    "Reponse": true,
+    "Justification": "Comptenu de l'exposition lors de rapports multiples non protégés, la recherche de Neisseria gonorrhoeae par PCR au niveau pharyngé est tout à fait indiquée pour explorer une angine d'origine sexuellement transmissible. ",
+    "Page": 83,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 8,
+    "Question": "Un jeune patient vous consulte pour ganglions, rash disséminé & angine. Il rapporte des rapports multiples non protégés avec des hommes lors d'une croisière. Quel examen ne va pas contribuer au diagnostic ?",
+    "Proposition": "Frottis de gorge Streptococcus pyogenes",
+    "Reponse": false,
+    "Justification": "Dans ce contexte de syndrome systémique associant rash, ganglions et angine après rapports sexuels à risque, la recherche de Streptococcus pyogenes par frottis de gorge n'apporte pas d'élément spécifique pour le diagnostic des principales pathologies suspectées. ",
+    "Page": 64,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 9,
+    "Question": "Un jeune patient vous consulte pour ganglions, rash disséminé & angine. Il rapporte des rapports multiples non protégés avec des hommes lors d'une croisière. Quel examen ne va pas contribuer au diagnostic ?",
+    "Proposition": "Sérologie Treponema pallidum",
+    "Reponse": false,
+    "Justification": "La syphilis secondaire fait partie des diagnostics différentiels principaux devant un rash cutané et des adénopathies après une exposition sexuelle, ce qui justifie pleinement la réalisation d'une sérologie tréponémique. ",
+    "Page": 84,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 10,
+    "Question": "Un jeune patient vous consulte pour ganglions, rash disséminé & angine. Il rapporte des rapports multiples non protégés avec des hommes lors d'une croisière. Quel examen ne va pas contribuer au diagnostic ?",
+    "Proposition": "Sérologie EBV IgG et IgM avec contrôle 2 semaines après",
+    "Reponse": false,
+    "Justification": "L'infection par l'EBV est le principal diagnostic différentiel de la primo-infection VIH car elle partage la même présentation clinique associant fièvre, angine, rash et adénopathies, rendant sa recherche par sérologie utile. ",
+    "Page": 66,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 11,
+    "Question": "Parmi ces vaccins, quel vaccin recommandez-vous à une femme enceinte qui consulte au deuxième trimestre de sa grossesse afin de protéger son futur bébé ?",
+    "Proposition": "Fièvre jaune",
+    "Reponse": false,
+    "Justification": "Le vaccin contre la fièvre jaune est un vaccin vivant atténué contre-indiqué durant la grossesse en raison du risque théorique de transmission au fœtus. ",
+    "Page": 97,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 12,
+    "Question": "Parmi ces vaccins, quel vaccin recommandez-vous à une femme enceinte qui consulte au deuxième trimestre de sa grossesse afin de protéger son futur bébé ?",
+    "Proposition": "Pneumocoque",
+    "Reponse": false,
+    "Justification": "Bien que non vivant, le vaccin contre le pneumocoque n'est pas recommandé de manière systématique durant la grossesse pour la protection du futur nouveau-né. ",
+    "Page": 126,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 13,
+    "Question": "Parmi ces vaccins, quel vaccin recommandez-vous à une femme enceinte qui consulte au deuxième trimestre de sa grossesse afin de protéger son futur bébé ?",
+    "Proposition": "Tétanos-diphtérie-pertussis",
+    "Reponse": true,
+    "Justification": "La vaccination contre la coqueluche via le vaccin combiné tétanos-diphtérie-coqueluche est fortement recommandée chez la femme enceinte au cours de la deuxième moitié de la grossesse afin de transférer des anticorps protecteurs au nouveau-né. ",
+    "Page": 97,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 14,
+    "Question": "Parmi ces vaccins, quel vaccin recommandez-vous à une femme enceinte qui consulte au deuxième trimestre de sa grossesse afin de protéger son futur bébé ?",
+    "Proposition": "Rougeole-rubéole-oreillon",
+    "Reponse": false,
+    "Justification": "Le vaccin Rougeole-Rubéole-Oreillon est un vaccin vivant atténué qui ne peut en aucun cas être administré durant la grossesse en raison du risque pour le fœtus. ",
+    "Page": 97,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 15,
+    "Question": "Parmi ces vaccins, quel vaccin recommandez-vous à une femme enceinte qui consulte au deuxième trimestre de sa grossesse afin de protéger son futur bébé ?",
+    "Proposition": "BCG",
+    "Reponse": false,
+    "Justification": "Le vaccin BCG contre la tuberculose est un vaccin vivant atténué contre-indiqué chez la femme enceinte. ",
+    "Page": 129,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 16,
+    "Question": "Concernant la vaccination, quelle proposition est fausse ?",
+    "Proposition": "Il est recommandé de recevoir 2 doses de vaccins RRO dans l'enfance.",
+    "Reponse": true,
+    "Justification": "Cette proposition est exacte, le schéma vaccinal belge recommandant l'administration de deux doses de vaccin RRO durant l'enfance pour assurer une protection complète. ",
+    "Page": 132,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 17,
+    "Question": "Concernant la vaccination, quelle proposition est fausse ?",
+    "Proposition": "La vaccination maternelle contre la grippe est sûre et recommandée.",
+    "Reponse": true,
+    "Justification": "Cette affirmation est vraie, la vaccination antigrippale chez la femme enceinte étant largement démontrée comme sûre pour le fœtus et vivement recommandée durant la saison grippale. ",
+    "Page": 97,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 18,
+    "Question": "Concernant la vaccination, quelle proposition est fausse ?",
+    "Proposition": "La vaccination contre N. meningitidis est recommandée pour le pèlerinage à la Mecque.",
+    "Reponse": true,
+    "Justification": "Cette proposition est correcte, les autorités saoudiennes exigeant la preuve d'une vaccination contre le méningocoque ACWY pour tous les pèlerins se rendant à la Mecque. ",
+    "Page": 134,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 19,
+    "Question": "Concernant la vaccination, quelle proposition est fausse ?",
+    "Proposition": "La composition des vaccins est connue et contrôlée.",
+    "Reponse": true,
+    "Justification": "Cette proposition est tout à fait vraie, la composition de chaque vaccin étant rigoureusement détaillée, testée et soumise à des contrôles qualité stricts par les agences de réglementation sanitaire. ",
+    "Page": 128,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 20,
+    "Question": "Concernant la vaccination, quelle proposition est fausse ?",
+    "Proposition": "La vaccination contre le tétanos après 20 ans n'est pas nécessaire car il existe une immunité de groupe.",
+    "Reponse": false,
+    "Justification": "Cette affirmation est fausse car le tétanos est une infection non transmissible d'homme à homme, liée à des spores telluriques, pour laquelle l'immunité de groupe n'existe pas et qui requiert des rappels individuels réguliers tout au long de la vie. ",
+    "Page": 130,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 21,
+    "Question": "Un patient vivant avec le VIH, diagnostiqué il y a 5 ans, n'a jamais pris de traitement antirétroviral. Il se présente pour toux sèche, dyspnée d'effort évoluant depuis 4 semaines. Son taux de lymphocytes CD4 est de 100/mm3. Quelle est votre attitude en termes d'examens complémentaires ?",
+    "Proposition": "Hémocultures.",
+    "Reponse": true,
+    "Justification": "Chez un patient sévèrement immunodéprimé présentant des symptômes respiratoires et généraux, la réalisation d'hémocultures (notamment sur milieux spéciaux) est justifiée pour rechercher une infection opportuniste disséminée. ",
+    "Page": 148,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 22,
+    "Question": "Un patient vivant avec le VIH, diagnostiqué il y a 5 ans, n'a jamais pris de traitement antirétroviral. Il se présente pour toux sèche, dyspnée d'effort évoluant depuis 4 semaines. Son taux de lymphocytes CD4 est de 100/mm3. Quelle est votre attitude en termes d'examens complémentaires ?",
+    "Proposition": "CT scan thoracique.",
+    "Reponse": true,
+    "Justification": "Face à une symptomatologie respiratoire traînante chez un patient à un stade avancé du SIDA, le scanner thoracique est l'examen d'imagerie de choix pour orienter le diagnostic vers une pneumocystose ou une tuberculose. ",
+    "Page": 147,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 23,
+    "Question": "Un patient vivant avec le VIH, diagnostiqué il y a 5 ans, n'a jamais pris de traitement antirétroviral. Il se présente pour toux sèche, dyspnée d'effort évoluant depuis 4 semaines. Son taux de lymphocytes CD4 est de 100/mm3. Quelle est votre attitude en termes d'examens complémentaires ?",
+    "Proposition": "Expectoration avec recherche de M. tuberculosis.",
+    "Reponse": true,
+    "Justification": "La tuberculose étant une complication fréquente à ce niveau d'immunodépression, la recherche de Mycobacterium tuberculosis par examen direct, culture et PCR sur les expectorations est indispensable. ",
+    "Page": 148,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 24,
+    "Question": "Un patient vivant avec le VIH, diagnostiqué il y a 5 ans, n'a jamais pris de traitement antirétroviral. Il se présente pour toux sèche, dyspnée d'effort évoluant depuis 4 semaines. Son taux de lymphocytes CD4 est de 100/mm3. Quelle est votre attitude en termes d'examens complémentaires ?",
+    "Proposition": "Lavage broncho-alvéolaire avec recherche de pneumocystis jiroveci.",
+    "Reponse": true,
+    "Justification": "La présentation clinique et le taux de CD4 inférieur à deux cents sont très évocateurs d'une pneumocystose pulmonaire, dont la confirmation nécessite un lavage broncho-alvéolaire avec recherche de Pneumocystis jirovecii. ",
+    "Page": 147,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 25,
+    "Question": "Un patient vivant avec le VIH, diagnostiqué il y a 5 ans, n'a jamais pris de traitement antirétroviral. Il se présente pour toux sèche, dyspnée d'effort évoluant depuis 4 semaines. Son taux de lymphocytes CD4 est de 100/mm3. Quelle est votre attitude en termes d'examens complémentaires ?",
+    "Proposition": "Toutes les propositions sont correctes.",
+    "Reponse": true,
+    "Justification": "Toutes ces investigations sont indiquées et complémentaires pour explorer de manière exhaustive les causes possibles d'une détresse respiratoire subaiguë chez un patient à un stade d'immunodépression sévère. ",
+    "Page": 148,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 26,
+    "Question": "Vous êtes à votre cabinet, situé à 20 kilomètres du premier service d'urgence. Un jeune homme est amené par ses parents. Il est confus et fébrile depuis cette nuit. Ses parents vous mentionnent une opération dans l'enfance à la suite d'une chute à cheval. A l'examen, vous notez des lésions violacées qui ne disparaissent pas à la pression et une cicatrice abdominale. Sa tension est 90/50. Quelle est votre attitude ?",
+    "Proposition": "Vous appelez le service médicalisé d'urgence pour transporter le patient à l'hôpital.",
+    "Reponse": false,
+    "Justification": "Devant un état de choc septique avec purpura fulminans chez un patient asplénique, l'appel immédiat des secours médicalisés pour un transfert urgent en réanimation est une mesure indispensable mais qui doit être associée à un traitement antibiotique immédiat. ",
+    "Page": 38,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 27,
+    "Question": "Vous êtes à votre cabinet, situé à 20 kilomètres du premier service d'urgence. Un jeune homme est amené par ses parents. Il est confus et fébrile depuis cette nuit. Ses parents vous mentionnent une opération dans l'enfance à la suite d'une chute à cheval. A l'examen, vous notez des lésions violacées qui ne disparaissent pas à la pression et une cicatrice abdominale. Sa tension est 90/50. Quelle est votre attitude ?",
+    "Proposition": "Vous injectez une dose de ceftriaxone en intramusculaire et appelez une ambulance",
+    "Reponse": true,
+    "Justification": "L'administration immédiate de ceftriaxone par voie intramusculaire au cabinet avant le transfert est le geste salvateur prioritaire devant un purpura fulminans chez un patient splénectomisé. ",
+    "Page": 38,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 28,
+    "Question": "Vous êtes à votre cabinet, situé à 20 kilomètres du premier service d'urgence. Un jeune homme est amené par ses parents. Il est confus et fébrile depuis cette nuit. Ses parents vous mentionnent une opération dans l'enfance à la suite d'une chute à cheval. A l'examen, vous notez des lésions violacées qui ne disparaissent pas à la pression et une cicatrice abdominale. Sa tension est 90/50. Quelle est votre attitude ?",
+    "Proposition": "Vous dites aux parents de l'emmener aux urgences",
+    "Reponse": false,
+    "Justification": "Demander aux parents d'assurer eux-mêmes le transport en voiture particulière est inapproprié et dangereux au vu de la gravité du choc septique et du risque d'arrêt cardio-respiratoire imminent. ",
+    "Page": 38,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 29,
+    "Question": "Vous êtes à votre cabinet, situé à 20 kilomètres du premier service d'urgence. Un jeune homme est amené par ses parents. Il est confus et fébrile depuis cette nuit. Ses parents vous mentionnent une opération dans l'enfance à la suite d'une chute à cheval. A l'examen, vous notez des lésions violacées qui ne disparaissent pas à la pression et une cicatrice abdominale. Sa tension est 90/50. Quelle est votre attitude ?",
+    "Proposition": "Vous lui donnez de l'amoxiciline et le renvoyez au domicile.",
+    "Reponse": false,
+    "Justification": "Renvoyer à domicile un patient présentant un tableau de choc septique avec purpura et troubles de la conscience est une erreur médicale grave et potentiellement fatale. ",
+    "Page": 38,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 30,
+    "Question": "Vous êtes à votre cabinet, situé à 20 kilomètres du premier service d'urgence. Un jeune homme est amené par ses parents. Il est confus et fébrile depuis cette nuit. Ses parents vous mentionnent une opération dans l'enfance à la suite d'une chute à cheval. A l'examen, vous notez des lésions violacées qui ne disparaissent pas à la pression et une cicatrice abdominale. Sa tension est 90/50. Quelle est votre attitude ?",
+    "Proposition": "Vous lui donnez de la ciprofloxacine et le renvoyez au domicile.",
+    "Reponse": false,
+    "Justification": "Renvoyer à domicile un patient suspect de méningococcémie fulminante sous simple antibiothérapie par voie orale constitue un manquement grave aux règles de prise en charge des urgences vitales. ",
+    "Page": 38,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 31,
+    "Question": "Concernant les infections à pneumocoques, quelle est la proposition fausse ?",
+    "Proposition": "Le traitement par amoxicilline fait partie des antibiotiques recommandés.",
+    "Reponse": true,
+    "Justification": "L'amoxicilline constitue l'antibiotique de première intention recommandé pour le traitement des infections à pneumocoque comme la pneumonie aiguë de la communauté en raison de son excellente efficacité. ",
+    "Page": 22,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 32,
+    "Question": "Concernant les infections à pneumocoques, quelle est la proposition fausse ?",
+    "Proposition": "L'insuffisance rénale chronique est un facteur de risque important.",
+    "Reponse": true,
+    "Justification": "L'insuffisance rénale chronique est officiellement répertoriée comme une comorbidité augmentant le risque d'infection invasive à pneumocoque et justifiant la vaccination. ",
+    "Page": 130,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 33,
+    "Question": "Concernant les infections à pneumocoques, quelle est la proposition fausse ?",
+    "Proposition": "La vaccination est recommandée après 65 ans, indépendamment de la présence d'un facteur de risque.",
+    "Reponse": true,
+    "Justification": "La vaccination antipneumococcique est recommandée pour toutes les personnes âgées de soixante-cinq ans et plus, même en bonne santé et en l'absence d'autre facteur de risque. ",
+    "Page": 130,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 34,
+    "Question": "Concernant les infections à pneumocoques, quelle est la proposition fausse ?",
+    "Proposition": "La présence de Streptococcus pneumoniae dans une hémoculture n'est pas toujours signe d'infection. Il peut s'agir d'un contaminant.",
+    "Reponse": false,
+    "Justification": "La mise en évidence de Streptococcus pneumoniae dans un flacon d'hémoculture est toujours considérée comme significatrice d'une bactériémie et n'est jamais interprétée comme une simple contamination. ",
+    "Page": 35,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 35,
+    "Question": "Concernant les infections à pneumocoques, quelle est la proposition fausse ?",
+    "Proposition": "Les patients aspléniques ont un risque majoré d'infection à pneumocoque par rapport à la population générale.",
+    "Reponse": true,
+    "Justification": "Les patients aspléniques présentent un risque majeur d'infections invasives fulminantes dues à des bactéries encapsulées, au premier rang desquelles figure Streptococcus pneumoniae. ",
+    "Page": 150,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 36,
+    "Question": "En considérant le spectre, quel antibiotique a une activité contre Pseudomonas aeruginosa ?",
+    "Proposition": "Amoxicilline",
+    "Reponse": false,
+    "Justification": "L'amoxicilline est une pénicilline A dépourvue d'efficacité sur Pseudomonas aeruginosa, qui possède une résistance naturelle à cette molécule. ",
+    "Page": 22,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 37,
+    "Question": "En considérant le spectre, quel antibiotique a une activité contre Pseudomonas aeruginosa ?",
+    "Proposition": "Amoxicilline-clavulanate",
+    "Reponse": false,
+    "Justification": "L'association d'amoxicilline et d'acide clavulanique n'est pas active contre Pseudomonas aeruginosa, le clavulanate ne levant pas la résistance naturelle de ce pathogène. ",
+    "Page": 22,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 38,
+    "Question": "En considérant le spectre, quel antibiotique a une activité contre Pseudomonas aeruginosa ?",
+    "Proposition": "Cefepime",
+    "Reponse": true,
+    "Justification": "Le céfépime est une céphalosporine injectable de quatrième génération dont le spectre d'activité large inclut spécifiquement Pseudomonas aeruginosa. ",
+    "Page": 23,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 39,
+    "Question": "En considérant le spectre, quel antibiotique a une activité contre Pseudomonas aeruginosa ?",
+    "Proposition": "Clindamycine",
+    "Reponse": false,
+    "Justification": "La clindamycine est un lincosamide actif sur les bactéries à Gram positif et les anaérobies, mais totalement inactif contre les bacilles Gram négatif comme Pseudomonas aeruginosa. ",
+    "Page": 25,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 40,
+    "Question": "En considérant le spectre, quel antibiotique a une activité contre Pseudomonas aeruginosa ?",
+    "Proposition": "Pénicilline",
+    "Reponse": false,
+    "Justification": "Les pénicillines G et V ont un spectre d'activité étroit ciblant essentiellement les cocci à Gram positif et n'ont aucune efficacité contre Pseudomonas aeruginosa. ",
+    "Page": 22,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 41,
+    "Question": "Une patiente de 75 ans est hospitalisée pour décompensation cardiaque. Aux urgences, elle présentait un gonflement et une rougeur des deux membres inférieurs. Elle a une insuffisance rénale. Votre collègue a suspecté une dermohypodermite aiguë et a prescrit de l'oxacilline. Quelle est votre attitude ?",
+    "Proposition": "Vous suspectez une infection à Pseudomonas aeruginosa. Vous élargissez le spectre en prescrivant du céfépime.",
+    "Reponse": false,
+    "Justification": "Suspecter d'emblée Pseudomonas aeruginosa et élargir le traitement au céfépime n'est pas justifié pour une dermo-hypodermite communautaire typique sans facteur d'exposition spécifique. ",
+    "Page": 23,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 42,
+    "Question": "Une patiente de 75 ans est hospitalisée pour décompensation cardiaque. Aux urgences, elle présentait un gonflement et une rougeur des deux membres inférieurs. Elle a une insuffisance rénale. Votre collègue a suspecté une dermohypodermite aiguë et a prescrit de l'oxacilline. Quelle est votre attitude ?",
+    "Proposition": "Les dermohypodermites sont exceptionnellement bilatérales. Vous suspectez un problème vasculaire et arrêtez l'antibiotique.",
+    "Reponse": true,
+    "Justification": "Les dermo-hypodermites bactériennes étant exceptionnellement bilatérales, un gonflement et une rougeur des deux membres inférieurs chez une patiente en décompensation cardiaque évoquent un œdème d'origine vasculaire ou cardiaque, imposant l'arrêt de l'antibiothérapie. ",
+    "Page": 119,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 43,
+    "Question": "Une patiente de 75 ans est hospitalisée pour décompensation cardiaque. Aux urgences, elle présentait un gonflement et une rougeur des deux membres inférieurs. Elle a une insuffisance rénale. Votre collègue a suspecté une dermohypodermite aiguë et a prescrit de l'oxacilline. Quelle est votre attitude ?",
+    "Proposition": "Vous faites un frottis cutané pour confirmer le diagnostic.",
+    "Reponse": false,
+    "Justification": "La réalisation d'un frottis cutané superficiel n'est pas recommandée car elle ne permet pas de distinguer une simple colonisation de surface d'une véritable infection cutanée profonde. ",
+    "Page": 114,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 44,
+    "Question": "Une patiente de 75 ans est hospitalisée pour décompensation cardiaque. Aux urgences, elle présentait un gonflement et une rougeur des deux membres inférieurs. Elle a une insuffisance rénale. Votre collègue a suspecté une dermohypodermite aiguë et a prescrit de l'oxacilline. Quelle est votre attitude ?",
+    "Proposition": "Vous attendez le résultat des hémocultures pour décider.",
+    "Reponse": false,
+    "Justification": "Attendre les hémocultures n'est pas la bonne attitude car les dermo-hypodermites sont de diagnostic clinique, et le caractère bilatéral chez une patiente cardiaque oriente d'emblée vers une cause non infectieuse. ",
+    "Page": 119,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 45,
+    "Question": "Une patiente de 75 ans est hospitalisée pour décompensation cardiaque. Aux urgences, elle présentait un gonflement et une rougeur des deux membres inférieurs. Elle a une insuffisance rénale. Votre collègue a suspecté une dermohypodermite aiguë et a prescrit de l'oxacilline. Quelle est votre attitude ?",
+    "Proposition": "Vous faites confiance à votre collègue et continuez le traitement pour 21 jours.",
+    "Reponse": false,
+    "Justification": "Poursuivre un traitement antibiotique inapproprié pour une atteinte bilatérale suspecte de cause cardiaque favorise l'apparition d'effets secondaires sans bénéfice clinique pour la patiente. ",
+    "Page": 119,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 46,
+    "Question": "Un de vos patients vous appelle. Il doit voyager en urgence le lendemain au Cameroun car son oncle est décédé. Il vous demande une prescription d'anti-diabétique. Quelle est la meilleure attitude ?",
+    "Proposition": "Vous lui faites sa prescription d'anti-diabétique.",
+    "Reponse": false,
+    "Justification": "Se limiter à la prescription de l'antidiabétique sans aborder les risques infectieux majeurs liés à un voyage d'urgence en Afrique subsaharienne constitue un défaut de conseil pré-voyage. ",
+    "Page": 133,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 47,
+    "Question": "Un de vos patients vous appelle. Il doit voyager en urgence le lendemain au Cameroun car son oncle est décédé. Il vous demande une prescription d'anti-diabétique. Quelle est la meilleure attitude ?",
+    "Proposition": "En plus de son anti-diabétique, vous lui mentionnez le risque de malaria et de bien se protéger contre les moustiques.",
+    "Reponse": false,
+    "Justification": "Bien que la protection contre les piqûres de moustiques soit indispensable, elle doit être complétée par la prescription d'une chimioprophylaxie antipaludique médicamenteuse pour un voyage au Cameroun. ",
+    "Page": 135,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 48,
+    "Question": "Un de vos patients vous appelle. Il doit voyager en urgence le lendemain au Cameroun car son oncle est décédé. Il vous demande une prescription d'anti-diabétique. Quelle est la meilleure attitude ?",
+    "Proposition": "En plus de son anti-diabétique, vous lui mentionnez le risque de malaria et de bien se protéger contre les moustiques et lui prescrivez de la doxycycline à commencer aujourd'hui.",
+    "Reponse": true,
+    "Justification": "Pour un départ d'urgence le lendemain au Cameroun, la prescription immédiate de doxycycline associée aux conseils de protection anti-vectorielle est la meilleure conduite préventive contre le paludisme. ",
+    "Page": 140,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 49,
+    "Question": "Un de vos patients vous appelle. Il doit voyager en urgence le lendemain au Cameroun car son oncle est décédé. Il vous demande une prescription d'anti-diabétique. Quelle est la meilleure attitude ?",
+    "Proposition": "Vous lui faites sa prescription d'anti-diabétique et une crème anti-moustique.",
+    "Reponse": false,
+    "Justification": "La simple prescription d'un répulsif cutané est insuffisante pour un voyage dans une zone de haute transmission du paludisme comme le Cameroun, où une prophylaxie médicamenteuse orale est requise. ",
+    "Page": 140,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 50,
+    "Question": "Un de vos patients vous appelle. Il doit voyager en urgence le lendemain au Cameroun car son oncle est décédé. Il vous demande une prescription d'anti-diabétique. Quelle est la meilleure attitude ?",
+    "Proposition": "Vous lui souhaitez bon voyage.",
+    "Reponse": false,
+    "Justification": "Laisser partir un patient vers une zone tropicale d'endémie palustre majeure sans aucune mesure de prévention médicale l'expose à un risque vital d'accès pernicieux. ",
+    "Page": 133,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 51,
+    "Question": "Un patient toxicomane se présente pour un genou gonflé, douloureux, rouge. Il fait de la température à 39°C et frissonne devant vous. Quelle est la meilleure attitude ?",
+    "Proposition": "Mettre de la glace sur le genou, prendre du paracétamol et attendre à la maison. C'est sûrement dû à la cocaïne.",
+    "Reponse": false,
+    "Justification": "Ce tableau d'arthrite aiguë fébrile chez un patient aux antécédents de toxicomane intraveineux est une urgence absolue suspecte d'arthrite septique, et ne peut être banalisé sous traitement symptomatique à domicile. ",
+    "Page": 111,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 52,
+    "Question": "Un patient toxicomane se présente pour un genou gonflé, douloureux, rouge. Il fait de la température à 39°C et frissonne devant vous. Quelle est la meilleure attitude ?",
+    "Proposition": "Vous suspectez une maladie de Lyme. Vous faites une sérologie et prescrivez de la doxycycline.",
+    "Reponse": false,
+    "Justification": "L'arthrite de Lyme se présente de façon plus subaiguë ou chronique et n'est pas typiquement associée à une fièvre élevée à trente-neuf degrés avec frissons, qui évoquent plutôt une infection à germes pyogènes. ",
+    "Page": 112,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 53,
+    "Question": "Un patient toxicomane se présente pour un genou gonflé, douloureux, rouge. Il fait de la température à 39°C et frissonne devant vous. Quelle est la meilleure attitude ?",
+    "Proposition": "Vous suspectez une arthrite septique. Vous prescrivez de la ceftriaxone.",
+    "Reponse": false,
+    "Justification": "Prescrire d'emblée un antibiotique comme la ceftriaxone sans avoir réalisé au préalable les prélèvements microbiologiques indispensables compromet l'identification du germe responsable. ",
+    "Page": 112,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 54,
+    "Question": "Un patient toxicomane se présente pour un genou gonflé, douloureux, rouge. Il fait de la température à 39°C et frissonne devant vous. Quelle est la meilleure attitude ?",
+    "Proposition": "Vous suspectez une arthrite septique. Vous faites 2 paires d'hémocultures, une ponction articulaire avec cytologie et culture bactérienne.",
+    "Reponse": false,
+    "Justification": "Devant une suspicion d'arthrite septique, la réalisation de deux paires d'hémocultures et d'une ponction articulaire pour analyse cytologique et bactériologique est la première étape diagnostique obligatoire. ",
+    "Page": 111,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 55,
+    "Question": "Un patient toxicomane se présente pour un genou gonflé, douloureux, rouge. Il fait de la température à 39°C et frissonne devant vous. Quelle est la meilleure attitude ?",
+    "Proposition": "Vous suspectez une arthrite septique. Vous faites 2 paires d'hémocultures, une ponction articulaire avec cytologie et culture bactérienne et vous prescrivez de l'oxacilline en intraveineux pour couvrir Staphylocoque aureus en première intention.",
+    "Reponse": true,
+    "Justification": "Le traitement empirique d'une arthrite septique doit débuter immédiatement après la réalisation des prélèvements bactériologiques par une antibiothérapie intraveineuse ciblant en priorité Staphylococcus aureus, le germe le plus fréquemment en cause. ",
+    "Page": 112,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 56,
+    "Question": "Les infections congénitales, quelle proposition est vraie ?",
+    "Proposition": "La syphilis ne présente qu'un faible risque en Belgique, le dépistage ne doit être fait que chez les patientes présentant un risque accru d'IST.",
+    "Reponse": false,
+    "Justification": "Le dépistage sérologique de la syphilis doit être proposé de façon systématique à toutes les femmes enceintes dès le début de la grossesse, et non uniquement aux patientes ciblées à haut risque. ",
+    "Page": 93,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 57,
+    "Question": "Les infections congénitales, quelle proposition est vraie ?",
+    "Proposition": "La varicelle maternelle ne présente un risque que si la mère est symptomatique au 3e trimestre de la grossesse.",
+    "Reponse": false,
+    "Justification": "La varicelle maternelle contractée au cours des deux premiers trimestres comporte un risque de varicelle congénitale avec séquelles graves pour le fœtus, ce risque n'étant pas limité au troisième trimestre. ",
+    "Page": 95,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 58,
+    "Question": "Les infections congénitales, quelle proposition est vraie ?",
+    "Proposition": "Le risque de transmission du VIH de la mère à son enfant est de 5% environ si la mère est correctement traitée durant la grossesse.",
+    "Reponse": false,
+    "Justification": "Avec un traitement antirétroviral bien conduit et une charge virale maternelle indétectable, le risque de transmission verticale du VIH devient quasi nul et descend en dessous de un pour cent. ",
+    "Page": 92,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 59,
+    "Question": "Les infections congénitales, quelle proposition est vraie ?",
+    "Proposition": "Le CMV congénital est l'infection congénitale la plus fréquente en Europe.",
+    "Reponse": true,
+    "Justification": "L'infection congénitale à cytomégalovirus représente l'infection transmise de la mère au fœtus la plus fréquemment documentée sur le continent européen. ",
+    "Page": 94,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 60,
+    "Question": "Les infections congénitales, quelle proposition est vraie ?",
+    "Proposition": "Il est conseillé aux femmes ayant une hépatite B chronique de ne pas allaiter leur enfant pour limiter le risque de transmission.",
+    "Reponse": false,
+    "Justification": "L'allaitement maternel n'est pas contre-indiqué chez les mères porteuses d'une hépatite B chronique dès lors que le nouveau-né reçoit l'immunoprophylaxie par immunoglobulines et vaccin à la naissance. ",
+    "Page": 93,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 61,
+    "Question": "Vous voyez en consultation un couple dont la femme est enceinte. Son gynécologue vient de lui annoncer qu'elle avait probablement eu une toxoplasmose alors qu'elle était enceinte. Les parents ont de nombreuses questions, quelle affirmation est fausse ?",
+    "Proposition": "Si le foetus est infecté, même s'il est nouveau-né est asymptomatique à la naissance, un suivi sera nécessaire car une atteinte de la vision pourra se développer dans les années qui suivent.",
+    "Reponse": true,
+    "Justification": "Cette affirmation est correcte, car les enfants nés avec une toxoplasmose congénitale asymptomatique à la naissance présentent un risque réel de développer des complications oculaires tardives au fil des ans, imposant un suivi ophtalmologique prolongé. ",
+    "Page": 94,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 62,
+    "Question": "Vous voyez en consultation un couple dont la femme est enceinte. Son gynécologue vient de lui annoncer qu'elle avait probablement eu une toxoplasmose alors qu'elle était enceinte. Les parents ont de nombreuses questions, quelle affirmation est fausse ?",
+    "Proposition": "Comme la plupart des infections congénitales, le risque de transmission au foetus varie selon le moment de la grossesse, plus élevé au premier trimestre et moindre au 3e trimestre.",
+    "Reponse": false,
+    "Justification": "Cette proposition est fausse car le risque de transmission transplacentaire de la toxoplasmose augmente au fil de la grossesse, étant minimal au premier trimestre et maximal au troisième trimestre. ",
+    "Page": 94,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 63,
+    "Question": "Vous voyez en consultation un couple dont la femme est enceinte. Son gynécologue vient de lui annoncer qu'elle avait probablement eu une toxoplasmose alors qu'elle était enceinte. Les parents ont de nombreuses questions, quelle affirmation est fausse ?",
+    "Proposition": "Un traitement peut être donné à la mère.",
+    "Reponse": true,
+    "Justification": "Cette affirmation est vraie car l'administration d'un traitement médicamenteux à la mère permet de réduire le risque de transmission verticale et de limiter la sévérité des atteintes fœtales. ",
+    "Page": 94,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 64,
+    "Question": "Vous voyez en consultation un couple dont la femme est enceinte. Son gynécologue vient de lui annoncer qu'elle avait probablement eu une toxoplasmose alors qu'elle était enceinte. Les parents ont de nombreuses questions, quelle affirmation est fausse ?",
+    "Proposition": "Un traitement peut être donné au nouveau-né.",
+    "Reponse": true,
+    "Justification": "Cette proposition est correcte car les nouveau-nés pour lesquels l'infection congénitale est confirmée doivent recevoir un traitement antiparasitaire spécifique afin de limiter l'apparition ou la progression des lésions. ",
+    "Page": 94,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 65,
+    "Question": "Vous voyez en consultation un couple dont la femme est enceinte. Son gynécologue vient de lui annoncer qu'elle avait probablement eu une toxoplasmose alors qu'elle était enceinte. Les parents ont de nombreuses questions, quelle affirmation est fausse ?",
+    "Proposition": "Il est possible que l'enfant ne soit pas infecté.",
+    "Reponse": true,
+    "Justification": "Cette affirmation est exacte, le taux de transmission global de la toxoplasmose n'étant pas systématique lors d'une séroconversion maternelle, laissant une majorité d'enfants indemnes d'infection. ",
+    "Page": 94,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 66,
+    "Question": "Un patient de 72 ans, connu pour diabète de longue date et peu observant de son traitement, se présente aux urgences à la demande de l'infirmière à domicile qui passe chez lui une fois par semaine. Celle-ci a remarqué aujourd'hui une plaie importante au niveau de la plante de pied droite du patient. Celui-ci dit s'être blessé avec des chaussures mal ajustées, la plaie est présente depuis plusieurs semaines. A l'examen, vous avez un contact osseux lors de l'examen de la plaie, celle-ci est très sale. Le patient n'a par ailleurs pas de fièvre ni de signe systémique d'infection. Que faites-vous ?",
+    "Proposition": "Il s'agit probablement d'une ostéite aiguë au vu de l'histoire de la plaie, vous débutez un traitement empirique de l'ostéite couvrant Staphylococcus aureus après prélèvement d'hémocultures.",
+    "Reponse": false,
+    "Justification": "Cette attitude est inadaptée car il s'agit d'une ostéite chronique sur plaie diabétique et non d'une ostéite aiguë ; de plus, l'antibiothérapie empirique doit être proscrite avant la réalisation de prélèvements osseux profonds pour ne pas fausser les résultats microbiologiques. ",
+    "Page": 114,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 67,
+    "Question": "Un patient de 72 ans, connu pour diabète de longue date et peu observant de son traitement, se présente aux urgences à la demande de l'infirmière à domicile qui passe chez lui une fois par semaine. Celle-ci a remarqué aujourd'hui une plaie importante au niveau de la plante de pied droite du patient. Celui-ci dit s'être blessé avec des chaussures mal ajustées, la plaie est présente depuis plusieurs semaines. A l'examen, vous avez un contact osseux lors de l'examen de la plaie, celle-ci est très sale. Le patient n'a par ailleurs pas de fièvre ni de signe systémique d'infection. Que faites-vous ?",
+    "Proposition": "Vous nettoyez la plaie adéquatement et faites des frottis de celle-ci avant de débuter un traitement antibiotique adapté à la cellulite aiguë que vous diagnostiquez.",
+    "Reponse": false,
+    "Justification": "Le frottis de surface d'un mal perforant plantaire ne reflète que la flore colonisatrice superficielle et n'est pas fiable pour identifier les bactéries responsables d'une ostéite sous-jacente, ce qui contre-indique cette pratique. ",
+    "Page": 114,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 68,
+    "Question": "Un patient de 72 ans, connu pour diabète de longue date et peu observant de son traitement, se présente aux urgences à la demande de l'infirmière à domicile qui passe chez lui une fois par semaine. Celle-ci a remarqué aujourd'hui une plaie importante au niveau de la plante de pied droite du patient. Celui-ci dit s'être blessé avec des chaussures mal ajustées, la plaie est présente depuis plusieurs semaines. A l'examen, vous avez un contact osseux lors de l'examen de la plaie, celle-ci est très sale. Le patient n'a par ailleurs pas de fièvre ni de signe systémique d'infection. Que faites-vous ?",
+    "Proposition": "Il n'y a pas d'urgence à débuter un traitement chez ce patient, vous attendez la réalisation de prélèvements profonds avant de débuter un traitement de cette ostéite chronique.",
+    "Reponse": true,
+    "Justification": "En l'absence de signes de gravité systémique, il n'y a pas d'urgence thérapeutique et la prise en charge correcte impose d'attendre la réalisation de prélèvements osseux profonds avant d'initier un traitement adapté. ",
+    "Page": 115,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 69,
+    "Question": "Un patient de 72 ans, connu pour diabète de longue date et peu observant de son traitement, se présente aux urgences à la demande de l'infirmière à domicile qui passe chez lui une fois par semaine. Celle-ci a remarqué aujourd'hui une plaie importante au niveau de la plante de pied droite du patient. Celui-ci dit s'être blessé avec des chaussures mal ajustées, la plaie est présente depuis plusieurs semaines. A l'examen, vous avez un contact osseux lors de l'examen de la plaie, celle-ci est très sale. Le patient n'a par ailleurs pas de fièvre ni de signe systémique d'infection. Que faites-vous ?",
+    "Proposition": "Le patient est diabétique, facteurs de risque diminuant son immunité, vous débutez un traitement immédiatement après frottis de surface de cette ostéite chronique.",
+    "Reponse": false,
+    "Justification": "Le diabète ne justifie pas une antibiothérapie immédiate précipitée basée sur un frottis de surface, une ostéite chronique devant toujours être documentée de manière profonde avant traitement chez ces patients stables. ",
+    "Page": 114,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 70,
+    "Question": "Un patient de 72 ans, connu pour diabète de longue date et peu observant de son traitement, se présente aux urgences à la demande de l'infirmière à domicile qui passe chez lui une fois par semaine. Celle-ci a remarqué aujourd'hui une plaie importante au niveau de la plante de pied droite du patient. Celui-ci dit s'être blessé avec des chaussures mal ajustées, la plaie est présente depuis plusieurs semaines. A l'examen, vous avez un contact osseux lors de l'examen de la plaie, celle-ci est très sale. Le patient n'a par ailleurs pas de fièvre ni de signe systémique d'infection. Que faites-vous ?",
+    "Proposition": "Votre examen clinique vous permet d'exclure une infection de l'os qui semble sain, cependant étant donné le contact osseux à l'examen de la plaie, vous prescrivez un traitement prophylactique par antibiotique jusqu'à guérison de la plaie.",
+    "Reponse": false,
+    "Justification": "Le contact osseux est un signe clinique à forte valeur prédictive d'ostéite sous-jacente qui ne permet pas d'exclure une infection osseuse, et une prescription d'antibiotiques dits prophylactiques au long cours est inappropriée. ",
+    "Page": 115,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 71,
+    "Question": "Parmi les propositions suivantes, laquelle n'est pas utile dans la prévention des infections urinaires sur sonde urinaire ?",
+    "Proposition": "Le retrait de la sonde urinaire dès que possible.",
+    "Reponse": true,
+    "Justification": "Le retrait précoce de la sonde urinaire est l'action la plus efficace et prioritaire pour réduire l'incidence des infections urinaires nosocomiales sur sonde. ",
+    "Page": 10,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 72,
+    "Question": "Parmi les propositions suivantes, laquelle n'est pas utile dans la prévention des infections urinaires sur sonde urinaire ?",
+    "Proposition": "Eviter le sondage, le réserver à certaines indications médicalement justifiées.",
+    "Reponse": true,
+    "Justification": "Limiter le sondage vésical aux seules indications médicales strictes constitue le premier pilier de la prévention des infections urinaires liées aux cathéters. ",
+    "Page": 10,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 73,
+    "Question": "Parmi les propositions suivantes, laquelle n'est pas utile dans la prévention des infections urinaires sur sonde urinaire ?",
+    "Proposition": "Le respect d'un système clos.",
+    "Reponse": true,
+    "Justification": "Le maintien rigoureux d'un système de drainage urinaire clos et scellé limite l'entrée accidentelle de bactéries périnéales dans les voies urinaires et prévient l'infection. ",
+    "Page": 10,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 74,
+    "Question": "Parmi les propositions suivantes, laquelle n'est pas utile dans la prévention des infections urinaires sur sonde urinaire ?",
+    "Proposition": "Les cultures d'urines régulières pour vérifier la stérilité du système.",
+    "Reponse": false,
+    "Justification": "La réalisation systématique et régulière d'analyses d'urine en l'absence de symptômes cliniques est inutile et délétère, car les sondes à demeure se colonisent rapidement et cela expose au surtraitement injustifié de bactériuries asymptomatiques. ",
+    "Page": 10,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 75,
+    "Question": "Parmi les propositions suivantes, laquelle n'est pas utile dans la prévention des infections urinaires sur sonde urinaire ?",
+    "Proposition": "L'écoulement de l'urine toujours de la vessie vers l'extérieur, une attention doit être apportée à la position du collecteur en tout temps.",
+    "Reponse": true,
+    "Justification": "Positionner le sac collecteur en déclive pour assurer un écoulement unidirectionnel continu évite le reflux d'urine stagnante et colonisée de la poche vers la vessie du patient. ",
+    "Page": 10,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 76,
+    "Question": "Vous diagnostiquez une infection à Clostridium difficile chez un patient, quelle réponse est bonne ?",
+    "Proposition": "Le mécanisme initial vient d'un déséquilibre de la flore digestive causée, le plus souvent, par une antibiothérapie préalable.",
+    "Reponse": true,
+    "Justification": "La physiopathologie de la colite à Clostridium difficile repose sur une rupture de la barrière écologique du microbiote intestinal, le plus souvent induite par l'utilisation d'antibiotiques à large spectre. ",
+    "Page": 11,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 77,
+    "Question": "Vous diagnostiquez une infection à Clostridium difficile chez un patient, quelle réponse est bonne ?",
+    "Proposition": "Le diagnostic repose sur une analyse de laboratoire positive pour C. difficile, que les toxines soient présentes ou absentes (leur présence augmente le risque de transmission d'un patient à l'autre).",
+    "Reponse": false,
+    "Justification": "Le diagnostic d'une infection active repose obligatoirement sur la mise en évidence des toxines A ou B de la bactérie ou d'une souche toxinogène, car la seule présence de la bactérie sans toxine témoigne d'une simple colonisation. ",
+    "Page": 11,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 78,
+    "Question": "Vous diagnostiquez une infection à Clostridium difficile chez un patient, quelle réponse est bonne ?",
+    "Proposition": "Le diagnostic repose sur une analyse de laboratoire positive pour C. difficile avec présence de toxines, que le patient soit symptomatique ou pas.",
+    "Reponse": false,
+    "Justification": "Le diagnostic d'infection à Clostridium difficile est clinique et biologique, ce qui exclut formellement de la définition et du traitement les porteurs asymptomatiques de souches toxinogènes. ",
+    "Page": 12,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 79,
+    "Question": "Vous diagnostiquez une infection à Clostridium difficile chez un patient, quelle réponse est bonne ?",
+    "Proposition": "Une fois le patient traité, l'analyse de selles devra être contrôlée afin de s'assurer de la disparition du C. difficile (un re-traitement est nécessaire si le test reste positif).",
+    "Reponse": false,
+    "Justification": "Effectuer une recherche de contrôle après guérison clinique est proscrit, car les tests peuvent demeurer positifs en raison d'une colonisation résiduelle asymptomatique n'exigeant aucun traitement antibiotique supplémentaire. ",
+    "Page": 99,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 80,
+    "Question": "Vous diagnostiquez une infection à Clostridium difficile chez un patient, quelle réponse est bonne ?",
+    "Proposition": "Les colites à C. difficile sont particulièrement fréquentes chez les enfants de moins de 5 ans.",
+    "Reponse": false,
+    "Justification": "Les infections coliques symptomatiques à Clostridium difficile sont rares chez les jeunes enfants, car ces derniers sont fréquemment colonisés de manière asymptomatique, raison pour laquelle le dépistage n'y est pas recommandé en routine. ",
+    "Page": 12,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 81,
+    "Question": "Un patient de 65 ans se présente aux urgences pour céphalées et fièvre depuis le jour même. Il présente une raideur de nuque depuis quelques heures. Suite à une barrière linguistique, votre anamnèse est plutôt réduite. Vous avez cependant accès à un dossier médical récent indiquant qu'il n'a pas d'antécédent particulier, ni médicaux, ni chirurgicaux. Il n'a pas de signes neurologiques focaux et vous réalisez d'emblée une ponction lombaire qui montre un LCR légèrement trouble avec des globules blancs à 450/mm3, une glycorachie à 56mg/dl (glycémie à 110mg/dl) et une protéinorachie à 0,90 g/l. Quel traitement débutez-vous ?",
+    "Proposition": "Pas de traitement d'emblée, cause virale plus probable.",
+    "Reponse": false,
+    "Justification": "S'abstenir de traitement devant ce tableau clinique aigu de méningite fébrile chez un patient de soixante-cinq ans avec un liquide céphalo-rachidien altéré est une attitude dangereuse, l'urgence imposant une couverture antibiotique. ",
+    "Page": 33,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 82,
+    "Question": "Un patient de 65 ans se présente aux urgences pour céphalées et fièvre depuis le jour même. Il présente une raideur de nuque depuis quelques heures. Suite à une barrière linguistique, votre anamnèse est plutôt réduite. Vous avez cependant accès à un dossier médical récent indiquant qu'il n'a pas d'antécédent particulier, ni médicaux, ni chirurgicaux. Il n'a pas de signes neurologiques focaux et vous réalisez d'emblée une ponction lombaire qui montre un LCR légèrement trouble avec des globules blancs à 450/mm3, une glycorachie à 56mg/dl (glycémie à 110mg/dl) et une protéinorachie à 0,90 g/l. Quel traitement débutez-vous ?",
+    "Proposition": "Au vu de la rapidité de l'installation de la clinique, la tuberculose est hautement probable et doit être couverte par une antibiothérapie adéquate.",
+    "Reponse": false,
+    "Justification": "La méningite tuberculeuse présente typiquement une installation lente et progressive s'étendant sur plusieurs semaines, ce qui est incompatible avec cette symptomatologie d'apparition brutale le jour même. ",
+    "Page": 44,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 83,
+    "Question": "Un patient de 65 ans se présente aux urgences pour céphalées et fièvre depuis le jour même. Il présente une raideur de nuque depuis quelques heures. Suite à une barrière linguistique, votre anamnèse est plutôt réduite. Vous avez cependant accès à un dossier médical récent indiquant qu'il n'a pas d'antécédent particulier, ni médicaux, ni chirurgicaux. Il n'a pas de signes neurologiques focaux et vous réalisez d'emblée une ponction lombaire qui montre un LCR légèrement trouble avec des globules blancs à 450/mm3, une glycorachie à 56mg/dl (glycémie à 110mg/dl) et une protéinorachie à 0,90 g/l. Quel traitement débutez-vous ?",
+    "Proposition": "Ceftriaxone seule.",
+    "Reponse": false,
+    "Justification": "Une monothérapie par ceftriaxone est insuffisante car elle ne couvre pas Listeria monocytogenes, un pathogène fréquent chez les plus de cinquante ans, et omet l'administration conjointe de corticoïdes pour limiter l'inflammation méningée. ",
+    "Page": 43,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 84,
+    "Question": "Un patient de 65 ans se présente aux urgences pour céphalées et fièvre depuis le jour même. Il présente une raideur de nuque depuis quelques heures. Suite à une barrière linguistique, votre anamnèse est plutôt réduite. Vous avez cependant accès à un dossier médical récent indiquant qu'il n'a pas d'antécédent particulier, ni médicaux, ni chirurgicaux. Il n'a pas de signes neurologiques focaux et vous réalisez d'emblée une ponction lombaire qui montre un LCR légèrement trouble avec des globules blancs à 450/mm3, une glycorachie à 56mg/dl (glycémie à 110mg/dl) et une protéinorachie à 0,90 g/l. Quel traitement débutez-vous ?",
+    "Proposition": "Ceftriaxone + dexaméthasone.",
+    "Reponse": false,
+    "Justification": "Cette association est incomplète pour un patient de soixante-cinq ans car elle ne contient pas d'amoxicilline, molécule indispensable pour couvrir Listeria monocytogenes qui est naturellement résistante aux céphalosporines de troisième génération. ",
+    "Page": 44,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 85,
+    "Question": "Un patient de 65 ans se présente aux urgences pour céphalées et fièvre depuis le jour même. Il présente une raideur de nuque depuis quelques heures. Suite à une barrière linguistique, votre anamnèse est plutôt réduite. Vous avez cependant accès à un dossier médical récent indiquant qu'il n'a pas d'antécédent particulier, ni médicaux, ni chirurgicaux. Il n'a pas de signes neurologiques focaux et vous réalisez d'emblée une ponction lombaire qui montre un LCR légèrement trouble avec des globules blancs à 450/mm3, une glycorachie à 56mg/dl (glycémie à 110mg/dl) et une protéinorachie à 0,90 g/l. Quel traitement débutez-vous ?",
+    "Proposition": "Ceftriaxone + amoxicilline + dexaméthasone.",
+    "Reponse": true,
+    "Justification": "Il s'agit du traitement probabiliste de référence chez un patient de plus de cinquante ans, associant la ceftriaxone contre le pneumocoque et le méningocoque, l'amoxicilline pour couvrir Listeria monocytogenes, et la dexaméthasone pour limiter l'inflammation. ",
+    "Page": 43,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 86,
+    "Question": "La sinusite maxillaire (quelle réponse est fausse) :",
+    "Proposition": "Son diagnostic est clinique, basé sur les plaintes du patient et leur évolution.",
+    "Reponse": true,
+    "Justification": "Le diagnostic de la sinusite maxillaire aiguë est essentiellement clinique et repose sur l'anamnèse, l'évaluation des caractéristiques de la douleur faciale et l'évolution des symptômes. ",
+    "Page": 62,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 87,
+    "Question": "La sinusite maxillaire (quelle réponse est fausse) :",
+    "Proposition": "Le type de douleur est plutôt unilatéral.",
+    "Reponse": true,
+    "Justification": "La douleur de la sinusite maxillaire aiguë se caractérise classiquement par une projection douloureuse unilatérale, augmentant lors de la flexion antérieure de la tête ou à type de pulsations. ",
+    "Page": 63,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 88,
+    "Question": "La sinusite maxillaire (quelle réponse est fausse) :",
+    "Proposition": "Est marquée par une augmentation de la rhinorrhée/purulence de la rhinorrhée (unilatéral) après une infection virale des voies respiratoires supérieures.",
+    "Reponse": true,
+    "Justification": "Cette présentation est typique d'une surinfection bactérienne secondaire faisant suite à un épisode classique de rhinopharyngite virale des voies aériennes supérieures. ",
+    "Page": 63,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 89,
+    "Question": "La sinusite maxillaire (quelle réponse est fausse) :",
+    "Proposition": "Le diagnostic nécessite une confirmation par imagerie (scanner) afin de confirmer le diagnostic et d'exclure une complication.",
+    "Reponse": false,
+    "Justification": "Cette affirmation est fausse car l'imagerie par scanner n'est pas recommandée en routine pour une sinusite maxillaire aiguë non compliquée, le diagnostic restant strictement clinique contrairement aux sinusites non maxillaires. ",
+    "Page": 62,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 90,
+    "Question": "La sinusite maxillaire (quelle réponse est fausse) :",
+    "Proposition": "Peut compliquer une infection dentaire.",
+    "Reponse": true,
+    "Justification": "Environ dix pour cent des cas de sinusites maxillaires aiguës unilatérales ont pour origine un foyer infectieux dentaire de contiguïté. ",
+    "Page": 63,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 91,
+    "Question": "Lequel de ces effets secondaires n'est pas un effet secondaire des fluoroquinolones :",
+    "Proposition": "Hépatites",
+    "Reponse": true,
+    "Justification": "L'hépatite aiguë médicamenteuse est un effet indésirable connu et documenté des fluoroquinolones. ",
+    "Page": 24,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 92,
+    "Question": "Lequel de ces effets secondaires n'est pas un effet secondaire des fluoroquinolones :",
+    "Proposition": "Redman syndrome",
+    "Reponse": false,
+    "Justification": "Le syndrome de l'homme rouge ou red man syndrome est un effet indésirable lié à la perfusion trop rapide de vancomycine, un glycopeptide, et n'est pas associé aux fluoroquinolones. ",
+    "Page": 25,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 93,
+    "Question": "Lequel de ces effets secondaires n'est pas un effet secondaire des fluoroquinolones :",
+    "Proposition": "Phototoxicité",
+    "Reponse": true,
+    "Justification": "La phototoxicité cutanée avec risque de brûlure ou d'éruption après exposition solaire fait partie des effets indésirables connus des fluoroquinolones. ",
+    "Page": 24,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 94,
+    "Question": "Lequel de ces effets secondaires n'est pas un effet secondaire des fluoroquinolones :",
+    "Proposition": "Tendinopathie",
+    "Reponse": true,
+    "Justification": "Les tendinopathies, pouvant évoluer vers une rupture tendineuse, sont des complications caractéristiques de l'utilisation de fluoroquinolones. ",
+    "Page": 24,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 95,
+    "Question": "Lequel de ces effets secondaires n'est pas un effet secondaire des fluoroquinolones :",
+    "Proposition": "Allongement QT",
+    "Reponse": true,
+    "Justification": "L'allongement de l'intervalle QT avec risque d'arythmie cardiaque est un effet indésirable cardiovasculaire bien connu des fluoroquinolones. ",
+    "Page": 24,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 96,
+    "Question": "En cas de gastro-entérite aiguë, un traitement antibiotique ne sera pas instauré de manière systématique, mais il peut être indiqué (quelle proposition est fausse) :",
+    "Proposition": "En cas de syndrome de dysenterie (diarrhée avec fièvre, sang dans les selles et/ou altération importante de l'état général).",
+    "Reponse": true,
+    "Justification": "En cas de syndrome dysentérique franc, la prescription d'une antibiothérapie probabiliste est cliniquement recommandée pour réduire la durée des symptômes et le risque de complications. ",
+    "Page": 104,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 97,
+    "Question": "En cas de gastro-entérite aiguë, un traitement antibiotique ne sera pas instauré de manière systématique, mais il peut être indiqué (quelle proposition est fausse) :",
+    "Proposition": "Chez les patients immunodéprimés.",
+    "Reponse": true,
+    "Justification": "L'immunodépression constitue une indication classique à débuter rapidement une antibiothérapie curative lors d'une gastro-entérite aiguë afin d'éviter une dissémination bactériémique. ",
+    "Page": 104,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 98,
+    "Question": "En cas de gastro-entérite aiguë, un traitement antibiotique ne sera pas instauré de manière systématique, mais il peut être indiqué (quelle proposition est fausse) :",
+    "Proposition": "Chez les patients nécessitant une hospitalisation au vu de la sévérité de leurs symptômes.",
+    "Reponse": true,
+    "Justification": "Les formes sévères de gastro-entérite aiguë justifiant une hospitalisation sont une indication reconnue à l'instauration d'un traitement antibiotique. ",
+    "Page": 104,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 99,
+    "Question": "En cas de gastro-entérite aiguë, un traitement antibiotique ne sera pas instauré de manière systématique, mais il peut être indiqué (quelle proposition est fausse) :",
+    "Proposition": "Chez les patients non hospitalisés dont la coproculture montre Salmonella non Typhi.",
+    "Reponse": false,
+    "Justification": "L'antibiothérapie est généralement contre-indiquée chez les patients non hospitalisés en bonne santé infectés par Salmonella non Typhi, car elle n'apporte pas de bénéfice clinique et prolonge le portage de la bactérie dans les selles. ",
+    "Page": 104,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 100,
+    "Question": "En cas de gastro-entérite aiguë, un traitement antibiotique ne sera pas instauré de manière systématique, mais il peut être indiqué (quelle proposition est fausse) :",
+    "Proposition": "Chez les patients ayant une colite à Clostridium difficile.",
+    "Reponse": true,
+    "Justification": "Une colite pseudo-membraneuse ou une infection symptomatique à Clostridium difficile nécessite impérativement l'arrêt de l'antibiotique causal et l'initiation d'un traitement spécifique. ",
+    "Page": 11,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 101,
+    "Question": "Un patient au retour d'un voyage au Caire il y a 2 semaines se présente à votre consultation. Il présente depuis plusieurs jours des diarrhées et un inconfort digestif, il est ictérique. Ses tests hépatiques (GOT et GPT) sont très élevés (plus de 5 fois la norme). L'un de ses enfants (12 ans), qui se sont également rendu au Caire, présente des symptômes similaires. Le patient est né en Belgique et n'avait pas voyagé hors de l'Europe jusqu'à ce voyage. Il n'a pas été hospitalisé et n'a pas eu de rapport sexuel non protégé depuis plusieurs mois. Quel est votre diagnostic le plus probable ?",
+    "Proposition": "Hépatite A",
+    "Reponse": true,
+    "Justification": "La survenue d'un ictère fébrile avec une cytolyse hépatique importante et un cas familial similaire chez deux voyageurs de retour d'une zone d'endémie fécale-orale évoque au premier plan une hépatite A aiguë. ",
+    "Page": 106,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 102,
+    "Question": "Un patient au retour d'un voyage au Caire il y a 2 semaines se présente à votre consultation. Il présente depuis plusieurs jours des diarrhées et un inconfort digestif, il est ictérique. Ses tests hépatiques (GOT et GPT) sont très élevés (plus de 5 fois la norme). L'un de ses enfants (12 ans), qui se sont également rendu au Caire, présente des symptômes similaires. Le patient est né en Belgique et n'avait pas voyagé hors de l'Europe jusqu'à ce voyage. Il n'a pas été hospitalisé et n'a pas eu de rapport sexuel non protégé depuis plusieurs mois. Quel est votre diagnostic le plus probable ?",
+    "Proposition": "Hépatite B",
+    "Reponse": false,
+    "Justification": "Une transmission de l'hépatite B est improbable dans ce contexte de voyage familial en l'absence d'exposition sexuelle à risque ou de geste médical invasif documenté. ",
+    "Page": 106,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 103,
+    "Question": "Un patient au retour d'un voyage au Caire il y a 2 semaines se présente à votre consultation. Il présente depuis plusieurs jours des diarrhées et un inconfort digestif, il est ictérique. Ses tests hépatiques (GOT et GPT) sont très élevés (plus de 5 fois la norme). L'un de ses enfants (12 ans), qui se sont également rendu au Caire, présente des symptômes similaires. Le patient est né en Belgique et n'avait pas voyagé hors de l'Europe jusqu'à ce voyage. Il n'a pas été hospitalisé et n'a pas eu de rapport sexuel non protégé depuis plusieurs mois. Quel est votre diagnostic le plus probable ?",
+    "Proposition": "Hépatite C",
+    "Reponse": false,
+    "Justification": "L'hépatite C se transmet principalement par voie sanguine ou sexuelle dans des contextes spécifiques de pratiques à risque, rendant ce diagnostic hautement improbable pour cet épisode féco-oral familial. ",
+    "Page": 106,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 104,
+    "Question": "Un patient au retour d'un voyage au Caire il y a 2 semaines se présente à votre consultation. Il présente depuis several jours des diarrhées et un inconfort digestif, il est ictérique. Ses tests hépatiques (GOT et GPT) sont très élevés (plus de 5 fois la norme). L'un de ses enfants (12 ans), qui se sont également rendu au Caire, présente des symptômes similaires. Le patient est né en Belgique et n'avait pas voyagé hors de l'Europe jusqu'à ce voyage. Il n'a pas été hospitalisé et n'a pas eu de rapport sexuel non protégé depuis plusieurs mois. Quel est votre diagnostic le plus probable ?",
+    "Proposition": "Hépatite D",
+    "Reponse": false,
+    "Justification": "L'hépatite D nécessite obligatoirement la présence d'une infection concomitante ou préalable par le virus de l'hépatite B pour pouvoir se répliquer, ce qui n'est pas le cas chez ce patient. ",
+    "Page": 106,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 105,
+    "Question": "Un patient au retour d'un voyage au Caire il y a 2 semaines se présente à votre consultation. Il présente depuis plusieurs jours des diarrhées et un inconfort digestif, il est ictérique. Ses tests hépatiques (GOT et GPT) sont très élevés (plus de 5 fois la norme). L'un de ses enfants (12 ans), qui se sont également rendu au Caire, présente des symptômes similaires. Le patient est né en Belgique et n'avait pas voyagé hors de l'Europe jusqu'à ce voyage. Il n'a pas été hospitalisé et n'a pas eu de rapport sexuel non protégé depuis plusieurs mois. Quel est votre diagnostic le plus probable ?",
+    "Proposition": "Leptospirose",
+    "Reponse": false,
+    "Justification": "Si la leptospirose peut provoquer une atteinte hépato-rénale sévère, elle s'acquiert par contact direct avec de l'eau douce contaminée par l'urine de rongeurs et ne se transmet pas sous forme de foyer épidémique familial classique. ",
+    "Page": 107,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 106,
+    "Question": "Quelle infection n'est pas prévenue par la vaccination ?",
+    "Proposition": "Fièvre jaune",
+    "Reponse": true,
+    "Justification": "La fièvre jaune est une infection virale tropicale prévenue de manière extrêmement efficace par l'administration d'une dose unique de vaccin vivant atténué. ",
+    "Page": 141,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 107,
+    "Question": "Quelle infection n'est pas prévenue par la vaccination ?",
+    "Proposition": "Méningite C",
+    "Reponse": true,
+    "Justification": "Les infections invasives à méningocoque du sérogroupe C sont prévenues chez l'enfant par un vaccin conjugué efficace inclus dans le calendrier vaccinal de routine. ",
+    "Page": 129,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 108,
+    "Question": "Quelle infection n'est pas prévenue par la vaccination ?",
+    "Proposition": "Rougeole",
+    "Reponse": true,
+    "Justification": "La rougeole est une maladie virale hautement contagieuse efficacement prévenue par l'administration de deux doses du vaccin trivalent vivant atténué. ",
+    "Page": 132,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 109,
+    "Question": "Quelle infection n'est pas prévenue par la vaccination ?",
+    "Proposition": "Varicelle",
+    "Reponse": true,
+    "Justification": "Il existe un vaccin vivant atténué sûr et efficace permettant de prévenir la varicelle ainsi que ses complications infectieuses et neurologiques potentielles. ",
+    "Page": 133,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 110,
+    "Question": "Quelle infection n'est pas prévenue par la vaccination ?",
+    "Proposition": "Syphilis",
+    "Reponse": false,
+    "Justification": "Il n'existe actuellement aucun vaccin commercialisé ou disponible pour prévenir la syphilis, la prévention reponsant exclusivement sur l'usage du préservatif et le dépistage régulier des partenaires. ",
+    "Page": 84,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 111,
+    "Question": "Concernant les endocardites, quelle proposition est fausse :",
+    "Proposition": "Staphylocoque aureus est actuellement la première cause d'endocardite dans les pays à hauts revenus.",
+    "Reponse": true,
+    "Justification": "Cette affirmation est exacte, les modifications épidémiologiques et l'augmentation des gestes invasifs ayant hissé Staphylococcus aureus au premier rang des causes d'endocardite infectieuse. ",
+    "Page": 56,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 112,
+    "Question": "Concernant les endocardites, quelle proposition est fausse :",
+    "Proposition": "Une endocardite peut se présenter sous forme de troubles neurologiques aigus.",
+    "Reponse": true,
+    "Justification": "Cette proposition est correcte car un accident vasculaire cérébral ou d'autres manifestations neurologiques aiguës d'origine embolique peuvent révéler une endocardite infectieuse du cœur gauche. ",
+    "Page": 57,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 113,
+    "Question": "Concernant les endocardites, quelle proposition est fausse :",
+    "Proposition": "Les hémocultures doivent toujours être prélevées en cas de suspicion clinique.",
+    "Reponse": true,
+    "Justification": "La réalisation rigoureuse d'hémocultures multiples avant toute administration d'antibiotiques est indispensable pour confirmer l'endocardite et identifier le pathogène responsable. ",
+    "Page": 58,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 114,
+    "Question": "Concernant les endocardites, quelle proposition est fausse :",
+    "Proposition": "Une antibioprophylaxie secondaire doit être prescrite pour toute visite chez le dentiste.",
+    "Reponse": false,
+    "Justification": "Cette affirmation est fausse car l'antibioprophylaxie de l'endocardite est strictement réservée aux patients à très haut risque et uniquement pour les soins dentaires invasifs à haut risque de bactériémie. ",
+    "Page": 59,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 115,
+    "Question": "Concernant les endocardites, quelle proposition est fausse :",
+    "Proposition": "Le traitement antibiotique est souvent prolongé et intraveineux.",
+    "Reponse": true,
+    "Justification": "La guérison d'une endocardite requiert l'administration intraveineuse d'antibiotiques bactéricides à doses élevées sur une période prolongée allant généralement de quatre à six semaines. ",
+    "Page": 58,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 116,
+    "Question": "Laquelle de ces situations cliniques ne nécessite pas de traitement antibiotique d'emblée ?",
+    "Proposition": "La présence de >100 000 colonies d'E. coli dans les urines d'une femme enceinte.",
+    "Reponse": false,
+    "Justification": "La découverte d'une bactériurie significative à plus de cent mille colonies chez une femme enceinte, même asymptomatique, impose un traitement antibiotique pour prévenir la survenue d'une pyélonéphrite aiguë ou d'un accouchement prématuré. ",
+    "Page": 48,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 117,
+    "Question": "Laquelle de ces situations cliniques ne nécessite pas de traitement antibiotique d'emblée ?",
+    "Proposition": "Un frottis de gorge dont la culture est positive pour Streptococcus pyogenes.",
+    "Reponse": true,
+    "Justification": "Selon les recommandations belges, la mise en évidence de Streptococcus pyogenes par frottis de gorge chez un patient ne présentant pas de facteurs de risque spécifiques ne justifie pas l'instauration d'un traitement antibiotique d'emblée. ",
+    "Page": 64,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 118,
+    "Question": "Laquelle de ces situations cliniques ne nécessite pas de traitement antibiotique d'emblée ?",
+    "Proposition": "Une PCR gonocoque positive sur un prélèvement d'urines.",
+    "Reponse": false,
+    "Justification": "Une PCR positive pour Neisseria gonorrhoeae signe une infection sexuellement transmissible active qui impose d'emblée la prescription d'un traitement antibiotique ciblé afin de stopper la transmission. ",
+    "Page": 84,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 119,
+    "Question": "Laquelle de ces situations cliniques ne nécessite pas de traitement antibiotique d'emblée ?",
+    "Proposition": "Une culture de liquide céphalo-rachidien positive pour E. coli chez un enfant de 1 mois.",
+    "Reponse": false,
+    "Justification": "La présence d'Escherichia coli dans le liquide céphalo-rachidien d'un nourrisson d'un mois confirme une méningite bactérienne aiguë, une urgence vitale absolue exigeant l'instauration d'une antibiothérapie intraveineuse immédiate. ",
+    "Page": 43,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 120,
+    "Question": "Laquelle de ces situations cliniques ne nécessite pas de traitement antibiotique d'emblée ?",
+    "Proposition": "Une hémoculture positive à Staphylococcus aureus chez une patiente venant pour bilan de fièvre.",
+    "Reponse": false,
+    "Justification": "Toute hémoculture positive à Staphylococcus aureus est hautement significative d'une infection invasive et exige d'emblée l'instauration d'une antibiothérapie par voie parentérale pour prévenir les complications métastatiques et endocarditiques. ",
+    "Page": 35,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 121,
+    "Question": "Lequel de ces éléments est un élément en faveur d'un diagnostic d'infection urinaire chez le patient ?",
+    "Proposition": "800 globules blancs par champ dans un examen microscopique des urines chez une femme ayant des mictalgies.",
+    "Reponse": true,
+    "Justification": "La présence d'une leucocyturie massive lors de l'examen microscopique direct chez une patiente symptomatique est un argument biologique majeur en faveur d'une infection urinaire active. ",
+    "Page": 45,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 122,
+    "Question": "Lequel de ces éléments est un élément en faveur d'un diagnostic d'infection urinaire chez le patient ?",
+    "Proposition": "1000 colonies de Klebsiella pneumoniae dans la culture d'un mi-jet.",
+    "Reponse": false,
+    "Justification": "Un décompte de mille colonies seulement pour un prélèvement d'urine mi-jet est inférieur aux seuils de significativité microbiologique et oriente plutôt vers une simple contamination du prélèvement. ",
+    "Page": 45,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 123,
+    "Question": "Lequel de ces éléments est un élément en faveur d'un diagnostic d'infection urinaire chez le patient ?",
+    "Proposition": "Plus de 100 000 colonies d'E. coli dans une culture de mi-jet d'un homme sans plainte particulière.",
+    "Reponse": false,
+    "Justification": "Chez un homme totalement asymptomatique, la mise en évidence d'une bactériurie supérieure à cent mille colonies définit une bactériurie asymptomatique qui ne nécessite pas de traitement ni de diagnostic d'infection active. ",
+    "Page": 44,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 124,
+    "Question": "Lequel de ces éléments est un élément en faveur d'un diagnostic d'infection urinaire chez le patient ?",
+    "Proposition": "Plus de 100 000 colonies d'E. coli sur une culture d'urines par sac collé sur la peau d'un nourrisson de 2 mois de vie ayant de la fièvre.",
+    "Reponse": false,
+    "Justification": "Le prélèvement d'urine par sac collecteur chez le nourrisson présente un taux de contamination extrêmement élevé, rendant l'interprétation de la culture peu fiable pour affirmer le diagnostic d'infection urinaire. ",
+    "Page": 45,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 125,
+    "Question": "Lequel de ces éléments est un élément en faveur d'un diagnostic d'infection urinaire chez le patient ?",
+    "Proposition": "Plus de 100 000 colonies d'E. coli dans une culture d'urine prélevée par une sonde à demeure.",
+    "Reponse": false,
+    "Justification": "Les urines prélevées directement sur une sonde urinaire à demeure reflètent la colonisation bactérienne systématique du matériel, ce qui empêche de poser avec certitude le diagnostic d'infection urinaire vraie. ",
+    "Page": 45,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 126,
+    "Question": "Quel traitement empirique de premier choix est adapté, pour un patient d'origine belge venant de la communauté, sans antécédents médicaux particuliers, non colonisé par des germes résistants ?",
+    "Proposition": "Une pénicilline orale (Phénéticilline puisque Pen V orale n'est pas disponible en Belgique) chez un patient ayant une furonculose importante des membres inférieurs.",
+    "Reponse": false,
+    "Justification": "La furonculose est une infection causée par Staphylococcus aureus, qui produit majoritairement une pénicillinase rendant inefficaces les pénicillines simples comme la phénéticilline, imposant le recours à une pénicilline M. ",
+    "Page": 18,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 127,
+    "Question": "Quel traitement empirique de premier choix est adapté, pour un patient d'origine belge venant de la communauté, sans antécédents médicaux particuliers, non colonisé par des germes résistants ?",
+    "Proposition": "La nitrofurantoïne pour un patient ayant une infection urinaire avec fièvre et point costo-lombaire positif.",
+    "Reponse": false,
+    "Justification": "La nitrofurantoïne est un antiseptique urinaire qui ne diffuse pas de manière efficace dans le parenchyme rénal ou le sang, ce qui la contre-indique formellement dans le traitement d'une pyélonéphrite aiguë fébrile. ",
+    "Page": 48,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 128,
+    "Question": "Quel traitement empirique de premier choix est adapté, pour un patient d'origine belge venant de la communauté, sans antécédents médicaux particuliers, non colonisé par des germes résistants ?",
+    "Proposition": "Méropénem IV pour une pneumonie lobaire d'un patient devant être hospitalisé.",
+    "Reponse": false,
+    "Justification": "L'utilisation du méropénem en première intention pour une pneumonie franche lobaire aiguë communautaire constitue un mésusage écologique majeur, ce spectre ultra-large devant être préservé. ",
+    "Page": 19,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 129,
+    "Question": "Quel traitement empirique de premier choix est adapté, pour un patient d'origine belge venant de la communauté, sans antécédents médicaux particuliers, non colonisé par des germes résistants ?",
+    "Proposition": "Amoxicilline IV à haute dose pour une bactériémie à Staphylococcus aureus.",
+    "Reponse": false,
+    "Justification": "Plus de quatre-vingt-dix pour cent des souches de Staphylococcus aureus sécrètent une pénicillinase qui hydrolyse l'amoxicilline, rendant cette dernière inefficace pour traiter une bactériémie à staphylocoque. ",
+    "Page": 18,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 130,
+    "Question": "Quel traitement empirique de premier choix est adapté, pour un patient d'origine belge venant de la communauté, sans antécédents médicaux particuliers, non colonisé par des germes résistants ?",
+    "Proposition": "Ceftriaxone (+/- dexaméthasone) sans autre anti-microbien pour un patient de 40 ans hautement suspect de méningite bactérienne.",
+    "Reponse": true,
+    "Justification": "Chez un adulte de moins de cinquante ans sans antécédents, l'association empirique de ceftriaxone et de dexaméthasone constitue le premier choix pour couvrir efficacement le pneumocoque et le méningocoque sans requérir d'amoxicilline. ",
+    "Page": 43,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 131,
+    "Question": "Dans le diagnostic et la prise en charge de l'angine, quel élément est vrai ?",
+    "Proposition": "En cas d'angine, un frottis de gorge doit être réalisé pour rechercher Streptococcus pyogenes.",
+    "Reponse": false,
+    "Justification": "Selon les recommandations belges, la réalisation systématique d'un prélèvement de gorge ou d'un test rapide pour rechercher Streptococcus pyogenes n'est pas recommandée chez les patients sans facteurs de risque. ",
+    "Page": 64,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 132,
+    "Question": "Dans le diagnostic et la prise en charge de l'angine, quel élément est vrai ?",
+    "Proposition": "La première cause d'angine infectieuse est Streptococcus pyogenes.",
+    "Reponse": false,
+    "Justification": "L'immense majorité des cas d'angines aiguës est d'origine virale, Streptococcus pyogenes n'étant responsable que d'une minorité d'infections. ",
+    "Page": 64,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 133,
+    "Question": "Dans le diagnostic et la prise en charge de l'angine, quel élément est vrai ?",
+    "Proposition": "La présence de fièvre, l'absence de toux, des ganglions cervicaux antérieurs augmentés de volume et sensibles et un gonflement ou exsudat des amygdales sont des éléments cliniques en faveur d'une infection à Streptococcus pyogenes.",
+    "Reponse": true,
+    "Justification": "L'association clinique de la fièvre, de l'absence de toux, d'adénopathies cervicales antérieures sensibles et d'un exsudat amygdalien constitue un ensemble d'arguments évocateur d'une étiologie streptococcique. ",
+    "Page": 64,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 134,
+    "Question": "Dans le diagnostic et la prise en charge de l'angine, quel élément est vrai ?",
+    "Proposition": "En Belgique et en Europe, le risque de rhumatisme articulaire aigu reste élevé.",
+    "Reponse": false,
+    "Justification": "Le rhumatisme articulaire aigu a quasiment disparu dans les pays européens à haut niveau de vie, bien qu'il demeure un problème de santé publique majeur dans les pays à bas et moyens revenus. ",
+    "Page": 56,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 135,
+    "Question": "Dans le diagnostic et la prise en charge de l'angine, quel élément est vrai ?",
+    "Proposition": "Les antibiotiques n'ont pas d'effet sur la survenue d'un rhumatisme articulaire aigu.",
+    "Reponse": false,
+    "Justification": "L'antibiothérapie précoce de l'angine streptococcique conserve pour but principal la diminution significative du risque de survenue d'un rhumatisme articulaire aigu. ",
+    "Page": 64,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 136,
+    "Question": "Concernant la vaccination, quelle affirmation est vraie ?",
+    "Proposition": "Le vaccin contre rougeole, oreillons et rubéole a été associé à un risque majoré d'autisme grâce aux travaux d'Andrew Wakefield, le vaccin a depuis été modifié afin de diminuer ce risque.",
+    "Reponse": false,
+    "Justification": "Le lien allégué entre le vaccin RRO et l'autisme repose sur une étude entièrement frauduleuse dont l'auteur a été radié, de multiples études scientifiques de grande ampleur ayant réfuté toute association. ",
+    "Page": 132,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 137,
+    "Question": "Concernant la vaccination, quelle affirmation est vraie ?",
+    "Proposition": "Les vaccins contre l'hépatite B et le papillomavirus sont associés à une majoration du risque de sclérose en plaque, la balance bénéfice risque reste cependant en faveur de la vaccination.",
+    "Reponse": false,
+    "Justification": "Les données épidémiologiques rigoureuses de pharmacovigilance ont formellement démontré l'absence de lien de causalité entre ces vaccinations et le risque d'apparition d'une sclérose en plaques. ",
+    "Page": 136,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 138,
+    "Question": "Concernant la vaccination, quelle affirmation est vraie ?",
+    "Proposition": "La vaccination a le pouvoir de faire totalement disparaître certaines maladies, comme cela a été le cas pour la variole.",
+    "Reponse": true,
+    "Justification": "La mise en œuvre de campagnes mondiales de vaccination coordonnées a permis l'éradication complète et définitive de la variole, prouvant le pouvoir d'élimination globale d'un vaccin. ",
+    "Page": 127,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 139,
+    "Question": "Concernant la vaccination, quelle affirmation est vraie ?",
+    "Proposition": "La prévention des infections obtenues via la vaccination n'est qu'individuelle, les patients non vaccinés gardent un risque d'infection identique quel que soit le statut vaccinal de leur entourage.",
+    "Reponse": false,
+    "Justification": "La vaccination permet d'assurer une immunité de groupe protectrice pour les personnes non vaccinées ou fragiles de l'entourage en interrompant la chaîne de transmission d'un agent pathogène. ",
+    "Page": 127,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 140,
+    "Question": "Concernant la vaccination, quelle affirmation est vraie ?",
+    "Proposition": "Les vaccins contre le Covid ont eu des effets secondaires rares non prévus lors de leur utilisation à large échelle, ceci est dû à la rapidité avec laquelle ils ont été développés et aux étapes sautées vu le besoin rapide de vaccin dans le contexte de la pandémie mondiale.",
+    "Reponse": false,
+    "Justification": "Bien que des effets indésirables très rares aient émergé lors de l'utilisation à large échelle, le développement accéléré des vaccins contre la Covid-19 a rigoureusement respecté l'intégralité des phases cliniques réglementaires sans sauter d'étape. ",
+    "Page": 128,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 141,
+    "Question": "Un jeune patient de 35 ans, sans antécédent, vous consulte pour des symptômes de rhino-pharyngite depuis 3 jours. Son auscultation pulmonaire est normale et ses paramètres dans les normes. Il vous demande des antibiotiques pour accélérer la guérison. Quelle est votre attitude ?",
+    "Proposition": "Vous prescrivez de l'amoxicilline-clavulanate, les symptômes durent depuis plus de 48h c'est une indication de traitement antibiotique.",
+    "Reponse": false,
+    "Justification": "La rhinopharyngite aiguë est une affection d'origine virale bénigne et auto-résolutive pour laquelle l'antibiothérapie n'apporte aucun bénéfice clinique et expose inutilement aux effets secondaires. ",
+    "Page": 62,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 142,
+    "Question": "Un jeune patient de 35 ans, sans antécédent, vous consulte pour des symptômes de rhino-pharyngite depuis 3 jours. Son auscultation pulmonaire est normale et ses paramètres dans les normes. Il vous demande des antibiotiques pour accélérer la guérison. Quelle est votre attitude ?",
+    "Proposition": "Vous prescrivez de l'azithromycine, les symptômes durent depuis plus de 48h c'est une indication de traitement antibiotique.",
+    "Reponse": false,
+    "Justification": "Prescrire un macrolide comme l'azithromycine pour un simple rhume est inapproprié et contribue à l'émergence de résistances bactériennes sans accélérer la guérison de cette virose. ",
+    "Page": 62,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 143,
+    "Question": "Un jeune patient de 35 ans, sans antécédent, vous consulte pour des symptômes de rhino-pharyngite depuis 3 jours. Son auscultation pulmonaire est normale et ses paramètres dans les normes. Il vous demande des antibiotiques pour accélérer la guérison. Quelle est votre attitude ?",
+    "Proposition": "Vous faites une radiographie du thorax avant de décider si vous donnez ou pas les antibiotiques.",
+    "Reponse": false,
+    "Justification": "En l'absence de signes cliniques d'atteinte du parenchyme pulmonaire et avec une auscultation tout à fait normale, la réalisation d'une radiographie de thorax n'est pas indiquée. ",
+    "Page": 71,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 144,
+    "Question": "Un jeune patient de 35 ans, sans antécédent, vous consulte pour des symptômes de rhino-pharyngite depuis 3 jours. Son auscultation pulmonaire est normale et ses paramètres dans les normes. Il vous demande des antibiotiques pour accélérer la guérison. Quelle est votre attitude ?",
+    "Proposition": "Vous lui expliquez que sa symptomatologie est probablement causée par un virus et que les antibiotiques ne sont pas indiqués ici.",
+    "Reponse": true,
+    "Justification": "L'attitude médicale recommandée consiste à expliquer au patient la nature virale de son infection, l'inutilité des antibiotiques et à prescrire un traitement exclusivement symptomatique de confort. ",
+    "Page": 62,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 145,
+    "Question": "Un jeune patient de 35 ans, sans antécédent, vous consulte pour des symptômes de rhino-pharyngite depuis 3 jours. Son auscultation pulmonaire est normale et ses paramètres dans les normes. Il vous demande des antibiotiques pour accélérer la guérison. Quelle est votre attitude ?",
+    "Proposition": "Vous faites un scanner cervical pour exclure un abcès profond avant de décider si vous donnez ou pas les antibiotiques.",
+    "Reponse": false,
+    "Justification": "Réaliser un scanner cervical est un examen d'imagerie lourd et totalement injustifié devant un tableau classique et rassurant de rhinopharyngite aiguë. ",
+    "Page": 62,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 146,
+    "Question": "Un jeune homme a été mordu à la main par son chat, né en Belgique. Il se présente après 72 heures avec gonflement, rougeur et douleur au niveau de la face dorsale de la main. Quelle est votre attitude ?",
+    "Proposition": "Antibiothérapie par amoxicilline-clavulanate.",
+    "Reponse": true,
+    "Justification": "Une morsure de chat au niveau de la main se présentant avec des signes inflammatoires locaux patents à septante-deux heures correspond à une infection active nécessitant un traitement par amoxicilline-acide clavulanique pour couvrir Pasteurella et les anaérobies. ",
+    "Page": 120,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 147,
+    "Question": "Un jeune homme a été mordu à la main par son chat, né en Belgique. Il se présente après 72 heures avec gonflement, rougeur et douleur au niveau de la face dorsale de la main. Quelle est votre attitude ?",
+    "Proposition": "Désinfection locale et retour à la maison.",
+    "Reponse": false,
+    "Justification": "Une simple désinfection locale est insuffisante car les signes cliniques locaux indiquent une infection déjà établie dans les tissus profonds de la main, ce qui impose d'initier une antibiothérapie curative. ",
+    "Page": 120,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 148,
+    "Question": "Un jeune homme a été mordu à la main par son chat, né en Belgique. Il se présente après 72 heures avec gonflement, rougeur et douleur au niveau de la face dorsale de la main. Quelle est votre attitude ?",
+    "Proposition": "Antibiothérapie par fosfomycine.",
+    "Reponse": false,
+    "Justification": "La fosfomycine est un antibiotique principalement réservé au traitement des cystites aiguës non compliquées et n'a aucune place ni efficacité pour traiter une infection cutanée par morsure. ",
+    "Page": 52,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 149,
+    "Question": "Un jeune homme a été mordu à la main par son chat, né en Belgique. Il se présente après 72 heures avec gonflement, rougeur et douleur au niveau de la face dorsale de la main. Quelle est votre attitude ?",
+    "Proposition": "Antibiothérapie par clindamycine.",
+    "Reponse": false,
+    "Justification": "La clindamycine seule n'est pas recommandée car son spectre d'activité ne couvre pas de manière fiable Pasteurella, la principale bactérie pathogène inoculée par les morsures de chat. ",
+    "Page": 120,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  },
+  {
+    "Numero": 150,
+    "Question": "Un jeune homme a été mordu à la main par son chat, né en Belgique. Il se présente après 72 heures avec gonflement, rougeur et douleur au niveau de la face dorsale de la main. Quelle est votre attitude ?",
+    "Proposition": "Vaccination anti-rabique.",
+    "Reponse": false,
+    "Justification": "La rage étant éradiquée sur le territoire belge et l'animal étant né en Belgique, l'administration d'une prophylaxie antirabique post-exposition n'est pas indiquée dans cette situation. ",
+    "Page": 120,
+    "Reference": "",
+    "image": "media/annale 2/.png"
+  }
+]
