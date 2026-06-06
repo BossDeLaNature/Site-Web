@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Objectif : pathothotho</title>
+    <link class="jsbin" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
     <style>
         body { 
-            /* Même dégradé radial violet nuit que l'index */
             background: radial-gradient(circle at top, #4c1d95, #1e1b4b); 
             min-height: 100vh;
             color: white; 
@@ -17,7 +17,6 @@
         }
         .space { height: 20px; }
         .quiz-card { 
-            /* Carte effet verre givré sombre */
             background: rgba(255, 255, 255, 0.08) !important; 
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.15);
@@ -31,11 +30,14 @@
         .btn-group-custom { display: flex; gap: 8px; justify-content: center; margin-top: 15px; flex-wrap: wrap; }
         #justif-container { background: rgba(0,0,0,0.4); padding: 15px; border-radius: 10px; margin-top: 15px; display: none; border-left: 5px solid #2ecc71; }
         
-        /* Badge question violet lumineux */
         .badge-numero { font-size: 1.1rem; background: #a855f7; color: white; }
         
         #image-correction-container { display: none; text-align: center; background: rgba(0,0,0,0.2); padding: 10px; border-radius: 10px; }
         #image-correction { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+
+        /* Styles pour l'image d'énoncé facultative */
+        #enonce-image { max-width: 100%; max-height: 250px; border-radius: 8px; margin-top: 15px; display: none; box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
+        .question-context { font-size: 1.05rem; opacity: 0.9; font-weight: 500; border-bottom: 1px dashed rgba(255,255,255,0.2); padding-bottom: 10px; }
     </style>
 </head>
 <body>
@@ -65,7 +67,15 @@
                 </div>
 
                 <div id="quiz-content" class="text-center">
-                    <h3 id="proposition-text" class="mb-4" style="min-height: 100px;">Chargement...</h3>
+                    <!-- Contexte de la question -->
+                    <div id="question-text" class="mb-3 text-start question-context"></div>
+                    
+                    <!-- Proposition à juger (Vrai/Faux) -->
+                    <h3 id="proposition-text" class="mb-4" style="min-height: 60px;">Chargement...</h3>
+                    
+                    <!-- Image d'énoncé optionnelle -->
+                    <img id="enonce-image" alt="Illustration énoncé" onerror="this.style.display='none'">
+
                     <div class="btn-group-custom">
                         <button class="btn btn-success btn-lg px-4" onclick="handleResponse(true)">VRAI</button>
                         <button class="btn btn-danger btn-lg px-4" onclick="handleResponse(false)">FAUX</button>
@@ -115,9 +125,6 @@
 
 <script src="js/bootstrap.bundle.min.js"></script>
 <script>
-    // ==========================================
-    //  VARIABLES DE CONFIGURATION (A MODIFIER)
-    // ==========================================
     const CONFIG = {
         NOM_CHAPITRE: "Annale 3" 
     };
@@ -134,7 +141,9 @@
     let pdfDoc = null;
     let isMuted = false; 
 
+    const qTextEl = document.getElementById('question-text');
     const propEl = document.getElementById('proposition-text');
+    const enonceImgEl = document.getElementById('enonce-image');
     const qNumEl = document.getElementById('question-number');
     const qCounterEl = document.getElementById('question-counter'); 
     const feedbackEl = document.getElementById('feedback');
@@ -170,9 +179,19 @@
         currentIdx = idx;
         const q = quizData[idx];
         
-        propEl.textContent = q.Proposition;
-        qNumEl.textContent = `Question ${q.Numero}`;
+        // Affichage combiné Question + Proposition
+        qTextEl.textContent = q.Question ? q.Question : "";
+        propEl.textContent = q.Proposition ? q.Proposition : "";
         
+        // Gestion de l'image d'énoncé optionnelle
+        if (q.image && q.image.trim() !== "") {
+            enonceImgEl.src = q.image;
+            enonceImgEl.style.display = 'inline-block'; // Affiché par défaut, masqué par onerror si crash
+        } else {
+            enonceImgEl.style.display = 'none';
+        }
+
+        qNumEl.textContent = `Question ${q.Numero}`;
         qCounterEl.textContent = `${currentIdx + 1} / ${quizData.length}`;
         
         feedbackEl.innerHTML = '';
@@ -285,7 +304,8 @@
         quizData.forEach((q, i) => {
             let b = document.createElement('button');
             b.className = 'btn btn-outline-secondary w-100 mb-1 text-start';
-            b.textContent = `Q${q.Numero} (P.${q.Page || 'N/A'}): ${q.Proposition.substring(0, 35)}...`;
+            let mainText = q.Question ? q.Question : q.Proposition;
+            b.textContent = `Q${q.Numero} (P.${q.Page || 'N/A'}): ${mainText.substring(0, 35)}...`;
             b.onclick = () => { 
                 showQuestion(i); 
                 bootstrap.Modal.getInstance(document.getElementById('menuModal')).hide(); 
